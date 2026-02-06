@@ -1,41 +1,34 @@
-# 🏦 실시간 금융/은행권 뉴스 큐레이션
+# 📊 경제/금융 뉴스 트렌드 리포트
 
-> **최종 업데이트:** `2026-02-06 06:08:35` (KST)  
-> 본 페이지는 GitHub Actions를 통해 매일 자동으로 업데이트됩니다.
+> **업데이트:** `2026-02-06 06:10:05` (KST)  
+
+### 🔥 오늘의 핵심 키워드
+`#비트코인` `#금리` `#케이뱅크` `#사장님` `#확대`
 
 --- 
 
-### 🔍 '시중은행 금리' 관련 뉴스
-* **[정부 부동산 압박에…7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/003/0013750021?sid=101)** 
-  <small>📅 Thu, 05 Feb 2026</small>
-* **[케데헌 보러 온 방한객 덕에…시중현금 4년만에 최고 찍었다](https://n.news.naver.com/mnews/article/018/0006214012?sid=101)** 
-  <small>📅 Thu, 05 Feb 2026</small>
-* **[[포토] 7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/005/0001830575?sid=101)** 
-  <small>📅 Thu, 05 Feb 2026</small>
+### 🔍 '은행 금리' 섹션
+* [유럽중앙은행, 5회 연속 금리 동결… 예금금리 2.00%](https://n.news.naver.com/mnews/article/366/0001140886?sid=104)
+* [[속보] ECB 5연속 금리 동결…예금금리 연 2.00％ 유지](https://n.news.naver.com/mnews/article/009/0005633257?sid=101)
+* [정부 부동산 압박에…7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/003/0013750021?sid=101)
 
-### 🔍 '은행 DX' 관련 뉴스
-* **[[Who Is ?] 정상혁 신한은행 행장](https://www.businesspost.co.kr/BP?command=article_view&num=429236)** 
-  <small>📅 Thu, 05 Feb 2026</small>
-* **[신한은행, 공석된 ‘AX혁신 주도’ 조직장 선임 주목](https://www.fetv.co.kr/news/article.html?no=211826)** 
-  <small>📅 Wed, 04 Feb 2026</small>
-* **[한국상용인공지능소프트웨어협회, 우리은행과 공공·기관금융 AX 협력](https://n.news.naver.com/mnews/article/092/0002408392?sid=105)** 
-  <small>📅 Thu, 29 Jan 2026</small>
+### 🔍 '디지털 금융' 섹션
+* [비트코인 6만6천달러·9천만원대 추락…‘디지털 금’의 위기](https://n.news.naver.com/mnews/article/028/0002790277?sid=101)
+* [우리카드, ‘디지털자산 결제’ 인프라 구축 시동](https://n.news.naver.com/mnews/article/016/0002597164?sid=101)
+* [우리카드, '디지털자산 결제' 본격화…인프라 만든다](https://n.news.naver.com/mnews/article/277/0005718181?sid=101)
 
-### 🔍 '금융 보안' 관련 뉴스
-* **[이억원 금융위원장 "가계부채 관리기조 유지…자본시장 질서 확립"](https://n.news.naver.com/mnews/article/003/0013750762?sid=101)** 
-  <small>📅 Thu, 05 Feb 2026</small>
-* **[이억원 "금융개혁 3대 전환 속도…국민 체감 성과 내겠다"](https://n.news.naver.com/mnews/article/215/0001240704?sid=101)** 
-  <small>📅 Thu, 05 Feb 2026</small>
-* **[[금융위 업무보고] 금융 대전환 가속…국민성장펀드·저금리 대출 확대](https://n.news.naver.com/mnews/article/417/0001128384?sid=101)** 
-  <small>📅 Thu, 05 Feb 2026</small>
+### 🔍 '가상화폐' 섹션
+* [비트코인 6만6천달러까지 추락…"가상화폐 '서사의 위기'"](https://n.news.naver.com/mnews/article/001/0015888861?sid=104)
+* [비트코인 6.2만 달러까지 추락..."가상화폐의 위기"](https://n.news.naver.com/mnews/article/052/0002311116?sid=104)
+* [비트코인 ‘7만 달러’ 지지선 붕괴… 가상자산 급락에 시장은 ‘패닉’](https://n.news.naver.com/mnews/article/082/0001365967?sid=101)
 
-### 🔍 '한국은행 기준금리' 관련 뉴스
-* **[정부 부동산 압박에…7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/003/0013750021?sid=101)** 
-  <small>📅 Thu, 05 Feb 2026</small>
-* **[IBK기업은행 순이익 '역대 최대'…은행 별도기준 뒷걸음질](https://n.news.naver.com/mnews/article/648/0000044269?sid=101)** 
-  <small>📅 Thu, 05 Feb 2026</small>
-* **[계속 오르는 주담대 금리](https://n.news.naver.com/mnews/article/003/0013751595?sid=101)** 
-  <small>📅 Thu, 05 Feb 2026</small>
+### 🔍 '부동산 대출' 섹션
+* [이억원 “부동산대출 위험가중치 25% 추가 상향 검토”](https://n.news.naver.com/mnews/article/016/0002596672?sid=101)
+* [케이뱅크, '사장님 부동산담보대출' 대환 2금융권 확대](https://n.news.naver.com/mnews/article/003/0013742632?sid=101)
+* [케이뱅크 '사장님 부동산 담보대출' 갈아타기 2금융권까지 확대](https://n.news.naver.com/mnews/article/421/0008748184?sid=101)
 
----
-*제작: JiyeonKim017 / Powered by Naver Search API*
+### 🔍 '증시' 섹션
+* [공포지수, 미국발 증시 급락에 팬데믹 이후 최고치 급등](https://n.news.naver.com/mnews/article/001/0015889246?sid=101)
+* [뉴욕증시, 하락 마감…다시 강추위, 전날보다 10도 '뚝' [모닝브리핑]](https://n.news.naver.com/mnews/article/015/0005247677?sid=101)
+* [흔들리는 증시…공포지수 코로나 이후 최고](https://n.news.naver.com/mnews/article/215/0001240831?sid=101)
+
