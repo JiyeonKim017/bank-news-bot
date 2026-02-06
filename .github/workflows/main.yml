@@ -2,7 +2,7 @@ name: Bank News Automation
 
 on:
   schedule:
-    # 한국 시간 기준 09:00, 14:00, 17:00에 자동 실행됩니다.
+    # 한국 시간(KST) 기준 09:00, 14:00, 17:00에 자동 실행
     - cron: '0 0,5,8 * * *'
   workflow_dispatch:      # 수동 실행 버튼
 
@@ -31,5 +31,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Update Financial Dashboard (Scheduled)" || echo "No changes to commit"
+          git commit -m "Update Final Financial Dashboard with Learning Terms" || echo "No changes to commit"
           git push
