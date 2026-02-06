@@ -1,24 +1,41 @@
-# 🏦 실시간 은행권 뉴스 큐레이션
+# 🏦 실시간 금융/은행권 뉴스 큐레이션
 
-> **마지막 업데이트:** 2026-02-06 06:05:47 (KST)
+> **최종 업데이트:** `2026-02-06 06:08:35` (KST)  
+> 본 페이지는 GitHub Actions를 통해 매일 자동으로 업데이트됩니다.
 
-이 페이지는 GitHub Actions를 통해 정기적으로 업데이트됩니다.
+--- 
 
-## 🔍 '시중은행' 관련 뉴스
-* [정부 부동산 압박에…7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/003/0013750021?sid=101)
-* [IPO 앞둔 케이뱅크 "스테이블코인 주도적 참여…시중은행과 논의중"](https://n.news.naver.com/mnews/article/648/0000044262?sid=101)
-* [케데헌 보러 온 방한객 덕에…시중현금 4년만에 최고 찍었다](https://n.news.naver.com/mnews/article/018/0006214012?sid=101)
+### 🔍 '시중은행 금리' 관련 뉴스
+* **[정부 부동산 압박에…7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/003/0013750021?sid=101)** 
+  <small>📅 Thu, 05 Feb 2026</small>
+* **[케데헌 보러 온 방한객 덕에…시중현금 4년만에 최고 찍었다](https://n.news.naver.com/mnews/article/018/0006214012?sid=101)** 
+  <small>📅 Thu, 05 Feb 2026</small>
+* **[[포토] 7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/005/0001830575?sid=101)** 
+  <small>📅 Thu, 05 Feb 2026</small>
+
+### 🔍 '은행 DX' 관련 뉴스
+* **[[Who Is ?] 정상혁 신한은행 행장](https://www.businesspost.co.kr/BP?command=article_view&num=429236)** 
+  <small>📅 Thu, 05 Feb 2026</small>
+* **[신한은행, 공석된 ‘AX혁신 주도’ 조직장 선임 주목](https://www.fetv.co.kr/news/article.html?no=211826)** 
+  <small>📅 Wed, 04 Feb 2026</small>
+* **[한국상용인공지능소프트웨어협회, 우리은행과 공공·기관금융 AX 협력](https://n.news.naver.com/mnews/article/092/0002408392?sid=105)** 
+  <small>📅 Thu, 29 Jan 2026</small>
+
+### 🔍 '금융 보안' 관련 뉴스
+* **[이억원 금융위원장 "가계부채 관리기조 유지…자본시장 질서 확립"](https://n.news.naver.com/mnews/article/003/0013750762?sid=101)** 
+  <small>📅 Thu, 05 Feb 2026</small>
+* **[이억원 "금융개혁 3대 전환 속도…국민 체감 성과 내겠다"](https://n.news.naver.com/mnews/article/215/0001240704?sid=101)** 
+  <small>📅 Thu, 05 Feb 2026</small>
+* **[[금융위 업무보고] 금융 대전환 가속…국민성장펀드·저금리 대출 확대](https://n.news.naver.com/mnews/article/417/0001128384?sid=101)** 
+  <small>📅 Thu, 05 Feb 2026</small>
+
+### 🔍 '한국은행 기준금리' 관련 뉴스
+* **[정부 부동산 압박에…7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/003/0013750021?sid=101)** 
+  <small>📅 Thu, 05 Feb 2026</small>
+* **[IBK기업은행 순이익 '역대 최대'…은행 별도기준 뒷걸음질](https://n.news.naver.com/mnews/article/648/0000044269?sid=101)** 
+  <small>📅 Thu, 05 Feb 2026</small>
+* **[계속 오르는 주담대 금리](https://n.news.naver.com/mnews/article/003/0013751595?sid=101)** 
+  <small>📅 Thu, 05 Feb 2026</small>
 
 ---
-## 🔍 '금리 변동' 관련 뉴스
-* [BNK투자증권, 연 3.69% 신용대출 우대 금리 이벤트](https://n.news.naver.com/mnews/article/003/0013753662?sid=102)
-* [BNK투자증권, 연 3.69% 금리우대 이벤트…"투자기회 확대 기대"](https://n.news.naver.com/mnews/article/421/0008757658?sid=102)
-* [BNK투자증권, 신용·담보대출 금리 우대 이벤트 열어](https://n.news.naver.com/mnews/article/079/0004113130?sid=102)
-
----
-## 🔍 '은행 DX' 관련 뉴스
-* [[Who Is ?] 정상혁 신한은행 행장](https://www.businesspost.co.kr/BP?command=article_view&num=429236)
-* [신한은행, 공석된 ‘AX혁신 주도’ 조직장 선임 주목](https://www.fetv.co.kr/news/article.html?no=211826)
-* [한국상용인공지능소프트웨어협회, 우리은행과 공공·기관금융 AX 협력](https://n.news.naver.com/mnews/article/092/0002408392?sid=105)
-
----
+*제작: JiyeonKim017 / Powered by Naver Search API*
