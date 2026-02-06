@@ -25,14 +25,15 @@ ECON_TERMS = [
     {"term": "LTV (주택담보대출비율)", "desc": "집값 대비 대출 가능 금액의 비율이에요. LTV 60%라면 10억 집 담보로 최대 6억까지 빌릴 수 있다는 뜻이죠."},
     {"term": "인플레이션", "desc": "물가가 계속 오르고 돈의 가치가 떨어지는 현상이에요. 똑같은 돈으로 살 수 있는 물건이 줄어드는 상황을 말해요."},
     {"term": "코스피 (KOSPI)", "desc": "국내 대기업들의 주가 흐름을 종합한 지수예요. 한국 경제의 체온계라고도 불려요."},
-    {"term": "코스닥 (KOSDAQ)", "desc": "코스피보다 규모는 작지만 유망한 IT, 바이오 기업들이 모여 있는 시장이에요."},
     {"term": "환율", "desc": "우리나라 돈과 외국 돈의 교환 비율이에요. 환율이 오르면 외국 돈을 살 때 더 많은 우리 돈이 필요해져요."},
     {"term": "공매도", "desc": "주식을 빌려서 먼저 팔고, 나중에 주가가 떨어지면 싸게 사서 갚아 차익을 남기는 투자 기법이에요."},
     {"term": "GDP (국내총생산)", "desc": "우리나라 안에서 일정 기간 동안 만들어낸 모든 물건과 서비스의 가치를 합친 경제 규모 지표예요."},
     {"term": "디폴트", "desc": "빌린 돈을 제때 갚지 못하는 채무불이행 상태를 말해요."},
-    {"term": "베이비스텝 / 빅스텝", "desc": "금리를 0.25%p 올리면 베이비스텝, 0.5%p 한꺼번에 올리면 빅스텝이라고 해요."},
+    {"term": "베이비스텝 / 빅스텝", "desc": "금리를 0.25%p 올리면 베이비스텝, 0.5%p 한꺼번에 올리는 걸 '빅스텝'이라고 해요."},
     {"term": "스테그플레이션", "desc": "경기는 안 좋은데 물가만 계속 오르는 아주 힘든 경제 상황을 뜻해요."},
-    {"term": "양적완화", "desc": "국가가 시장에 돈을 직접 풀어 경기를 부양하는 정책이에요."}
+    {"term": "양적완화", "desc": "국가가 시장에 돈을 직접 풀어 경기를 부양하는 정책이에요."},
+    {"term": "기회비용", "desc": "어떤 하나를 선택했을 때 포기해야 하는 다른 선택지의 가치 중 가장 큰 것을 말해요."},
+    {"term": "낙수효과", "desc": "대기업이나 고소득층의 성과가 좋아지면 그 혜택이 아래로 흘러가 경제 전체가 좋아진다는 이론이에요."}
 ]
 
 def get_financial_indicators():
@@ -46,7 +47,6 @@ def get_financial_indicators():
         return "확인 중", "확인 중"
 
 def get_integrated_news():
-    # 검색 범위를 넓히기 위해 '금융'으로 검색 후 최신순 100개 수집
     url = "https://openapi.naver.com/v1/search/news.json?query=금융&display=100&sort=date"
     headers = {"X-Naver-Client-Id": CLIENT_ID, "X-Naver-Client-Secret": CLIENT_SECRET}
     res = requests.get(url, headers=headers)
@@ -55,7 +55,6 @@ def get_integrated_news():
 def main():
     now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
-    # 1. 지표 및 뉴스 수집
     rate, kospi = get_financial_indicators()
     raw_items = get_integrated_news()
     
@@ -74,23 +73,20 @@ def main():
                 all_titles.append(title)
                 unique_titles.add(title)
 
-    # 2. 오늘의 단어 무작위 선정
     today_term = random.choice(ECON_TERMS)
 
-    # 3. AI 트렌드 키워드 분석
     words = []
-    stopwords = ['금융', '은행', '뉴스', '오늘', '출시', '개최', '제공']
+    stopwords = ['금융', '은행', '뉴스', '오늘', '출시', '개최', '제공', '연속', '상반기', '하반기']
     for t in all_titles:
         clean = re.sub(r'[^가-힣\s]', '', t)
         words.extend([w for w in clean.split() if len(w) >= 2 and w not in stopwords])
     trends = [f"`#{tag}`" for tag, _ in Counter(words).most_common(6)]
 
-    # 4. 뉴스 테이블 구성
+    # ❗ 오타 수정된 부분: 변수명을 news_table로 통일합니다.
     news_table = "| 날짜 | 언론사 | 뉴스 헤드라인 |\n| :--- | :--- | :--- |\n"
     for n in filtered_news[:12]:
         news_table += f"| {n['date']} | {n['media']} | [{n['title']}]({n['link']}) |\n"
 
-    # 5. README 조립
     readme_content = f"""# 🏦 실시간 금융/경제 종합 브리핑
 
 > **마지막 업데이트:** `{now}` (KST)  
@@ -100,7 +96,6 @@ def main():
 
 ### 📖 오늘의 경제 한마디
 > **{today_term['term']}**: {today_term['desc']}
-> *지연님의 경제 공부를 위해 매 업데이트마다 새로운 단어를 선정합니다.*
 
 ---
 
@@ -118,7 +113,7 @@ def main():
 ---
 
 ### 📰 주요 경제지 실시간 헤드라인 (TOP 12)
-{news_section if 'news_section' in locals() else news_table}
+{news_table}
 
 ---
 *제작: JiyeonKim017 / 2026 금융 프로젝트*
