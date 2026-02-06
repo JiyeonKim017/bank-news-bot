@@ -1,46 +1,56 @@
-# 🏦 금융권 뉴스 트렌드 & 지표 대시보드
+# 🏦 금융 뉴스 트렌드 대시보드
 
-> **마지막 업데이트:** `2026-02-06 06:14:34` (KST)  
+> **업데이트:** `2026-02-06 06:18:28` (KST)  
 > 본 리포트는 실시간 금융 데이터를 분석하여 자동으로 생성됩니다.
+
+---
+
+### 🔥 오늘의 핵심 키워드
+`#코스피` `#금리문턱` `#낮긴` `#한데사업자` `#대출`
 
 ---
 
 ### 📈 주요 경제 지표
 | 지표명 | 현재가 | 변동 |
 | :--- | :---: | :---: |
-| **USD/KRW 환율** | 1,342.50원 | ▲ 1.5 |
-| **코스피 지수** | 2,590.30 | ▲ 5.12 |
+| **USD/KRW 환율** | 1,469.08원 | ▲ 8.97 |
+| **코스피 지수** | 5,079.31 | - |
 
 ---
 
-### 🔥 오늘의 금융권 분위기
-> **종합 의견:** `보합 ➖`
-> 특별한 방향성 없이 평이한 흐름을 보이고 있습니다.
+### 💡 오늘의 시장 분위기
+> **종합 의견:** `보합 ➖`  
+> 평이한 흐름을 유지하고 있습니다.
 
 ---
 
-### 📰 실시간 뉴스 큐레이션 (주요 경제지 중심)
-
+### 📰 섹션별 실시간 뉴스 (최신순)
 #### 🔍 '시중은행 금리' 섹션
-| 날짜 | 뉴스 제목 |
-| :--- | :--- |
-| 05 Feb 2026 | [정부 부동산 압박에…7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/003/0013750021?sid=101) |
-| 05 Feb 2026 | [케데헌 보러 온 방한객 덕에…시중현금 4년만에 최고 찍었다](https://n.news.naver.com/mnews/article/018/0006214012?sid=101) |
-| 05 Feb 2026 | [[포토] 7% 향하는 주담대 금리](https://n.news.naver.com/mnews/article/005/0001830575?sid=101) |
+| 날짜 | 언론사 | 뉴스 제목 |
+| :--- | :--- | :--- |
+| 06 Feb 2026 | 뉴스원 | [“금리·문턱 낮긴 한데”…사업자 대출, 안전할까](https://n.news.naver.com/mnews/article/009/0005633592?sid=101) |
+| 06 Feb 2026 | 뉴스원 | [가평군, 소상공인에 30억원 규모 특례보증](https://gg.newdaily.co.kr/site/data/html/2026/02/06/2026020600224.html) |
+| 06 Feb 2026 | 뉴스원 | [새마을금고 'PF 정리' 속도…한달 새 15곳 매각](https://www.newswhoplus.com/news/articleView.html?idxno=53708) |
+| 06 Feb 2026 | 뉴스원 | [가평군, "내 집 마련 꿈, 연 2%대 저리로"... 농촌주택 개량사업 '통 큰...](http://www.breaknews.com/1183083) |
+| 06 Feb 2026 | 뉴스원 | ['문재인식 간보기 없다' 이재명식 부동산 어떻게 다를까](https://www.mhj21.com/news/articleView.html?idxno=250330) |
 
 #### 🔍 '은행 DX' 섹션
-| 날짜 | 뉴스 제목 |
-| :--- | :--- |
-| 05 Feb 2026 | [[Who Is ?] 정상혁 신한은행 행장](https://www.businesspost.co.kr/BP?command=article_view&num=429236) |
-| 04 Feb 2026 | [신한은행, 공석된 ‘AX혁신 주도’ 조직장 선임 주목](https://www.fetv.co.kr/news/article.html?no=211826) |
-| 29 Jan 2026 | [한국상용인공지능소프트웨어협회, 우리은행과 공공·기관금융 AX 협력](https://n.news.naver.com/mnews/article/092/0002408392?sid=105) |
+| 날짜 | 언론사 | 뉴스 제목 |
+| :--- | :--- | :--- |
+| 06 Feb 2026 | 뉴스원 | [네이버 엔터프라이즈 부문, 일회성 요인 걷으니 매출 17%↑…글로벌 영...](https://n.news.naver.com/mnews/article/092/0002409584?sid=105) |
+| 06 Feb 2026 | 뉴스원 | [중기중앙회, 김민석 총리 만나 '모두의 성장' 뜻 모았다](http://www.kbiznews.co.kr/news/articleView.html?idxno=113421) |
+| 05 Feb 2026 | 뉴스원 | [[더벨][News Briefing] 산업은행 "HMM 신속한 매각 추진 필요"](https://www.thebell.co.kr/free/content/ArticleView.asp?key=202602031852359600105488) |
+| 05 Feb 2026 | 뉴스원 | [[코스피 지수선물 옵션] 삼성전자·SK하이닉스 선물 급락... 지수 상단 막...](https://www.pinpointnews.co.kr/news/articleView.html?idxno=426172) |
+| 05 Feb 2026 | 뉴스원 | [스톤브릿지벤처스, 노타 7배 '잭팟'...잔여 지분 전량 엑시트 시동](https://www.newstopkorea.com/news/articleView.html?idxno=43027) |
 
-#### 🔍 '디지털 금융' 섹션
-| 날짜 | 뉴스 제목 |
-| :--- | :--- |
-| 06 Feb 2026 | [비트코인 6만6천달러·9천만원대 추락…‘디지털 금’의 위기](https://n.news.naver.com/mnews/article/028/0002790277?sid=101) |
-| 06 Feb 2026 | [우리카드, ‘디지털자산 결제’ 인프라 구축 시동](https://n.news.naver.com/mnews/article/016/0002597164?sid=101) |
-| 06 Feb 2026 | [우리카드, '디지털자산 결제' 본격화…인프라 만든다](https://n.news.naver.com/mnews/article/277/0005718181?sid=101) |
+#### 🔍 '가계대출 규제' 섹션
+| 날짜 | 언론사 | 뉴스 제목 |
+| :--- | :--- | :--- |
+| 06 Feb 2026 | 뉴스원 | [“금리·문턱 낮긴 한데”…사업자 대출, 안전할까](https://n.news.naver.com/mnews/article/009/0005633592?sid=101) |
+| 06 Feb 2026 | 뉴스원 | [카카오뱅크, 역대 최대 실적 냈지만 성장세는 '急둔화'...해법은 있나?](https://www.greened.kr/news/articleView.html?idxno=336669) |
+| 06 Feb 2026 | 뉴스원 | [케이뱅크, IPO 삼수... 주주환원 예고하며 코스피 상장 승부수](http://www.newslock.co.kr/news/articleView.html?idxno=124721) |
+| 06 Feb 2026 | 뉴스원 | [케이뱅크, 코스피 재도전 나서··· "외형 아닌 수익 구조 달라졌다"](http://www.finomy.com/news/articleView.html?idxno=249175) |
+| 06 Feb 2026 | 뉴스원 | [KB금융, 역대 최대실적으로 리딩금융 차지하고 강력한 주주환원정책 펼...](http://www.techholic.co.kr/news/articleView.html?idxno=219898) |
 
 
 
