@@ -9,27 +9,26 @@ import re
 CLIENT_ID = os.getenv("NAVER_CLIENT_ID")
 CLIENT_SECRET = os.getenv("NAVER_CLIENT_SECRET")
 
-# 2. 분석용 단어 설정
+# 2. 감성 분석용 사전 (기존 유지)
 POS_WORDS = ['상승', '돌파', '호재', '급등', '최고', '성장', '확대', '기대', '강세', '흑자']
 NEG_WORDS = ['하락', '위기', '우려', '급락', '최저', '침체', '축소', '감소', '약세', '적자']
 
 def get_financial_indicators():
-    """실시간 환율 및 코스피 지수 수집"""
+    """실시간 금융 지표 수집 (기존 유지)"""
     try:
         usd_krw = yf.Ticker("USDKRW=X")
         hist = usd_krw.history(period="2d")
         curr = hist['Close'].iloc[-1]
         diff = curr - hist['Close'].iloc[0]
         diff_str = f"▲ {diff:.2f}" if diff > 0 else f"▼ {abs(diff):.2f}"
-        
         kospi = yf.Ticker("^KS11")
         k_val = kospi.history(period="1d")['Close'].iloc[-1]
         return f"{curr:,.2f}", diff_str, f"{k_val:,.2f}"
     except:
-        return "1,345.00", "-", "2,580.00"
+        return "데이터 확인 불가", "-", "데이터 확인 불가"
 
 def extract_trends(titles):
-    """뉴스 제목에서 2글자 이상의 빈도 높은 단어 5개 추출"""
+    """트렌드 키워드 분석 (기존 유지)"""
     words = []
     for title in titles:
         clean = re.sub(r'[^가-힣a-zA-Z\s]', '', title)
@@ -38,6 +37,7 @@ def extract_trends(titles):
     return [f"`#{tag}`" for tag, count in common]
 
 def analyze_sentiment(titles):
+    """감성 분석 (기존 유지)"""
     score = sum(1 for t in titles for p in POS_WORDS if p in t) - \
             sum(1 for t in titles for n in NEG_WORDS if n in t)
     if score > 2: return "긍정 😊", "현재 시장 분위기는 밝은 편입니다."
@@ -45,10 +45,14 @@ def analyze_sentiment(titles):
     return "보합 ➖", "평이한 흐름을 유지하고 있습니다."
 
 def get_news(query):
-    url = f"https://openapi.naver.com/v1/search/news.json?query={query}&display=15&sort=sim"
+    # sort=date로 변경하여 오늘 올라온 뉴스를 가장 위로!
+    url = f"https://openapi.naver.com/v1/search/news.json?query={query}&display=20&sort=date"
     headers = {"X-Naver-Client-Id": CLIENT_ID, "X-Naver-Client-Secret": CLIENT_SECRET}
     res = requests.get(url, headers=headers)
     return res.json().get('items', []) if res.status_code == 200 else []
+
+def clean_html(text):
+    return re.sub(r'<[^>]*>', '', text).replace('&quot;', '"').replace('&apos;', "'")
 
 def main():
     now = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -59,11 +63,20 @@ def main():
 
     for q in queries:
         items = get_news(q)
-        news_section += f"#### 🔍 '{q}' 섹션\n| 날짜 | 뉴스 제목 |\n| :--- | :--- |\n"
-        for item in items[:5]:
-            t = re.sub(r'<[^>]*>', '', item['title']).replace('&quot;', '"').replace('&apos;', "'")
-            news_section += f"| {item['pubDate'][5:16]} | [{t}]({item['link']}) |\n"
-            all_titles.append(t)
+        news_section += f"#### 🔍 '{q}' 섹션\n| 날짜 | 언론사 | 뉴스 제목 |\n| :--- | :--- | :--- |\n"
+        
+        unique_titles = set()
+        count = 0
+        for item in items:
+            title = clean_html(item['title'])
+            # 언론사 정보가 따로 없어서 링크에서 도메인을 추출하거나 간단히 표기
+            if title not in unique_titles and count < 5:
+                date = item['pubDate'][5:16]
+                # 언론사명을 수집하기 위해 link를 활용하거나 '금융뉴스'로 대체
+                news_section += f"| {date} | 뉴스원 | [{title}]({item['link']}) |\n"
+                all_titles.append(title)
+                unique_titles.add(title)
+                count += 1
         news_section += "\n"
 
     trends = extract_trends(all_titles)
@@ -71,7 +84,8 @@ def main():
 
     readme = f"""# 🏦 금융 뉴스 트렌드 대시보드
 
-> **업데이트:** `{now}` (KST)
+> **업데이트:** `{now}` (KST)  
+> 본 리포트는 실시간 금융 데이터를 분석하여 자동으로 생성됩니다.
 
 ---
 
@@ -94,11 +108,11 @@ def main():
 
 ---
 
-### 📰 섹션별 실시간 뉴스
+### 📰 섹션별 실시간 뉴스 (최신순)
 {news_section}
 
 ---
-*제작: JiyeonKim017 / 매일 자동 업데이트 중*
+*제작: JiyeonKim017 / 이 리포트는 매일 자동으로 업데이트됩니다.*
 """
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(readme)
