@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-02-19 05:54:31` (KST)
+> **업데이트:** `2026-02-19 08:36:11` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#최윤범` `#회장` `#핵심광물` `#뮤지컬` `#보니` `#클라이드`
+`#김동연` `#매년` `#황금알포천시` `#과천` `#경마장` `#구성`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,450.40원 |
-| **코스피 지수** | 5,667.01 |
+| **USD/KRW 환율** | 1,444.87원 |
+| **코스피 지수** | 5,677.25 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 19 Feb 2026 | 매일경제 | [[Musical] 뮤지컬 ‘보니 앤 클라이드Bonnie and Clyde’…“우리에게, 내...](https://n.news.naver.com/mnews/article/057/0001935923?sid=103) |
-| 19 Feb 2026 | 헤럴드경제 | [강남 아파트 민원에 멈춘 ‘수광선’…수서역 환승센터 복합개발 흔들](https://n.news.naver.com/mnews/article/016/0002602256?sid=101) |
-| 19 Feb 2026 | 뉴스1 | ["전두환 회고록 '5·18 왜곡' 판결로 헬기사격·장갑차 사망 확인"](https://n.news.naver.com/mnews/article/421/0008781051?sid=102) |
-| 19 Feb 2026 | 이데일리 | [최윤범 회장, IEA서 "핵심광물 특정국 비중 높아…협력 필요"](https://n.news.naver.com/mnews/article/018/0006220867?sid=101) |
-| 19 Feb 2026 | 조세일보 | [이 대통령 "망국적 부동산 공화국 극복…지속 성장·발전하는 경제 만들...](https://n.news.naver.com/mnews/article/123/0002378015?sid=100) |
-| 19 Feb 2026 | 뉴시스 | [최윤범 고려아연 회장, IEA 핵심광물 세션 의장직 수행…공급망 다변화...](https://n.news.naver.com/mnews/article/003/0013775988?sid=101) |
-| 19 Feb 2026 | 머니투데이 | [정부 '유감' 표명에 즉각 반응했지만...'적대적 두 국가론' 강조한 北](https://n.news.naver.com/mnews/article/008/0005319603?sid=100) |
-| 19 Feb 2026 | 한국경제 | ['오마하의 현인' 워런 버핏, '5100억' 베팅한 마지막 기업은](https://n.news.naver.com/mnews/article/015/0005252401?sid=101) |
-| 19 Feb 2026 | 헤럴드경제 | [토요일까지 포근한 날씨…일요일 비 소식 후 쌀쌀 [세상&amp;]](https://n.news.naver.com/mnews/article/016/0002602254?sid=102) |
-| 19 Feb 2026 | 연합뉴스 | [귀금속 제조 스태리그룹, 익산에 102억원 투자](https://n.news.naver.com/mnews/article/001/0015912068?sid=102) |
-| 19 Feb 2026 | 이데일리 | [“핵융합 심장 잡는다”…정부, 2035년까지 초전도체 기술 자립 선언](https://n.news.naver.com/mnews/article/018/0006220861?sid=105) |
-| 19 Feb 2026 | 뉴시스 | [KAIST 혁신 디지털 의과학원 첫 삽…"바이오 생태계 중심"](https://n.news.naver.com/mnews/article/003/0013775982?sid=102) |
+| 19 Feb 2026 | 서울경제 | [매년 500억 ‘황금알’…포천시, 과천 경마장 TF 구성 등 유치 총력전](https://n.news.naver.com/mnews/article/011/0004591433?sid=102) |
+| 19 Feb 2026 | 서울경제 | [송영길 “한동훈 반드시 책임 묻겠다”…계양을 출마 시동](https://n.news.naver.com/mnews/article/011/0004591431?sid=102) |
+| 19 Feb 2026 | 뉴스1 | ["라면축제 성공을"…원주시·강원도경제진흥원·삼양식품 '맞손'](https://n.news.naver.com/mnews/article/421/0008781593?sid=102) |
+| 19 Feb 2026 | 뉴스1 | [전 국방부 인사실장 "장교 출신 구분 없이 공무원 수준 신분 보장해야"](https://n.news.naver.com/mnews/article/421/0008781590?sid=100) |
+| 19 Feb 2026 | 매일경제 | ["英·유럽 사모시장 매력적"](https://n.news.naver.com/mnews/article/009/0005638998?sid=101) |
+| 19 Feb 2026 | 연합뉴스 | [김동연, 尹 무기징역에 "첫 심판일 뿐…내란세력 발본색원해야"](https://n.news.naver.com/mnews/article/001/0015912689?sid=100) |
+| 19 Feb 2026 | 매일경제 | [車 전장 부품 강자…2030년 5.4조 수주 도전](https://n.news.naver.com/mnews/article/009/0005638994?sid=101) |
+| 19 Feb 2026 | 헤럴드경제 | [한미약품, 흑색종 신약 ‘벨바라페닙’ 임상 2상 본격 투약](https://n.news.naver.com/mnews/article/016/0002602342?sid=101) |
+| 19 Feb 2026 | 이데일리 | [황희찬 소속사, 차량 의전 업체 고소... "악의적 보복"](https://n.news.naver.com/mnews/article/018/0006221015?sid=102) |
+| 19 Feb 2026 | 머니투데이 | [김동연, 尹 '내란죄' 무기징역 선고에… "내란 세력 완전히 심판 못 해"](https://n.news.naver.com/mnews/article/008/0005319742?sid=102) |
+| 19 Feb 2026 | 아시아경제 | [재경부, 2월 국고채 5000억 '모집방식 비경쟁 인수'로 발행](https://n.news.naver.com/mnews/article/277/0005723294?sid=101) |
+| 19 Feb 2026 | 한국경제 | [조성진이 말했다 "선생님이 조율하면 音에서 빛이 나요"](https://n.news.naver.com/mnews/article/015/0005252576?sid=103) |
 
 
 ---
