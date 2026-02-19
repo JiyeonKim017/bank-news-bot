@@ -1,36 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-02-19 01:29:06` (KST)
+> **업데이트:** `2026-02-19 05:54:31` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대미투자` `#프로젝트` `#원자로` `#건설` `#금융` `#지역균형`
+`#최윤범` `#회장` `#핵심광물` `#뮤지컬` `#보니` `#클라이드`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,450.88원 |
-| **코스피 지수** | 5,656.23 |
+| **USD/KRW 환율** | 1,450.40원 |
+| **코스피 지수** | 5,667.01 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 19 Feb 2026 | 이데일리 | [KB금융, 5극 3특 지역균형 전략 연계한 1조 펀드 결성](https://n.news.naver.com/mnews/article/018/0006220689?sid=101) |
-| 19 Feb 2026 | 매일경제 | [지드래곤, 두바이 헤드라이너 출격...중동 첫 공식 무대 ‘영향력 확장...](https://m.entertain.naver.com/article/410/0001112763) |
-| 19 Feb 2026 | 매일경제 | [지역과 성과 나누겠다는 제주은행, 지역화폐로 얻은 이익 기부금으로](https://n.news.naver.com/mnews/article/009/0005638598?sid=101) |
-| 19 Feb 2026 | 파이낸셜뉴스 | [日 2차 대미투자 프로젝트 선정 작업 착수..차세대 원자로 건설 등](https://n.news.naver.com/mnews/article/014/0005479640?sid=104) |
-| 19 Feb 2026 | 뉴시스 | ["日, 차세대 원자로 건설 등 2차 대미투자 프로젝트 검토"](https://n.news.naver.com/mnews/article/003/0013775198?sid=104) |
-| 19 Feb 2026 | 뉴시스 | ["미국인이 관세 90% 부담" 연은 보고서에…해싯 "징계 내려야"](https://n.news.naver.com/mnews/article/003/0013775191?sid=104) |
-| 19 Feb 2026 | 뉴스1 | [회생·파산 신속 처리…'대전회생법원' 3월 개원](https://n.news.naver.com/mnews/article/421/0008780261?sid=102) |
-| 19 Feb 2026 | 뉴스1 | [코스피 34%↑- S&amp;P 0.52%↓ 미증시 1995년 이후 최악 출발](https://n.news.naver.com/mnews/article/421/0008780247?sid=104) |
-| 19 Feb 2026 | 아시아경제 | [송언석 "李 대통령, 즉흥적 SNS로 부동산 시장 교란"](https://n.news.naver.com/mnews/article/277/0005723010?sid=100) |
-| 19 Feb 2026 | 서울경제 | [수영장에 육아지원, 행정 기능까지…‘원스톱’ 동두천어울림센터 주민...](https://n.news.naver.com/mnews/article/011/0004591257?sid=102) |
-| 19 Feb 2026 | 연합뉴스 | [횡성군, 재정 자립 기반 구축…수익 창출형 신규 사업 발굴](https://n.news.naver.com/mnews/article/001/0015911383?sid=102) |
+| 19 Feb 2026 | 매일경제 | [[Musical] 뮤지컬 ‘보니 앤 클라이드Bonnie and Clyde’…“우리에게, 내...](https://n.news.naver.com/mnews/article/057/0001935923?sid=103) |
+| 19 Feb 2026 | 헤럴드경제 | [강남 아파트 민원에 멈춘 ‘수광선’…수서역 환승센터 복합개발 흔들](https://n.news.naver.com/mnews/article/016/0002602256?sid=101) |
+| 19 Feb 2026 | 뉴스1 | ["전두환 회고록 '5·18 왜곡' 판결로 헬기사격·장갑차 사망 확인"](https://n.news.naver.com/mnews/article/421/0008781051?sid=102) |
+| 19 Feb 2026 | 이데일리 | [최윤범 회장, IEA서 "핵심광물 특정국 비중 높아…협력 필요"](https://n.news.naver.com/mnews/article/018/0006220867?sid=101) |
+| 19 Feb 2026 | 조세일보 | [이 대통령 "망국적 부동산 공화국 극복…지속 성장·발전하는 경제 만들...](https://n.news.naver.com/mnews/article/123/0002378015?sid=100) |
+| 19 Feb 2026 | 뉴시스 | [최윤범 고려아연 회장, IEA 핵심광물 세션 의장직 수행…공급망 다변화...](https://n.news.naver.com/mnews/article/003/0013775988?sid=101) |
+| 19 Feb 2026 | 머니투데이 | [정부 '유감' 표명에 즉각 반응했지만...'적대적 두 국가론' 강조한 北](https://n.news.naver.com/mnews/article/008/0005319603?sid=100) |
+| 19 Feb 2026 | 한국경제 | ['오마하의 현인' 워런 버핏, '5100억' 베팅한 마지막 기업은](https://n.news.naver.com/mnews/article/015/0005252401?sid=101) |
+| 19 Feb 2026 | 헤럴드경제 | [토요일까지 포근한 날씨…일요일 비 소식 후 쌀쌀 [세상&amp;]](https://n.news.naver.com/mnews/article/016/0002602254?sid=102) |
+| 19 Feb 2026 | 연합뉴스 | [귀금속 제조 스태리그룹, 익산에 102억원 투자](https://n.news.naver.com/mnews/article/001/0015912068?sid=102) |
+| 19 Feb 2026 | 이데일리 | [“핵융합 심장 잡는다”…정부, 2035년까지 초전도체 기술 자립 선언](https://n.news.naver.com/mnews/article/018/0006220861?sid=105) |
+| 19 Feb 2026 | 뉴시스 | [KAIST 혁신 디지털 의과학원 첫 삽…"바이오 생태계 중심"](https://n.news.naver.com/mnews/article/003/0013775982?sid=102) |
 
 
 ---
