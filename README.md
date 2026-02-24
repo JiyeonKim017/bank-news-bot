@@ -1,35 +1,36 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-02-24 05:54:47` (KST)
+> **업데이트:** `2026-02-24 08:38:28` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#울산시` `#인공지능` `#수도` `#전환` `#전략` `#실행`
+`#대통령` `#공감` `#시인` `#양주역` `#정차` `#청신호저비용고효율`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,444.38원 |
-| **코스피 지수** | 5,959.66 |
+| **USD/KRW 환율** | 1,445.56원 |
+| **코스피 지수** | 5,969.64 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 24 Feb 2026 | 헤럴드경제 | [울산시, ‘인공지능(AI) 수도’ 전환 전략 실행](https://n.news.naver.com/mnews/article/016/0002604331?sid=102) |
-| 24 Feb 2026 | 이데일리 | [중기중앙회, '中企 바로알리기 IDEA 공모전' 연다…포스터·영상 등](http://www.smedaily.co.kr/news/articleView.html?idxno=352076) |
-| 24 Feb 2026 | 연합뉴스 | [양구군, 국회 방문해 지역 핵심 현안 협력 건의](https://n.news.naver.com/mnews/article/001/0015921469?sid=102) |
-| 24 Feb 2026 | 머니투데이 | [韓 3년 연속 AI인재 떠났다…"국경 넘는 채용 활성화해야"](https://n.news.naver.com/mnews/article/008/0005321522?sid=105) |
-| 24 Feb 2026 | 매일경제 | [한국산업안전보건공단 “AI로 산재예방”...재래식 사고 예방엔 1조원 지...](https://n.news.naver.com/mnews/article/009/0005641136?sid=102) |
-| 24 Feb 2026 | 연합뉴스 | [광주시, 올해 공직자 1천명 채용…전년 대비 3배 ↑](https://n.news.naver.com/mnews/article/001/0015921467?sid=102) |
-| 24 Feb 2026 | 파이낸셜뉴스 | [전국 8개 연안 시도 해녀 한자리에](https://n.news.naver.com/mnews/article/014/0005481985?sid=102) |
-| 24 Feb 2026 | 뉴시스 | [평창군, '지방보조금 전용 계좌' 텄다…신협·새마을금고](https://n.news.naver.com/mnews/article/003/0013785136?sid=102) |
-| 24 Feb 2026 | 머니투데이 | ["런던·뉴욕 페리도 초기엔 보조금 신세"…해외서 찾은 한강버스 성공전...](https://n.news.naver.com/mnews/article/008/0005321519?sid=103) |
-| 24 Feb 2026 | 파이낸셜뉴스 | [파나마 정부, 항만 운영권 유럽 기업에 넘겨... 미국에는 승리](https://n.news.naver.com/mnews/article/014/0005481982?sid=104) |
+| 24 Feb 2026 | 이데일리 | [GTX 양주역 정차 '청신호'…저비용·고효율 증명](https://n.news.naver.com/mnews/article/018/0006223846?sid=100) |
+| 24 Feb 2026 | 이데일리 | [쏟아지는 다주택자 매물.... 무주택자 매수 적기는 4월 중순](https://n.news.naver.com/mnews/article/018/0006223845?sid=101) |
+| 24 Feb 2026 | 헤럴드경제 | [李대통령 “충남대전 통합특별시, 공감 없이 강행할 수 없다”](https://n.news.naver.com/mnews/article/016/0002604445?sid=100) |
+| 24 Feb 2026 | 매일경제 | [첨단산업·주거·문화 한곳에 … 부산 센텀2산단 착공](https://n.news.naver.com/mnews/article/009/0005641346?sid=102) |
+| 24 Feb 2026 | 한국경제 | ["2년 남았다" 공포에 휩싸인 美…'AI 종말론'에 뒤집어졌다](https://n.news.naver.com/mnews/article/015/0005254622?sid=104) |
+| 24 Feb 2026 | 한국경제 | [[이 아침의 시인] 한국인이 사랑하는 '풀꽃 시인'](https://n.news.naver.com/mnews/article/015/0005254619?sid=103) |
+| 24 Feb 2026 | 매일경제 | [루닛, 일본시장 직판 개시…후지필름과 영업 병행 전략](https://n.news.naver.com/mnews/article/009/0005641342?sid=105) |
+| 24 Feb 2026 | 파이낸셜뉴스 | [윤한홍, 필리버스터서 자성..“비판할 자격 있는지 고민”](https://n.news.naver.com/mnews/article/014/0005482139?sid=100) |
+| 24 Feb 2026 | 헤럴드경제 | [인천 1월 주택 매매 및 전·월세 가격 상승세](https://n.news.naver.com/mnews/article/016/0002604443?sid=101) |
+| 24 Feb 2026 | 서울경제 | [英 대표 극작가 “신림동 청년의 고립 서사, 세계인 공감 이끌어낼 것”](https://n.news.naver.com/mnews/article/011/0004592974?sid=103) |
+| 24 Feb 2026 | 뉴시스 | [李대통령 경기지사 시절 참모 4인, 지선 합동 출마 선언](https://n.news.naver.com/mnews/article/003/0013785725?sid=102) |
 
 
 ---
