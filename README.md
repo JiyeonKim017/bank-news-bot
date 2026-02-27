@@ -1,37 +1,36 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-02-27 01:22:26` (KST)
+> **업데이트:** `2026-02-27 05:46:22` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#이앤씨건설에코플랜트` `#구리역` `#하이니티` `#리버파크` `#주택전시관` `#게시판`
+`#한국거래소` `#부산` `#범죄피해` `#사회적` `#만원` `#후원`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,436.08원 |
-| **코스피 지수** | 6,203.25 |
+| **USD/KRW 환율** | 1,433.86원 |
+| **코스피 지수** | 6,322.98 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 27 Feb 2026 | 헤럴드경제 | [DL이앤씨∙GS건설∙SK에코플랜트, 구리역 하이니티 리버파크 주택전시관...](https://n.news.naver.com/mnews/article/016/0002606120?sid=101) |
-| 27 Feb 2026 | 연합뉴스 | [[게시판] 정부, 민생물가 특별관리품목 '국민 제안창구' 개설](https://n.news.naver.com/mnews/article/001/0015928470?sid=101) |
-| 27 Feb 2026 | 이데일리 | [보람상조 '라이프 큐레이터' K-Brand Awards 대상 수상](http://www.smedaily.co.kr/news/articleView.html?idxno=352395) |
-| 27 Feb 2026 | 뉴시스 | [미-이란, 3차 핵협상 "상당한 진전"…내달 2일 빈에서 협의 지속](https://n.news.naver.com/mnews/article/003/0013792064?sid=104) |
-| 27 Feb 2026 | 연합뉴스 | [세계 최대 노르웨이 국부펀드, ESG 위험 감시에 AI 쓴다](https://n.news.naver.com/mnews/article/001/0015928471?sid=104) |
-| 27 Feb 2026 | 뉴스1 | [스카니아코리아, 국내 누적 판매 3만 5000대 달성](https://n.news.naver.com/mnews/article/421/0008797292?sid=101) |
-| 27 Feb 2026 | 뉴시스 | [러시아, 텔레그램 '전면 차단' 확정…최전선 빼고 다 막는다](https://n.news.naver.com/mnews/article/003/0013792053?sid=104) |
-| 27 Feb 2026 | 서울경제 | [李 지목한 ‘주가누르기 방지법’ 속도…與 “고질적 코리아디스카운트...](https://n.news.naver.com/mnews/article/011/0004594206?sid=100) |
-| 27 Feb 2026 | 헤럴드경제 | [‘블핑’ 리사가 입어 난리났다는 브랜드, 나이키를 입었더니… [르포]](https://n.news.naver.com/mnews/article/016/0002606117?sid=101) |
-| 27 Feb 2026 | 아시아경제 | [[노동의 미래, 피지컬AI 임팩트]④차지호 의원 "노동 소멸 아닌 지능 공...](https://n.news.naver.com/mnews/article/277/0005727113?sid=101) |
-| 27 Feb 2026 | 아시아경제 | [코스피, 6월 MSCI '관찰대상국' 선정땐 더 오른다](https://n.news.naver.com/mnews/article/277/0005727112?sid=101) |
-| 27 Feb 2026 | 매일경제 | ['주가 펄펄·수출 훈풍'에도 지갑 안 열린다…"고소득에 혜택 집중"](https://n.news.naver.com/mnews/article/057/0001937332?sid=101) |
+| 27 Feb 2026 | 이데일리 | [한국거래소, 부산 범죄피해 사회적 약자에 5000만원 후원](https://n.news.naver.com/mnews/article/018/0006226092?sid=101) |
+| 27 Feb 2026 | 매일경제 | [화성특례시, 합계출산율 1.09명 ‘전국 1위’](https://n.news.naver.com/mnews/article/009/0005643125?sid=102) |
+| 27 Feb 2026 | 파이낸셜뉴스 | [한경협 "4대 그룹 회장단 복귀 소통 중"...뉴 K-인더스트리 원년 추진](https://n.news.naver.com/mnews/article/014/0005484034?sid=101) |
+| 27 Feb 2026 | 연합뉴스 | [정부, 구글에 1대 5천 축척 지도 국외 반출 조건부 허가(종합)](https://n.news.naver.com/mnews/article/001/0015929283?sid=100) |
+| 27 Feb 2026 | 이데일리 | [국민의힘이 당명 개정을 안하는 진짜 이유](https://n.news.naver.com/mnews/article/018/0006226089?sid=100) |
+| 27 Feb 2026 | 헤럴드경제 | [“‘성과→선수 웰빙’ 정책 대전환”…국내 최초 ‘스포츠 트라우마’...](https://n.news.naver.com/mnews/article/016/0002606373?sid=102) |
+| 27 Feb 2026 | 한국경제 | [현대차, 새만금 투자 소식에 10% '불기둥'…52주 신고가](https://n.news.naver.com/mnews/article/015/0005256315?sid=101) |
+| 27 Feb 2026 | 아시아경제 | ["에너지 AI분야 더 연구하고파"…한국에너지공대 첫 졸업생 30명 배출](https://n.news.naver.com/mnews/article/277/0005727303?sid=102) |
+| 27 Feb 2026 | 한국경제 | [현대차그룹, 새만금에 9조원 투자…AI·로봇·에너지 거점 구축](https://n.news.naver.com/mnews/article/015/0005256314?sid=103) |
+| 27 Feb 2026 | 뉴스1 | [전주시정연구원 "시민 체감형 정책연구 총력…현장 밀착형 연구 강화"](https://n.news.naver.com/mnews/article/421/0008798032?sid=102) |
+| 27 Feb 2026 | 뉴스1 | [한국거래소, 부산 범죄피해 사회적 약자 위해 5000만원 후원](https://n.news.naver.com/mnews/article/421/0008798030?sid=101) |
 
 
 ---
