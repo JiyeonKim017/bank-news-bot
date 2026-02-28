@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-02-28 05:28:38` (KST)
+> **업데이트:** `2026-02-28 08:20:50` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#경찰` `#광화문` `#공연은` `#시간세종문화회관` `#경복궁` `#올스톱`
+`#이란` `#공격` `#비트코인` `#탈취` `#의혹` `#한식`
 
 ---
 
@@ -20,18 +20,17 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 28 Feb 2026 | 헤럴드경제 | [BTS, ‘광화문 공연’은 1시간…세종문화회관, 경복궁 올스톱](https://n.news.naver.com/mnews/article/016/0002606611?sid=103) |
-| 28 Feb 2026 | 연합뉴스 | [中, 개정대외무역법 내일 시행…무역갈등 속 반제재 조치 명문화](https://n.news.naver.com/mnews/article/001/0015930317?sid=104) |
-| 28 Feb 2026 | 뉴시스 | [경북도·구미시, 차세대 무인이동체 산업 선점 나선다](https://n.news.naver.com/mnews/article/003/0013793766?sid=102) |
-| 28 Feb 2026 | 헤럴드경제 | [[속보] 李대통령, 신임 산림청장에 박은식 현 산림청 차장 임명](https://n.news.naver.com/mnews/article/016/0002606608?sid=100) |
-| 28 Feb 2026 | 이데일리 | ["지방만 빼고 근육 지킨다"… 프로젠, '월 1회' 당뇨 신약으로 글로벌 시...](https://n.news.naver.com/mnews/article/018/0006226417?sid=101) |
-| 28 Feb 2026 | 뉴시스 | ['구미~신공항 국가철도망 반영 촉구' 시민 서명운동 시작](https://n.news.naver.com/mnews/article/003/0013793756?sid=102) |
-| 28 Feb 2026 | 이데일리 | [경찰 "국세청 압류코인 탈취 수사 착수…흐름 추적 중"](https://n.news.naver.com/mnews/article/018/0006226413?sid=102) |
-| 28 Feb 2026 | 서울경제 | [금수저 끝판왕?…‘부친 자본’ 등에 업고 할리우드 왕좌 오른 데이비드...](https://n.news.naver.com/mnews/article/011/0004594489?sid=104) |
-| 28 Feb 2026 | 조세일보 | ['압류 코인 마스터키 노출' 경찰 내사 착수…"현금화 어려워 피해는 미...](https://n.news.naver.com/mnews/article/123/0002378612?sid=102) |
-| 28 Feb 2026 | 서울경제 | [日, 아프리카서 희토류 채굴 추진...中 탈피 속도](https://n.news.naver.com/mnews/article/011/0004594488?sid=101) |
-| 28 Feb 2026 | 뉴스1 | [국가대표 레슬링 상비군 합숙 훈련…평창 경제 '방긋'](https://n.news.naver.com/mnews/article/421/0008798994?sid=102) |
-| 28 Feb 2026 | 한국경제 | [금호건설, 상생 경영 통해 지역 경제 기여](https://n.news.naver.com/mnews/article/015/0005256573?sid=101) |
+| 28 Feb 2026 | 연합뉴스 | [[美 이란 공격] 밀월에서 파국으로…미·이란 70년 굴곡의 역사](https://n.news.naver.com/mnews/article/001/0015930387?sid=104) |
+| 28 Feb 2026 | 연합뉴스 | [미국, 이란 공격 단행…테헤란 등지에 미사일 폭격 돌입](https://n.news.naver.com/mnews/article/001/0015930381?sid=104) |
+| 28 Feb 2026 | 헤럴드경제 | [주철현 前 여수시장 “성동힐링센터 내가 승인...여수의 사위 맞나”](https://n.news.naver.com/mnews/article/016/0002606633?sid=102) |
+| 28 Feb 2026 | 이데일리 | [강남서 비트코인 탈취 40대 구속…‘건진법사 의혹’ 연루](https://n.news.naver.com/mnews/article/018/0006226449?sid=102) |
+| 28 Feb 2026 | 서울경제 | [세계 음식 발달 방향과 한식 [권대영의 한식 인문학]](https://n.news.naver.com/mnews/article/011/0004594518?sid=110) |
+| 28 Feb 2026 | 서울경제 | [이란·가자에 정신팔린 美....북미 대화 ‘동상이몽’](https://n.news.naver.com/mnews/article/011/0004594516?sid=100) |
+| 28 Feb 2026 | 헤럴드경제 | [트럼프 “미군, 중대전투 시작”…대 이란 공격 확인](https://n.news.naver.com/mnews/article/016/0002606632?sid=104) |
+| 28 Feb 2026 | 뉴스1 | [김석구 경기 광주시장 예비후보 "이재명표 국무회의 생중계 도입"](https://n.news.naver.com/mnews/article/421/0008799197?sid=102) |
+| 28 Feb 2026 | 매일경제 | [“나, 한국에 가서 이렇게 예뻐졌어”…SNS에 번지는 ‘K뷰티 투어’ 열...](https://n.news.naver.com/mnews/article/009/0005643456?sid=103) |
+| 28 Feb 2026 | 이데일리 | ["통합 없인 약해질 뿐"… 박범계, 대전·충남 통합 촉구 '삭발' 결단](https://n.news.naver.com/mnews/article/018/0006226442?sid=100) |
+| 28 Feb 2026 | 뉴스1 | [강남경찰 '비트코인 탈취' 40대…'건진법사 공천헌금 의혹' 연루(종합)](https://n.news.naver.com/mnews/article/421/0008799150?sid=102) |
 
 
 ---
