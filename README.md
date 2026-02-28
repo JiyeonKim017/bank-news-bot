@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-02-27 08:33:59` (KST)
+> **업데이트:** `2026-02-28 01:17:24` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대통령` `#인사` `#재정경제부` `#산업통상자원부` `#방송미디어통신위원회` `#포럼`
+`#대통령` `#선임` `#주요` `#신문` `#조간` `#성을`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,439.38원 |
+| **USD/KRW 환율** | 1,432.32원 |
 | **코스피 지수** | 6,244.13 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 27 Feb 2026 | 한국경제 | [[인사] 재정경제부 ; 산업통상자원부 ; 방송미디어통신위원회 등](https://n.news.naver.com/mnews/article/015/0005256442?sid=102) |
-| 27 Feb 2026 | 헤럴드경제 | [BPA 포럼, “부산항을 북극항로의 안심운항 출발항으로”](https://n.news.naver.com/mnews/article/016/0002606458?sid=102) |
-| 27 Feb 2026 | 한국경제 | [李대통령 "'배급충이냐'고 하지만…농어촌 기본소득 확대할 것"](https://n.news.naver.com/mnews/article/015/0005256439?sid=100) |
-| 27 Feb 2026 | 헤럴드경제 | [BNK금융, 사외이사 7인 중 5인 교체…4인은 주주 추천 인사로](https://n.news.naver.com/mnews/article/016/0002606457?sid=101) |
-| 27 Feb 2026 | 매일경제 | [한국경제신문 사장에 조일훈](https://n.news.naver.com/mnews/article/009/0005643249?sid=004) |
-| 27 Feb 2026 | 머니투데이 | [경남도 의령군 버스 전면 공영제…빵빵버스 운행](https://n.news.naver.com/mnews/article/008/0005323557?sid=102) |
-| 27 Feb 2026 | 매일경제 | ["비즈니스 식사의 정석 맛보게될것"](https://n.news.naver.com/mnews/article/009/0005643243?sid=102) |
-| 27 Feb 2026 | 뉴스1 | [[인사]광주광역시](https://n.news.naver.com/mnews/article/421/0008798477?sid=102) |
-| 27 Feb 2026 | 아시아경제 | [목포시, 남항 친환경선박 클러스터 시동](https://n.news.naver.com/mnews/article/277/0005727409?sid=102) |
-| 27 Feb 2026 | 연합뉴스 | [李대통령, 분당 아파트 매물로 내놔…靑 "부동산 정상화 의지"(종합)](https://n.news.naver.com/mnews/article/001/0015929742?sid=101) |
-| 27 Feb 2026 | 이데일리 | [신한은행, 인천에서도 '땡겨요'](http://www.smedaily.co.kr/news/articleView.html?idxno=352472) |
-| 27 Feb 2026 | 아시아경제 | [함평군 합계출산율 3년 연속 상승…전국 5위 기록](https://n.news.naver.com/mnews/article/277/0005727405?sid=102) |
+| 28 Feb 2026 | 매일경제 | [성을 사려는 남자들의 긴 줄…지루했던 사내들은 서로 탱고를 췄다 [히...](https://n.news.naver.com/mnews/article/009/0005643406?sid=103) |
+| 28 Feb 2026 | 한국경제 | ['서울시장 도전' 전현희 "서울형 제4이통 운영해 통신비 절감"[인터뷰]](https://n.news.naver.com/mnews/article/015/0005256555?sid=100) |
+| 28 Feb 2026 | 헤럴드경제 | [광진구 자양동 군부대 부지 49층 주거복합단지 조성](https://n.news.naver.com/mnews/article/016/0002606570?sid=102) |
+| 28 Feb 2026 | 이데일리 | [넓어진 랜드마크, 왜 우리는 여전히 비좁게 걷는가[손바닥부동산]](https://n.news.naver.com/mnews/article/018/0006226370?sid=101) |
+| 28 Feb 2026 | 매일경제 | [“나의 영원한 동지” 최고 예우 받은 룰라 브라질 대통령 [이번주인공...](https://n.news.naver.com/mnews/article/009/0005643402?sid=101) |
+| 28 Feb 2026 | 서울경제 | [공영홈쇼핑, 사장 선임 잔혹사 이젠 끝?...내달 선임 유력](https://n.news.naver.com/mnews/article/011/0004594473?sid=101) |
+| 28 Feb 2026 | 뉴시스 | [희귀 유전질환 LSD…"신생아 선별검사로 환자 안놓친다"[인터뷰]](https://n.news.naver.com/mnews/article/003/0013793635?sid=102) |
+| 28 Feb 2026 | 헤럴드경제 | [‘엡스타인 파일’에 걸릴 것 없다는 클린턴...“문제는 돈이야”](https://n.news.naver.com/mnews/article/016/0002606568?sid=104) |
+| 28 Feb 2026 | 연합뉴스 | [[전국 주요 신문 톱뉴스](28일 조간)](https://n.news.naver.com/mnews/article/001/0015930165?sid=102) |
+| 28 Feb 2026 | 연합뉴스 | [[주요 신문 사설](28일 조간)](https://n.news.naver.com/mnews/article/001/0015930166?sid=110) |
+| 28 Feb 2026 | 아시아경제 | [李대통령, 분당아파트 매도 결정에… 與 "6채 장동혁, 부동산에 전화하...](https://n.news.naver.com/mnews/article/277/0005727490?sid=100) |
+| 28 Feb 2026 | 아시아경제 | [화순군, 초·중·고 입학준비금 20만 원 지원…보편적 교육복지 실현](https://n.news.naver.com/mnews/article/277/0005727489?sid=102) |
 
 
 ---
