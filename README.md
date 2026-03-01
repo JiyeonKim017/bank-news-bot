@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-02-28 08:20:50` (KST)
+> **업데이트:** `2026-03-01 01:45:00` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#이란` `#공격` `#비트코인` `#탈취` `#의혹` `#한식`
+`#대통령` `#이란` `#교육` `#평화체제로` `#전환절` `#기념사서`
 
 ---
 
@@ -20,17 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 28 Feb 2026 | 연합뉴스 | [[美 이란 공격] 밀월에서 파국으로…미·이란 70년 굴곡의 역사](https://n.news.naver.com/mnews/article/001/0015930387?sid=104) |
-| 28 Feb 2026 | 연합뉴스 | [미국, 이란 공격 단행…테헤란 등지에 미사일 폭격 돌입](https://n.news.naver.com/mnews/article/001/0015930381?sid=104) |
-| 28 Feb 2026 | 헤럴드경제 | [주철현 前 여수시장 “성동힐링센터 내가 승인...여수의 사위 맞나”](https://n.news.naver.com/mnews/article/016/0002606633?sid=102) |
-| 28 Feb 2026 | 이데일리 | [강남서 비트코인 탈취 40대 구속…‘건진법사 의혹’ 연루](https://n.news.naver.com/mnews/article/018/0006226449?sid=102) |
-| 28 Feb 2026 | 서울경제 | [세계 음식 발달 방향과 한식 [권대영의 한식 인문학]](https://n.news.naver.com/mnews/article/011/0004594518?sid=110) |
-| 28 Feb 2026 | 서울경제 | [이란·가자에 정신팔린 美....북미 대화 ‘동상이몽’](https://n.news.naver.com/mnews/article/011/0004594516?sid=100) |
-| 28 Feb 2026 | 헤럴드경제 | [트럼프 “미군, 중대전투 시작”…대 이란 공격 확인](https://n.news.naver.com/mnews/article/016/0002606632?sid=104) |
-| 28 Feb 2026 | 뉴스1 | [김석구 경기 광주시장 예비후보 "이재명표 국무회의 생중계 도입"](https://n.news.naver.com/mnews/article/421/0008799197?sid=102) |
-| 28 Feb 2026 | 매일경제 | [“나, 한국에 가서 이렇게 예뻐졌어”…SNS에 번지는 ‘K뷰티 투어’ 열...](https://n.news.naver.com/mnews/article/009/0005643456?sid=103) |
-| 28 Feb 2026 | 이데일리 | ["통합 없인 약해질 뿐"… 박범계, 대전·충남 통합 촉구 '삭발' 결단](https://n.news.naver.com/mnews/article/018/0006226442?sid=100) |
-| 28 Feb 2026 | 뉴스1 | [강남경찰 '비트코인 탈취' 40대…'건진법사 공천헌금 의혹' 연루(종합)](https://n.news.naver.com/mnews/article/421/0008799150?sid=102) |
+| 01 Mar 2026 | 이데일리 | [李 “평화체제로 전환”…3·1절 기념사서 남북 대화 재개 의지[전문]](https://n.news.naver.com/mnews/article/018/0006226581?sid=100) |
+| 01 Mar 2026 | 연합뉴스 | [산업통상부, ‘이란 사태’ 실물경제 점검회의](https://n.news.naver.com/mnews/article/001/0015930986?sid=100) |
+| 01 Mar 2026 | 아시아경제 | [교육 본질 지키며 '늘 아이편에 서는' 안광식 교육 전문가](https://n.news.naver.com/mnews/article/277/0005727674?sid=102) |
+| 01 Mar 2026 | 헤럴드경제 | [삼성전자, 2030년까지 ‘AI 자율공장’ 전환한다](https://n.news.naver.com/mnews/article/016/0002606777?sid=101) |
+| 01 Mar 2026 | 파이낸셜뉴스 | [KB금융, 독립유공자 후손 소상공인 지원사업 시작](https://n.news.naver.com/mnews/article/014/0005484389?sid=101) |
+| 01 Mar 2026 | 머니투데이 | ['하메네이 궁전' 잿더미…머리 잃은 이란의 시나리오 네 가지](https://n.news.naver.com/mnews/article/008/0005323814?sid=104) |
+| 01 Mar 2026 | 뉴시스 | [반도체 2.5배 '껑충'…2월 수출 674.5억弗 역대 최대치 경신(종합)](https://n.news.naver.com/mnews/article/003/0013794566?sid=101) |
+| 01 Mar 2026 | 서울경제 | [[3·1절]李 대통령 “北에 적대행위·흡수통일 없다”](https://n.news.naver.com/mnews/article/011/0004594600?sid=100) |
+| 01 Mar 2026 | 헤럴드경제 | [[美 이란 공습] 北 김정은 공포감에 핵 더 움켜쥘 듯](https://n.news.naver.com/mnews/article/016/0002606776?sid=100) |
+| 01 Mar 2026 | 서울경제 | [[3·1절 기념사 전문]李 대통령 “무인기, 철저히 진상규명·제도적 방지...](https://n.news.naver.com/mnews/article/011/0004594599?sid=100) |
+| 01 Mar 2026 | 뉴스1 | [李대통령 "한일 관계, 3·1 정신 바탕으로 발전시켜 나가야"](https://n.news.naver.com/mnews/article/421/0008799796?sid=100) |
+| 01 Mar 2026 | 이데일리 | [고개 든 중동 리스크 금융시장 출렁](http://www.smedaily.co.kr/news/articleView.html?idxno=352486) |
 
 
 ---
