@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-01 01:45:00` (KST)
+> **업데이트:** `2026-03-01 05:46:43` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대통령` `#이란` `#교육` `#평화체제로` `#전환절` `#기념사서`
+`#금융위` `#하메네이` `#사망` `#중동` `#필요시` `#시행`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 01 Mar 2026 | 이데일리 | [李 “평화체제로 전환”…3·1절 기념사서 남북 대화 재개 의지[전문]](https://n.news.naver.com/mnews/article/018/0006226581?sid=100) |
-| 01 Mar 2026 | 연합뉴스 | [산업통상부, ‘이란 사태’ 실물경제 점검회의](https://n.news.naver.com/mnews/article/001/0015930986?sid=100) |
-| 01 Mar 2026 | 아시아경제 | [교육 본질 지키며 '늘 아이편에 서는' 안광식 교육 전문가](https://n.news.naver.com/mnews/article/277/0005727674?sid=102) |
-| 01 Mar 2026 | 헤럴드경제 | [삼성전자, 2030년까지 ‘AI 자율공장’ 전환한다](https://n.news.naver.com/mnews/article/016/0002606777?sid=101) |
-| 01 Mar 2026 | 파이낸셜뉴스 | [KB금융, 독립유공자 후손 소상공인 지원사업 시작](https://n.news.naver.com/mnews/article/014/0005484389?sid=101) |
-| 01 Mar 2026 | 머니투데이 | ['하메네이 궁전' 잿더미…머리 잃은 이란의 시나리오 네 가지](https://n.news.naver.com/mnews/article/008/0005323814?sid=104) |
-| 01 Mar 2026 | 뉴시스 | [반도체 2.5배 '껑충'…2월 수출 674.5억弗 역대 최대치 경신(종합)](https://n.news.naver.com/mnews/article/003/0013794566?sid=101) |
-| 01 Mar 2026 | 서울경제 | [[3·1절]李 대통령 “北에 적대행위·흡수통일 없다”](https://n.news.naver.com/mnews/article/011/0004594600?sid=100) |
-| 01 Mar 2026 | 헤럴드경제 | [[美 이란 공습] 北 김정은 공포감에 핵 더 움켜쥘 듯](https://n.news.naver.com/mnews/article/016/0002606776?sid=100) |
-| 01 Mar 2026 | 서울경제 | [[3·1절 기념사 전문]李 대통령 “무인기, 철저히 진상규명·제도적 방지...](https://n.news.naver.com/mnews/article/011/0004594599?sid=100) |
-| 01 Mar 2026 | 뉴스1 | [李대통령 "한일 관계, 3·1 정신 바탕으로 발전시켜 나가야"](https://n.news.naver.com/mnews/article/421/0008799796?sid=100) |
-| 01 Mar 2026 | 이데일리 | [고개 든 중동 리스크 금융시장 출렁](http://www.smedaily.co.kr/news/articleView.html?idxno=352486) |
+| 01 Mar 2026 | 서울경제 | [금융위, 중동불안에 “필요시 100조＋α 안정책 즉시 시행”](https://n.news.naver.com/mnews/article/011/0004594639?sid=101) |
+| 01 Mar 2026 | 헤럴드경제 | [[하메네이 사망] 금융위 “필요 시 ‘100조＋α’ 시장안정 프로그램 시...](https://n.news.naver.com/mnews/article/016/0002606823?sid=101) |
+| 01 Mar 2026 | 이데일리 | [중동 리스크에 금융위 긴급 점검…‘100조원+α’ 시장안정 가동 대기](https://n.news.naver.com/mnews/article/018/0006226634?sid=101) |
+| 01 Mar 2026 | 한국경제 | [금융당국, 중동 정세 불안에 "필요시 100조＋α 프로그램 시행"](https://n.news.naver.com/mnews/article/015/0005256746?sid=101) |
+| 01 Mar 2026 | 헤럴드경제 | [[하메네이 사망] 베네수 마두로 이어 이번엔 이란 최고지도자 제거](https://n.news.naver.com/mnews/article/016/0002606822?sid=104) |
+| 01 Mar 2026 | 머니투데이 | [금융위, '비상대응 금융시장반 가동'…이란 공습 여파 24시간 점검](https://n.news.naver.com/mnews/article/008/0005323850?sid=101) |
+| 01 Mar 2026 | 파이낸셜뉴스 | [금융위, 이란 공습 긴급 금융시장상황점검회의 개최](https://n.news.naver.com/mnews/article/014/0005484466?sid=101) |
+| 01 Mar 2026 | 연합뉴스 | [[하메네이 사망] 최고지도자 잃은 이란 신정체제 운명은](https://n.news.naver.com/mnews/article/001/0015931254?sid=104) |
+| 01 Mar 2026 | 뉴스1 | [금융위, 중동 정세 불안에 '긴급 금융시장점검회의' 개최…비상대응반...](https://n.news.naver.com/mnews/article/421/0008800119?sid=101) |
+| 01 Mar 2026 | 파이낸셜뉴스 | [금융위, ‘중동 리스크’ 비상대응반 가동…“100조+@ 안정조치 즉시 투...](https://n.news.naver.com/mnews/article/014/0005484463?sid=101) |
+| 01 Mar 2026 | 연합뉴스 | [[하메네이 사망] 금융위 "필요시 100조＋α 시장안정프로그램 시행"](https://n.news.naver.com/mnews/article/001/0015931252?sid=101) |
+| 01 Mar 2026 | 아시아경제 | [직장인 49% "한국사회, 여성·성소수자에 안전하지 않아"](https://n.news.naver.com/mnews/article/277/0005727722?sid=102) |
 
 
 ---
