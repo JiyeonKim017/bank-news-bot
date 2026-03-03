@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-02 08:36:23` (KST)
+> **업데이트:** `2026-03-03 01:27:54` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대통령` `#중동정세` `#영향` `#없어` `#부동산` `#사회문제`
+`#대통령` `#싱가포르` `#일정` `#지원` `#민주` `#국힘`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,457.87원 |
-| **코스피 지수** | 6,244.13 |
+| **USD/KRW 환율** | 1,461.28원 |
+| **코스피 지수** | 6,156.00 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 02 Mar 2026 | 파이낸셜뉴스 | [李대통령 "부동산 사회문제 되지 않는 싱가포르…많이 배우겠다"](https://n.news.naver.com/mnews/article/014/0005484859?sid=100) |
-| 02 Mar 2026 | 파이낸셜뉴스 | [李대통령, 싱가포르 총리와 FTA 개선 합의…"AI·원전 협력 확대"](https://n.news.naver.com/mnews/article/014/0005484858?sid=100) |
-| 02 Mar 2026 | 연합뉴스 | [국힘 "박홍근, 서울시장 후보 뛰며 시민 우롱…사과해야"(종합)](https://n.news.naver.com/mnews/article/001/0015932868?sid=100) |
-| 02 Mar 2026 | 서울경제 | [“공격 찬성” 27%뿐인데 전사자까지…갈수록 얼어붙는 美 여론](https://n.news.naver.com/mnews/article/011/0004594829?sid=104) |
-| 02 Mar 2026 | 이데일리 | [치열한 전기차·자율주행 경쟁…중국 시장 뚫는 한국 기업](https://n.news.naver.com/mnews/article/018/0006227010?sid=101) |
-| 02 Mar 2026 | 헤럴드경제 | [[속보]김 총리 “중동정세, 예측 어려워…국내·국제경제 영향 불가피”](https://n.news.naver.com/mnews/article/016/0002607095?sid=101) |
-| 02 Mar 2026 | 뉴스1 | [기후부, 중동 공습 여파 긴급 점검…"전력수급 직접 영향 없어"](https://n.news.naver.com/mnews/article/421/0008801362?sid=101) |
-| 02 Mar 2026 | 매일경제 | [AI 기술로 1년에 짝퉁 7000만건 잡아냈죠](https://n.news.naver.com/mnews/article/009/0005644039?sid=101) |
-| 02 Mar 2026 | 매일경제 | [게임처럼 즐기는 영어학습 … AI가 레벨 조절](https://n.news.naver.com/mnews/article/009/0005644040?sid=101) |
-| 02 Mar 2026 | 연합뉴스 | [일본은행 부총재, 중동정세 악화에도 "금리인상 방침 변화 없어"](https://n.news.naver.com/mnews/article/001/0015932859?sid=104) |
-| 02 Mar 2026 | 뉴스1 | [구윤철 부총리 발언 듣는 안규백 국방장관](https://n.news.naver.com/mnews/article/421/0008801347?sid=100) |
-| 02 Mar 2026 | 한국경제 | ["AI가 선박 탄소배출 측정"…부산, 스타트업 지원 빛났다](https://n.news.naver.com/mnews/article/015/0005257019?sid=102) |
+| 03 Mar 2026 | 뉴시스 | [이 대통령, 싱가포르 국빈 방문 일정 마무리…필리핀 향발](https://n.news.naver.com/mnews/article/003/0013797454?sid=100) |
+| 03 Mar 2026 | 연합뉴스 | [김해시 '천원의 아침밥' 지원 확대…김해대 이어 인제대도 시행](https://n.news.naver.com/mnews/article/001/0015933846?sid=102) |
+| 03 Mar 2026 | 헤럴드경제 | [‘TK 통합법’ 책임 공방… 민주 “국힘 변덕 때문” vs 국힘 “민주 입...](https://n.news.naver.com/mnews/article/016/0002607387?sid=100) |
+| 03 Mar 2026 | 뉴시스 | [태안 찾은 체류인구 지난해 3분기 170만여명 '충남 1위'](https://n.news.naver.com/mnews/article/003/0013797455?sid=102) |
+| 03 Mar 2026 | 헤럴드경제 | [[속보] 싱가포르 일정 마친 이 대통령, 두번째 목적지 필리핀으로 출국](https://n.news.naver.com/mnews/article/016/0002607388?sid=100) |
+| 03 Mar 2026 | 아시아경제 | [한국수입협회, 수입정책포럼 'RE: IMPORT 2026' 개최](https://n.news.naver.com/mnews/article/277/0005728336?sid=101) |
+| 03 Mar 2026 | 서울경제 | [부산창경, 플러그앤플레이 연계 실리콘밸리 진출 프로그램 가동](https://n.news.naver.com/mnews/article/011/0004595066?sid=102) |
+| 03 Mar 2026 | 조세일보 | [디아스포라의 상호성 [홍재화의 세상읽기]](https://n.news.naver.com/mnews/article/123/0002378685?sid=004) |
+| 03 Mar 2026 | 조세일보 | [비트코인, 이번 급등은 추세 반전 or 데드캣 바운스?](https://n.news.naver.com/mnews/article/123/0002378686?sid=004) |
+| 03 Mar 2026 | 연합뉴스 | [미국 휘발유 가격 갤런당 3달러 넘어서…"트럼프 시험대"](https://n.news.naver.com/mnews/article/001/0015933834?sid=104) |
+| 03 Mar 2026 | 파이낸셜뉴스 | [자전거 마음 놓고 타세요… 사고 시 변호사 비용까지 지원](https://n.news.naver.com/mnews/article/014/0005485200?sid=102) |
+| 03 Mar 2026 | 파이낸셜뉴스 | [박홍근 "재정은 화수분 아냐..불요불급한 예산 도려내야"(종합)](https://n.news.naver.com/mnews/article/014/0005485199?sid=101) |
 
 
 ---
