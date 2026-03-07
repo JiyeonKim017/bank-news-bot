@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-07 01:20:18` (KST)
+> **업데이트:** `2026-03-07 05:34:02` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#유가` `#이강인` `#때문` `#파리` `#생제르맹` `#모나코에`
+`#조사` `#트럼프` `#미국` `#방문한` `#한국` `#통상`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 07 Mar 2026 | 헤럴드경제 | [이강인 때문? 파리 생제르맹, AS모나코에 또 패배…선두 자리 위태](https://m.sports.naver.com/general/article/016/0002609835) |
-| 07 Mar 2026 | 머니투데이 | [일주일 넘긴 미-이란 전쟁…"군사작전 4~6주 안에 끝, 무조건 항복"](https://n.news.naver.com/mnews/article/008/0005326635?sid=104) |
-| 07 Mar 2026 | 헤럴드경제 | [李 “가격담합 대가 알게될 것” 엄포 속…기름값 2000원 갈까](https://n.news.naver.com/mnews/article/016/0002609832?sid=101) |
-| 07 Mar 2026 | 한국경제 | ["여기서 떠날래유"···충남 청년 여성 37%, 지역 이탈 고민](https://magazine.hankyung.com/job-joy/article/202603075180d) |
-| 07 Mar 2026 | 연합뉴스 | ["日 2차 대미 투자, 원전·구리정련·디스플레이 유력"](https://n.news.naver.com/mnews/article/001/0015943545?sid=104) |
-| 07 Mar 2026 | 이데일리 | [뉴욕증시, 유가 급등·고용 위축에 하락 마감](http://www.smedaily.co.kr/news/articleView.html?idxno=352988) |
-| 07 Mar 2026 | 서울경제 | [‘강북 모텔 연쇄살인’ 피의자...약물·발뺌 女사이코패스 전형 수법 ...](https://n.news.naver.com/mnews/article/011/0004596696?sid=102) |
-| 07 Mar 2026 | 매일경제 | [이란 대통령 "중재 시도하는 국가 있어"...'미가' 꺼내든 트럼프](https://n.news.naver.com/mnews/article/057/0001938642?sid=104) |
-| 07 Mar 2026 | 연합뉴스 | [[전국 주요 신문 톱뉴스](7일 조간)](https://n.news.naver.com/mnews/article/001/0015943540?sid=102) |
-| 07 Mar 2026 | 뉴시스 | [일본인 54% "한국과 협력할 외교 분야는 안보"](https://n.news.naver.com/mnews/article/003/0013807122?sid=104) |
-| 07 Mar 2026 | 서울경제 | [유가 100달러 눈앞·美 고용쇼크…70년대식 ‘스태그플레이션’ 덮치나](https://n.news.naver.com/mnews/article/011/0004596694?sid=101) |
-| 07 Mar 2026 | 아시아경제 | [[주末머니]中전인대, 성장 목표 낮춘 배경은?](https://n.news.naver.com/mnews/article/277/0005730720?sid=101) |
+| 07 Mar 2026 | 뉴스1 | [미국 방문한 한국 통상 투톱…'추가 관세·쿠팡 301조 조사' 저지 설득 ...](https://n.news.naver.com/mnews/article/421/0008811835?sid=101) |
+| 07 Mar 2026 | 뉴스1 | [강원도, '청년 디딤돌 2배 적금 지원사업' 실시…600명 선정](https://n.news.naver.com/mnews/article/421/0008811834?sid=102) |
+| 07 Mar 2026 | 뉴시스 | [통상당국, 쿠팡 美무역법 301조 조사 청원에 방미…"부정 영향 없어야"](https://n.news.naver.com/mnews/article/003/0013807296?sid=101) |
+| 07 Mar 2026 | 아시아경제 | [트럼프 관세 위법 판결에 쿠팡까지…통상 현안 대응 고위급 방미(종합)](https://n.news.naver.com/mnews/article/277/0005730768?sid=101) |
+| 07 Mar 2026 | 연합뉴스 | [춘천시 구곡폭포 겨울철 관광객 2만명 찾아…전년보다 77% 증가](https://n.news.naver.com/mnews/article/001/0015943644?sid=103) |
+| 07 Mar 2026 | 매일경제 | [이스라엘은 테헤란 공습, 이란은 공항 타격…8일째 이어지는 ‘중동전쟁...](https://n.news.naver.com/mnews/article/009/0005646591?sid=104) |
+| 07 Mar 2026 | 뉴시스 | ["건물 매입 대금 미지급"…현직 서울시의원 사기 혐의 피소](https://n.news.naver.com/mnews/article/003/0013807289?sid=102) |
+| 07 Mar 2026 | 매일경제 | ['영양결핍' 20개월 딸 잃은 엄마, 뒤늦은 후회…"아이에게 미안"](https://n.news.naver.com/mnews/article/057/0001938667?sid=102) |
+| 07 Mar 2026 | 헤럴드경제 | [천만 영화 ‘왕과 사는 남자’…단종·엄흥도의 역사 속 실제 모습은?[취...](https://n.news.naver.com/mnews/article/016/0002609874?sid=103) |
+| 07 Mar 2026 | 서울경제 | [李 대통령, 60%대 고공행진 지지율…외신은 알아봤다](https://n.news.naver.com/mnews/article/011/0004596714?sid=100) |
+| 07 Mar 2026 | 서울경제 | [中회담 직전 석유 우방 다 없애고 AI칩도 막고 [트럼프 스톡커]](https://n.news.naver.com/mnews/article/011/0004596713?sid=104) |
+| 07 Mar 2026 | 이데일리 | [[위클리IB]결혼식 줄어도 웨딩홀은 뜬다? 사모펀드가 다시 산 이유](https://n.news.naver.com/mnews/article/018/0006230106?sid=101) |
 
 
 ---
