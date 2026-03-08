@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-08 01:26:38` (KST)
+> **업데이트:** `2026-03-08 05:38:36` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#해고` `#노조` `#김재섭` `#정원오` `#삼성` `#화재`
+`#조국혁신당` `#이어도` `#코스피` `#한동훈` `#국민` `#정서`
 
 ---
 
@@ -20,18 +20,16 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 08 Mar 2026 | 한국경제 | [[속보]“파업 불참하면 해고 1순위”...삼성전자 노조, 직원들 압박](https://n.news.naver.com/mnews/article/050/0000103281?sid=101) |
-| 08 Mar 2026 | 이데일리 | [野김재섭 "정원오 '맹지' 주장 인근 가족땅 6800평…전형적 투기 목적"](https://n.news.naver.com/mnews/article/018/0006230259?sid=100) |
-| 08 Mar 2026 | 파이낸셜뉴스 | [日 대미 투자 2차 사업은 디스플레이? JDI 공장 운영 타진](https://n.news.naver.com/mnews/article/014/0005487674?sid=104) |
-| 08 Mar 2026 | 아시아경제 | [트럼프, 중남미와 '카르텔 대응 군사 연합' 출범…서반구 안보 협력 강...](https://n.news.naver.com/mnews/article/277/0005730863?sid=104) |
-| 08 Mar 2026 | 뉴시스 | [경남도 '남명학사 진주관' 건립 청신호…원도심 활성화 기대](https://n.news.naver.com/mnews/article/003/0013807940?sid=102) |
-| 08 Mar 2026 | 매일경제 | [농협, 300억원 투입해 면세유·주유소 할인 긴급 지원](https://n.news.naver.com/mnews/article/057/0001938728?sid=101) |
-| 08 Mar 2026 | 헤럴드경제 | [삼성SDI, 인터배터리서 AI 기반 ESS 화재 예방 SW ‘SBI’ 전격 공개](https://n.news.naver.com/mnews/article/016/0002610029?sid=101) |
-| 08 Mar 2026 | 뉴스1 | [김재섭 "정원오, 알고보니 땅부잣집 도련님…일가 농지 6800평"](https://n.news.naver.com/mnews/article/421/0008812481?sid=100) |
-| 08 Mar 2026 | 이데일리 | [못 미더운 반등…유가·美물가지표가 고비 [코인 위클리뷰]](https://n.news.naver.com/mnews/article/018/0006230254?sid=101) |
-| 08 Mar 2026 | 헤럴드경제 | [삼성전자 노조 “파업 불참 직원 해고 1순위” 파장…생산 차질 우려](https://n.news.naver.com/mnews/article/016/0002610028?sid=101) |
-| 08 Mar 2026 | 아시아경제 | [삼성SDI, ESS 화재 예방 AI 솔루션 공개](https://n.news.naver.com/mnews/article/277/0005730861?sid=101) |
-| 08 Mar 2026 | 파이낸셜뉴스 | [광주광역시, 난임 부부 한방치료비 최대 124만원 지원...소득 제한 없이...](https://n.news.naver.com/mnews/article/014/0005487670?sid=102) |
+| 08 Mar 2026 | 뉴시스 | [조국혁신당 "尹이어도 코스피 6000?…한동훈, 국민 정서 모르나"](https://n.news.naver.com/mnews/article/003/0013808408?sid=100) |
+| 08 Mar 2026 | 이데일리 | [압류 막아준다더니, 월급 입금도 어렵게 해놨네…'생계비계좌' 무용론](https://n.news.naver.com/mnews/article/018/0006230352?sid=101) |
+| 08 Mar 2026 | 연합뉴스 | [李대통령, 10일 대·中企 상생간담회…삼성·SK·현대車 등 참석](https://n.news.naver.com/mnews/article/001/0015945219?sid=100) |
+| 08 Mar 2026 | 파이낸셜뉴스 | [삼성전자 노조 "파업 불참 시 불이익"…메모리 생산 차질 우려](https://n.news.naver.com/mnews/article/014/0005487776?sid=101) |
+| 08 Mar 2026 | 파이낸셜뉴스 | [대만 행정원장, 이례적 방일 "1972년 단교 후 처음"](https://n.news.naver.com/mnews/article/014/0005487777?sid=104) |
+| 08 Mar 2026 | 머니투데이 | [휘발유 리터당 2000원 근접…29년만에 '가격 상한제' 만능 키 될까](https://n.news.naver.com/mnews/article/008/0005326830?sid=101) |
+| 08 Mar 2026 | 연합뉴스 | [우상호 강원지사 예비후보, 춘천 미래공간 방문해 발전전략 모색](https://n.news.naver.com/mnews/article/001/0015945159?sid=102) |
+| 08 Mar 2026 | 뉴스1 | [[뉴스1 PICK] 정청래 "6·3지선 승리 위한 선봉장 되겠다"](https://n.news.naver.com/mnews/article/421/0008812958?sid=100) |
+| 08 Mar 2026 | 뉴스1 | [김재섭 "땅부잣집 도련님"…정원오측 "흑색선전"(종합)](https://n.news.naver.com/mnews/article/421/0008812960?sid=100) |
+| 08 Mar 2026 | 헤럴드경제 | [“랩으로 권력 꾸짖던 청년”…네팔 뒤흔든 ‘발렌 신드롬’, 총리 눈앞](https://n.news.naver.com/mnews/article/016/0002610097?sid=104) |
 
 
 ---
