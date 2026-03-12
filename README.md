@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-12 05:45:06` (KST)
+> **업데이트:** `2026-03-12 08:35:05` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#경북도` `#중동지역` `#수출` `#긴급` `#금융지원` `#두바이`
+`#사조대림` `#평균` `#동참` `#인하물가` `#식용유지류` `#가격`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,477.48원 |
-| **코스피 지수** | 5,561.86 |
+| **USD/KRW 환율** | 1,478.40원 |
+| **코스피 지수** | 5,583.25 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 12 Mar 2026 | 파이낸셜뉴스 | [경북도, 중동지역 수출 中企에 긴급 금융지원](https://n.news.naver.com/mnews/article/014/0005490469?sid=102) |
-| 12 Mar 2026 | 아시아경제 | [두바이 엑소더스…억만장자·관광객 등 수만명 탈출[미국-이란 전쟁]](https://n.news.naver.com/mnews/article/277/0005733467?sid=104) |
-| 12 Mar 2026 | 뉴스1 | ["K-테이스티케이션의 부상"…K-푸드로 외래객 3000만 노린다(종합)](https://n.news.naver.com/mnews/article/421/0008822283?sid=103) |
-| 12 Mar 2026 | 서울경제 | [원유 ETF·ETN 거래액 11배 늘어…금감원 “손실 가능성 상세 안내해야”](https://n.news.naver.com/mnews/article/011/0004598554?sid=101) |
-| 12 Mar 2026 | 파이낸셜뉴스 | [李대통령 "추경 편성, 최대한 신속하게 해달라"](https://n.news.naver.com/mnews/article/014/0005490465?sid=100) |
-| 12 Mar 2026 | 뉴시스 | [구리사랑상품권, 가맹점 등록 기준 완화…15억원 이하로](https://n.news.naver.com/mnews/article/003/0013818145?sid=102) |
-| 12 Mar 2026 | 이데일리 | [李 “위기일수록 민생·경제 위해 재정 투입…추경 서둘러야”](https://n.news.naver.com/mnews/article/018/0006233423?sid=100) |
-| 12 Mar 2026 | 헤럴드경제 | [[영상]트럼프, 제이크 폴과 ‘트럼프 댄스’…“이란, 11일 만에 궤멸”](https://n.news.naver.com/mnews/article/016/0002612628?sid=104) |
-| 12 Mar 2026 | 연합뉴스 | [영덕 원전 유치 움직임 본격화…18일 범군민 결의대회](https://n.news.naver.com/mnews/article/001/0015955095?sid=101) |
-| 12 Mar 2026 | 연합뉴스 | [강남 집값 하락세 한강벨트로 확대…중저가 지역은 반대 양상](https://n.news.naver.com/mnews/article/001/0015955093?sid=101) |
-| 12 Mar 2026 | 머니투데이 | [홍영준 포스코퓨처엠 부사장 "양극재 24%, 흑연 40% 비용 절감"](https://n.news.naver.com/mnews/article/008/0005329096?sid=101) |
-| 12 Mar 2026 | 이데일리 | [김윤덕 장관 "초고가·비거주 1주택도 보유세 개편" 똘똘한 한 채 겨냥…...](http://www.smedaily.co.kr/news/articleView.html?idxno=353457) |
+| 12 Mar 2026 | 매일경제 | [현대차, 印尼서 전기차 폐배터리 재활용](https://n.news.naver.com/mnews/article/009/0005649426?sid=101) |
+| 12 Mar 2026 | 한국경제 | [한미 외교 차관보 면담…정부 "301조 조사, 팩트시트에 영향 없어야"](https://n.news.naver.com/mnews/article/015/0005261642?sid=100) |
+| 12 Mar 2026 | 이데일리 | [한법협 "사법시험 부활 논의 우려...시대착오적 퇴행 멈춰야"](https://n.news.naver.com/mnews/article/018/0006233644?sid=102) |
+| 12 Mar 2026 | 머니투데이 | [사조대림, 카놀라유 등 평균 3% 인하…"물가 부담 완화 동참"](https://n.news.naver.com/mnews/article/008/0005329284?sid=101) |
+| 12 Mar 2026 | 매일경제 | [[알립니다] 빅데이터·AI 최고위과정 지원하세요](https://n.news.naver.com/mnews/article/009/0005649420?sid=102) |
+| 12 Mar 2026 | 머니투데이 | [유가 100달러 재돌파…금감원 "원자재 ETF·ETN 투자 주의해야"](https://n.news.naver.com/mnews/article/008/0005329282?sid=101) |
+| 12 Mar 2026 | 뉴시스 | [사조대림, 식용유지류 가격 평균 3%↓…"물가 안정 기조 동참"](https://n.news.naver.com/mnews/article/003/0013818962?sid=101) |
+| 12 Mar 2026 | 서울경제 | [국립치의학연구원 유치 두고 부산·대구·광주·천안 맞붙는다](https://n.news.naver.com/mnews/article/011/0004598666?sid=102) |
+| 12 Mar 2026 | 뉴스1 | [사조대림, 식용유지류 가격 평균 3% 인하…"물가 안정 기조 동참"](https://n.news.naver.com/mnews/article/421/0008823070?sid=101) |
+| 12 Mar 2026 | 헤럴드경제 | [하남시, 정보보안 전문 ㈜이글루코퍼레이션 본사 유치](https://n.news.naver.com/mnews/article/016/0002612762?sid=100) |
+| 12 Mar 2026 | 연합뉴스 | [[과학스냅] WISET, 광주과학관과 호남권 AI 과학강사 양성과정 운영](https://n.news.naver.com/mnews/article/001/0015955782?sid=105) |
+| 12 Mar 2026 | 서울경제 | [대전, AI 무장 ‘K방산 수도’로 우뚝](https://n.news.naver.com/mnews/article/011/0004598662?sid=102) |
 
 
 ---
