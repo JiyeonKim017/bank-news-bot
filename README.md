@@ -1,36 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-12 01:21:15` (KST)
+> **업데이트:** `2026-03-12 05:45:06` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#개시` `#무역법` `#조사` `#불법` `#판결난` `#상호관세`
+`#경북도` `#중동지역` `#수출` `#긴급` `#금융지원` `#두바이`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,478.68원 |
-| **코스피 지수** | 5,602.51 |
+| **USD/KRW 환율** | 1,477.48원 |
+| **코스피 지수** | 5,561.86 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 12 Mar 2026 | 이데일리 | ["韓·中·日·EU 등 무역법 301조 조사 개시" 美, 불법 판결난 상호관세...](http://www.smedaily.co.kr/news/articleView.html?idxno=353412) |
-| 12 Mar 2026 | 매일경제 | [“불신·불안·불만 쌓인 ‘3불 사회’…자살 위험 높인다”](https://n.news.naver.com/mnews/article/009/0005649072?sid=101) |
-| 12 Mar 2026 | 이데일리 | [GLN 인터내셔널·카카오페이, 태국 ATM 'QR출금 서비스' 개시](http://www.smedaily.co.kr/news/articleView.html?idxno=353414) |
-| 12 Mar 2026 | 머니투데이 | [추미애, 경기지사 출마선언 "혁신 리더십 필요, 이재명 처럼"](https://n.news.naver.com/mnews/article/008/0005328914?sid=100) |
-| 12 Mar 2026 | 뉴스1 | [영암군, 새청무쌀 전국 유통길 열었다…해장국 매장 500곳 공급](https://n.news.naver.com/mnews/article/421/0008821336?sid=102) |
-| 12 Mar 2026 | 뉴시스 | [젤렌스키 "트럼프, 우크라 아닌 푸틴 압박해야…휴전 동의 압박 멈추길...](https://n.news.naver.com/mnews/article/003/0013817146?sid=104) |
-| 12 Mar 2026 | 머니투데이 | ["이혼 얘기 오갔으니 무죄?"…별거 중 외도, 상간자 소송 가능한 이유](https://n.news.naver.com/mnews/article/008/0005328913?sid=102) |
-| 12 Mar 2026 | 매일경제 | [이란 전쟁 뒤 최고수익률은 ‘잘 버텼던 비트코인’…뉴욕 증시·코스피...](https://n.news.naver.com/mnews/article/009/0005649068?sid=101) |
-| 12 Mar 2026 | 아시아경제 | [[단독]10년간 과징금 달랑 '4건'…담합의 유혹[설계자들]③](https://n.news.naver.com/mnews/article/277/0005733212?sid=101) |
-| 12 Mar 2026 | 헤럴드경제 | [“그날 급 터져서, 택시비 감사” 모텔 연쇄살인‘ 김소영 자작 카톡 유...](https://n.news.naver.com/mnews/article/016/0002612365?sid=102) |
-| 12 Mar 2026 | 서울경제 | [민주 “비축유 방출시기 정부와 협의”](https://n.news.naver.com/mnews/article/011/0004598441?sid=100) |
+| 12 Mar 2026 | 파이낸셜뉴스 | [경북도, 중동지역 수출 中企에 긴급 금융지원](https://n.news.naver.com/mnews/article/014/0005490469?sid=102) |
+| 12 Mar 2026 | 아시아경제 | [두바이 엑소더스…억만장자·관광객 등 수만명 탈출[미국-이란 전쟁]](https://n.news.naver.com/mnews/article/277/0005733467?sid=104) |
+| 12 Mar 2026 | 뉴스1 | ["K-테이스티케이션의 부상"…K-푸드로 외래객 3000만 노린다(종합)](https://n.news.naver.com/mnews/article/421/0008822283?sid=103) |
+| 12 Mar 2026 | 서울경제 | [원유 ETF·ETN 거래액 11배 늘어…금감원 “손실 가능성 상세 안내해야”](https://n.news.naver.com/mnews/article/011/0004598554?sid=101) |
+| 12 Mar 2026 | 파이낸셜뉴스 | [李대통령 "추경 편성, 최대한 신속하게 해달라"](https://n.news.naver.com/mnews/article/014/0005490465?sid=100) |
+| 12 Mar 2026 | 뉴시스 | [구리사랑상품권, 가맹점 등록 기준 완화…15억원 이하로](https://n.news.naver.com/mnews/article/003/0013818145?sid=102) |
+| 12 Mar 2026 | 이데일리 | [李 “위기일수록 민생·경제 위해 재정 투입…추경 서둘러야”](https://n.news.naver.com/mnews/article/018/0006233423?sid=100) |
+| 12 Mar 2026 | 헤럴드경제 | [[영상]트럼프, 제이크 폴과 ‘트럼프 댄스’…“이란, 11일 만에 궤멸”](https://n.news.naver.com/mnews/article/016/0002612628?sid=104) |
+| 12 Mar 2026 | 연합뉴스 | [영덕 원전 유치 움직임 본격화…18일 범군민 결의대회](https://n.news.naver.com/mnews/article/001/0015955095?sid=101) |
+| 12 Mar 2026 | 연합뉴스 | [강남 집값 하락세 한강벨트로 확대…중저가 지역은 반대 양상](https://n.news.naver.com/mnews/article/001/0015955093?sid=101) |
+| 12 Mar 2026 | 머니투데이 | [홍영준 포스코퓨처엠 부사장 "양극재 24%, 흑연 40% 비용 절감"](https://n.news.naver.com/mnews/article/008/0005329096?sid=101) |
+| 12 Mar 2026 | 이데일리 | [김윤덕 장관 "초고가·비거주 1주택도 보유세 개편" 똘똘한 한 채 겨냥…...](http://www.smedaily.co.kr/news/articleView.html?idxno=353457) |
 
 
 ---
