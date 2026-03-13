@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-13 05:43:10` (KST)
+> **업데이트:** `2026-03-13 08:32:19` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#트럼프` `#다시` `#중국` `#제재받은` `#국무` `#루비오`
+`#국민연금` `#알리안츠와` `#전략적` `#제휴` `#체결` `#마켓워치`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,490.15원 |
-| **코스피 지수** | 5,486.55 |
+| **USD/KRW 환율** | 1,499.40원 |
+| **코스피 지수** | 5,487.24 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 13 Mar 2026 | 한국경제 | [중국 제재받은 美국무 루비오, 트럼프 방중 동행설](https://n.news.naver.com/mnews/article/050/0000103508?sid=101) |
-| 13 Mar 2026 | 연합뉴스 | [계란 한 판 다시 7천원대…산란계 1천만마리 살처분에 물가 비상(종합)](https://n.news.naver.com/mnews/article/001/0015957616?sid=101) |
-| 13 Mar 2026 | 한국경제 | [트럼프 "이란 완전히 파괴 중…이 일을 하게 돼 대단한 영광"](https://n.news.naver.com/mnews/article/015/0005262014?sid=104) |
-| 13 Mar 2026 | 매일경제 | [美 밴스 다시 만난 김민석 “핵추진잠, 원자력 등 합의사항 조속 이행”](https://n.news.naver.com/mnews/article/009/0005649860?sid=100) |
-| 13 Mar 2026 | 파이낸셜뉴스 | [엔화 159엔 후반대 급락…1년8개월만에 최저](https://n.news.naver.com/mnews/article/014/0005491075?sid=104) |
-| 13 Mar 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 14:30](https://n.news.naver.com/mnews/article/001/0015957615?sid=101) |
-| 13 Mar 2026 | 헤럴드경제 | [해외 출장 다녀온 이재용, 유럽 고객사 미팅 여부 질문에 “네”](https://n.news.naver.com/mnews/article/016/0002613271?sid=101) |
-| 13 Mar 2026 | 파이낸셜뉴스 | [대전·충남 통합 교착에..대전·세종·청주 '신수도특별시' 제안](https://n.news.naver.com/mnews/article/014/0005491073?sid=100) |
-| 13 Mar 2026 | 조세일보 | [비트코인 $70k 공방…'바닥 다지기' vs. '또 다른 저항선'](https://n.news.naver.com/mnews/article/123/0002379419?sid=101) |
-| 13 Mar 2026 | 이데일리 | [李대통령 "광역화는 시대적 추세…충북도 고민 필요"](https://n.news.naver.com/mnews/article/018/0006234359?sid=100) |
-| 13 Mar 2026 | 뉴시스 | [밀양, 문화도시 2년 연속 ‘최우수’…비결은?](https://n.news.naver.com/mnews/article/003/0013820736?sid=102) |
-| 13 Mar 2026 | 뉴시스 | ["불확실한 대외 경제 대응" 안산시, 중소기업 상담 강화](https://n.news.naver.com/mnews/article/003/0013820737?sid=102) |
+| 13 Mar 2026 | 파이낸셜뉴스 | [국민연금, 알리안츠GI와 전략적 제휴 MOU 체결 [fn마켓워치]](https://n.news.naver.com/mnews/article/014/0005491195?sid=101) |
+| 13 Mar 2026 | 아시아경제 | [[기획] 무안군 세계가 주목하는 '생태·문화 도시'도약](https://n.news.naver.com/mnews/article/277/0005734169?sid=102) |
+| 13 Mar 2026 | 뉴스1 | [한수원 신임 사장에 김회천 전 남동발전 사장 낙점](https://n.news.naver.com/mnews/article/421/0008825168?sid=101) |
+| 13 Mar 2026 | 아시아경제 | [영암군, 남풍지구 행정복합타운 추진](https://n.news.naver.com/mnews/article/277/0005734165?sid=102) |
+| 13 Mar 2026 | 머니투데이 | [KB국민은행, 중소기업 특화 신용평가 개발…미래 성장성 평가](https://n.news.naver.com/mnews/article/008/0005329754?sid=101) |
+| 13 Mar 2026 | 연합뉴스 | [남동생 살해 혐의 탈북민 누나, 첫 공판서 전면 부인](https://n.news.naver.com/mnews/article/001/0015958070?sid=102) |
+| 13 Mar 2026 | 뉴시스 | ["탄소중립 새마을 실천"…청도천서 환경살리기 행사](https://n.news.naver.com/mnews/article/003/0013821217?sid=102) |
+| 13 Mar 2026 | 매일경제 | [후속조치 없는 핵잠·원자력 한미 합의 … 이제 美가 약속 지킬 때 [사설...](https://n.news.naver.com/mnews/article/009/0005649986?sid=110) |
+| 13 Mar 2026 | 뉴스1 | [서부발전, 사회혁신 이끈 ‘체인지메이커’ 5명 선정](https://n.news.naver.com/mnews/article/421/0008825160?sid=102) |
+| 13 Mar 2026 | 매일경제 | [‘최고가격제·매점매석 금지’ 발맞춰…국세청 전국 주유소 현장점검](https://n.news.naver.com/mnews/article/009/0005649980?sid=101) |
+| 13 Mar 2026 | 서울경제 | [국민연금, 글로벌 자산운용사 알리안츠GI와 협력한다 [시그널]](https://n.news.naver.com/mnews/article/011/0004599083?sid=101) |
+| 13 Mar 2026 | 뉴시스 | [중국 상무부, 美 301조 조사 강력 반대…"국제 무역질서 훼손"](https://n.news.naver.com/mnews/article/003/0013821210?sid=104) |
 
 
 ---
