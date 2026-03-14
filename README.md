@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-14 01:22:58` (KST)
+> **업데이트:** `2026-03-14 05:41:01` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#전쟁` `#중동` `#문체부` `#선정` `#화성` `#뱃놀이축제`
+`#탄도미사일` `#이란` `#한일` `#협력` `#신설` `#일본`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 14 Mar 2026 | 연합뉴스 | [문체부 선정 '화성 뱃놀이축제', 5월 22~25일 전곡항 등서 개최](https://n.news.naver.com/mnews/article/001/0015958719?sid=102) |
-| 14 Mar 2026 | 헤럴드경제 | [‘왕사남’ 1200만 넘더니 ‘단종 앓이’ 식을 줄 모른다…‘관상’·‘...](https://n.news.naver.com/mnews/article/016/0002613465?sid=103) |
-| 14 Mar 2026 | 헤럴드경제 | [김시우, PGA 플레이어스 챔피언십 2R 51위](https://m.sports.naver.com/golf/article/016/0002613464) |
-| 14 Mar 2026 | 한국경제 | [이상규 "대형마트 의무휴업, 골목상권 죽이는 낡은 규제"](https://n.news.naver.com/mnews/article/015/0005262263?sid=100) |
-| 14 Mar 2026 | 이데일리 | [중동 전쟁 여파…이슬람권 D8 정상회의 연기](https://n.news.naver.com/mnews/article/018/0006234901?sid=101) |
-| 14 Mar 2026 | 파이낸셜뉴스 | [단순함의 '味학', 커피에 집중하다…아돌프 로스의 카페 뮤지엄 [커피와...](https://n.news.naver.com/mnews/article/014/0005491302?sid=103) |
-| 14 Mar 2026 | 연합뉴스 | ['미주 방패' 본격 가동…중남미 '마약 범죄와의 전쟁' 확산](https://n.news.naver.com/mnews/article/001/0015958676?sid=104) |
-| 14 Mar 2026 | 뉴스1 | ['새별거리' 입주 시작…"혁명의 기본은 사람 육성" 강조 [데일리 북한]](https://n.news.naver.com/mnews/article/421/0008825684?sid=100) |
-| 14 Mar 2026 | 매일경제 | [여행 블로거인 줄만 알았더니 ‘찐금수저’였네…25살에 1.7조 거부된 사...](https://n.news.naver.com/mnews/article/009/0005650125?sid=101) |
-| 14 Mar 2026 | 아시아경제 | [조물주 위에 건물주?…서울 오피스 공실률 높아졌다[주末머니]](https://n.news.naver.com/mnews/article/277/0005734273?sid=101) |
-| 14 Mar 2026 | 아시아경제 | [중동 전쟁 여파·경제지표 부진에 뉴욕증시 하락 마감](https://n.news.naver.com/mnews/article/277/0005734272?sid=101) |
-| 14 Mar 2026 | 뉴시스 | [미, 이란 석유 요충 공습…이란, 호르무즈 봉쇄 지속](https://n.news.naver.com/mnews/article/003/0013821697?sid=104) |
+| 14 Mar 2026 | 헤럴드경제 | [“위안화 결제 선박만 호르무즈 통과”…트럼프 패착에 ‘페트로 달러’...](https://n.news.naver.com/mnews/article/016/0002613525?sid=104) |
+| 14 Mar 2026 | 연합뉴스 | [美·이란 전쟁 속 한일 공급망 협력 강화…정례 소통채널 신설](https://n.news.naver.com/mnews/article/001/0015959047?sid=101) |
+| 14 Mar 2026 | 헤럴드경제 | [장동혁, ‘잠행’ 이정현에 “돌아와 혁신공천 완성해달라” 공개 호소](https://n.news.naver.com/mnews/article/016/0002613523?sid=100) |
+| 14 Mar 2026 | 머니투데이 | [합참 "北, 동해상으로 탄도미사일 10여발 발사…추가 발사 대비"](https://n.news.naver.com/mnews/article/008/0005329887?sid=100) |
+| 14 Mar 2026 | 뉴시스 | [한·일 산업·통상 정책대화 신설…정례 협력 플랫폼 구축](https://n.news.naver.com/mnews/article/003/0013821849?sid=101) |
+| 14 Mar 2026 | 매일경제 | [수도권 다주택자 대출 연장 막히나…‘3중 규제’ 카드 만지작 [부동산...](https://n.news.naver.com/mnews/article/009/0005650159?sid=101) |
+| 14 Mar 2026 | 뉴시스 | [일본 "북 탄도미사일 추정 발사체 EEZ 밖에 낙하"](https://n.news.naver.com/mnews/article/003/0013821837?sid=104) |
+| 14 Mar 2026 | 머니투데이 | [北, 동쪽으로 미상 발사체 발사…탄도미사일 가능성](https://n.news.naver.com/mnews/article/008/0005329884?sid=100) |
+| 14 Mar 2026 | 뉴스1 | [日 "북한 탄도미사일 가능성 물체, EEZ 밖에 낙하한 듯"](https://n.news.naver.com/mnews/article/421/0008825891?sid=104) |
+| 14 Mar 2026 | 서울경제 | [더 못 늘리니 ‘더 크게, 더 다르게’…편의점, 생존 공식 바뀌었다](https://n.news.naver.com/mnews/article/011/0004599278?sid=101) |
+| 14 Mar 2026 | 파이낸셜뉴스 | [트럼프 공격한 하르그섬은 이란 '경제 심장'](https://n.news.naver.com/mnews/article/014/0005491334?sid=104) |
+| 14 Mar 2026 | 뉴스1 | [일본 간 산업장관, 통상협력 확대논의…공급망 대응 협의체 신설](https://n.news.naver.com/mnews/article/421/0008825880?sid=101) |
 
 
 ---
