@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-14 05:41:01` (KST)
+> **업데이트:** `2026-03-14 08:26:53` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#탄도미사일` `#이란` `#한일` `#협력` `#신설` `#일본`
+`#한일` `#재무장관` `#재무장관회의` `#위장해` `#카타야마` `#사츠키`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 14 Mar 2026 | 헤럴드경제 | [“위안화 결제 선박만 호르무즈 통과”…트럼프 패착에 ‘페트로 달러’...](https://n.news.naver.com/mnews/article/016/0002613525?sid=104) |
-| 14 Mar 2026 | 연합뉴스 | [美·이란 전쟁 속 한일 공급망 협력 강화…정례 소통채널 신설](https://n.news.naver.com/mnews/article/001/0015959047?sid=101) |
-| 14 Mar 2026 | 헤럴드경제 | [장동혁, ‘잠행’ 이정현에 “돌아와 혁신공천 완성해달라” 공개 호소](https://n.news.naver.com/mnews/article/016/0002613523?sid=100) |
-| 14 Mar 2026 | 머니투데이 | [합참 "北, 동해상으로 탄도미사일 10여발 발사…추가 발사 대비"](https://n.news.naver.com/mnews/article/008/0005329887?sid=100) |
-| 14 Mar 2026 | 뉴시스 | [한·일 산업·통상 정책대화 신설…정례 협력 플랫폼 구축](https://n.news.naver.com/mnews/article/003/0013821849?sid=101) |
-| 14 Mar 2026 | 매일경제 | [수도권 다주택자 대출 연장 막히나…‘3중 규제’ 카드 만지작 [부동산...](https://n.news.naver.com/mnews/article/009/0005650159?sid=101) |
-| 14 Mar 2026 | 뉴시스 | [일본 "북 탄도미사일 추정 발사체 EEZ 밖에 낙하"](https://n.news.naver.com/mnews/article/003/0013821837?sid=104) |
-| 14 Mar 2026 | 머니투데이 | [北, 동쪽으로 미상 발사체 발사…탄도미사일 가능성](https://n.news.naver.com/mnews/article/008/0005329884?sid=100) |
-| 14 Mar 2026 | 뉴스1 | [日 "북한 탄도미사일 가능성 물체, EEZ 밖에 낙하한 듯"](https://n.news.naver.com/mnews/article/421/0008825891?sid=104) |
-| 14 Mar 2026 | 서울경제 | [더 못 늘리니 ‘더 크게, 더 다르게’…편의점, 생존 공식 바뀌었다](https://n.news.naver.com/mnews/article/011/0004599278?sid=101) |
-| 14 Mar 2026 | 파이낸셜뉴스 | [트럼프 공격한 하르그섬은 이란 '경제 심장'](https://n.news.naver.com/mnews/article/014/0005491334?sid=104) |
-| 14 Mar 2026 | 뉴스1 | [일본 간 산업장관, 통상협력 확대논의…공급망 대응 협의체 신설](https://n.news.naver.com/mnews/article/421/0008825880?sid=101) |
+| 14 Mar 2026 | 아시아경제 | [한일 재무장관 중동 정세 논의…"에너지 안정적 공급 협력"](https://n.news.naver.com/mnews/article/277/0005734326?sid=101) |
+| 14 Mar 2026 | 뉴시스 | [구윤철 부총리, 한-일 재무장관회의 참석](https://n.news.naver.com/mnews/article/003/0013822030?sid=100) |
+| 14 Mar 2026 | 헤럴드경제 | [“낚싯배로 위장해 ‘쾅’” 이란, 유조선 무더기 타격…비밀은 ‘드론...](https://n.news.naver.com/mnews/article/016/0002613544?sid=104) |
+| 14 Mar 2026 | 연합뉴스 | [한일 산업장관 '한일 공급망 파트너십' 체결](https://n.news.naver.com/mnews/article/001/0015959167?sid=101) |
+| 14 Mar 2026 | 뉴시스 | [모두발언하는 카타야마 사츠키 일본 재무장관](https://n.news.naver.com/mnews/article/003/0013822029?sid=100) |
+| 14 Mar 2026 | 연합뉴스 | [제10차 한일 재무장관 회의](https://n.news.naver.com/mnews/article/001/0015959166?sid=101) |
+| 14 Mar 2026 | 매일경제 | [중일 대립에 얽힌 에너지 안보...일본 LNG선 건조 추진으로 이어지나?](https://n.news.naver.com/mnews/article/057/0001939799?sid=104) |
+| 14 Mar 2026 | 뉴스1 | [한일 재무장관회의 참석한 카타야마 사츠키 日 재무장관](https://n.news.naver.com/mnews/article/421/0008825985?sid=101) |
+| 14 Mar 2026 | 뉴스1 | [제10차 한-일 재무장관회의](https://n.news.naver.com/mnews/article/421/0008825987?sid=101) |
+| 14 Mar 2026 | 아시아경제 | [與 전남광주특별시장 경선 합동연설…'李 대통령 인연' 경쟁](https://n.news.naver.com/mnews/article/277/0005734324?sid=100) |
+| 14 Mar 2026 | 한국경제 | [자산 1230조인데…수건 한 장 뿐인 머스크 집 사진 공개](https://n.news.naver.com/mnews/article/015/0005262302?sid=101) |
+| 14 Mar 2026 | 매일경제 | [낚시배로 위장해 유조선에 '쾅'…이란 드론보트 벌떼공격](https://n.news.naver.com/mnews/article/057/0001939797?sid=104) |
 
 
 ---
