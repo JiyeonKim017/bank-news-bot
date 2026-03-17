@@ -1,37 +1,36 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-17 01:26:52` (KST)
+> **업데이트:** `2026-03-17 05:55:12` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대응` `#강화` `#민생` `#개최` `#이야기가` `#세상`
+`#잡는` `#거창군` `#요양원` `#대신` `#안방` `#돌봄`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,492.49원 |
-| **코스피 지수** | 5,674.70 |
+| **USD/KRW 환율** | 1,492.34원 |
+| **코스피 지수** | 5,712.06 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 17 Mar 2026 | 헤럴드경제 | [“내 이야기가 온 세상 울릴 때까지” 교보생명 광화문글판, BTS와 세 번...](https://n.news.naver.com/mnews/article/016/0002614733?sid=101) |
-| 17 Mar 2026 | 이데일리 | [인천시, 기업안전법률 지원단 출범 "법적 대응 역량 강화"](https://n.news.naver.com/mnews/article/018/0006236945?sid=100) |
-| 17 Mar 2026 | 헤럴드경제 | [봄꽃･임산물 축제가 한 눈에](https://n.news.naver.com/mnews/article/016/0002614731?sid=101) |
-| 17 Mar 2026 | 뉴시스 | [이란 신 정권 약해져도 오히려 강경할 듯-미 정보 평가](https://n.news.naver.com/mnews/article/003/0013826350?sid=104) |
-| 17 Mar 2026 | 이데일리 | [2030년까지 23개 특허만료 미국 바이오시밀러 시장…셀트리온-산도즈 다...](http://www.smedaily.co.kr/news/articleView.html?idxno=353726) |
-| 17 Mar 2026 | 파이낸셜뉴스 | [이상일 용인시장, 중동발 민생 위기 대응 '비상 대책 회의' 개최](https://n.news.naver.com/mnews/article/014/0005492569?sid=102) |
-| 17 Mar 2026 | 뉴스1 | [진천교육지원청, 복합적 위기학생 통합지원 본격 시동](https://n.news.naver.com/mnews/article/421/0008830173?sid=102) |
-| 17 Mar 2026 | 한국경제 | [국힘, '서울시장 경선' 오세훈 불출마 대비…박수민 의원 합류](https://n.news.naver.com/mnews/article/015/0005263207?sid=100) |
-| 17 Mar 2026 | 뉴시스 | [與한정애 "추경 속도 중요…모든 수단 동원, 민생 안정에 최선"](https://n.news.naver.com/mnews/article/003/0013826335?sid=100) |
-| 17 Mar 2026 | 파이낸셜뉴스 | [강원도, 곤충산업 거점 육성...농촌진흥청 AI 곤충 국가과제 선정](https://n.news.naver.com/mnews/article/014/0005492563?sid=102) |
-| 17 Mar 2026 | 뉴스1 | [민주당 최고위원회의 18일 진주서 개최 "지역 현안 전폭 지지"](https://n.news.naver.com/mnews/article/421/0008830158?sid=102) |
-| 17 Mar 2026 | 서울경제 | [경찰청, ‘국제 사기방지 정상회의’ 참석…국제 공조 강화](https://n.news.naver.com/mnews/article/011/0004600133?sid=102) |
+| 17 Mar 2026 | 헤럴드경제 | [거창군, 요양원 대신 ‘안방 돌봄’ 연다](https://n.news.naver.com/mnews/article/016/0002615013?sid=102) |
+| 17 Mar 2026 | 이데일리 | [신한투자증권 '생산적 금융 I : 자본 재배치의 시대' 블루북 발간](http://www.smedaily.co.kr/news/articleView.html?idxno=353775) |
+| 17 Mar 2026 | 매일경제 | [“죽을 만큼 괴로웠다”…생계 위해 청불 택한 ‘원조 아역 스타’](https://n.news.naver.com/mnews/article/009/0005651475?sid=103) |
+| 17 Mar 2026 | 아시아경제 | [철도공단, 몽골 현지 철도건설 용역 최종 보고회](https://n.news.naver.com/mnews/article/277/0005735663?sid=102) |
+| 17 Mar 2026 | 뉴시스 | [군산 청년뜰, 더본외식산업개발원과 창업지원 강화](https://n.news.naver.com/mnews/article/003/0013827434?sid=102) |
+| 17 Mar 2026 | 서울경제 | [밀싹 성분, ‘위 점액 방어막’ 튼튼하게…만성위염 잡는 천연물 신약 ...](https://n.news.naver.com/mnews/article/011/0004600233?sid=102) |
+| 17 Mar 2026 | 뉴스1 | [괴산군 기업경영인협의회, 2026년 정기총회 개최](https://n.news.naver.com/mnews/article/421/0008831109?sid=102) |
+| 17 Mar 2026 | 연합뉴스 | [경남지사 여야 후보, 민생지원금 공감…선거 전 지급 여부 주목](https://n.news.naver.com/mnews/article/001/0015964107?sid=102) |
+| 17 Mar 2026 | 머니투데이 | ['알리페이' 앤트그룹, 홍콩 증권사 인수…금융 '마지막 단추' 채웠다](https://n.news.naver.com/mnews/article/008/0005331101?sid=104) |
+| 17 Mar 2026 | 뉴시스 | [천연 재료서 만성위염 잡는 핵심성분 확인…신약 기대](https://n.news.naver.com/mnews/article/003/0013827419?sid=102) |
+| 17 Mar 2026 | 헤럴드경제 | [산청 양돈농가 ASF 확진… 돼지 5000여 마리 긴급 살처분](https://n.news.naver.com/mnews/article/016/0002615010?sid=102) |
 
 
 ---
