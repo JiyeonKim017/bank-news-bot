@@ -1,36 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-16 08:49:03` (KST)
+> **업데이트:** `2026-03-17 01:26:52` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#단독` `#중동쇼크` `#플라스틱도` `#덮쳤다폴리에틸렌` `#가격` `#인상`
+`#대응` `#강화` `#민생` `#개최` `#이야기가` `#세상`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,496.72원 |
-| **코스피 지수** | 5,549.85 |
+| **USD/KRW 환율** | 1,492.49원 |
+| **코스피 지수** | 5,674.70 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 16 Mar 2026 | 매일경제 | [[단독] 중동쇼크 플라스틱도 덮쳤다…폴리에틸렌 가격 13% 인상](https://n.news.naver.com/mnews/article/009/0005651076?sid=101) |
-| 16 Mar 2026 | 매일경제 | [[Issue Pick] “Netflix and Chill?” 넷플릭스 한국 진출 10년...글로벌 ...](https://n.news.naver.com/mnews/article/057/0001940037?sid=103) |
-| 16 Mar 2026 | 한국경제 | [TSMC 회장 출신 기용한 마이크론…글로벌 기업은 철저한 '실리' 택했다](https://n.news.naver.com/mnews/article/015/0005262955?sid=101) |
-| 16 Mar 2026 | 한국경제 | [AI·방산·에너지 핵심 공급망 포진…K기업 '이익창출 맷집' 세졌다](https://n.news.naver.com/mnews/article/015/0005262954?sid=101) |
-| 16 Mar 2026 | 헤럴드경제 | [개당 100원 믿어도 될까요?…대통령이 챙긴 ‘공공 생리대’ 반갑지만 ...](https://n.news.naver.com/mnews/article/016/0002614420?sid=102) |
-| 16 Mar 2026 | 서울경제 | [트럼프 “참여 기억할 것”엄포에도…이란 눈치보며 버티는 동맹](https://n.news.naver.com/mnews/article/011/0004599874?sid=104) |
-| 16 Mar 2026 | 비즈워치 | [황명선 최고위원 "국민연금, 투기자본과 결탁 끊어야"](https://n.news.naver.com/mnews/article/648/0000045331?sid=101) |
-| 16 Mar 2026 | 서울경제 | [美 “中, 석유 90% 얻어 도와야”…시진핑 “해양주권 사수”](https://n.news.naver.com/mnews/article/011/0004599871?sid=104) |
-| 16 Mar 2026 | 머니투데이 | [삼전닉스가 지킨 코스피 5500…"엔비디아 GTC·중동전황 주목"](https://n.news.naver.com/mnews/article/008/0005330652?sid=101) |
-| 16 Mar 2026 | 뉴스1 | [행안소위, '檢개혁 후속입법' 중수청법 17일 더 논의키로](https://n.news.naver.com/mnews/article/421/0008829264?sid=100) |
-| 16 Mar 2026 | 연합뉴스 | [연세대, 마하마 가나 대통령에 명예행정학박사 학위 수여](https://n.news.naver.com/mnews/article/001/0015962302?sid=102) |
+| 17 Mar 2026 | 헤럴드경제 | [“내 이야기가 온 세상 울릴 때까지” 교보생명 광화문글판, BTS와 세 번...](https://n.news.naver.com/mnews/article/016/0002614733?sid=101) |
+| 17 Mar 2026 | 이데일리 | [인천시, 기업안전법률 지원단 출범 "법적 대응 역량 강화"](https://n.news.naver.com/mnews/article/018/0006236945?sid=100) |
+| 17 Mar 2026 | 헤럴드경제 | [봄꽃･임산물 축제가 한 눈에](https://n.news.naver.com/mnews/article/016/0002614731?sid=101) |
+| 17 Mar 2026 | 뉴시스 | [이란 신 정권 약해져도 오히려 강경할 듯-미 정보 평가](https://n.news.naver.com/mnews/article/003/0013826350?sid=104) |
+| 17 Mar 2026 | 이데일리 | [2030년까지 23개 특허만료 미국 바이오시밀러 시장…셀트리온-산도즈 다...](http://www.smedaily.co.kr/news/articleView.html?idxno=353726) |
+| 17 Mar 2026 | 파이낸셜뉴스 | [이상일 용인시장, 중동발 민생 위기 대응 '비상 대책 회의' 개최](https://n.news.naver.com/mnews/article/014/0005492569?sid=102) |
+| 17 Mar 2026 | 뉴스1 | [진천교육지원청, 복합적 위기학생 통합지원 본격 시동](https://n.news.naver.com/mnews/article/421/0008830173?sid=102) |
+| 17 Mar 2026 | 한국경제 | [국힘, '서울시장 경선' 오세훈 불출마 대비…박수민 의원 합류](https://n.news.naver.com/mnews/article/015/0005263207?sid=100) |
+| 17 Mar 2026 | 뉴시스 | [與한정애 "추경 속도 중요…모든 수단 동원, 민생 안정에 최선"](https://n.news.naver.com/mnews/article/003/0013826335?sid=100) |
+| 17 Mar 2026 | 파이낸셜뉴스 | [강원도, 곤충산업 거점 육성...농촌진흥청 AI 곤충 국가과제 선정](https://n.news.naver.com/mnews/article/014/0005492563?sid=102) |
+| 17 Mar 2026 | 뉴스1 | [민주당 최고위원회의 18일 진주서 개최 "지역 현안 전폭 지지"](https://n.news.naver.com/mnews/article/421/0008830158?sid=102) |
+| 17 Mar 2026 | 서울경제 | [경찰청, ‘국제 사기방지 정상회의’ 참석…국제 공조 강화](https://n.news.naver.com/mnews/article/011/0004600133?sid=102) |
 
 
 ---
