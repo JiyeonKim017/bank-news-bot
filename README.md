@@ -1,37 +1,36 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-18 08:39:55` (KST)
+> **업데이트:** `2026-03-19 01:44:04` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#경기도` `#만원` `#김혜경` `#역할` `#주총날월` `#총파업`
+`#공개` `#펄어비스` `#붉은사막` `#스팀` `#글로벌` `#판매`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,488.28원 |
-| **코스피 지수** | 5,925.03 |
+| **USD/KRW 환율** | 1,498.45원 |
+| **코스피 지수** | 5,761.00 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 18 Mar 2026 | 서울경제 | [주총날…5월 총파업 칼 빼든 삼성전자 노조](https://n.news.naver.com/mnews/article/011/0004600802?sid=101) |
-| 18 Mar 2026 | 연합뉴스 | [경기도, 2030년까지 6만원 문화소비쿠폰 100만장 확대 발급](https://n.news.naver.com/mnews/article/001/0015967259?sid=102) |
-| 18 Mar 2026 | 이데일리 | [김혜경 여사, 국제백신연구소 명예회장 수락…“주어진 역할 다할 것”](https://n.news.naver.com/mnews/article/018/0006238096?sid=100) |
-| 18 Mar 2026 | 서울경제 | [“AI 도입하려면 선제적 내부통제 시스템 필요”](https://n.news.naver.com/mnews/article/011/0004600801?sid=101) |
-| 18 Mar 2026 | 이데일리 | [BNK경남은행 '김해경제포럼 활성화 지원금' 기탁](http://www.smedaily.co.kr/news/articleView.html?idxno=353932) |
-| 18 Mar 2026 | 헤럴드경제 | [“모텔 살인 김소영과 인생네컷 찍었다” 남성 등장…사진 공개](https://n.news.naver.com/mnews/article/016/0002615801?sid=102) |
-| 18 Mar 2026 | 뉴스1 | [IVI 韓후원회 명예회장된 김혜경 여사…"선한 영향력 퍼져나가도록 역할...](https://n.news.naver.com/mnews/article/421/0008834406?sid=100) |
-| 18 Mar 2026 | 한국경제 | [삼겹살 1인분 2만원 넘었다…물가 비상](https://n.news.naver.com/mnews/article/015/0005263918?sid=101) |
-| 18 Mar 2026 | 아시아경제 | [김동연, 이 대통령 부동산 사기대출 경고에 "경기도 앞장설 것"](https://n.news.naver.com/mnews/article/277/0005736447?sid=100) |
-| 18 Mar 2026 | 뉴시스 | [여수시의회 8대 마지막 임시회…10일간 추경안·조례 등 심의](https://n.news.naver.com/mnews/article/003/0013830843?sid=102) |
-| 18 Mar 2026 | 뉴시스 | [日다카이치, 호르무즈 자위대 파견 "현 시점에선 예정없어"(종합)](https://n.news.naver.com/mnews/article/003/0013830845?sid=104) |
-| 18 Mar 2026 | 헤럴드경제 | [금감원, 검사횟수 653 → 707회로 확대…수사검사 위주 강화](https://n.news.naver.com/mnews/article/016/0002615799?sid=101) |
+| 19 Mar 2026 | 뉴스1 | [펄어비스 '붉은사막' 스팀 글로벌 판매 1위…글로벌 시장 흔든다](https://n.news.naver.com/mnews/article/421/0008835487?sid=105) |
+| 19 Mar 2026 | 연합뉴스 | [[게시판] 대한건설정책연구원 개원 20주년 상징표·표어 공개](https://n.news.naver.com/mnews/article/001/0015968273?sid=101) |
+| 19 Mar 2026 | 이데일리 | [수협중앙회, 자금운용본부장 공개 채용](https://n.news.naver.com/mnews/article/018/0006238515?sid=101) |
+| 19 Mar 2026 | 연합뉴스 | [이재명 대통령, 노동정책 토론회 발언](https://n.news.naver.com/mnews/article/001/0015968270?sid=100) |
+| 19 Mar 2026 | 헤럴드경제 | [당정 “금융시장 변동성 확대…민생법안 빠른 입법 필요”](https://n.news.naver.com/mnews/article/016/0002616127?sid=100) |
+| 19 Mar 2026 | 아시아경제 | [신한투자증권, '프리미어 패스파인더' 특화 솔루션 출시](https://n.news.naver.com/mnews/article/277/0005736823?sid=101) |
+| 19 Mar 2026 | 아시아경제 | [아이스크림·과자도 가격 내린다…롯데웰푸드·빙그레 등 최대 13.4% 인하...](https://n.news.naver.com/mnews/article/277/0005736822?sid=101) |
+| 19 Mar 2026 | 헤럴드경제 | [‘한국’ 대신 ‘남한’…타이완의 뒤끝](https://n.news.naver.com/mnews/article/016/0002616124?sid=104) |
+| 19 Mar 2026 | 뉴시스 | [남해군, 외국인근로자 생활환경 개선…최대 5천만원 지원](https://n.news.naver.com/mnews/article/003/0013831966?sid=102) |
+| 19 Mar 2026 | 뉴시스 | [여한구 통상교섭본부장, 정상 경제행사 성과관리 TF 제2차 회의 주재](https://n.news.naver.com/mnews/article/003/0013831971?sid=100) |
+| 19 Mar 2026 | 이데일리 | [에스파 윈터, 삼성서울병원에 1억 원 기부](https://n.news.naver.com/mnews/article/018/0006238507?sid=102) |
 
 
 ---
