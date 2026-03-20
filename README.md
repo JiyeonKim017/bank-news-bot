@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-20 05:46:11` (KST)
+> **업데이트:** `2026-03-20 08:33:28` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#소상공인` `#방사청을` `#방사처로` `#잠수함` `#캐나다` `#뚫고`
+`#쇄신` `#광화문` `#공연` `#제주` `#일자리` `#매칭데이`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,499.48원 |
-| **코스피 지수** | 5,782.15 |
+| **USD/KRW 환율** | 1,495.19원 |
+| **코스피 지수** | 5,781.20 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 20 Mar 2026 | 파이낸셜뉴스 | ["방사청을 '방사처'로"… K-잠수함, 캐나다 뚫고 '글로벌 4강' 굳히나](https://n.news.naver.com/mnews/article/014/0005494810?sid=100) |
-| 20 Mar 2026 | 연합뉴스 | [김영록 "소상공인 '1%대 초저금리 대출' 1조원 조성"](https://n.news.naver.com/mnews/article/001/0015971500?sid=101) |
-| 20 Mar 2026 | 헤럴드경제 | [NH농협은행, 생산적 금융 집중 ‘기업금융 전문센터’ 확대 개점](https://n.news.naver.com/mnews/article/016/0002617006?sid=101) |
-| 20 Mar 2026 | 헤럴드경제 | [KB국민은행, ‘프로젝트 한강’ 2단계 참여…KG이니시스와 협업](https://n.news.naver.com/mnews/article/016/0002617008?sid=101) |
-| 20 Mar 2026 | 매일경제 | [“순천은 순천다워야 산다”…행정통합 대응 해법 제언](https://n.news.naver.com/mnews/article/009/0005653353?sid=100) |
-| 20 Mar 2026 | 한국경제 | [중동發 에너지 쇼크에 비트코인 '흔들'…금리인하 지연까지 겹악재 [이...](https://n.news.naver.com/mnews/article/015/0005264866?sid=101) |
-| 20 Mar 2026 | 뉴스1 | [박주민·박찬대 여의도 회동…"지선 승리가 李정부 성공"](https://n.news.naver.com/mnews/article/421/0008838529?sid=162) |
-| 20 Mar 2026 | 파이낸셜뉴스 | [TS-인제군, 배달 이륜차 안전교육 강화…지역경제 활성화 '맞손'](https://n.news.naver.com/mnews/article/014/0005494805?sid=101) |
-| 20 Mar 2026 | 한국경제 | [비즈넵, 英 FT '아시아·태평양 고성장 기업' 2년 연속 선정](https://magazine.hankyung.com/money/article/202603205318c) |
-| 20 Mar 2026 | 뉴시스 | [산청군 "민생안정지원금 30일부터 4월 말까지 신청"](https://n.news.naver.com/mnews/article/003/0013835261?sid=102) |
-| 20 Mar 2026 | 연합뉴스 | [익산시, 소상공인 카드수수료 '최대 120만원' 지원](https://n.news.naver.com/mnews/article/001/0015971472?sid=102) |
-| 20 Mar 2026 | 뉴시스 | [美 1월 도매재고 0.5%↓…감소 지속시 1분기 성장 하방 압력](https://n.news.naver.com/mnews/article/003/0013835259?sid=104) |
+| 20 Mar 2026 | 파이낸셜뉴스 | [제주 일자리 매칭데이 분기 정례화… 올해 첫 채용행사 25일 개최](https://n.news.naver.com/mnews/article/014/0005494916?sid=102) |
+| 20 Mar 2026 | 뉴시스 | [최태원 대한상의 회장, 내달 2일 타운홀 미팅서 '강력 쇄신 의지' 밝힌다](https://n.news.naver.com/mnews/article/003/0013835902?sid=101) |
+| 20 Mar 2026 | 이데일리 | [삼성전자·인텔서도 SK하이닉스로…우수 인재 흡수](https://n.news.naver.com/mnews/article/018/0006239588?sid=101) |
+| 20 Mar 2026 | 한국경제 | [HK영상 | '보라빛'으로 가득한 BTS 광화문 공연 D-1...'아리랑' 울리며 '...](https://n.news.naver.com/mnews/article/015/0005265007?sid=101) |
+| 20 Mar 2026 | 매일경제 | [[매경춘추] 지역화폐 진화](https://n.news.naver.com/mnews/article/009/0005653482?sid=110) |
+| 20 Mar 2026 | 헤럴드경제 | [“이제야 스스로 공부하는 법을 알게 됐어요…명문대 멘토와 함께하는...](https://n.news.naver.com/mnews/article/016/0002617110?sid=102) |
+| 20 Mar 2026 | 매일경제 | [亞 첫 유럽미생물학술원 펠로…이상엽 KAIST 특훈교수 선임](https://n.news.naver.com/mnews/article/009/0005653486?sid=105) |
+| 20 Mar 2026 | 한국경제 | [李 대통령 "중기, 실적 나쁘더라도 잠재성 있으면 적극 지원"](https://n.news.naver.com/mnews/article/015/0005264998?sid=100) |
+| 20 Mar 2026 | 머니투데이 | [상의, '보도자료·APEC' 논란 임원 4명 해임·사퇴…"조직 쇄신 최선"](https://n.news.naver.com/mnews/article/008/0005332948?sid=101) |
+| 20 Mar 2026 | 연합뉴스 | [검찰, '1조 펀드사기' 옵티머스 김재현 추징금 4.5억 추가환수](https://n.news.naver.com/mnews/article/001/0015972141?sid=102) |
+| 20 Mar 2026 | 이데일리 | [‘주가조작 의혹’ 카카오 김범수 2심 시작…“시세조종 목적 없어”](https://n.news.naver.com/mnews/article/018/0006239585?sid=102) |
+| 20 Mar 2026 | 파이낸셜뉴스 | ["BTS 광화문 공연 특수 톡톡" 인근 호텔 외국인 예약 103% 급증](https://n.news.naver.com/mnews/article/014/0005494914?sid=103) |
 
 
 ---
