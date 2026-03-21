@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-21 05:36:23` (KST)
+> **업데이트:** `2026-03-21 08:24:20` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#장동혁` `#공직후보자` `#약속` `#국힘` `#시험장` `#찾은`
+`#본회의` `#수사기소` `#분리` `#국회` `#검찰` `#중수청법`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 21 Mar 2026 | 이데일리 | [국힘 공직후보자 시험장 찾은 장동혁 "이기는 변화로 결실"](https://n.news.naver.com/mnews/article/018/0006239804?sid=100) |
-| 21 Mar 2026 | 뉴시스 | [최근 10년간 추경 13번, 평균 16.2조…전쟁추경 규모는?](https://n.news.naver.com/mnews/article/003/0013836585?sid=101) |
-| 21 Mar 2026 | 한국경제 | ["마이클 잭슨 때도 안 이랬다"…BTS 광화문 공연에 '초긴장' [현장+]](https://n.news.naver.com/mnews/article/015/0005265159?sid=103) |
-| 21 Mar 2026 | 헤럴드경제 | [中외교, 프랑스와 통화서 “중동전쟁 휴전에 한목소리 내야”](https://n.news.naver.com/mnews/article/016/0002617266?sid=104) |
-| 21 Mar 2026 | 아시아경제 | [외신도 BTS 공연 집중 보도…WSJ "단순한 음원 소비 그 이상"](https://n.news.naver.com/mnews/article/277/0005737859?sid=103) |
-| 21 Mar 2026 | 서울경제 | [해수장관 후보자 “HMM, 부산 강제 이전 아닌 자발적 이전…인센티브 마...](https://n.news.naver.com/mnews/article/011/0004601831?sid=101) |
-| 21 Mar 2026 | 한국경제 | [장동혁 "공직후보자기초자격평가, 국민의힘 변하겠다는 약속"](https://n.news.naver.com/mnews/article/015/0005265158?sid=100) |
-| 21 Mar 2026 | 헤럴드경제 | [미중정상회담 연기 기류속 트럼프 측근 30일 홍콩 방문](https://n.news.naver.com/mnews/article/016/0002617263?sid=104) |
-| 21 Mar 2026 | 매일경제 | [일본 "미일 정상회담 성공"…호르무즈는 여전히 숙제](https://n.news.naver.com/mnews/article/057/0001940856?sid=104) |
-| 21 Mar 2026 | 이데일리 | [[VC’s Pick]우주 AI부터 의약품까지…글로벌 성장 가능성에 뭉칫돈](https://n.news.naver.com/mnews/article/018/0006239796?sid=101) |
-| 21 Mar 2026 | 뉴스1 | [최은석 "이정현·이진숙과 공천 두고 모종의 거래?…있을 수 없는 일"](https://n.news.naver.com/mnews/article/421/0008839902?sid=162) |
-| 21 Mar 2026 | 연합뉴스 | [장동혁 "당 공직후보자 자격평가 시험은 국힘이 변하겠단 약속"](https://n.news.naver.com/mnews/article/001/0015972814?sid=100) |
+| 21 Mar 2026 | 헤럴드경제 | [‘수사-기소 분리’ 완성…검찰청 78년 ‘영욕의 역사’ 마침표](https://n.news.naver.com/mnews/article/016/0002617301?sid=102) |
+| 21 Mar 2026 | 매일경제 | ['수사-기소 분리' 마무리 수순⋯중수청법도 국회 본회의 통과](https://n.news.naver.com/mnews/article/057/0001940876?sid=100) |
+| 21 Mar 2026 | 뉴시스 | ["주 4일제부터 에어컨 사용 금지까지"…지구촌 에너지 절약에 사활](https://n.news.naver.com/mnews/article/003/0013836764?sid=104) |
+| 21 Mar 2026 | 헤럴드경제 | [[속보] ‘尹검찰 조작기소’ 국정조사 계획서 본회의 상정…국힘 필버 ...](https://n.news.naver.com/mnews/article/016/0002617299?sid=100) |
+| 21 Mar 2026 | 한국경제 | ["평생 간직할래요"…BTS 특별판 'K신문' 수집 열풍 [BTS in 광화문]](https://n.news.naver.com/mnews/article/015/0005265182?sid=102) |
+| 21 Mar 2026 | 아시아경제 | [공소청법 이어 중수청법도 與주도로 본회의 통과](https://n.news.naver.com/mnews/article/277/0005737883?sid=100) |
+| 21 Mar 2026 | 이데일리 | [중수청법, 與주도 국회 본회의 통과…국힘 “검찰 파괴” 반발](https://n.news.naver.com/mnews/article/018/0006239883?sid=100) |
+| 21 Mar 2026 | 서울경제 | [[BTS 콘서트] “들어가려면 청첩장 보여주세요”… 몸수색까지 당한 결...](https://n.news.naver.com/mnews/article/011/0004601850?sid=102) |
+| 21 Mar 2026 | 연합뉴스 | ['수사-기소 분리' 완성…검찰청 78년 영욕의 역사도 마침표](https://n.news.naver.com/mnews/article/001/0015972969?sid=102) |
+| 21 Mar 2026 | 뉴스1 | [중수청법 본회의 의결…필리버스터 종료 후 與 주도(종합)](https://n.news.naver.com/mnews/article/421/0008840015?sid=100) |
+| 21 Mar 2026 | 뉴시스 | [중수청법 진통 끝 통과…행안부, 개청준비단 가동](https://n.news.naver.com/mnews/article/003/0013836717?sid=100) |
+| 21 Mar 2026 | 서울경제 | [중수청법도 與주도 국회 본회의 통과...국힘 “검찰 파괴”](https://n.news.naver.com/mnews/article/011/0004601847?sid=100) |
 
 
 ---
