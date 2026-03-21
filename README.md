@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-21 01:21:13` (KST)
+> **업데이트:** `2026-03-21 05:36:23` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#쿠바` `#이란` `#외무부` `#대통령` `#협상` `#대상`
+`#장동혁` `#공직후보자` `#약속` `#국힘` `#시험장` `#찾은`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 21 Mar 2026 | 헤럴드경제 | [쿠바 외무부 “대통령 임기, 美 협상 대상 아냐”](https://n.news.naver.com/mnews/article/016/0002617227?sid=104) |
-| 21 Mar 2026 | 한국경제 | [트럼프 "군사작전 점진적 축소"…지상군 투입 '연막작전'일까 [이상은의...](https://n.news.naver.com/mnews/article/015/0005265135?sid=104) |
-| 21 Mar 2026 | 헤럴드경제 | [전쟁 4주차…美해병대 추가 파병에 이란 탄도미사일 美기지 겨냥](https://n.news.naver.com/mnews/article/016/0002617226?sid=100) |
-| 21 Mar 2026 | 조세일보 | [대구마저 흔들?…이진숙 42.7% vs 김부겸 39.5% 오차범위 내 접전](https://n.news.naver.com/mnews/article/123/0002379878?sid=100) |
-| 21 Mar 2026 | 뉴시스 | [쿠바, 미 대사관 경유 수입 허가 요청 거부](https://n.news.naver.com/mnews/article/003/0013836372?sid=104) |
-| 21 Mar 2026 | 매일경제 | ["주 4일 근무에 에어컨 금지"…유가 폭등에 각국 '덜 쓰기'](https://n.news.naver.com/mnews/article/057/0001940836?sid=104) |
-| 21 Mar 2026 | 연합뉴스 | [쿠바 외무부 "대통령 임기는 미국과 협상 대상 아냐"(종합)](https://n.news.naver.com/mnews/article/001/0015972650?sid=104) |
-| 21 Mar 2026 | 연합뉴스 | [4주째 포화…美해병대 추가 파병에 이란 탄도미사일 美기지 겨냥](https://n.news.naver.com/mnews/article/001/0015972640?sid=104) |
-| 21 Mar 2026 | 뉴시스 | ["주 4일 근무에 학교 닫고 에어컨 금지까지"…기름값 폭등에 각국 '덜 쓰...](https://n.news.naver.com/mnews/article/003/0013836367?sid=104) |
-| 21 Mar 2026 | 아시아경제 | [생산적 금융 성패 가른다…"기업 선별·인센티브 구조가 핵심"](https://n.news.naver.com/mnews/article/277/0005737828?sid=101) |
-| 21 Mar 2026 | 이데일리 | [은둔 중인 이란 최고지도자, 텔레그램 통해 신년사 발표](https://n.news.naver.com/mnews/article/018/0006239732?sid=104) |
-| 21 Mar 2026 | 뉴스1 | [김명환 제24대 해병대사령관 별세…향년 80세](https://n.news.naver.com/mnews/article/421/0008839609?sid=100) |
+| 21 Mar 2026 | 이데일리 | [국힘 공직후보자 시험장 찾은 장동혁 "이기는 변화로 결실"](https://n.news.naver.com/mnews/article/018/0006239804?sid=100) |
+| 21 Mar 2026 | 뉴시스 | [최근 10년간 추경 13번, 평균 16.2조…전쟁추경 규모는?](https://n.news.naver.com/mnews/article/003/0013836585?sid=101) |
+| 21 Mar 2026 | 한국경제 | ["마이클 잭슨 때도 안 이랬다"…BTS 광화문 공연에 '초긴장' [현장+]](https://n.news.naver.com/mnews/article/015/0005265159?sid=103) |
+| 21 Mar 2026 | 헤럴드경제 | [中외교, 프랑스와 통화서 “중동전쟁 휴전에 한목소리 내야”](https://n.news.naver.com/mnews/article/016/0002617266?sid=104) |
+| 21 Mar 2026 | 아시아경제 | [외신도 BTS 공연 집중 보도…WSJ "단순한 음원 소비 그 이상"](https://n.news.naver.com/mnews/article/277/0005737859?sid=103) |
+| 21 Mar 2026 | 서울경제 | [해수장관 후보자 “HMM, 부산 강제 이전 아닌 자발적 이전…인센티브 마...](https://n.news.naver.com/mnews/article/011/0004601831?sid=101) |
+| 21 Mar 2026 | 한국경제 | [장동혁 "공직후보자기초자격평가, 국민의힘 변하겠다는 약속"](https://n.news.naver.com/mnews/article/015/0005265158?sid=100) |
+| 21 Mar 2026 | 헤럴드경제 | [미중정상회담 연기 기류속 트럼프 측근 30일 홍콩 방문](https://n.news.naver.com/mnews/article/016/0002617263?sid=104) |
+| 21 Mar 2026 | 매일경제 | [일본 "미일 정상회담 성공"…호르무즈는 여전히 숙제](https://n.news.naver.com/mnews/article/057/0001940856?sid=104) |
+| 21 Mar 2026 | 이데일리 | [[VC’s Pick]우주 AI부터 의약품까지…글로벌 성장 가능성에 뭉칫돈](https://n.news.naver.com/mnews/article/018/0006239796?sid=101) |
+| 21 Mar 2026 | 뉴스1 | [최은석 "이정현·이진숙과 공천 두고 모종의 거래?…있을 수 없는 일"](https://n.news.naver.com/mnews/article/421/0008839902?sid=162) |
+| 21 Mar 2026 | 연합뉴스 | [장동혁 "당 공직후보자 자격평가 시험은 국힘이 변하겠단 약속"](https://n.news.naver.com/mnews/article/001/0015972814?sid=100) |
 
 
 ---
