@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-22 05:49:13` (KST)
+> **업데이트:** `2026-03-22 08:27:01` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#만원` `#대구` `#북구` `#곳곳` `#찾아가는` `#음악회`
+`#이란` `#정전` `#전쟁` `#트럼프` `#최후통첩핵시설` `#공격`
 
 ---
 
@@ -20,14 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 22 Mar 2026 | 뉴시스 | [대구 북구 곳곳 찾아가는 음악회 '행복찾음'…연중 8회](https://n.news.naver.com/mnews/article/003/0013838077?sid=102) |
-| 22 Mar 2026 | 머니투데이 | [보랏빛 광화문에 유통업계 '봄날'…편의점 김밥 1380%·건전지 50배 매출...](https://n.news.naver.com/mnews/article/008/0005333268?sid=101) |
-| 22 Mar 2026 | 뉴스1 | [李대통령표 '20조 전쟁추경' 속도전…이르면 금주 국무회의](https://n.news.naver.com/mnews/article/421/0008841295?sid=100) |
-| 22 Mar 2026 | 헤럴드경제 | [배터리 사용량 48% 늘린 비밀…LGD ‘옥사이드 1Hz’ 노트북 패널 세계 ...](https://n.news.naver.com/mnews/article/016/0002617457?sid=101) |
-| 22 Mar 2026 | 한국경제 | [김예지, 점자판 쓰며 17시간35분 필리버스터…여야 "수고했다"](https://n.news.naver.com/mnews/article/015/0005265274?sid=100) |
-| 22 Mar 2026 | 헤럴드경제 | [중동 전쟁 여파에 제조업 먹구름…4월 PSI 10개월 만에 기준치 하회](https://n.news.naver.com/mnews/article/016/0002617456?sid=101) |
-| 22 Mar 2026 | 조세일보 | [상용근로자 평균연봉 5000만원 돌파…최고·최저 업종격차 6000만원](https://n.news.naver.com/mnews/article/123/0002379900?sid=101) |
-| 22 Mar 2026 | 뉴시스 | [한동훈 "국민의힘, 숙청·징계 전문 정당 돼버려…보수 재건해야"](https://n.news.naver.com/mnews/article/003/0013838035?sid=100) |
+| 22 Mar 2026 | 뉴시스 | [이란 전쟁 22일, 트럼프 최후통첩·핵시설 공격 등 확대일로](https://n.news.naver.com/mnews/article/003/0013838259?sid=104) |
+| 22 Mar 2026 | 헤럴드경제 | [이란, 4000㎞ 밖 인도양 영·미 군사기지에 미사일 발사](https://n.news.naver.com/mnews/article/016/0002617493?sid=104) |
+| 22 Mar 2026 | 뉴스1 | [쿠바, 일주일 새 두 번째 전국 정전…美 에너지 봉쇄에 '사면초가'](https://n.news.naver.com/mnews/article/421/0008841573?sid=104) |
+| 22 Mar 2026 | 연합뉴스 | ['호르무즈 공헌' 美압박에…日, '정전 후 기뢰제거' 카드 꺼내나(종합)](https://n.news.naver.com/mnews/article/001/0015974400?sid=104) |
+| 22 Mar 2026 | 이데일리 | [차기 한은 총재에 신현송 지명…글로벌 금융위기 예측한 세계적 석학](https://n.news.naver.com/mnews/article/018/0006240429?sid=101) |
+| 22 Mar 2026 | 연합뉴스 | [행안부 등 6개 기관 "대전 안전공업 화재피해 회복에 주력"(종합)](https://n.news.naver.com/mnews/article/001/0015974398?sid=102) |
+| 22 Mar 2026 | 매일경제 | ["올여름 석유부족 사태 우려 커져 … 선제 대비를"](https://n.news.naver.com/mnews/article/009/0005654040?sid=101) |
+| 22 Mar 2026 | 매일경제 | [[기고] AI 설계하는 나라만 살아남는다](https://n.news.naver.com/mnews/article/009/0005654045?sid=110) |
+| 22 Mar 2026 | 뉴스1 | [美, 군함 3척·수천 병력 추가 파견…이란 지상군 투입 임박 관측](https://n.news.naver.com/mnews/article/421/0008841567?sid=104) |
+| 22 Mar 2026 | 파이낸셜뉴스 | [[BTS 컴백] BTS가 움직이니 상권 '들썩'…공연 특수에 웃는 유통·호텔](https://n.news.naver.com/mnews/article/014/0005495321?sid=101) |
+| 22 Mar 2026 | 조세일보 | [[인사] 재정경제부](https://n.news.naver.com/mnews/article/123/0002379903?sid=004) |
+| 22 Mar 2026 | 파이낸셜뉴스 | [여야, 중동사태 대응 뒤로하고 정쟁만](https://n.news.naver.com/mnews/article/014/0005495318?sid=100) |
 
 
 ---
