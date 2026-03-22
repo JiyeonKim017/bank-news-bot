@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-21 08:24:20` (KST)
+> **업데이트:** `2026-03-22 01:42:22` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#본회의` `#수사기소` `#분리` `#국회` `#검찰` `#중수청법`
+`#지원` `#트럼프` `#발전소` `#호르무즈` `#쏘아올린` `#컬처`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 21 Mar 2026 | 헤럴드경제 | [‘수사-기소 분리’ 완성…검찰청 78년 ‘영욕의 역사’ 마침표](https://n.news.naver.com/mnews/article/016/0002617301?sid=102) |
-| 21 Mar 2026 | 매일경제 | ['수사-기소 분리' 마무리 수순⋯중수청법도 국회 본회의 통과](https://n.news.naver.com/mnews/article/057/0001940876?sid=100) |
-| 21 Mar 2026 | 뉴시스 | ["주 4일제부터 에어컨 사용 금지까지"…지구촌 에너지 절약에 사활](https://n.news.naver.com/mnews/article/003/0013836764?sid=104) |
-| 21 Mar 2026 | 헤럴드경제 | [[속보] ‘尹검찰 조작기소’ 국정조사 계획서 본회의 상정…국힘 필버 ...](https://n.news.naver.com/mnews/article/016/0002617299?sid=100) |
-| 21 Mar 2026 | 한국경제 | ["평생 간직할래요"…BTS 특별판 'K신문' 수집 열풍 [BTS in 광화문]](https://n.news.naver.com/mnews/article/015/0005265182?sid=102) |
-| 21 Mar 2026 | 아시아경제 | [공소청법 이어 중수청법도 與주도로 본회의 통과](https://n.news.naver.com/mnews/article/277/0005737883?sid=100) |
-| 21 Mar 2026 | 이데일리 | [중수청법, 與주도 국회 본회의 통과…국힘 “검찰 파괴” 반발](https://n.news.naver.com/mnews/article/018/0006239883?sid=100) |
-| 21 Mar 2026 | 서울경제 | [[BTS 콘서트] “들어가려면 청첩장 보여주세요”… 몸수색까지 당한 결...](https://n.news.naver.com/mnews/article/011/0004601850?sid=102) |
-| 21 Mar 2026 | 연합뉴스 | ['수사-기소 분리' 완성…검찰청 78년 영욕의 역사도 마침표](https://n.news.naver.com/mnews/article/001/0015972969?sid=102) |
-| 21 Mar 2026 | 뉴스1 | [중수청법 본회의 의결…필리버스터 종료 후 與 주도(종합)](https://n.news.naver.com/mnews/article/421/0008840015?sid=100) |
-| 21 Mar 2026 | 뉴시스 | [중수청법 진통 끝 통과…행안부, 개청준비단 가동](https://n.news.naver.com/mnews/article/003/0013836717?sid=100) |
-| 21 Mar 2026 | 서울경제 | [중수청법도 與주도 국회 본회의 통과...국힘 “검찰 파괴”](https://n.news.naver.com/mnews/article/011/0004601847?sid=100) |
+| 22 Mar 2026 | 머니투데이 | ["BTS가 쏘아올린 K-컬처"… 수출입은행, 5년간 28조원 지원](https://n.news.naver.com/mnews/article/008/0005333203?sid=101) |
+| 22 Mar 2026 | 매일경제 | [“제 본명 걸고 사업했다가 재벌에게 소송당했습니다”…산업계 뒤흔드...](https://n.news.naver.com/mnews/article/009/0005653897?sid=103) |
+| 22 Mar 2026 | 서울경제 | [내가 제안한 정책이 민주당 공약으로?…‘착!붙 프로젝트’ 출범](https://n.news.naver.com/mnews/article/011/0004601936?sid=100) |
+| 22 Mar 2026 | 서울경제 | [‘중고거래’까지 침투한 해외 범죄 조직…경찰, 집중단속 돌입](https://n.news.naver.com/mnews/article/011/0004601934?sid=102) |
+| 22 Mar 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 10:30](https://n.news.naver.com/mnews/article/001/0015973846?sid=100) |
+| 22 Mar 2026 | 한국경제 | [中 발전포럼 개막…이재용·팀쿡 등 글로벌 CEO 집결](https://n.news.naver.com/mnews/article/050/0000103851?sid=101) |
+| 22 Mar 2026 | 한국경제 | [트럼프, 이란 발전소 '초토화' 경고..."48시간 내 호르무즈 개방하라"](https://n.news.naver.com/mnews/article/050/0000103850?sid=101) |
+| 22 Mar 2026 | 뉴시스 | [정선군, 올해 첫 추경 6677억 편성…"민생경제 최우선"](https://n.news.naver.com/mnews/article/003/0013837579?sid=102) |
+| 22 Mar 2026 | 파이낸셜뉴스 | [춘천시 청년 '2배 적금' 지원... 3년 만기 720만원 목돈 마련](https://n.news.naver.com/mnews/article/014/0005495182?sid=102) |
+| 22 Mar 2026 | 연합뉴스 | [트럼프, 이란에 '48시간' 주며 "호르무즈 안열면 발전소 초토화"(종합)](https://n.news.naver.com/mnews/article/001/0015973839?sid=104) |
+| 22 Mar 2026 | 헤럴드경제 | [한국앤컴퍼니그룹, 임직원 맞춤형 건강관리 프로그램 운영](https://n.news.naver.com/mnews/article/016/0002617399?sid=101) |
+| 22 Mar 2026 | 조세일보 | [박홍근 후보 "부동산 불로소득 혁파...추경, 초과세수로 조달"](https://n.news.naver.com/mnews/article/123/0002379895?sid=100) |
 
 
 ---
