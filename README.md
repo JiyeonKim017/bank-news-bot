@@ -1,37 +1,35 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-23 01:44:05` (KST)
+> **업데이트:** `2026-03-23 06:06:37` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#서울시장` `#후보` `#화성시` `#신혼부부다자녀가구` `#주택자금` `#대출이자`
+`#환율` `#올해는` `#서해` `#꽃게` `#지킬` `#있을까`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,510.58원 |
-| **코스피 지수** | 5,487.91 |
+| **USD/KRW 환율** | 1,512.98원 |
+| **코스피 지수** | 5,419.45 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 23 Mar 2026 | 연합뉴스 | [화성시, 신혼부부·다자녀가구 주택자금 대출이자 지원](https://n.news.naver.com/mnews/article/001/0015975300?sid=102) |
-| 23 Mar 2026 | 머니투데이 | [입지·인센티브 모두 꺼냈다…광명시, 앵커기업 유치 총력전](https://n.news.naver.com/mnews/article/008/0005333555?sid=102) |
-| 23 Mar 2026 | 이데일리 | ["과자봉지용 접착제 없어 큰일입니다" "포장재없어 공장문 닫을 지경이...](http://www.smedaily.co.kr/news/articleView.html?idxno=354185) |
-| 23 Mar 2026 | 매일경제 | [국힘 서울시장 후보 오세훈·박수민·윤희숙 3인 경선…이상규 등 3인 컷...](https://n.news.naver.com/mnews/article/009/0005654322?sid=100) |
-| 23 Mar 2026 | 헤럴드경제 | [영등포구 신길5동 자투리땅 96면 주차장 조성](https://n.news.naver.com/mnews/article/016/0002617797?sid=102) |
-| 23 Mar 2026 | 연합뉴스 | [비상경제대책회의 참석하는 오세훈 서울시장](https://n.news.naver.com/mnews/article/001/0015975298?sid=104) |
-| 23 Mar 2026 | 매일경제 | [이 대통령, WSJ 편집장 만난다…코리아 프리미엄 강조할 듯](https://n.news.naver.com/mnews/article/009/0005654320?sid=100) |
-| 23 Mar 2026 | 헤럴드경제 | [생후 2개월 딸 두고 술 마시러 간 20대 미혼모, 새벽 귀가해보니…](https://n.news.naver.com/mnews/article/016/0002617796?sid=102) |
-| 23 Mar 2026 | 머니투데이 | [삼진제약, 스페셜티케어 신임 지부장에 서영현 이사 영입](https://n.news.naver.com/mnews/article/008/0005333553?sid=101) |
-| 23 Mar 2026 | 아시아경제 | [“이란의 걸프국가 담수화시설 공격이 초래할 위험”-CSIS](https://n.news.naver.com/mnews/article/277/0005738412?sid=101) |
-| 23 Mar 2026 | 서울경제 | [BIS “신현송, 훌륭한 한은 총재 후보”](https://n.news.naver.com/mnews/article/011/0004602282?sid=101) |
-| 23 Mar 2026 | 뉴스1 | [코스피 5% 급락·환율 1510원…중동전쟁 격화에 '증시 충격'[장중시황]](https://n.news.naver.com/mnews/article/421/0008842431?sid=101) |
+| 23 Mar 2026 | 헤럴드경제 | [올해는 서해 꽃게 지킬 수 있을까? 中, 5월부터 자국 불법조업어선 처벌...](https://n.news.naver.com/mnews/article/016/0002618076?sid=104) |
+| 23 Mar 2026 | 헤럴드경제 | [IEA총장 “현 에너지위기, 두차례 오일쇼크·우크라戰 합친 것만큼 심각...](https://n.news.naver.com/mnews/article/016/0002618075?sid=104) |
+| 23 Mar 2026 | 이데일리 | [KG 모빌리티 무쏘 '양평 단월 고로쇠축제'와 함께](http://www.smedaily.co.kr/news/articleView.html?idxno=354220) |
+| 23 Mar 2026 | 매일경제 | [천하람 "집행유예 '사면' 표기는 선거법 위반"…박홍근 "불찰"](https://n.news.naver.com/mnews/article/057/0001941098?sid=100) |
+| 23 Mar 2026 | 파이낸셜뉴스 | [DDP '비더비' 뷰티테크 테스트베드 참여기업 모집](https://n.news.naver.com/mnews/article/014/0005495846?sid=101) |
+| 23 Mar 2026 | 뉴스1 | [KB금융공익재단, 법무부와 '순직·공상공무원 자녀' 지원 맞손](https://n.news.naver.com/mnews/article/421/0008843368?sid=101) |
+| 23 Mar 2026 | 아시아경제 | [강수현 시장 “광석지구는 준비된 '경마장 부지'…경기북부 경제 재도약...](https://n.news.naver.com/mnews/article/277/0005738647?sid=102) |
+| 23 Mar 2026 | 뉴스1 | [영풍 석포제련소, '제련 잔재물 미처리'로 과징금 행정처분 받아](https://n.news.naver.com/mnews/article/421/0008843366?sid=101) |
+| 23 Mar 2026 | 한국경제 | [원·달러 환율 1500원 시대…코어16 'AI 환율 예측' 시스템 출시](https://n.news.naver.com/mnews/article/015/0005265678?sid=101) |
+| 23 Mar 2026 | 뉴시스 | [전북도, 현대차그룹 투자협약 이행 전담 지원체계 가동](https://n.news.naver.com/mnews/article/003/0013840179?sid=102) |
 
 
 ---
