@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-22 08:27:01` (KST)
+> **업데이트:** `2026-03-23 01:44:05` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#이란` `#정전` `#전쟁` `#트럼프` `#최후통첩핵시설` `#공격`
+`#서울시장` `#후보` `#화성시` `#신혼부부다자녀가구` `#주택자금` `#대출이자`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,504.83원 |
-| **코스피 지수** | 5,781.20 |
+| **USD/KRW 환율** | 1,510.58원 |
+| **코스피 지수** | 5,487.91 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 22 Mar 2026 | 뉴시스 | [이란 전쟁 22일, 트럼프 최후통첩·핵시설 공격 등 확대일로](https://n.news.naver.com/mnews/article/003/0013838259?sid=104) |
-| 22 Mar 2026 | 헤럴드경제 | [이란, 4000㎞ 밖 인도양 영·미 군사기지에 미사일 발사](https://n.news.naver.com/mnews/article/016/0002617493?sid=104) |
-| 22 Mar 2026 | 뉴스1 | [쿠바, 일주일 새 두 번째 전국 정전…美 에너지 봉쇄에 '사면초가'](https://n.news.naver.com/mnews/article/421/0008841573?sid=104) |
-| 22 Mar 2026 | 연합뉴스 | ['호르무즈 공헌' 美압박에…日, '정전 후 기뢰제거' 카드 꺼내나(종합)](https://n.news.naver.com/mnews/article/001/0015974400?sid=104) |
-| 22 Mar 2026 | 이데일리 | [차기 한은 총재에 신현송 지명…글로벌 금융위기 예측한 세계적 석학](https://n.news.naver.com/mnews/article/018/0006240429?sid=101) |
-| 22 Mar 2026 | 연합뉴스 | [행안부 등 6개 기관 "대전 안전공업 화재피해 회복에 주력"(종합)](https://n.news.naver.com/mnews/article/001/0015974398?sid=102) |
-| 22 Mar 2026 | 매일경제 | ["올여름 석유부족 사태 우려 커져 … 선제 대비를"](https://n.news.naver.com/mnews/article/009/0005654040?sid=101) |
-| 22 Mar 2026 | 매일경제 | [[기고] AI 설계하는 나라만 살아남는다](https://n.news.naver.com/mnews/article/009/0005654045?sid=110) |
-| 22 Mar 2026 | 뉴스1 | [美, 군함 3척·수천 병력 추가 파견…이란 지상군 투입 임박 관측](https://n.news.naver.com/mnews/article/421/0008841567?sid=104) |
-| 22 Mar 2026 | 파이낸셜뉴스 | [[BTS 컴백] BTS가 움직이니 상권 '들썩'…공연 특수에 웃는 유통·호텔](https://n.news.naver.com/mnews/article/014/0005495321?sid=101) |
-| 22 Mar 2026 | 조세일보 | [[인사] 재정경제부](https://n.news.naver.com/mnews/article/123/0002379903?sid=004) |
-| 22 Mar 2026 | 파이낸셜뉴스 | [여야, 중동사태 대응 뒤로하고 정쟁만](https://n.news.naver.com/mnews/article/014/0005495318?sid=100) |
+| 23 Mar 2026 | 연합뉴스 | [화성시, 신혼부부·다자녀가구 주택자금 대출이자 지원](https://n.news.naver.com/mnews/article/001/0015975300?sid=102) |
+| 23 Mar 2026 | 머니투데이 | [입지·인센티브 모두 꺼냈다…광명시, 앵커기업 유치 총력전](https://n.news.naver.com/mnews/article/008/0005333555?sid=102) |
+| 23 Mar 2026 | 이데일리 | ["과자봉지용 접착제 없어 큰일입니다" "포장재없어 공장문 닫을 지경이...](http://www.smedaily.co.kr/news/articleView.html?idxno=354185) |
+| 23 Mar 2026 | 매일경제 | [국힘 서울시장 후보 오세훈·박수민·윤희숙 3인 경선…이상규 등 3인 컷...](https://n.news.naver.com/mnews/article/009/0005654322?sid=100) |
+| 23 Mar 2026 | 헤럴드경제 | [영등포구 신길5동 자투리땅 96면 주차장 조성](https://n.news.naver.com/mnews/article/016/0002617797?sid=102) |
+| 23 Mar 2026 | 연합뉴스 | [비상경제대책회의 참석하는 오세훈 서울시장](https://n.news.naver.com/mnews/article/001/0015975298?sid=104) |
+| 23 Mar 2026 | 매일경제 | [이 대통령, WSJ 편집장 만난다…코리아 프리미엄 강조할 듯](https://n.news.naver.com/mnews/article/009/0005654320?sid=100) |
+| 23 Mar 2026 | 헤럴드경제 | [생후 2개월 딸 두고 술 마시러 간 20대 미혼모, 새벽 귀가해보니…](https://n.news.naver.com/mnews/article/016/0002617796?sid=102) |
+| 23 Mar 2026 | 머니투데이 | [삼진제약, 스페셜티케어 신임 지부장에 서영현 이사 영입](https://n.news.naver.com/mnews/article/008/0005333553?sid=101) |
+| 23 Mar 2026 | 아시아경제 | [“이란의 걸프국가 담수화시설 공격이 초래할 위험”-CSIS](https://n.news.naver.com/mnews/article/277/0005738412?sid=101) |
+| 23 Mar 2026 | 서울경제 | [BIS “신현송, 훌륭한 한은 총재 후보”](https://n.news.naver.com/mnews/article/011/0004602282?sid=101) |
+| 23 Mar 2026 | 뉴스1 | [코스피 5% 급락·환율 1510원…중동전쟁 격화에 '증시 충격'[장중시황]](https://n.news.naver.com/mnews/article/421/0008842431?sid=101) |
 
 
 ---
