@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-27 08:42:44` (KST)
+> **업데이트:** `2026-03-28 01:28:10` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#이상보` `#사망` `#소식에소속사` `#상황` `#파악` `#공식`
+`#환율` `#돌파` `#한국` `#담뱃값` `#싸도` `#너무`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,506.39원 |
+| **USD/KRW 환율** | 1,508.36원 |
 | **코스피 지수** | 5,438.87 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 27 Mar 2026 | 매일경제 | [이상보 사망 소식에...소속사 “상황 파악 중” [공식]](https://m.entertain.naver.com/article/009/0005657285) |
-| 27 Mar 2026 | 머니투데이 | [[신간]"낡은 규칙 파괴하면 100배 수익도 가능", 데이비드 가드너의 주식...](https://n.news.naver.com/mnews/article/008/0005336286?sid=101) |
-| 27 Mar 2026 | 한국경제 | ["4월 9일" "14일 이후"…여야 '25조 추경' 처리 시기 충돌](https://n.news.naver.com/mnews/article/015/0005267957?sid=100) |
-| 27 Mar 2026 | 서울경제 | [정부 ‘상시 점검반’ 가동…“外人 자금 쏠림현상 대비” [韓, WGBI 편입...](https://n.news.naver.com/mnews/article/011/0004604256?sid=101) |
-| 27 Mar 2026 | 연합뉴스 | [위기의 시대 저널리즘 역할은…세계기자대회 30일 개막](https://n.news.naver.com/mnews/article/001/0015986762?sid=102) |
-| 27 Mar 2026 | 뉴시스 | [박완수 도지사 "경남 관광, 투자·규제·교통 풀어 키운다"](https://n.news.naver.com/mnews/article/003/0013850946?sid=102) |
-| 27 Mar 2026 | 한국경제 | [중동산 헬륨 끊기면 반도체 위태…항공사 '알짜 노선'도 포기](https://n.news.naver.com/mnews/article/015/0005267952?sid=101) |
-| 27 Mar 2026 | 연합뉴스 | [래퍼 출신 최연소 네팔총리 취임…작년 'Z세대 시위'로 정권교체](https://n.news.naver.com/mnews/article/001/0015986758?sid=104) |
-| 27 Mar 2026 | 뉴시스 | [재선도전 정명근 화성시장, 예비후보 등록…"성과로 답"[6·3경기]](https://n.news.naver.com/mnews/article/003/0013850942?sid=102) |
-| 27 Mar 2026 | 서울경제 | [단숨에 환율 안정 기대는 금물…“산업 체질 개선 서둘러라” [韓, WGBI ...](https://n.news.naver.com/mnews/article/011/0004604253?sid=101) |
-| 27 Mar 2026 | 뉴스1 | [코레일, 중동발 자원위기 대응 전사 위기관리 체계 강화](https://n.news.naver.com/mnews/article/421/0008854048?sid=102) |
-| 27 Mar 2026 | 뉴스1 | [[인사] 한국경제TV](https://n.news.naver.com/mnews/article/421/0008854047?sid=102) |
+| 28 Mar 2026 | 서울경제 | [“한국 담뱃값, 싸도 너무 싸잖아”...‘4500원→1만원’ 인상 추진](https://n.news.naver.com/mnews/article/011/0004604411?sid=101) |
+| 28 Mar 2026 | 헤럴드경제 | [이제 ‘BTS의 시대’…英 오피셜 앨범 차트 1위·‘스윔’ 2위](https://n.news.naver.com/mnews/article/016/0002620872?sid=103) |
+| 28 Mar 2026 | 헤럴드경제 | [운전대 잡은 오세훈 “3.4조 도로 지하화, 세금 아닌 공공기여금으로 추...](https://n.news.naver.com/mnews/article/016/0002620869?sid=102) |
+| 28 Mar 2026 | 머니투데이 | [조현, G7 외교장관 회의서 UN·WTO 개혁 필요성 강조](https://n.news.naver.com/mnews/article/008/0005336408?sid=100) |
+| 28 Mar 2026 | 연합뉴스 | [울주 온산 도시재생사업 '온산콘서트' 개최…"상권 활성화"](https://n.news.naver.com/mnews/article/001/0015987173?sid=102) |
+| 28 Mar 2026 | 아시아경제 | [엔·달러 환율, 1년 8개월 만에 160엔 돌파](https://n.news.naver.com/mnews/article/277/0005741425?sid=101) |
+| 28 Mar 2026 | 이데일리 | [이란 전쟁 여파에 엔저 심화…달러·엔 환율 160엔 돌파](https://n.news.naver.com/mnews/article/018/0006244680?sid=101) |
+| 28 Mar 2026 | 매일경제 | [‘계곡 살인’ 이은해 검거 풀스토리...보험금 8억 노린 악마의 시나리...](https://m.entertain.naver.com/article/410/0001117728) |
+| 28 Mar 2026 | 파이낸셜뉴스 | ["여보, 애 학원비 긁다가 우리 노후 파산했어"… 49.3세 사직서가 마주...](https://n.news.naver.com/mnews/article/014/0005498700?sid=101) |
+| 28 Mar 2026 | 매일경제 | [“초등 읽기·쓰기가 평생 소득 결정한다” [초보엄마 잡학사전]](https://n.news.naver.com/mnews/article/009/0005657428?sid=102) |
+| 28 Mar 2026 | 아시아경제 | [4.5세대 KF-21 늘리기가 답인가[양낙규의 Defence Club]](https://n.news.naver.com/mnews/article/277/0005741422?sid=100) |
+| 28 Mar 2026 | 한국경제 | [한국미스미, 국제포장기자재전 참가](https://magazine.hankyung.com/money/article/202603271474c) |
 
 
 ---
