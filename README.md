@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-28 01:28:10` (KST)
+> **업데이트:** `2026-03-28 05:52:33` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#환율` `#돌파` `#한국` `#담뱃값` `#싸도` `#너무`
+`#인상` `#부담금` `#검토` `#경복궁서` `#새벽` `#화재자선당`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 28 Mar 2026 | 서울경제 | [“한국 담뱃값, 싸도 너무 싸잖아”...‘4500원→1만원’ 인상 추진](https://n.news.naver.com/mnews/article/011/0004604411?sid=101) |
-| 28 Mar 2026 | 헤럴드경제 | [이제 ‘BTS의 시대’…英 오피셜 앨범 차트 1위·‘스윔’ 2위](https://n.news.naver.com/mnews/article/016/0002620872?sid=103) |
-| 28 Mar 2026 | 헤럴드경제 | [운전대 잡은 오세훈 “3.4조 도로 지하화, 세금 아닌 공공기여금으로 추...](https://n.news.naver.com/mnews/article/016/0002620869?sid=102) |
-| 28 Mar 2026 | 머니투데이 | [조현, G7 외교장관 회의서 UN·WTO 개혁 필요성 강조](https://n.news.naver.com/mnews/article/008/0005336408?sid=100) |
-| 28 Mar 2026 | 연합뉴스 | [울주 온산 도시재생사업 '온산콘서트' 개최…"상권 활성화"](https://n.news.naver.com/mnews/article/001/0015987173?sid=102) |
-| 28 Mar 2026 | 아시아경제 | [엔·달러 환율, 1년 8개월 만에 160엔 돌파](https://n.news.naver.com/mnews/article/277/0005741425?sid=101) |
-| 28 Mar 2026 | 이데일리 | [이란 전쟁 여파에 엔저 심화…달러·엔 환율 160엔 돌파](https://n.news.naver.com/mnews/article/018/0006244680?sid=101) |
-| 28 Mar 2026 | 매일경제 | [‘계곡 살인’ 이은해 검거 풀스토리...보험금 8억 노린 악마의 시나리...](https://m.entertain.naver.com/article/410/0001117728) |
-| 28 Mar 2026 | 파이낸셜뉴스 | ["여보, 애 학원비 긁다가 우리 노후 파산했어"… 49.3세 사직서가 마주...](https://n.news.naver.com/mnews/article/014/0005498700?sid=101) |
-| 28 Mar 2026 | 매일경제 | [“초등 읽기·쓰기가 평생 소득 결정한다” [초보엄마 잡학사전]](https://n.news.naver.com/mnews/article/009/0005657428?sid=102) |
-| 28 Mar 2026 | 아시아경제 | [4.5세대 KF-21 늘리기가 답인가[양낙규의 Defence Club]](https://n.news.naver.com/mnews/article/277/0005741422?sid=100) |
-| 28 Mar 2026 | 한국경제 | [한국미스미, 국제포장기자재전 참가](https://magazine.hankyung.com/money/article/202603271474c) |
+| 28 Mar 2026 | 헤럴드경제 | [경복궁서 새벽 화재…자선당 문 일부 불에 타](https://n.news.naver.com/mnews/article/016/0002620915?sid=103) |
+| 28 Mar 2026 | 매일경제 | [걸프국, '이란 공격력 억제' 요구…에너지 공급 무기화되지 않아야](https://n.news.naver.com/mnews/article/057/0001942005?sid=104) |
+| 28 Mar 2026 | 파이낸셜뉴스 | ["차별금지법 반대" 서울 도심서 집회 연 거룩한파제 준비위](https://n.news.naver.com/mnews/article/014/0005498728?sid=102) |
+| 28 Mar 2026 | 한국경제 | [[속보]“술·담뱃값 인상 계획 없다”…복지부, 부담금 부과 ‘선긋기’](https://n.news.naver.com/mnews/article/050/0000104241?sid=101) |
+| 28 Mar 2026 | 연합뉴스 | [강원도, 중동사태 대응 민생대책 가동…"물가 잡고 자금은 푼다"](https://n.news.naver.com/mnews/article/001/0015987290?sid=102) |
+| 28 Mar 2026 | 매일경제 | ["담뱃값 1만원되나?"…정부 "현재 인상 검토 안 해" 진화](https://n.news.naver.com/mnews/article/057/0001942001?sid=102) |
+| 28 Mar 2026 | 파이낸셜뉴스 | [담배와 술에 부담금? 복지부 "검토 안해" 확대 해석 경계](https://n.news.naver.com/mnews/article/014/0005498726?sid=102) |
+| 28 Mar 2026 | 이데일리 | [영덕군, 신규 원자력발전소 유치 신청서 공식 제출](https://n.news.naver.com/mnews/article/018/0006244735?sid=100) |
+| 28 Mar 2026 | 연합뉴스 | [[게시판] 서비스마케팅학회, 2026 춘계학술대회 개최](https://n.news.naver.com/mnews/article/001/0015987286?sid=103) |
+| 28 Mar 2026 | 이데일리 | [연봉보다 많은 SK하이닉스 성과급, 보너스일까 임금일까?](https://n.news.naver.com/mnews/article/018/0006244727?sid=102) |
+| 28 Mar 2026 | 서울경제 | [“ㄷㅇㅌㅁ 처방 꿀팁 공유합니다”…1020 일상 ‘마약주의보’[사건플...](https://n.news.naver.com/mnews/article/011/0004604430?sid=102) |
+| 28 Mar 2026 | 헤럴드경제 | [“300억→2600억원 됐다”…초호화 캐스팅 대박난 ‘그 영화’를 닮은 ...](https://n.news.naver.com/mnews/article/016/0002620910?sid=103) |
 
 
 ---
