@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-29 06:08:35` (KST)
+> **업데이트:** `2026-03-29 08:33:05` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#총리` `#생필품` `#수급` `#선제` `#자영업자` `#대출`
+`#이병규` `#문화일보` `#명예회장으로` `#밸류체인` `#올라타자` `#판도`
 
 ---
 
@@ -20,18 +20,17 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 29 Mar 2026 | 뉴스1 | [자영업자 대출 잔액 '역대 최대'…금리 0.25%p 오르면 이자 부담 1.8조↑](https://n.news.naver.com/mnews/article/421/0008855759?sid=101) |
-| 29 Mar 2026 | 헤럴드경제 | [“이제 한강 치맥도 못하나” 닭고기값 16% 뛰었다](https://n.news.naver.com/mnews/article/016/0002621065?sid=101) |
-| 29 Mar 2026 | 아시아경제 | [조국, 추경에 '출퇴근 대중교통 한시 무료화' 포함 제안](https://n.news.naver.com/mnews/article/277/0005741615?sid=100) |
-| 29 Mar 2026 | 이데일리 | [25조 추경 처리 두고...여야, "빨리하자" vs "졸속심사" 본격 기싸움](https://n.news.naver.com/mnews/article/018/0006244978?sid=162) |
-| 29 Mar 2026 | 연합뉴스 | [비트코인 5억원 빼돌리고 사기 피해금 세탁한 조폭 징역 8년](https://n.news.naver.com/mnews/article/001/0015988385?sid=102) |
-| 29 Mar 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 15:00](https://n.news.naver.com/mnews/article/001/0015988383?sid=102) |
-| 29 Mar 2026 | 한국경제 | [김민석 총리 "생필품 수급 선제 대처"…비상경제대응 지원반 '추가' 설치](https://n.news.naver.com/mnews/article/015/0005268201?sid=100) |
-| 29 Mar 2026 | 뉴스1 | [중동발 리스크에…해외 도박사들, 韓 경제 '저성장·금리 인상' 돈 걸었...](https://n.news.naver.com/mnews/article/421/0008855721?sid=101) |
-| 29 Mar 2026 | 매일경제 | [이란발 에너지 위기에…산은·수은·석유公 긴급 기관장 간담회](https://n.news.naver.com/mnews/article/009/0005657620?sid=101) |
-| 29 Mar 2026 | 한국경제 | [드론 불꽃쇼에 '스토리 서커스'까지…에버랜드 공연 탈바꿈](https://n.news.naver.com/mnews/article/015/0005268199?sid=103) |
-| 29 Mar 2026 | 뉴시스 | [김 총리 "국민 생필품 수급 차질 선제 대처…비상경제본부 기능 강화"](https://n.news.naver.com/mnews/article/003/0013852642?sid=100) |
-| 29 Mar 2026 | 매일경제 | [“5부제로 덜 타는데 차보험료 깎죠?”…금융당국, 보험사에 요청](https://n.news.naver.com/mnews/article/009/0005657616?sid=101) |
+| 29 Mar 2026 | 한국경제 | [이병규, 문화일보 명예회장으로](https://n.news.naver.com/mnews/article/015/0005268265?sid=102) |
+| 29 Mar 2026 | 서울경제 | [“AI 밸류체인 올라타자”…M&amp;A 판도 바뀐다[시그널]](https://n.news.naver.com/mnews/article/011/0004604597?sid=101) |
+| 29 Mar 2026 | 매일경제 | ["다양한 공격 옵션, 양손잡이라 가능"](https://m.sports.naver.com/general/article/009/0005657729) |
+| 29 Mar 2026 | 한국경제 | [[이 아침의 미술가] 깨진 소주병 샹들리에 위태로운 도시를 말하다](https://n.news.naver.com/mnews/article/015/0005268259?sid=103) |
+| 29 Mar 2026 | 서울경제 | [“돈 싸들고 가도 못 구해”…인테리어 업계 덮친 자재난](https://n.news.naver.com/mnews/article/011/0004604595?sid=102) |
+| 29 Mar 2026 | 매일경제 | [K바이오에 '봄바람'… 뚝심의 기업가정신으로 끝까지 가보자](https://n.news.naver.com/mnews/article/009/0005657721?sid=105) |
+| 29 Mar 2026 | 헤럴드경제 | [광주전남벤처기업협회 ‘행정통합·AI시대 기업 대응 방안’ 모색](https://n.news.naver.com/mnews/article/016/0002621095?sid=102) |
+| 29 Mar 2026 | 헤럴드경제 | [‘대구시장 출마’ 김부겸, 30일 부친 주거지에 전입신고](https://n.news.naver.com/mnews/article/016/0002621094?sid=102) |
+| 29 Mar 2026 | 뉴시스 | [평창 모나용평·삼양라운드힐, 우수 웰니스 관광지에 선정](https://n.news.naver.com/mnews/article/003/0013852857?sid=102) |
+| 29 Mar 2026 | 뉴시스 | [평창군 "신재생에너지 주택 지원, 내달 14~15일 신청"](https://n.news.naver.com/mnews/article/003/0013852854?sid=102) |
+| 29 Mar 2026 | 파이낸셜뉴스 | ['말보다 실력'... 김동연, 자영업자·기업인 등 각계각층 '릴레이 지지'...](https://n.news.naver.com/mnews/article/014/0005498951?sid=102) |
 
 
 ---
