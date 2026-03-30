@@ -1,36 +1,35 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-29 08:33:05` (KST)
+> **업데이트:** `2026-03-30 01:52:34` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#이병규` `#문화일보` `#명예회장으로` `#밸류체인` `#올라타자` `#판도`
+`#공개` `#신한` `#패스파인더` `#인사이트` `#콘텐츠` `#분기`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,508.36원 |
-| **코스피 지수** | 5,438.87 |
+| **USD/KRW 환율** | 1,513.48원 |
+| **코스피 지수** | 5,211.89 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 29 Mar 2026 | 한국경제 | [이병규, 문화일보 명예회장으로](https://n.news.naver.com/mnews/article/015/0005268265?sid=102) |
-| 29 Mar 2026 | 서울경제 | [“AI 밸류체인 올라타자”…M&amp;A 판도 바뀐다[시그널]](https://n.news.naver.com/mnews/article/011/0004604597?sid=101) |
-| 29 Mar 2026 | 매일경제 | ["다양한 공격 옵션, 양손잡이라 가능"](https://m.sports.naver.com/general/article/009/0005657729) |
-| 29 Mar 2026 | 한국경제 | [[이 아침의 미술가] 깨진 소주병 샹들리에 위태로운 도시를 말하다](https://n.news.naver.com/mnews/article/015/0005268259?sid=103) |
-| 29 Mar 2026 | 서울경제 | [“돈 싸들고 가도 못 구해”…인테리어 업계 덮친 자재난](https://n.news.naver.com/mnews/article/011/0004604595?sid=102) |
-| 29 Mar 2026 | 매일경제 | [K바이오에 '봄바람'… 뚝심의 기업가정신으로 끝까지 가보자](https://n.news.naver.com/mnews/article/009/0005657721?sid=105) |
-| 29 Mar 2026 | 헤럴드경제 | [광주전남벤처기업협회 ‘행정통합·AI시대 기업 대응 방안’ 모색](https://n.news.naver.com/mnews/article/016/0002621095?sid=102) |
-| 29 Mar 2026 | 헤럴드경제 | [‘대구시장 출마’ 김부겸, 30일 부친 주거지에 전입신고](https://n.news.naver.com/mnews/article/016/0002621094?sid=102) |
-| 29 Mar 2026 | 뉴시스 | [평창 모나용평·삼양라운드힐, 우수 웰니스 관광지에 선정](https://n.news.naver.com/mnews/article/003/0013852857?sid=102) |
-| 29 Mar 2026 | 뉴시스 | [평창군 "신재생에너지 주택 지원, 내달 14~15일 신청"](https://n.news.naver.com/mnews/article/003/0013852854?sid=102) |
-| 29 Mar 2026 | 파이낸셜뉴스 | ['말보다 실력'... 김동연, 자영업자·기업인 등 각계각층 '릴레이 지지'...](https://n.news.naver.com/mnews/article/014/0005498951?sid=102) |
+| 30 Mar 2026 | 한국경제 | [‘신한 Premier 패스파인더 인사이트’ 콘텐츠 공개… 2026년 1분기 매크...](https://magazine.hankyung.com/money/article/202603305218c) |
+| 30 Mar 2026 | 뉴시스 | [인천 남동구, 4월 '체납 차량 번호판 영치' 야간 단속](https://n.news.naver.com/mnews/article/003/0013853796?sid=102) |
+| 30 Mar 2026 | 연합뉴스 | [남해군, 미지급 1월분 농어촌 기본소득 31일 소급 지급](https://n.news.naver.com/mnews/article/001/0015989415?sid=102) |
+| 30 Mar 2026 | 헤럴드경제 | [‘갭투자’ 가능한 오피스텔, 통계 집계 이래 최고가 기록 [부동산360]](https://n.news.naver.com/mnews/article/016/0002621415?sid=101) |
+| 30 Mar 2026 | 헤럴드경제 | [‘李대통령과 셀카’ 올릴 수 있다…취임 300일 맞아 靑홈피 공개](https://n.news.naver.com/mnews/article/016/0002621414?sid=100) |
+| 30 Mar 2026 | 서울경제 | [디지털타임스 박학용 대표 재선임](https://n.news.naver.com/mnews/article/011/0004604869?sid=102) |
+| 30 Mar 2026 | 뉴스1 | [인천시, 무주택 청년에 2년간 월세 최대 480만원 지원](https://n.news.naver.com/mnews/article/421/0008856919?sid=102) |
+| 30 Mar 2026 | 뉴시스 | [민형배 캠프 "광주 기아차 노동자 1124명이 지지 선언"](https://n.news.naver.com/mnews/article/003/0013853784?sid=102) |
+| 30 Mar 2026 | 한국경제 | [하나증권, 부산창조경제혁신센터와 지역 혁신기업 육성 MOU](https://n.news.naver.com/mnews/article/015/0005268498?sid=101) |
+| 30 Mar 2026 | 아시아경제 | [[경남 혈투]김경수 VS 박완수…전·현직 빅매치[시사쇼]](https://n.news.naver.com/mnews/article/277/0005741935?sid=100) |
 
 
 ---
