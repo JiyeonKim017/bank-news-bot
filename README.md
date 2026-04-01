@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-03-31 08:50:22` (KST)
+> **업데이트:** `2026-04-01 01:56:52` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#최대` `#시그널` `#의료로봇` `#기대주` `#큐렉소` `#주목`
+`#확보` `#한화에어로` `#다목적` `#장갑차` `#타이곤` `#중남미`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,529.93원 |
-| **코스피 지수** | 5,052.46 |
+| **USD/KRW 환율** | 1,508.38원 |
+| **코스피 지수** | 5,365.54 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 31 Mar 2026 | 매일경제 | [[MK시그널] 의료로봇 기대주 큐렉소 주목](https://n.news.naver.com/mnews/article/009/0005658993?sid=101) |
-| 31 Mar 2026 | 머니투데이 | [서초구, 중소상공인 437억 대출 지원…서초사랑상품권 70억 발행](https://n.news.naver.com/mnews/article/008/0005337862?sid=102) |
-| 31 Mar 2026 | 서울경제 | [NH證, IMA 1호 청약 개시…이찬우 지주회장도 가입](https://n.news.naver.com/mnews/article/011/0004605594?sid=101) |
-| 31 Mar 2026 | 뉴시스 | [인천 계양아라온~황어장터, 관광지 연계 보행환경 개선](https://n.news.naver.com/mnews/article/003/0013858169?sid=102) |
-| 31 Mar 2026 | 머니투데이 | [보훈상조, 브랜드파워대상 상조서비스 부문 8년 연속 대상](https://n.news.naver.com/mnews/article/008/0005337860?sid=101) |
-| 31 Mar 2026 | 매일경제 | [[매일경제TV] 고유가·강달러 속 美 증시 투자 전략은](https://m.entertain.naver.com/article/009/0005658979) |
-| 31 Mar 2026 | 뉴시스 | [조달청, 지역업체 참여도 심사 강화…지역업체 지원 대폭 확대](https://n.news.naver.com/mnews/article/003/0013858166?sid=102) |
-| 31 Mar 2026 | 한국경제 | [美 관세 '반쪽 성공'…中 수입 의존 줄었지만 무역적자 최대](https://n.news.naver.com/mnews/article/015/0005269313?sid=104) |
-| 31 Mar 2026 | 헤럴드경제 | [[단독] 박왕열 범죄 싹 다 훑는다…국수본, 전국 시·도청에 전수조사 ...](https://n.news.naver.com/mnews/article/016/0002622499?sid=102) |
-| 31 Mar 2026 | 연합뉴스 | [서학개미 복귀시 양도세 최대 100% 면제…노동절도 법정공휴일(종합)](https://n.news.naver.com/mnews/article/001/0015993598?sid=100) |
-| 31 Mar 2026 | 한국경제 | [신상진 "중동발 경제충격, 재난 선포로 막아야"](https://n.news.naver.com/mnews/article/015/0005269312?sid=102) |
-| 31 Mar 2026 | 서울경제 | [신현송 “환율레벨 우려 크지않아…사모신용 리스크 제한적”](https://n.news.naver.com/mnews/article/011/0004605592?sid=101) |
+| 01 Apr 2026 | 헤럴드경제 | [한화에어로, 다목적 장갑차 ‘타이곤’ 중남미 최초 공개](https://n.news.naver.com/mnews/article/016/0002622879?sid=100) |
+| 01 Apr 2026 | 헤럴드경제 | [사회연대은행 ‘하이로컬이천’ 청년창업 25개팀 육성](https://n.news.naver.com/mnews/article/016/0002622877?sid=101) |
+| 01 Apr 2026 | 연합뉴스 | [무보, 루마니아 재무부에 1조5천억원 규모 선제 금융지원](https://n.news.naver.com/mnews/article/001/0015994899?sid=101) |
+| 01 Apr 2026 | 머니투데이 | [17일부터 다주택자 대출 만기연장 막힌다..세입자 있으면 예외](https://n.news.naver.com/mnews/article/008/0005338199?sid=101) |
+| 01 Apr 2026 | 연합뉴스 | [KT클라우드 대표에 김봉균 KT 엔터프라이즈부문장 내정](https://n.news.naver.com/mnews/article/001/0015994889?sid=105) |
+| 01 Apr 2026 | 아시아경제 | [진교훈 강서구청장 "과학기술·문화 결합한 미래 경제도시…강서구 지도...](https://n.news.naver.com/mnews/article/277/0005743309?sid=102) |
+| 01 Apr 2026 | 뉴시스 | [하나금융, 미성년자 용돈 관리하는 '원픽 통장·체크카드' 출시](https://n.news.naver.com/mnews/article/003/0013859433?sid=101) |
+| 01 Apr 2026 | 뉴시스 | [남부발전, 에너지 수급 대응 점검회의 개최…발전 연료 확보 총력](https://n.news.naver.com/mnews/article/003/0013859430?sid=101) |
+| 01 Apr 2026 | 뉴스1 | [민형배·주철현, 민형배로 단일화 "특정 지역 소외 막겠다"(상보)](https://n.news.naver.com/mnews/article/421/0008862533?sid=162) |
+| 01 Apr 2026 | 비즈워치 | ['역대 최고' 실적에도 사업 재편 선언한 넥슨…이유는](https://n.news.naver.com/mnews/article/648/0000045875?sid=105) |
+| 01 Apr 2026 | 아시아경제 | [서울시 "3高 위기 극복 추경 편성 추진…필요한 곳에 '핀셋지원' 할것"](https://n.news.naver.com/mnews/article/277/0005743308?sid=102) |
+| 01 Apr 2026 | 이데일리 | [상무관·무역관 총동원 한방울까지…원유·나프타 확보 총력전](http://www.smedaily.co.kr/news/articleView.html?idxno=354821) |
 
 
 ---
