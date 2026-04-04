@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-04 05:52:57` (KST)
+> **업데이트:** `2026-04-04 08:33:27` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#무임승차` `#제한` `#계획` `#출퇴근시간` `#노인회` `#없다`
+`#탄핵` `#후보` `#시각오동현` `#의왕시장` `#예비후보` `#선거사무소`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 04 Apr 2026 | 이데일리 | [“출퇴근시간 무임승차 제한 우려” 노인회 입장에 靑 “계획 없다”](https://n.news.naver.com/mnews/article/018/0006250118?sid=100) |
-| 04 Apr 2026 | 뉴시스 | [신현송 한은 총재 후보, 다주택에 재산 82억 신고](https://n.news.naver.com/mnews/article/003/0013867286?sid=101) |
-| 04 Apr 2026 | 이데일리 | [이란, '12세 어린이'까지 전쟁 동원…지상전 대비 총력](https://n.news.naver.com/mnews/article/018/0006250117?sid=104) |
-| 04 Apr 2026 | 파이낸셜뉴스 | [위성곤 “제주의 선택은 당당해야… 민생·산업·에너지 판 바꾸겠다”](https://n.news.naver.com/mnews/article/014/0005502408?sid=162) |
-| 04 Apr 2026 | 헤럴드경제 | [김효주, LPGA 아람코 챔프십 2R 5타 차 2위](https://m.sports.naver.com/golf/article/016/0002624642) |
-| 04 Apr 2026 | 헤럴드경제 | [서대문구 ‘행복복지스쿨 2.0’ 마무리… 이웃 살피는 힘 키웠다](https://n.news.naver.com/mnews/article/016/0002624641?sid=102) |
-| 04 Apr 2026 | 아시아경제 | [노인 출퇴근 시간 무임승차 제한 검토설…靑 "계획 없다"](https://n.news.naver.com/mnews/article/277/0005745002?sid=100) |
-| 04 Apr 2026 | 연합뉴스 | [노인회 "출퇴근시간 무임승차 제한 우려"…홍익표 "계획 없어"](https://n.news.naver.com/mnews/article/001/0016002275?sid=102) |
-| 04 Apr 2026 | 머니투데이 | [中 마싱루이 부패 혐의 조사…당 정치국원서 벌써 3번째 낙마](https://n.news.naver.com/mnews/article/008/0005339784?sid=104) |
-| 04 Apr 2026 | 파이낸셜뉴스 | [위성곤 “사회연대경제 키워 제주 민생·지역경제 살리겠다”](https://n.news.naver.com/mnews/article/014/0005502404?sid=162) |
-| 04 Apr 2026 | 서울경제 | [‘뇌물·황금열쇠 수수 혐의’ 강호동 농협중앙회장 경찰 출석… “성실...](https://n.news.naver.com/mnews/article/011/0004607053?sid=102) |
-| 04 Apr 2026 | 연합뉴스 | ["이란전쟁서 EU·中 이익 겹치는 부분 있어…조속종전 공감대"](https://n.news.naver.com/mnews/article/001/0016002267?sid=104) |
+| 04 Apr 2026 | 뉴스1 | ['尹 탄핵' 1년 전 그 시각…오동현 의왕시장 예비후보, 선거사무소 개소](https://n.news.naver.com/mnews/article/421/0008870155?sid=162) |
+| 04 Apr 2026 | 헤럴드경제 | [정청래 “野, 지선 후보 내지 말라”…尹 탄핵 1년 보고회서 비판](https://n.news.naver.com/mnews/article/016/0002624663?sid=100) |
+| 04 Apr 2026 | 매일경제 | ["이란, 당분간 호르무즈 열어주지 않을 듯"…미국 정보당국 판단](https://n.news.naver.com/mnews/article/057/0001943131?sid=104) |
+| 04 Apr 2026 | 뉴스1 | [한준호 "GTX 링·판교 10개로 균형발전…경기도 '실용행정' 전환"](https://n.news.naver.com/mnews/article/421/0008870125?sid=162) |
+| 04 Apr 2026 | 서울경제 | [결국 생존 못한 K-라드큐브…첫 시도 함께한 韓 기업은 [빛이 나는 비즈...](https://n.news.naver.com/mnews/article/011/0004607071?sid=105) |
+| 04 Apr 2026 | 헤럴드경제 | [그룹홈 떠돌던 청년, 동티모르서 새 인생을 얻었다…그는 지금 자립준비...](https://n.news.naver.com/mnews/article/016/0002624659?sid=102) |
+| 04 Apr 2026 | 매일경제 | [“2억 줄테니 공동명의”…시어머니 요구에 서운하단 며느리, 무슨 일](https://n.news.naver.com/mnews/article/009/0005660983?sid=102) |
+| 04 Apr 2026 | 연합뉴스 | [김동연 "경제일꾼"·추미애 "성과로 증명"·한준호 "체감행정"](https://n.news.naver.com/mnews/article/001/0016002433?sid=100) |
+| 04 Apr 2026 | 조세일보 | [신현송 한은 총재 후보, 82억 재산신고…다주택 논란엔 “매물 내놔"](https://n.news.naver.com/mnews/article/123/0002380775?sid=101) |
+| 04 Apr 2026 | 한국경제 | ['엔비디아가 찜했다'…15조 벌어들인 글로벌 냉각 1위 회사](https://n.news.naver.com/mnews/article/015/0005270921?sid=101) |
+| 04 Apr 2026 | 한국경제 | [호르무즈는?…트럼프 '장대한 분노'에 세계는 대혼란](https://n.news.naver.com/mnews/article/050/0000104555?sid=101) |
+| 04 Apr 2026 | 뉴시스 | [의왕시, 포일2지구에 반도체·AI 등 혁신기업 유치…30일까지 공모](https://n.news.naver.com/mnews/article/003/0013867313?sid=102) |
 
 
 ---
