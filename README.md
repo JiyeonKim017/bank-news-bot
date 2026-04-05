@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-05 01:51:50` (KST)
+> **업데이트:** `2026-04-05 06:11:23` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#영화` `#왕과` `#사는` `#남자` `#관객` `#돌파개봉`
+`#전쟁` `#간담회` `#동해시` `#민관` `#도민체전` `#장애인체전`
 
 ---
 
@@ -20,16 +20,16 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 05 Apr 2026 | 이데일리 | [영화 '왕과 사는 남자' 1600만 관객 돌파…개봉 61일만](https://m.entertain.naver.com/article/018/0006250399) |
-| 05 Apr 2026 | 이데일리 | [미국, 이란전쟁 이후 첫 물가 성적표 나온다](https://n.news.naver.com/mnews/article/018/0006250397?sid=101) |
-| 05 Apr 2026 | 한국경제 | [DGFEZ, 호주 지역 투자유치 IR](https://n.news.naver.com/mnews/article/015/0005270975?sid=101) |
-| 05 Apr 2026 | 한국경제 | ["우리 딸 아이브 5초 만나게 하려고 100만원 태웠어요" [K팝인사이드]](https://n.news.naver.com/mnews/article/015/0005270972?sid=103) |
-| 05 Apr 2026 | 뉴스1 | [[그래픽] 해외 주요 투자은행 8곳 2026년 한국 경제성장률 전망](https://n.news.naver.com/mnews/article/421/0008870455?sid=101) |
-| 05 Apr 2026 | 뉴시스 | [9대 진주시의회, 8~13일 마지막 회기…총 23건 안건심의](https://n.news.naver.com/mnews/article/003/0013867763?sid=102) |
-| 05 Apr 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 10:30](https://n.news.naver.com/mnews/article/001/0016002858?sid=100) |
-| 05 Apr 2026 | 연합뉴스 | [평택시, 16~19일 농업생태원에서 '꽃나들이' 행사](https://n.news.naver.com/mnews/article/001/0016002859?sid=102) |
-| 05 Apr 2026 | 파이낸셜뉴스 | [삼표 정인욱학술장학재단, 예체능 자립준비청년 장학금 지원](https://n.news.naver.com/mnews/article/014/0005502478?sid=101) |
-| 05 Apr 2026 | 뉴시스 | [중동사태 '유류비' 급등…정선군, 4~5월 지원금 지급한다](https://n.news.naver.com/mnews/article/003/0013867742?sid=102) |
+| 05 Apr 2026 | 헤럴드경제 | [동해시 민관, 61회 도민체전, 19회 장애인체전 찰떡 공조 다짐](https://n.news.naver.com/mnews/article/016/0002624873?sid=102) |
+| 05 Apr 2026 | 이데일리 | ["이번엔 전재수 찍을랍니더" "그래도 국힘이지예"…흔들리는 부산 민심...](https://n.news.naver.com/mnews/article/018/0006250501?sid=100) |
+| 05 Apr 2026 | 머니투데이 | [이란 전쟁 한 달…"비전투국 중 한국이 제일 큰 타격"](https://n.news.naver.com/mnews/article/008/0005339936?sid=104) |
+| 05 Apr 2026 | 뉴시스 | [국토부 장관, 중동 전쟁 장기화 대비 '건설 8개 협회'와 긴급 간담회](https://n.news.naver.com/mnews/article/003/0013868213?sid=101) |
+| 05 Apr 2026 | 한국경제 | [서울시 기능경기대회 개막…정비·용접·보안기술 겨룬다](https://n.news.naver.com/mnews/article/015/0005271015?sid=100) |
+| 05 Apr 2026 | 헤럴드경제 | [“LG·포스코 등 韓 기업들과 협업, 대단히 만족” [르노회장 간담회②...](https://n.news.naver.com/mnews/article/016/0002624872?sid=101) |
+| 05 Apr 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 15:00](https://n.news.naver.com/mnews/article/001/0016003314?sid=100) |
+| 05 Apr 2026 | 이데일리 | [李대통령, 추경 통과 전방위 행보…野 만나 정면 돌파](https://n.news.naver.com/mnews/article/018/0006250495?sid=100) |
+| 05 Apr 2026 | 뉴시스 | [젤렌스키 "美우선순위 바뀌었다…전쟁 장기화로 우크라 지지 약화"](https://n.news.naver.com/mnews/article/003/0013868190?sid=104) |
+| 05 Apr 2026 | 머니투데이 | [정원오 "강남서 오세훈 앞섰다…서울서 이겨야 李정부 탄탄대로"](https://n.news.naver.com/mnews/article/008/0005339928?sid=100) |
 
 
 ---
