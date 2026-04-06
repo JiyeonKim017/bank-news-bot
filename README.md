@@ -1,36 +1,36 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-06 06:27:14` (KST)
+> **업데이트:** `2026-04-06 09:02:25` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대정부` `#질문` `#박홍근` `#장관` `#오영훈` `#도민과`
+`#벤츠` `#코리아` `#사회공헌` `#브랜드` `#정찰제` `#도입해도`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,505.17원 |
-| **코스피 지수** | 5,434.04 |
+| **USD/KRW 환율** | 1,501.18원 |
+| **코스피 지수** | 5,450.33 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 06 Apr 2026 | 파이낸셜뉴스 | [오영훈 “도민과 함께 설계한 제주 미래전략 이재명 정부에서 완성하겠...](https://n.news.naver.com/mnews/article/014/0005503167?sid=162) |
-| 06 Apr 2026 | 이데일리 | [민주 "외환보유액 감소가 '경제 방어선 붕괴'?…野, 위기 장사 몰두"](https://n.news.naver.com/mnews/article/018/0006251300?sid=100) |
-| 06 Apr 2026 | 뉴스1 | [대정부 질문 답변하는 박홍근 장관](https://n.news.naver.com/mnews/article/421/0008873086?sid=100) |
-| 06 Apr 2026 | 서울경제 | [대전 중구, 착한가격업소 109곳에 공공요금 지원금 20만원 지급](https://n.news.naver.com/mnews/article/011/0004607582?sid=102) |
-| 06 Apr 2026 | 아시아경제 | [스토킹·교제폭력 고위험 가해자에 '구속영장 신청·전자장치 부착' 병...](https://n.news.naver.com/mnews/article/277/0005745676?sid=100) |
-| 06 Apr 2026 | 뉴스1 | [대정부 질문 답변 이어가는 박홍근 장관](https://n.news.naver.com/mnews/article/421/0008873085?sid=100) |
-| 06 Apr 2026 | 헤럴드경제 | [아르테미스 2호, 달 중력권 진입…인류 최장거리 비행 눈앞](https://n.news.naver.com/mnews/article/016/0002625448?sid=104) |
-| 06 Apr 2026 | 뉴시스 | [결혼, 안 한 게 아니라 못한 것?…미혼 사유 1위 '상대가 없다'](https://n.news.naver.com/mnews/article/003/0013870381?sid=102) |
-| 06 Apr 2026 | 연합뉴스 | [경제 분야 대정부 질문 답하는 김민석 총리](https://n.news.naver.com/mnews/article/001/0016005307?sid=100) |
-| 06 Apr 2026 | 뉴시스 | [수출입銀, 인프라·에너지 해외진출 전략 콘퍼런스 개최](https://n.news.naver.com/mnews/article/003/0013870377?sid=101) |
-| 06 Apr 2026 | 헤럴드경제 | [금융권, 서금원 출연금 연 1973억 더 낸다…은행 출연요율 0.1%로](https://n.news.naver.com/mnews/article/016/0002625447?sid=101) |
+| 06 Apr 2026 | 헤럴드경제 | [벤츠 코리아 CEO “사회공헌, 브랜드 DNA…정찰제 도입해도 기부 멈춤 없...](https://n.news.naver.com/mnews/article/016/0002625526?sid=101) |
+| 06 Apr 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 18:00](https://n.news.naver.com/mnews/article/001/0016005805?sid=100) |
+| 06 Apr 2026 | 서울경제 | [중동 불안에도…백화점, 외국인 업고 웃었다](https://n.news.naver.com/mnews/article/011/0004607689?sid=101) |
+| 06 Apr 2026 | 뉴스1 | [양도세 중과유예 5월 9일 신청까지 허용 검토…추가 매물 출회 기대](https://n.news.naver.com/mnews/article/421/0008873569?sid=101) |
+| 06 Apr 2026 | 뉴시스 | [재정경제기획위원회 전체회의](https://n.news.naver.com/mnews/article/003/0013870938?sid=100) |
+| 06 Apr 2026 | 뉴시스 | [의사봉 두드리는 임이자 위원장](https://n.news.naver.com/mnews/article/003/0013870941?sid=100) |
+| 06 Apr 2026 | 서울경제 | [건설업계 작년 ‘떼인 돈’ 2조 털었지만…아직 수조원 더 남았다](https://n.news.naver.com/mnews/article/011/0004607686?sid=101) |
+| 06 Apr 2026 | 한국경제 | [日 병원·대중교통, 에너지 공급 SOS](https://n.news.naver.com/mnews/article/015/0005271607?sid=104) |
+| 06 Apr 2026 | 뉴스1 | [국회 재경위 추경안 심의 돌입](https://n.news.naver.com/mnews/article/421/0008873565?sid=100) |
+| 06 Apr 2026 | 한국경제 | [휴전 땐 호르무즈 임시개방…조기종전 수순 밟나](https://n.news.naver.com/mnews/article/015/0005271605?sid=104) |
+| 06 Apr 2026 | 매일경제 | ['주식병합'해도 못 피하겠네…상폐 위기 몰린 동전株 19개](https://n.news.naver.com/mnews/article/009/0005661931?sid=101) |
 
 
 ---
