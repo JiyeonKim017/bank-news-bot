@@ -1,36 +1,36 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-06 09:02:25` (KST)
+> **업데이트:** `2026-04-07 01:50:00` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#벤츠` `#코리아` `#사회공헌` `#브랜드` `#정찰제` `#도입해도`
+`#공수처` `#박상용` `#고발` `#사건` `#배당` `#하나금융`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,501.18원 |
-| **코스피 지수** | 5,450.33 |
+| **USD/KRW 환율** | 1,509.48원 |
+| **코스피 지수** | 5,516.96 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 06 Apr 2026 | 헤럴드경제 | [벤츠 코리아 CEO “사회공헌, 브랜드 DNA…정찰제 도입해도 기부 멈춤 없...](https://n.news.naver.com/mnews/article/016/0002625526?sid=101) |
-| 06 Apr 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 18:00](https://n.news.naver.com/mnews/article/001/0016005805?sid=100) |
-| 06 Apr 2026 | 서울경제 | [중동 불안에도…백화점, 외국인 업고 웃었다](https://n.news.naver.com/mnews/article/011/0004607689?sid=101) |
-| 06 Apr 2026 | 뉴스1 | [양도세 중과유예 5월 9일 신청까지 허용 검토…추가 매물 출회 기대](https://n.news.naver.com/mnews/article/421/0008873569?sid=101) |
-| 06 Apr 2026 | 뉴시스 | [재정경제기획위원회 전체회의](https://n.news.naver.com/mnews/article/003/0013870938?sid=100) |
-| 06 Apr 2026 | 뉴시스 | [의사봉 두드리는 임이자 위원장](https://n.news.naver.com/mnews/article/003/0013870941?sid=100) |
-| 06 Apr 2026 | 서울경제 | [건설업계 작년 ‘떼인 돈’ 2조 털었지만…아직 수조원 더 남았다](https://n.news.naver.com/mnews/article/011/0004607686?sid=101) |
-| 06 Apr 2026 | 한국경제 | [日 병원·대중교통, 에너지 공급 SOS](https://n.news.naver.com/mnews/article/015/0005271607?sid=104) |
-| 06 Apr 2026 | 뉴스1 | [국회 재경위 추경안 심의 돌입](https://n.news.naver.com/mnews/article/421/0008873565?sid=100) |
-| 06 Apr 2026 | 한국경제 | [휴전 땐 호르무즈 임시개방…조기종전 수순 밟나](https://n.news.naver.com/mnews/article/015/0005271605?sid=104) |
-| 06 Apr 2026 | 매일경제 | ['주식병합'해도 못 피하겠네…상폐 위기 몰린 동전株 19개](https://n.news.naver.com/mnews/article/009/0005661931?sid=101) |
+| 07 Apr 2026 | 이데일리 | [하나금융, 자본시장 전략 중심지로 전북 선정…통합 금융거점 구축](http://www.smedaily.co.kr/news/articleView.html?idxno=355165) |
+| 07 Apr 2026 | 이데일리 | [[포토]예산결산특별위원회, '악수하는 구윤철-박홍근'](https://n.news.naver.com/mnews/article/018/0006251849?sid=100) |
+| 07 Apr 2026 | 헤럴드경제 | [韓 찾은 터카치-너지 “음악은 영적 치료제…음표 사이 ‘영혼’을 깨워...](https://n.news.naver.com/mnews/article/016/0002625825?sid=103) |
+| 07 Apr 2026 | 뉴시스 | [공수처, '진술 회유' 의혹 박상용 고발 사건 수사3부 배당](https://n.news.naver.com/mnews/article/003/0013871946?sid=102) |
+| 07 Apr 2026 | 파이낸셜뉴스 | [김민석 "가용 재원 모두 운용해 경제 타격 최소화"](https://n.news.naver.com/mnews/article/014/0005503628?sid=100) |
+| 07 Apr 2026 | 뉴스1 | [정영철 영동군수 "변화 체감하는 전성시대 완성"…재선 도전](https://n.news.naver.com/mnews/article/421/0008874526?sid=162) |
+| 07 Apr 2026 | 매일경제 | [글리처파트너스, 동남권 로컬창업 생태계 조성 다자간 업무 협약](https://n.news.naver.com/mnews/article/009/0005662101?sid=101) |
+| 07 Apr 2026 | 뉴시스 | [[6·3대전]조원휘 "16년 정체된 유성구 미래 다시 만들겠다"](https://n.news.naver.com/mnews/article/003/0013871939?sid=102) |
+| 07 Apr 2026 | 매일경제 | [청와대 “남북 상호 의사 확인…한반도 평화공존 기여하길”](https://n.news.naver.com/mnews/article/009/0005662100?sid=100) |
+| 07 Apr 2026 | 헤럴드경제 | [與 서울시장 3파전 본경선 돌입…막판 신경전 속 결선行 주목[이런정치...](https://n.news.naver.com/mnews/article/016/0002625823?sid=100) |
+| 07 Apr 2026 | 뉴스1 | [공수처 "박상용 검사 위증교사 혐의 고발 사건, 수사 3부 배당"](https://n.news.naver.com/mnews/article/421/0008874514?sid=102) |
 
 
 ---
