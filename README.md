@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-10 06:28:48` (KST)
+> **업데이트:** `2026-04-10 09:01:35` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#이창용` `#출시` `#시점` `#스태그플레이션` `#가능성` `#낮다초과세수`
+`#이코노미` `#테슬라` `#치다` `#망하더니` `#또마이클` `#버리의`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,482.11원 |
-| **코스피 지수** | 5,861.84 |
+| **USD/KRW 환율** | 1,485.40원 |
+| **코스피 지수** | 5,858.87 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 10 Apr 2026 | 아시아경제 | [이창용 "현 시점 스태그플레이션 가능성 낮다…초과세수 통한 추경 긍정...](https://n.news.naver.com/mnews/article/277/0005747868?sid=101) |
-| 10 Apr 2026 | 매일경제 | [하나투어 매각 숨고르기 나선 IMM PE…마지막 퍼즐은 주가](https://n.news.naver.com/mnews/article/009/0005664169?sid=101) |
-| 10 Apr 2026 | 매일경제 | [전쟁으로 참혹했던 한국, 반세기 만에 선진국 된 비결](https://n.news.naver.com/mnews/article/009/0005664167?sid=103) |
-| 10 Apr 2026 | 조세일보 | [이창용 “환율 레벨, 숫자 비교 벗어나야…원화 약세론, 동의 안해”](https://n.news.naver.com/mnews/article/123/0002381135?sid=101) |
-| 10 Apr 2026 | 뉴스1 | [허태수 "AI 전환 핵심은 현장 활용…中企와 AI 생태계 공유할 것"](https://n.news.naver.com/mnews/article/421/0008882791?sid=101) |
-| 10 Apr 2026 | 파이낸셜뉴스 | [무림피앤피, 카푸치노 같은 프리미엄 인쇄용지 출시](https://n.news.naver.com/mnews/article/014/0005505821?sid=101) |
-| 10 Apr 2026 | 아시아경제 | [민형배 “나주 혁신도시·원도심 함께 키워 20만 정주도시 완성”](https://n.news.naver.com/mnews/article/277/0005747864?sid=102) |
-| 10 Apr 2026 | 이데일리 | [새마을금고, 저출생 극복 지원 '걸음마(馬)적금' 출시](http://www.smedaily.co.kr/news/articleView.html?idxno=355487) |
-| 10 Apr 2026 | 연합뉴스 | [증권가 "신중함 보인 금통위"…금리동결 우세 전망 속 인상론도](https://n.news.naver.com/mnews/article/001/0016014658?sid=101) |
-| 10 Apr 2026 | 이데일리 | [앤스로픽 '미토스' 뭐길래…베선트·파월, 월가 CEO 긴급 소집](https://n.news.naver.com/mnews/article/018/0006254658?sid=101) |
-| 10 Apr 2026 | 헤럴드경제 | [“총 1억3천만톤 매장” 유전 6곳이나 발견, 다 얼마야…신바람 난 ‘이...](https://n.news.naver.com/mnews/article/016/0002627916?sid=104) |
-| 10 Apr 2026 | 연합뉴스 | [제주경찰, 생활 어려운 범죄 피해자 12명에 성금 전달](https://n.news.naver.com/mnews/article/001/0016014649?sid=102) |
+| 10 Apr 2026 | 파이낸셜뉴스 | ["테슬라 숏 치다 망하더니 또?"…마이클 버리의 팔란티어 저격, 치명적...](https://n.news.naver.com/mnews/article/014/0005505887?sid=101) |
+| 10 Apr 2026 | 머니투데이 | ["아틀라스, 경쟁사에도 팔겠다"…현대차그룹, 로보틱스 美 법인 신설](https://n.news.naver.com/mnews/article/008/0005342706?sid=101) |
+| 10 Apr 2026 | 연합뉴스 | [외교부, 아세안지역 공관장 회의 열어 공급망 협력 점검](https://n.news.naver.com/mnews/article/001/0016015001?sid=100) |
+| 10 Apr 2026 | 서울경제 | [“납품사·체인점도 집단교섭 기회 줘야”…공정위 “개정안 곧 마련”](https://n.news.naver.com/mnews/article/011/0004609473?sid=100) |
+| 10 Apr 2026 | 서울경제 | [“위조 지폐 대량 판매합니다”…불법 광고시장 된 텔레그램](https://n.news.naver.com/mnews/article/011/0004609465?sid=102) |
+| 10 Apr 2026 | 뉴스1 | ["임원 출장시 이코노미 탑승"…삼성전자 이어 LG전자도 '비상경영'](https://n.news.naver.com/mnews/article/421/0008883097?sid=101) |
+| 10 Apr 2026 | 비즈워치 | ['국민의 통신기본권 보장' 공동선언](https://n.news.naver.com/mnews/article/648/0000046156?sid=101) |
+| 10 Apr 2026 | 매일경제 | ["이젠 AI 잘 쓰는 나라로 도약할 때"](https://n.news.naver.com/mnews/article/009/0005664303?sid=101) |
+| 10 Apr 2026 | 매일경제 | ["화상 회의하고 이코노미 타라"…LG전자 허리띠 졸라매기 나서](https://n.news.naver.com/mnews/article/009/0005664302?sid=101) |
+| 10 Apr 2026 | 뉴시스 | [안동의료원 난임센터 '아이ON', 시험관 시술 100회 돌파](https://n.news.naver.com/mnews/article/003/0013881022?sid=102) |
+| 10 Apr 2026 | 한국경제 | [중국 생산자물가지수, 42개월만에 플러스로](https://n.news.naver.com/mnews/article/015/0005273549?sid=101) |
+| 10 Apr 2026 | 한국경제 | ["전쟁 뒤 세계 성장률 2.9%→2.6%로 둔화"](https://n.news.naver.com/mnews/article/015/0005273548?sid=101) |
 
 
 ---
