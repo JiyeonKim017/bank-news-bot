@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-12 01:56:39` (KST)
+> **업데이트:** `2026-04-12 06:21:20` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#국세청장` `#법인` `#고가주택` `#점검사주일가` `#탈세` `#임광현`
+`#조광한` `#경기지사` `#장동혁` `#지선` `#앞두고` `#미국행배현진`
 
 ---
 
@@ -20,18 +20,17 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 12 Apr 2026 | 헤럴드경제 | [임광현 국세청장 “법인 고가주택 2630개 점검…사주일가 거주하면 탈세...](https://n.news.naver.com/mnews/article/016/0002628275?sid=101) |
-| 12 Apr 2026 | 한국경제 | ["알바는 없고, 월세는 올랐다"… 개강 후 팍팍해진 대학생들[이미경의 ...](https://n.news.naver.com/mnews/article/015/0005273763?sid=102) |
-| 12 Apr 2026 | 헤럴드경제 | [캐머런 영 마스터스 3R 7언더파…매킬로이와 공동 1위](https://m.sports.naver.com/golf/article/016/0002628274) |
-| 12 Apr 2026 | 한국경제 | [20대 신차 구매 36% 급증…4명 중 1명은 전기차](https://n.news.naver.com/mnews/article/015/0005273762?sid=103) |
-| 12 Apr 2026 | 이데일리 | [삼성전자 노조 "성과급 40조 넘게 달라"…싸늘한 주주들](https://n.news.naver.com/mnews/article/018/0006255427?sid=101) |
-| 12 Apr 2026 | 뉴시스 | [진주시 승산마을, 세계 최우수 관광마을 한국 후보지 선정](https://n.news.naver.com/mnews/article/003/0013882152?sid=102) |
-| 12 Apr 2026 | 연합뉴스 | [국세청장 "법인 고가주택 2천630개 점검…사주일가 살면 탈세"](https://n.news.naver.com/mnews/article/001/0016016304?sid=101) |
-| 12 Apr 2026 | 매일경제 | [일본 소프트뱅크, 소니, 혼다, NEC 뭉쳐 AI 회사 설립](https://n.news.naver.com/mnews/article/057/0001944242?sid=104) |
-| 12 Apr 2026 | 머니투데이 | [김정은 만난 中 왕이…"미중 정상회담 전 북미 회담 조건, 최종 조율"](https://n.news.naver.com/mnews/article/008/0005342949?sid=100) |
-| 12 Apr 2026 | 이데일리 | ['고유가 피해지원금' 27일부터 지급 소득하위 70%에 1인당 10~60만원](http://www.smedaily.co.kr/news/articleView.html?idxno=355516) |
-| 12 Apr 2026 | 뉴시스 | [신현송 “현 기준금리, 중립금리 중간 수준”…금리 동결 이어지나](https://n.news.naver.com/mnews/article/003/0013882142?sid=101) |
-| 12 Apr 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 10:30](https://n.news.naver.com/mnews/article/001/0016016288?sid=100) |
+| 12 Apr 2026 | 매일경제 | [장동혁, 지선 앞두고 미국행…배현진 "정청래는 전국 휩쓰는데"](https://n.news.naver.com/mnews/article/057/0001944272?sid=162) |
+| 12 Apr 2026 | 머니투데이 | ["반인권·반국제" 이스라엘 두고 SNS 공방…李대통령 의중은](https://n.news.naver.com/mnews/article/008/0005343032?sid=100) |
+| 12 Apr 2026 | 머니투데이 | ['지명직 최고' 조광한, 경기지사 출사표…"승리의 에너지 공급"](https://n.news.naver.com/mnews/article/008/0005343031?sid=162) |
+| 12 Apr 2026 | 아시아경제 | [한동훈, 故 김진 애도 "혜안·용기 겸비한 애국자…형님 편히 쉬십시오...](https://n.news.naver.com/mnews/article/277/0005748248?sid=100) |
+| 12 Apr 2026 | 뉴시스 | [광주시 민생안정 국비 1961억 확보…10만~60만원 지원](https://n.news.naver.com/mnews/article/003/0013882495?sid=102) |
+| 12 Apr 2026 | 헤럴드경제 | [기후부, 중동전쟁에 요일제·봉투 수급만?…“에너지 독립부처 신설해야...](https://n.news.naver.com/mnews/article/016/0002628338?sid=101) |
+| 12 Apr 2026 | 아시아경제 | [조광한, 국힘 경기지사 경선 출마 "검증된 행정 능력"](https://n.news.naver.com/mnews/article/277/0005748247?sid=162) |
+| 12 Apr 2026 | 파이낸셜뉴스 | [21시간 종전 협상 가진 美·이란... 2~3개 문제 이견에 불발](https://n.news.naver.com/mnews/article/014/0005506232?sid=104) |
+| 12 Apr 2026 | 뉴시스 | [과기정통부, 2030년까지 연구개발특구 매출 150조 목표](https://n.news.naver.com/mnews/article/003/0013882464?sid=105) |
+| 12 Apr 2026 | 헤럴드경제 | [‘가격 흥정 NO!’ 벤츠, 13일부터 판매 방식 달라진다…“가장 좋은 조...](https://n.news.naver.com/mnews/article/016/0002628336?sid=101) |
+| 12 Apr 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 15:00](https://n.news.naver.com/mnews/article/001/0016016619?sid=102) |
 
 
 ---
