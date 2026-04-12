@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-11 08:35:08` (KST)
+> **업데이트:** `2026-04-12 01:56:39` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#민형배` `#선거김신` `#완도군수` `#예비후보` `#노화보길` `#찾아`
+`#국세청장` `#법인` `#고가주택` `#점검사주일가` `#탈세` `#임광현`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 11 Apr 2026 | 아시아경제 | [[6·3 선거]김신 완도군수 예비후보, 노화·보길 찾아 '주민 소통'](https://n.news.naver.com/mnews/article/277/0005748091?sid=102) |
-| 11 Apr 2026 | 뉴시스 | [美·이란 파키스탄서 첫 종전협상…국제정세 '중대 분수령'](https://n.news.naver.com/mnews/article/003/0013881793?sid=104) |
-| 11 Apr 2026 | 뉴스1 | [美부통령 파키스탄 협상장 도착…이란 새 지도자, 협상대표에 전권 위임](https://n.news.naver.com/mnews/article/421/0008883746?sid=104) |
-| 11 Apr 2026 | 서울경제 | [한국자유총연맹 대전시지부, 사랑의 연탄 봉사 실시](https://n.news.naver.com/mnews/article/011/0004609645?sid=102) |
-| 11 Apr 2026 | 헤럴드경제 | [민주당 전남광주 경선 D-1…민형배 “배신동맹” 김영록 저격](https://n.news.naver.com/mnews/article/016/0002628173?sid=102) |
-| 11 Apr 2026 | 뉴스1 | [금련산 폐방공터널, 420억 투입 '미디어아트 관광터널'로 탈바꿈](https://n.news.naver.com/mnews/article/421/0008883724?sid=102) |
-| 11 Apr 2026 | 아시아경제 | [부안군 농특산물 브랜드 '천년의 솜씨', 전국 평가 '2년 연속 정상'](https://n.news.naver.com/mnews/article/277/0005748087?sid=102) |
-| 11 Apr 2026 | 헤럴드경제 | [귀뚜라미문화재단, 계명대에 누적 발전기금 총 2억원 기탁](https://n.news.naver.com/mnews/article/016/0002628171?sid=102) |
-| 11 Apr 2026 | 연합뉴스 | [민형배 "기득권 이익동맹 구태 혁파해야…사람 바뀌어야"](https://n.news.naver.com/mnews/article/001/0016015740?sid=100) |
-| 11 Apr 2026 | 매일경제 | [농심, 러시아 법인 설립해 ‘유라시아 라면 로드’ 뚫는다](https://n.news.naver.com/mnews/article/024/0000104731?sid=101) |
-| 11 Apr 2026 | 매일경제 | ['영화 할인권 450만 장 배포'…문체부 4,600억 원 규모 추경 확정](https://n.news.naver.com/mnews/article/057/0001944186?sid=103) |
-| 11 Apr 2026 | 한국경제 | [삼성전자, 중국 사업 구조조정 시작하나…"반도체 분야 집중" 전망](https://n.news.naver.com/mnews/article/015/0005273700?sid=101) |
+| 12 Apr 2026 | 헤럴드경제 | [임광현 국세청장 “법인 고가주택 2630개 점검…사주일가 거주하면 탈세...](https://n.news.naver.com/mnews/article/016/0002628275?sid=101) |
+| 12 Apr 2026 | 한국경제 | ["알바는 없고, 월세는 올랐다"… 개강 후 팍팍해진 대학생들[이미경의 ...](https://n.news.naver.com/mnews/article/015/0005273763?sid=102) |
+| 12 Apr 2026 | 헤럴드경제 | [캐머런 영 마스터스 3R 7언더파…매킬로이와 공동 1위](https://m.sports.naver.com/golf/article/016/0002628274) |
+| 12 Apr 2026 | 한국경제 | [20대 신차 구매 36% 급증…4명 중 1명은 전기차](https://n.news.naver.com/mnews/article/015/0005273762?sid=103) |
+| 12 Apr 2026 | 이데일리 | [삼성전자 노조 "성과급 40조 넘게 달라"…싸늘한 주주들](https://n.news.naver.com/mnews/article/018/0006255427?sid=101) |
+| 12 Apr 2026 | 뉴시스 | [진주시 승산마을, 세계 최우수 관광마을 한국 후보지 선정](https://n.news.naver.com/mnews/article/003/0013882152?sid=102) |
+| 12 Apr 2026 | 연합뉴스 | [국세청장 "법인 고가주택 2천630개 점검…사주일가 살면 탈세"](https://n.news.naver.com/mnews/article/001/0016016304?sid=101) |
+| 12 Apr 2026 | 매일경제 | [일본 소프트뱅크, 소니, 혼다, NEC 뭉쳐 AI 회사 설립](https://n.news.naver.com/mnews/article/057/0001944242?sid=104) |
+| 12 Apr 2026 | 머니투데이 | [김정은 만난 中 왕이…"미중 정상회담 전 북미 회담 조건, 최종 조율"](https://n.news.naver.com/mnews/article/008/0005342949?sid=100) |
+| 12 Apr 2026 | 이데일리 | ['고유가 피해지원금' 27일부터 지급 소득하위 70%에 1인당 10~60만원](http://www.smedaily.co.kr/news/articleView.html?idxno=355516) |
+| 12 Apr 2026 | 뉴시스 | [신현송 “현 기준금리, 중립금리 중간 수준”…금리 동결 이어지나](https://n.news.naver.com/mnews/article/003/0013882142?sid=101) |
+| 12 Apr 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 10:30](https://n.news.naver.com/mnews/article/001/0016016288?sid=100) |
 
 
 ---
