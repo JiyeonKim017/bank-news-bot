@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-13 09:48:14` (KST)
+> **업데이트:** `2026-04-14 01:56:28` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#이란` `#영국` `#의회` `#심의` `#없이도` `#단일시장`
+`#상반기` `#국무회의` `#비상경제점검회의` `#이재명` `#대통령` `#국민의`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,486.90원 |
-| **코스피 지수** | 5,808.62 |
+| **USD/KRW 환율** | 1,483.48원 |
+| **코스피 지수** | 5,988.24 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 13 Apr 2026 | 연합뉴스 | [영국, 의회 심의 없이도 EU단일시장 규정 채택 추진](https://n.news.naver.com/mnews/article/001/0016019151?sid=104) |
-| 13 Apr 2026 | 서울경제 | [허태정, 與 대전시장 후보 확정…野 이장우와 맞대결](https://n.news.naver.com/mnews/article/011/0004610271?sid=100) |
-| 13 Apr 2026 | 서울경제 | [10대 건설사 작년 잠재손실 2조…“손해 보면서 공사중인 현장 늘어”](https://n.news.naver.com/mnews/article/011/0004610270?sid=101) |
-| 13 Apr 2026 | 매일경제 | [“원화코인 발행사에 필요 인프라 제공할 것”](https://n.news.naver.com/mnews/article/009/0005665376?sid=101) |
-| 13 Apr 2026 | 헤럴드경제 | [정은경 “국민연금 스튜어드십 코드, 하반기부터 ‘이행 중심’ 강화”](https://n.news.naver.com/mnews/article/016/0002629023?sid=100) |
-| 13 Apr 2026 | 한국경제 | [정의선 "로보틱스·피지컬AI 현대차그룹 성장의 핵심축"](https://n.news.naver.com/mnews/article/015/0005274461?sid=101) |
-| 13 Apr 2026 | 매일경제 | [‘허위사실 유포’ 檢 출석 전한길 “李 정권이 감당할 수 있나”](https://n.news.naver.com/mnews/article/009/0005665375?sid=102) |
-| 13 Apr 2026 | 파이낸셜뉴스 | ["호르무즈 통제 사태, 미들 파워와 손잡아야" [fn이사람]](https://n.news.naver.com/mnews/article/014/0005507066?sid=102) |
-| 13 Apr 2026 | 파이낸셜뉴스 | [부산진해경자청, 부산·경남TP와 AI바이오 사업 발굴](https://n.news.naver.com/mnews/article/014/0005507070?sid=101) |
-| 13 Apr 2026 | 이데일리 | [이란 전쟁자금 쌓이자 원유수출길 원천차단…유가 급등·군사 충돌 우려](https://n.news.naver.com/mnews/article/018/0006256565?sid=104) |
-| 13 Apr 2026 | 머니투데이 | [자기 집에 불 지르고 남의 차에 숨었다…30대 중국인 여성 체포](https://n.news.naver.com/mnews/article/008/0005343593?sid=102) |
-| 13 Apr 2026 | 이데일리 | [이란 전쟁, 신흥국·개도국 경제에 더 타격…3중고 직면](https://n.news.naver.com/mnews/article/018/0006256566?sid=101) |
+| 14 Apr 2026 | 한국경제 | [“국민의 봄여행을 응원합니다”](https://n.news.naver.com/mnews/article/015/0005274676?sid=103) |
+| 14 Apr 2026 | 조세일보 | [신현송, 가족간 '갭투자'로 22억원 차익…모친 '무상거주' 증여 논란](https://n.news.naver.com/mnews/article/123/0002381294?sid=100) |
+| 14 Apr 2026 | 헤럴드경제 | [국민의힘, 경북지사 후보 이철우 확정…3선 도전 나선다](https://n.news.naver.com/mnews/article/016/0002629305?sid=100) |
+| 14 Apr 2026 | 한국경제 | ["트럼프, 이란 치고 중국 조인다"…초강수 던지는 '진짜 속내'](https://n.news.naver.com/mnews/article/015/0005274675?sid=104) |
+| 14 Apr 2026 | 이데일리 | [김성환 장관 "사재기 쓰레기봉투, 중고시장에서 판매"](https://n.news.naver.com/mnews/article/018/0006256948?sid=100) |
+| 14 Apr 2026 | 연합뉴스 | [삼척시, 중동 상황 장기화에 따른 비상경제 대응 총력](https://n.news.naver.com/mnews/article/001/0016020135?sid=101) |
+| 14 Apr 2026 | 머니투데이 | [김경수·전재수·김상욱 "노무현의 꿈 균형발전, 부울경서 실현"](https://n.news.naver.com/mnews/article/008/0005343832?sid=162) |
+| 14 Apr 2026 | 뉴스1 | [[제주경제소식] 브랜드감귤대학 수료생 대상 전문 과정 개설](https://n.news.naver.com/mnews/article/421/0008888104?sid=102) |
+| 14 Apr 2026 | 뉴스1 | [대전 중구, 상반기 광견병 예방 접종 실시](https://n.news.naver.com/mnews/article/421/0008888103?sid=102) |
+| 14 Apr 2026 | 이데일리 | [청년 취업난에 단비…수협, 상반기 233명 신입직원 일괄 공채](https://n.news.naver.com/mnews/article/018/0006256946?sid=101) |
+| 14 Apr 2026 | 뉴시스 | [국무회의 겸 비상경제점검회의 발언하는 이재명 대통령](https://n.news.naver.com/mnews/article/003/0013886012?sid=100) |
+| 14 Apr 2026 | 뉴시스 | [국무회의 겸 비상경제점검회의 참석한 이재명 대통령](https://n.news.naver.com/mnews/article/003/0013886013?sid=100) |
 
 
 ---
