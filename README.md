@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-16 06:54:40` (KST)
+> **업데이트:** `2026-04-16 09:11:27` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대통령` `#인도베트남` `#국빈` `#협력` `#트럼프` `#방문공급망에너지`
+`#사업화` `#부처` `#칸막이` `#엔비디아보다` `#빨라` `#년전`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,472.18원 |
+| **USD/KRW 환율** | 1,474.88원 |
 | **코스피 지수** | 6,226.05 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 16 Apr 2026 | 이데일리 | [李대통령, 인도·베트남 국빈 방문…공급망·에너지 협력 강화](https://n.news.naver.com/mnews/article/018/0006258663?sid=100) |
-| 16 Apr 2026 | 파이낸셜뉴스 | [다우, CEO 교체…피털링 의장 이동·카터 체제 출범](https://n.news.naver.com/mnews/article/014/0005508911?sid=101) |
-| 16 Apr 2026 | 파이낸셜뉴스 | [은행·보험 자본규제 풀어 생산적금융에 100조 더 투자한다](https://n.news.naver.com/mnews/article/014/0005508912?sid=101) |
-| 16 Apr 2026 | 연합뉴스 | [한중 경제공동위 20일 베이징서 개최…공급망 협력 논의](https://n.news.naver.com/mnews/article/001/0016025963?sid=100) |
-| 16 Apr 2026 | 뉴시스 | ['신흥시장 개척자' 모비우스 89세로 별세…현장 중심 철학 남겨](https://n.news.naver.com/mnews/article/003/0013892252?sid=104) |
-| 16 Apr 2026 | 머니투데이 | [해진공, '트럼프 2기·중국 리스크' 대응 모색…국적선사 CEO 콘퍼런스 개...](https://n.news.naver.com/mnews/article/008/0005345269?sid=101) |
-| 16 Apr 2026 | 연합뉴스 | [업무추진비도 '예금토큰'으로…세종에서 우선 추진(종합)](https://n.news.naver.com/mnews/article/001/0016025962?sid=101) |
-| 16 Apr 2026 | 서울경제 | [김영록 전남지사 17일 도정 복귀…“행정통합·민생안정” 혼신](https://n.news.naver.com/mnews/article/011/0004611462?sid=102) |
-| 16 Apr 2026 | 아시아경제 | [정관선 건설 ‘본궤도’…기장군·부산시 기본협약 체결](https://n.news.naver.com/mnews/article/277/0005750637?sid=102) |
-| 16 Apr 2026 | 뉴스1 | [김중남·김한근·김현수 "우리는 원팀"…민주당 강릉 결집 선언](https://n.news.naver.com/mnews/article/421/0008894457?sid=162) |
-| 16 Apr 2026 | 조세일보 | [李대통령, 오는 19일부터 5박 6일 인도·베트남 국빈 방문](https://n.news.naver.com/mnews/article/123/0002381467?sid=100) |
-| 16 Apr 2026 | 머니투데이 | [트럼프 "나의 최애 원수"…"훌륭해" 극찬한 중재국 파키스탄 실세](https://n.news.naver.com/mnews/article/008/0005345265?sid=104) |
+| 16 Apr 2026 | 매일경제 | [엔비디아보다 3년 빨라...韓, 22년전 ‘AI GPU시대’ 논문 썼다](https://n.news.naver.com/mnews/article/009/0005667202?sid=105) |
+| 16 Apr 2026 | 헤럴드경제 | [“쓰레기와 이별하자”…토요일 광화문광장서 ‘지구의 날’ 행사](https://n.news.naver.com/mnews/article/016/0002630920?sid=102) |
+| 16 Apr 2026 | 파이낸셜뉴스 | ["제발 추근덕 좀 멈춰요" 20대 여직원 앞에서 '우쭐' 대는 40대男 [내가 ...](https://n.news.naver.com/mnews/article/014/0005509013?sid=102) |
+| 16 Apr 2026 | 서울경제 | [강동구, JYP 신사옥 건축허가…고덕비즈밸리 ‘K컬처 거점’으로](https://n.news.naver.com/mnews/article/011/0004611555?sid=101) |
+| 16 Apr 2026 | 매일경제 | [산은·수은, 석유공사 지원 … 원유 확보에 30억달러 공급](https://n.news.naver.com/mnews/article/009/0005667196?sid=101) |
+| 16 Apr 2026 | 한국경제 | [규제 풀어 '생산적 금융' 100조 늘린다](https://n.news.naver.com/mnews/article/015/0005275995?sid=101) |
+| 16 Apr 2026 | 한국경제 | [국내 첫 이더리움 컨소시엄 출범](https://n.news.naver.com/mnews/article/015/0005275996?sid=101) |
+| 16 Apr 2026 | 아시아경제 | [[6·3선거]임정엽 전 완주군수, 우범기 지지 선언](https://n.news.naver.com/mnews/article/277/0005750704?sid=102) |
+| 16 Apr 2026 | 서울경제 | [“신반포 19·25차 양보 못해”…삼성물산·포스코 정면승부](https://n.news.naver.com/mnews/article/011/0004611551?sid=101) |
+| 16 Apr 2026 | 연합뉴스 | [R&amp;D 사업화 막는 부처 칸막이 허문다…연구자 인센티브 확대](https://n.news.naver.com/mnews/article/001/0016026344?sid=105) |
+| 16 Apr 2026 | 뉴시스 | [보조금 대신 '지분 투자'… 정부, 투자형 R&amp;D 제도 도입 추진](https://n.news.naver.com/mnews/article/003/0013892682?sid=105) |
+| 16 Apr 2026 | 뉴스1 | [부처 칸막이 허물고…정부, R&amp;D 사업화 속도 낸다](https://n.news.naver.com/mnews/article/421/0008894862?sid=105) |
 
 
 ---
