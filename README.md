@@ -1,37 +1,35 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-16 09:11:27` (KST)
+> **업데이트:** `2026-04-17 01:56:54` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#사업화` `#부처` `#칸막이` `#엔비디아보다` `#빨라` `#년전`
+`#추진` `#호르무즈` `#통행료` `#허용하면` `#중국` `#따라한다`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,474.88원 |
-| **코스피 지수** | 6,226.05 |
+| **USD/KRW 환율** | 1,477.68원 |
+| **코스피 지수** | 6,207.91 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 16 Apr 2026 | 매일경제 | [엔비디아보다 3년 빨라...韓, 22년전 ‘AI GPU시대’ 논문 썼다](https://n.news.naver.com/mnews/article/009/0005667202?sid=105) |
-| 16 Apr 2026 | 헤럴드경제 | [“쓰레기와 이별하자”…토요일 광화문광장서 ‘지구의 날’ 행사](https://n.news.naver.com/mnews/article/016/0002630920?sid=102) |
-| 16 Apr 2026 | 파이낸셜뉴스 | ["제발 추근덕 좀 멈춰요" 20대 여직원 앞에서 '우쭐' 대는 40대男 [내가 ...](https://n.news.naver.com/mnews/article/014/0005509013?sid=102) |
-| 16 Apr 2026 | 서울경제 | [강동구, JYP 신사옥 건축허가…고덕비즈밸리 ‘K컬처 거점’으로](https://n.news.naver.com/mnews/article/011/0004611555?sid=101) |
-| 16 Apr 2026 | 매일경제 | [산은·수은, 석유공사 지원 … 원유 확보에 30억달러 공급](https://n.news.naver.com/mnews/article/009/0005667196?sid=101) |
-| 16 Apr 2026 | 한국경제 | [규제 풀어 '생산적 금융' 100조 늘린다](https://n.news.naver.com/mnews/article/015/0005275995?sid=101) |
-| 16 Apr 2026 | 한국경제 | [국내 첫 이더리움 컨소시엄 출범](https://n.news.naver.com/mnews/article/015/0005275996?sid=101) |
-| 16 Apr 2026 | 아시아경제 | [[6·3선거]임정엽 전 완주군수, 우범기 지지 선언](https://n.news.naver.com/mnews/article/277/0005750704?sid=102) |
-| 16 Apr 2026 | 서울경제 | [“신반포 19·25차 양보 못해”…삼성물산·포스코 정면승부](https://n.news.naver.com/mnews/article/011/0004611551?sid=101) |
-| 16 Apr 2026 | 연합뉴스 | [R&amp;D 사업화 막는 부처 칸막이 허문다…연구자 인센티브 확대](https://n.news.naver.com/mnews/article/001/0016026344?sid=105) |
-| 16 Apr 2026 | 뉴시스 | [보조금 대신 '지분 투자'… 정부, 투자형 R&amp;D 제도 도입 추진](https://n.news.naver.com/mnews/article/003/0013892682?sid=105) |
-| 16 Apr 2026 | 뉴스1 | [부처 칸막이 허물고…정부, R&amp;D 사업화 속도 낸다](https://n.news.naver.com/mnews/article/421/0008894862?sid=105) |
+| 17 Apr 2026 | 서울경제 | [“호르무즈 통행료 허용하면 중국 등 따라한다”...美 석유업계, 트럼프...](https://n.news.naver.com/mnews/article/011/0004611757?sid=104) |
+| 17 Apr 2026 | 뉴스1 | [파주시, '고유가 피해지원금' 27일부터 1차 지급 시작](https://n.news.naver.com/mnews/article/421/0008895827?sid=102) |
+| 17 Apr 2026 | 뉴시스 | [한병도 "정부와 부동산 투기 근절·자본시장 활성화 정책 추진"](https://n.news.naver.com/mnews/article/003/0013893570?sid=100) |
+| 17 Apr 2026 | 뉴시스 | [합천 한달여행, '다라고 스테이' 20팀 모집…숙박비 지원](https://n.news.naver.com/mnews/article/003/0013893571?sid=102) |
+| 17 Apr 2026 | 매일경제 | [교황 "한 줌의 폭군들이 세상 짓밟아"⋯트럼프 또 저격?](https://n.news.naver.com/mnews/article/057/0001945104?sid=104) |
+| 17 Apr 2026 | 연합뉴스 | [울산 북구, 두 달간 복지 사각지대 조사…"위기가구 발굴"](https://n.news.naver.com/mnews/article/001/0016027198?sid=102) |
+| 17 Apr 2026 | 헤럴드경제 | [조준건 “대리기사가 내 로드FC 경기 직관했더라”](https://m.sports.naver.com/general/article/016/0002631253) |
+| 17 Apr 2026 | 이데일리 | [李대통령 지지율 66%…전주대비 1%p 하락 [한국갤럽]](https://n.news.naver.com/mnews/article/018/0006259266?sid=100) |
+| 17 Apr 2026 | 아시아경제 | [조상호 "행정수도특별법 제정·개헌 추진"](https://n.news.naver.com/mnews/article/277/0005751007?sid=102) |
+| 17 Apr 2026 | 헤럴드경제 | [산단에 AI 입힌다...김정관 장관 5극3특 중부권 간담회](https://n.news.naver.com/mnews/article/016/0002631252?sid=101) |
 
 
 ---
