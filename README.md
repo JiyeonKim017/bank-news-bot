@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-17 06:54:05` (KST)
+> **업데이트:** `2026-04-17 09:10:05` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#강화` `#고양시` `#행주한우장미` `#특화농산물` `#지정대표` `#브랜드`
+`#울산` `#소상공인연합회` `#창립` `#독립` `#사무실` `#개소`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,484.08원 |
+| **USD/KRW 환율** | 1,479.70원 |
 | **코스피 지수** | 6,191.92 |
 
 ---
@@ -20,17 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 17 Apr 2026 | 연합뉴스 | [고양시 '행주한우·장미' 특화농산물 지정…대표 브랜드 강화](https://n.news.naver.com/mnews/article/001/0016027930?sid=101) |
-| 17 Apr 2026 | 뉴시스 | ['공무원은 200만원인데 의원은 1000만원' 중구의회 특권?](https://n.news.naver.com/mnews/article/003/0013894411?sid=102) |
-| 17 Apr 2026 | 한국경제 | [씨엔티테크, ‘2026 펨테크 산업 육성 사업’모집 시작 "업력 제한 없이...](https://magazine.hankyung.com/job-joy/article/202604178615d) |
-| 17 Apr 2026 | 헤럴드경제 | [경희대, ‘AI 위원회’ 출범…교육·연구·행정 전반 혁신 추진[세상&amp;]](https://n.news.naver.com/mnews/article/016/0002631472?sid=102) |
-| 17 Apr 2026 | 뉴시스 | [임실군, 3조8천억 규모 '2036 미래발전전략' 청사진 공개](https://n.news.naver.com/mnews/article/003/0013894400?sid=102) |
-| 17 Apr 2026 | 헤럴드경제 | [온실가스로 전기 만든다…성균관대, ‘가스전지’ 개발[세상&amp;]](https://n.news.naver.com/mnews/article/016/0002631471?sid=102) |
-| 17 Apr 2026 | 파이낸셜뉴스 | [위성락, EU 집행위원 면담…"중동 위기 대응 경제안보 협력 강화"](https://n.news.naver.com/mnews/article/014/0005509464?sid=100) |
-| 17 Apr 2026 | 매일경제 | [비트코인 제국 만들고, 유령이 된 이름 … 지금 이 순간에도 "나카모토...](https://n.news.naver.com/mnews/article/009/0005667582?sid=103) |
-| 17 Apr 2026 | 한국경제 | [경기창조경제혁신센터, 모두의 창업 프로젝트 설명회 성료 "경기북부 예...](https://magazine.hankyung.com/job-joy/article/202604178604d) |
-| 17 Apr 2026 | 매일경제 | ["배고픈 아이는 공부할 수 없다" … 자본주의, 이타심 품을때 상생](https://n.news.naver.com/mnews/article/009/0005667578?sid=103) |
-| 17 Apr 2026 | 뉴스1 | [김장호 구미시장 예비후보 "'박정희 고향·보수의 심장' 구미를 지켜달...](https://n.news.naver.com/mnews/article/421/0008896636?sid=102) |
+| 17 Apr 2026 | 뉴스1 | [울산 소상공인연합회, 창립 후 첫 독립 사무실 개소](https://n.news.naver.com/mnews/article/421/0008896871?sid=102) |
+| 17 Apr 2026 | 뉴스1 | [[부고] 손현덕 씨(매일경제신문 주필) 장인상](https://n.news.naver.com/mnews/article/421/0008896872?sid=102) |
+| 17 Apr 2026 | 이데일리 | [양평 공흥지구 특혜 의혹 첫 재판…'개발부담금 0원' 공방](https://n.news.naver.com/mnews/article/018/0006259888?sid=102) |
+| 17 Apr 2026 | 연합뉴스 | ["소상공인 지키는 방패 될 것" vs "도립 파크골프장 72홀 건립"](https://n.news.naver.com/mnews/article/001/0016028131?sid=102) |
+| 17 Apr 2026 | 한국경제 | [삼성전자 노조의 압박…"파업 땐 30조 손실날 것"](https://n.news.naver.com/mnews/article/015/0005276445?sid=101) |
+| 17 Apr 2026 | 뉴시스 | [위성락 국가안보실장, EU 집행위 통상·경제안보 집행위원 면담](https://n.news.naver.com/mnews/article/003/0013894655?sid=100) |
+| 17 Apr 2026 | 헤럴드경제 | [[단독] 차기 여신금융협회장 선출 본격화…이달 말 회추위](https://n.news.naver.com/mnews/article/016/0002631519?sid=101) |
+| 17 Apr 2026 | 매일경제 | ["조직 엉뚱하게 만들어 예산낭비 말라"](https://n.news.naver.com/mnews/article/009/0005667726?sid=100) |
+| 17 Apr 2026 | 헤럴드경제 | [켄싱턴호텔앤리조트, 전국 9개 지점 ‘봄 맞이 바비큐 패키지’ 출시](https://n.news.naver.com/mnews/article/016/0002631518?sid=103) |
+| 17 Apr 2026 | 매일경제 | [주영국대사에 김흥종 前 KIEP 원장](https://n.news.naver.com/mnews/article/009/0005667730?sid=100) |
+| 17 Apr 2026 | 아시아경제 | [UAE, 7주 만에 학교 문 연다…美-이란 종전 논의 속 '일상 복귀’](https://n.news.naver.com/mnews/article/277/0005751209?sid=104) |
+| 17 Apr 2026 | 뉴시스 | [트럼프에 맞선 교황, 균형자 부상…'이란戰=신의 뜻' 정당화 견제](https://n.news.naver.com/mnews/article/003/0013894638?sid=104) |
 
 
 ---
