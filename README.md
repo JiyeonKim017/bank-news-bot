@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-18 01:48:07` (KST)
+> **업데이트:** `2026-04-18 06:09:06` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#자식` `#대학` `#보낼` `#생각으로` `#버텨년간` `#시멘트`
+`#한강변` `#대신` `#직주근접명품` `#아파트로` `#승부` `#서초진흥`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 18 Apr 2026 | 매일경제 | [“자식 대학 보낼 생각으로 버텨”…16년간 150kg 시멘트 나른 싱글맘의...](https://n.news.naver.com/mnews/article/009/0005667825?sid=104) |
-| 18 Apr 2026 | 이데일리 | ["삼전·SK하이닉스 성과급, 지역화폐로 지급하자"…황당 주장](https://n.news.naver.com/mnews/article/018/0006260174?sid=102) |
-| 18 Apr 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 10:30](https://n.news.naver.com/mnews/article/001/0016028498?sid=102) |
-| 18 Apr 2026 | 서울경제 | [SK하이닉스, TSMC와 HBM4E 협력…3나노 승부수](https://n.news.naver.com/mnews/article/011/0004612028?sid=105) |
-| 18 Apr 2026 | 서울경제 | [신용융자 33.8조 사상 최대…증권사 금리 3%대 경쟁 불붙어](https://n.news.naver.com/mnews/article/011/0004612027?sid=101) |
-| 18 Apr 2026 | 뉴스1 | [소방관서 사칭 '소화기 강매' 사기 기승…전북도 소방본부, 주의 당부](https://n.news.naver.com/mnews/article/421/0008897232?sid=102) |
-| 18 Apr 2026 | 뉴스1 | [박성현 광양시장 선거 무소속 출마…"당당히 심판받겠다"](https://n.news.naver.com/mnews/article/421/0008897231?sid=162) |
-| 18 Apr 2026 | 헤럴드경제 | [오세훈, 국민의힘 서울시장 후보 확정…3연임·5선 도전](https://n.news.naver.com/mnews/article/016/0002631615?sid=100) |
-| 18 Apr 2026 | 헤럴드경제 | [백악관·앤트로픽 첫 회동…‘미토스 충격’에 접점 모색](https://n.news.naver.com/mnews/article/016/0002631612?sid=104) |
-| 18 Apr 2026 | 매일경제 | [게임 영상 1억 조회 만든 넥써쓰 ‘크로쓰 웨이브’](https://n.news.naver.com/mnews/article/009/0005667817?sid=105) |
-| 18 Apr 2026 | 연합뉴스 | [평택시 공공산후조리원 내년 3월 정식 개원](https://n.news.naver.com/mnews/article/001/0016028489?sid=102) |
-| 18 Apr 2026 | 머니투데이 | [아내 출근하면 미성년자 의붓딸 성폭행…40대 남성, 법원 판단은](https://n.news.naver.com/mnews/article/008/0005345963?sid=102) |
+| 18 Apr 2026 | 헤럴드경제 | [“한강변 대신 직주근접·명품 아파트로 승부” 서초진흥 3년 내 이주·...](https://n.news.naver.com/mnews/article/016/0002631647?sid=101) |
+| 18 Apr 2026 | 뉴시스 | [해외에선 어떻게?…"매출·종속성 등 따져 선별 부여"[소상공인 단결권...](https://n.news.naver.com/mnews/article/003/0013895265?sid=101) |
+| 18 Apr 2026 | 매일경제 | [“양도세 직격탄”…‘장특공제 폐지 법안’에 반대 의견만? 찬성 반박...](https://n.news.naver.com/mnews/article/009/0005667851?sid=101) |
+| 18 Apr 2026 | 뉴시스 | [양상국, 故 박지선 향한 그리움…"경제적으로 어려울 때 도와줘"](https://m.entertain.naver.com/article/003/0013895257) |
+| 18 Apr 2026 | 매일경제 | ["삼전·SK하닉 성과급, 지역화폐로…국민이 같이 이뤘다" 주장에 시끌](https://n.news.naver.com/mnews/article/057/0001945255?sid=102) |
+| 18 Apr 2026 | 아시아경제 | [용인시, 성복동 177번지 방치 부지에 ‘복합문화체육복지센터’ 추진](https://n.news.naver.com/mnews/article/277/0005751341?sid=102) |
+| 18 Apr 2026 | 헤럴드경제 | [10대 의붓딸 수차례 성폭행하고 두 살배기 친딸 학대한 40대 아빠 ‘징역...](https://n.news.naver.com/mnews/article/016/0002631642?sid=102) |
+| 18 Apr 2026 | 한국경제 | [이란 전쟁發 인플레에 미국 선거구도 바뀌나[글로벌 현장]](https://n.news.naver.com/mnews/article/050/0000105083?sid=101) |
+| 18 Apr 2026 | 머니투데이 | [케밥 하나에 300만원 결제…브라질 리우 '결제사기' 주의보](https://n.news.naver.com/mnews/article/008/0005345982?sid=104) |
+| 18 Apr 2026 | 이데일리 | [李대통령 "장특공제 페지가 1주택자 세금폭탄?…명백한 거짓선동"](https://n.news.naver.com/mnews/article/018/0006260207?sid=100) |
+| 18 Apr 2026 | 조세일보 | [“벚꽃 가고 철쭉 왔다”…지리산 바래봉 능선 물든 6만평 군락](https://n.news.naver.com/mnews/article/123/0002381585?sid=103) |
+| 18 Apr 2026 | 서울경제 | [한 달 내내 일해도 고작 83만원…“알바생보다 못 번다” 벼랑 끝에 몰...](https://n.news.naver.com/mnews/article/011/0004612051?sid=101) |
 
 
 ---
