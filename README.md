@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-17 09:10:05` (KST)
+> **업데이트:** `2026-04-18 01:48:07` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#울산` `#소상공인연합회` `#창립` `#독립` `#사무실` `#개소`
+`#자식` `#대학` `#보낼` `#생각으로` `#버텨년간` `#시멘트`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,479.70원 |
+| **USD/KRW 환율** | 1,465.68원 |
 | **코스피 지수** | 6,191.92 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 17 Apr 2026 | 뉴스1 | [울산 소상공인연합회, 창립 후 첫 독립 사무실 개소](https://n.news.naver.com/mnews/article/421/0008896871?sid=102) |
-| 17 Apr 2026 | 뉴스1 | [[부고] 손현덕 씨(매일경제신문 주필) 장인상](https://n.news.naver.com/mnews/article/421/0008896872?sid=102) |
-| 17 Apr 2026 | 이데일리 | [양평 공흥지구 특혜 의혹 첫 재판…'개발부담금 0원' 공방](https://n.news.naver.com/mnews/article/018/0006259888?sid=102) |
-| 17 Apr 2026 | 연합뉴스 | ["소상공인 지키는 방패 될 것" vs "도립 파크골프장 72홀 건립"](https://n.news.naver.com/mnews/article/001/0016028131?sid=102) |
-| 17 Apr 2026 | 한국경제 | [삼성전자 노조의 압박…"파업 땐 30조 손실날 것"](https://n.news.naver.com/mnews/article/015/0005276445?sid=101) |
-| 17 Apr 2026 | 뉴시스 | [위성락 국가안보실장, EU 집행위 통상·경제안보 집행위원 면담](https://n.news.naver.com/mnews/article/003/0013894655?sid=100) |
-| 17 Apr 2026 | 헤럴드경제 | [[단독] 차기 여신금융협회장 선출 본격화…이달 말 회추위](https://n.news.naver.com/mnews/article/016/0002631519?sid=101) |
-| 17 Apr 2026 | 매일경제 | ["조직 엉뚱하게 만들어 예산낭비 말라"](https://n.news.naver.com/mnews/article/009/0005667726?sid=100) |
-| 17 Apr 2026 | 헤럴드경제 | [켄싱턴호텔앤리조트, 전국 9개 지점 ‘봄 맞이 바비큐 패키지’ 출시](https://n.news.naver.com/mnews/article/016/0002631518?sid=103) |
-| 17 Apr 2026 | 매일경제 | [주영국대사에 김흥종 前 KIEP 원장](https://n.news.naver.com/mnews/article/009/0005667730?sid=100) |
-| 17 Apr 2026 | 아시아경제 | [UAE, 7주 만에 학교 문 연다…美-이란 종전 논의 속 '일상 복귀’](https://n.news.naver.com/mnews/article/277/0005751209?sid=104) |
-| 17 Apr 2026 | 뉴시스 | [트럼프에 맞선 교황, 균형자 부상…'이란戰=신의 뜻' 정당화 견제](https://n.news.naver.com/mnews/article/003/0013894638?sid=104) |
+| 18 Apr 2026 | 매일경제 | [“자식 대학 보낼 생각으로 버텨”…16년간 150kg 시멘트 나른 싱글맘의...](https://n.news.naver.com/mnews/article/009/0005667825?sid=104) |
+| 18 Apr 2026 | 이데일리 | ["삼전·SK하이닉스 성과급, 지역화폐로 지급하자"…황당 주장](https://n.news.naver.com/mnews/article/018/0006260174?sid=102) |
+| 18 Apr 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 10:30](https://n.news.naver.com/mnews/article/001/0016028498?sid=102) |
+| 18 Apr 2026 | 서울경제 | [SK하이닉스, TSMC와 HBM4E 협력…3나노 승부수](https://n.news.naver.com/mnews/article/011/0004612028?sid=105) |
+| 18 Apr 2026 | 서울경제 | [신용융자 33.8조 사상 최대…증권사 금리 3%대 경쟁 불붙어](https://n.news.naver.com/mnews/article/011/0004612027?sid=101) |
+| 18 Apr 2026 | 뉴스1 | [소방관서 사칭 '소화기 강매' 사기 기승…전북도 소방본부, 주의 당부](https://n.news.naver.com/mnews/article/421/0008897232?sid=102) |
+| 18 Apr 2026 | 뉴스1 | [박성현 광양시장 선거 무소속 출마…"당당히 심판받겠다"](https://n.news.naver.com/mnews/article/421/0008897231?sid=162) |
+| 18 Apr 2026 | 헤럴드경제 | [오세훈, 국민의힘 서울시장 후보 확정…3연임·5선 도전](https://n.news.naver.com/mnews/article/016/0002631615?sid=100) |
+| 18 Apr 2026 | 헤럴드경제 | [백악관·앤트로픽 첫 회동…‘미토스 충격’에 접점 모색](https://n.news.naver.com/mnews/article/016/0002631612?sid=104) |
+| 18 Apr 2026 | 매일경제 | [게임 영상 1억 조회 만든 넥써쓰 ‘크로쓰 웨이브’](https://n.news.naver.com/mnews/article/009/0005667817?sid=105) |
+| 18 Apr 2026 | 연합뉴스 | [평택시 공공산후조리원 내년 3월 정식 개원](https://n.news.naver.com/mnews/article/001/0016028489?sid=102) |
+| 18 Apr 2026 | 머니투데이 | [아내 출근하면 미성년자 의붓딸 성폭행…40대 남성, 법원 판단은](https://n.news.naver.com/mnews/article/008/0005345963?sid=102) |
 
 
 ---
