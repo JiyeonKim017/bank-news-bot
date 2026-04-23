@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-23 06:58:25` (KST)
+> **업데이트:** `2026-04-23 09:20:03` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#정원오` `#대통령` `#베트남` `#총리와` `#면담` `#홍강`
+`#성과` `#최대` `#정치와` `#완벽분리된` `#비트코인` `#글로벌`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,481.58원 |
+| **USD/KRW 환율** | 1,480.08원 |
 | **코스피 지수** | 6,475.81 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 23 Apr 2026 | 매일경제 | [李대통령, 베트남 총리와 면담 “홍강 기적, 한국도 함께 만들 것”](https://n.news.naver.com/mnews/article/009/0005670434?sid=100) |
-| 23 Apr 2026 | 헤럴드경제 | [정원오 민주당 서울시장 예비후보, ‘새서울위원회 준비위’ 공식 출범](https://n.news.naver.com/mnews/article/016/0002634427?sid=100) |
-| 23 Apr 2026 | 헤럴드경제 | [도로공사, 비상경영체제 돌입…복합위기 대응 총력 나선다](https://n.news.naver.com/mnews/article/016/0002634426?sid=101) |
-| 23 Apr 2026 | 서울경제 | [‘경찰의 꽃’ 총경 승진…송현건·길민성·이종학 등 102명](https://n.news.naver.com/mnews/article/011/0004613963?sid=102) |
-| 23 Apr 2026 | 뉴스1 | [韓 찾는 외국인 22% '쑥'…정성호 "신속한 입국심사로 경제 활성화"](https://n.news.naver.com/mnews/article/421/0008908311?sid=102) |
-| 23 Apr 2026 | 뉴시스 | [제주개발공사, 대한민국 창조경영 ESG경영 부문 대상](https://n.news.naver.com/mnews/article/003/0013906276?sid=102) |
-| 23 Apr 2026 | 한국경제 | [추미애 "접경지는 희생의 땅 아닌 평화·번영의 중심 돼야"](https://n.news.naver.com/mnews/article/015/0005278831?sid=102) |
-| 23 Apr 2026 | 서울경제 | [“20만원 줄테니 제발 연애 좀 해”…텅 빈 마을 지키려 ‘데이트 비용...](https://n.news.naver.com/mnews/article/011/0004613962?sid=104) |
-| 23 Apr 2026 | 머니투데이 | [정원오, 'G2 서울' 비전 선포…"서울의 상대는 뉴욕"](https://n.news.naver.com/mnews/article/008/0005348473?sid=100) |
-| 23 Apr 2026 | 연합뉴스 | [전북도, 1차 고유가 피해지원금 27일부터 지급…콜센터 운영](https://n.news.naver.com/mnews/article/001/0016039321?sid=102) |
-| 23 Apr 2026 | 머니투데이 | [일본 정부, MBK의 日기업 인수 제동…"40년 전 교훈"](https://n.news.naver.com/mnews/article/008/0005348471?sid=104) |
-| 23 Apr 2026 | 이데일리 | [“달러 스테이블코인 침투율 아직 1%…프라이버시·규제 해결 땐 대폭 성...](https://n.news.naver.com/mnews/article/018/0006264415?sid=101) |
+| 23 Apr 2026 | 한국경제 | ["정치와 완벽분리된 비트코인, 글로벌 통화되면 전쟁도 줄 것"](https://n.news.naver.com/mnews/article/015/0005278970?sid=101) |
+| 23 Apr 2026 | 서울경제 | [車보험료 5부제 할인, 4월분부터 소급 적용](https://n.news.naver.com/mnews/article/011/0004614062?sid=101) |
+| 23 Apr 2026 | 뉴스1 | [15회 변호사시험 합격자 1714명…합격률 50.95%](https://n.news.naver.com/mnews/article/421/0008908673?sid=102) |
+| 23 Apr 2026 | 한국경제 | [전재수 "해양수도 완성, 부산 되살린다"](https://n.news.naver.com/mnews/article/015/0005278969?sid=162) |
+| 23 Apr 2026 | 이데일리 | [핑거 "스테이블코인, 돈의 레일…STO부터 양자내성까지 연결이 핵심"](https://n.news.naver.com/mnews/article/018/0006264772?sid=101) |
+| 23 Apr 2026 | 머니투데이 | [韓 스타트업 일본으로…인천혁신센터, 키라보시 금융그룹과 맞손](https://n.news.naver.com/mnews/article/008/0005348642?sid=101) |
+| 23 Apr 2026 | 파이낸셜뉴스 | [공작기계社 '마키노' 인수 나선 MBK… 日정부,제동 걸었다](https://n.news.naver.com/mnews/article/014/0005512514?sid=104) |
+| 23 Apr 2026 | 파이낸셜뉴스 | [한국 언급한 美 USTR 대표 "디지털 규제 관련 성과 원해"](https://n.news.naver.com/mnews/article/014/0005512513?sid=101) |
+| 23 Apr 2026 | 이데일리 | [의료사고 피해구제법 개정안 통과…설명 의무·보험 강화](https://n.news.naver.com/mnews/article/018/0006264768?sid=102) |
+| 23 Apr 2026 | 서울경제 | [[로터리] 베이커리 카페가 드러낸 가업상속 제도의 역설](https://n.news.naver.com/mnews/article/011/0004614056?sid=101) |
+| 23 Apr 2026 | 뉴스1 | [NH투자증권, 1분기 당기순이익 4757억원…"사상 최대 실적"](https://n.news.naver.com/mnews/article/421/0008908666?sid=101) |
+| 23 Apr 2026 | 매일경제 | [KOTRA, 한·베트남 경협 행사서 ‘역대 최대’ 현장 수출 성과](https://n.news.naver.com/mnews/article/009/0005670627?sid=101) |
 
 
 ---
