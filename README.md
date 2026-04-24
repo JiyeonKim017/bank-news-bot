@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-23 09:20:03` (KST)
+> **업데이트:** `2026-04-24 02:00:45` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#성과` `#최대` `#정치와` `#완벽분리된` `#비트코인` `#글로벌`
+`#대통령` `#휘발유` `#경유` `#원차` `#석유` `#최고가격`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,480.08원 |
-| **코스피 지수** | 6,475.81 |
+| **USD/KRW 환율** | 1,481.48원 |
+| **코스피 지수** | 6,462.35 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 23 Apr 2026 | 한국경제 | ["정치와 완벽분리된 비트코인, 글로벌 통화되면 전쟁도 줄 것"](https://n.news.naver.com/mnews/article/015/0005278970?sid=101) |
-| 23 Apr 2026 | 서울경제 | [車보험료 5부제 할인, 4월분부터 소급 적용](https://n.news.naver.com/mnews/article/011/0004614062?sid=101) |
-| 23 Apr 2026 | 뉴스1 | [15회 변호사시험 합격자 1714명…합격률 50.95%](https://n.news.naver.com/mnews/article/421/0008908673?sid=102) |
-| 23 Apr 2026 | 한국경제 | [전재수 "해양수도 완성, 부산 되살린다"](https://n.news.naver.com/mnews/article/015/0005278969?sid=162) |
-| 23 Apr 2026 | 이데일리 | [핑거 "스테이블코인, 돈의 레일…STO부터 양자내성까지 연결이 핵심"](https://n.news.naver.com/mnews/article/018/0006264772?sid=101) |
-| 23 Apr 2026 | 머니투데이 | [韓 스타트업 일본으로…인천혁신센터, 키라보시 금융그룹과 맞손](https://n.news.naver.com/mnews/article/008/0005348642?sid=101) |
-| 23 Apr 2026 | 파이낸셜뉴스 | [공작기계社 '마키노' 인수 나선 MBK… 日정부,제동 걸었다](https://n.news.naver.com/mnews/article/014/0005512514?sid=104) |
-| 23 Apr 2026 | 파이낸셜뉴스 | [한국 언급한 美 USTR 대표 "디지털 규제 관련 성과 원해"](https://n.news.naver.com/mnews/article/014/0005512513?sid=101) |
-| 23 Apr 2026 | 이데일리 | [의료사고 피해구제법 개정안 통과…설명 의무·보험 강화](https://n.news.naver.com/mnews/article/018/0006264768?sid=102) |
-| 23 Apr 2026 | 서울경제 | [[로터리] 베이커리 카페가 드러낸 가업상속 제도의 역설](https://n.news.naver.com/mnews/article/011/0004614056?sid=101) |
-| 23 Apr 2026 | 뉴스1 | [NH투자증권, 1분기 당기순이익 4757억원…"사상 최대 실적"](https://n.news.naver.com/mnews/article/421/0008908666?sid=101) |
-| 23 Apr 2026 | 매일경제 | [KOTRA, 한·베트남 경협 행사서 ‘역대 최대’ 현장 수출 성과](https://n.news.naver.com/mnews/article/009/0005670627?sid=101) |
+| 24 Apr 2026 | 이데일리 | [휘발유 1934·경유 1923원…4차 석유 최고가격 또 동결](http://www.smedaily.co.kr/news/articleView.html?idxno=356148) |
+| 24 Apr 2026 | 파이낸셜뉴스 | ["아이디어, 특허로 만들어드려요" 여경협, 미래 창업가 모집](https://n.news.naver.com/mnews/article/014/0005512807?sid=101) |
+| 24 Apr 2026 | 연합뉴스 | [기획예산처 기조실장에 김명중…출범 후 1급 인사 마무리](https://n.news.naver.com/mnews/article/001/0016040711?sid=101) |
+| 24 Apr 2026 | 서울경제 | [구윤철 “다음주 소비·관광 붐업 방안 발표…소비 둔화 선제적 대응”](https://n.news.naver.com/mnews/article/011/0004614284?sid=101) |
+| 24 Apr 2026 | 헤럴드경제 | [소노인터내셔널, 전국 8개 워터파크 야외존 순차 개장](https://n.news.naver.com/mnews/article/016/0002634777?sid=103) |
+| 24 Apr 2026 | 한국경제 | [정원주 대우건설 회장, 경제사절단으로 베트남 방문](https://n.news.naver.com/mnews/article/015/0005279212?sid=101) |
+| 24 Apr 2026 | 헤럴드경제 | [李대통령, 경제사절단 200여명과 인도·베트남 ‘경제동맹’ 시동](https://n.news.naver.com/mnews/article/016/0002634776?sid=100) |
+| 24 Apr 2026 | 이데일리 | ["정치보다 행정, 선거보다 시민 먼저 챙기다 선거 채비 늦었다"](https://n.news.naver.com/mnews/article/018/0006265211?sid=162) |
+| 24 Apr 2026 | 연합뉴스 | [강원 동해안 어민들 어획량·위판량·소득 감소 '삼중고'](https://n.news.naver.com/mnews/article/001/0016040700?sid=101) |
+| 24 Apr 2026 | 아시아경제 | [국제유가 4거래일 연속 급등하는데…트럼프 "서두르지 마라"(종합)](https://n.news.naver.com/mnews/article/277/0005754332?sid=104) |
+| 24 Apr 2026 | 서울경제 | [李대통령 지지율 67%...한동훈 북갑 출마 ‘부정’ 49%·‘긍정’ 23% [한...](https://n.news.naver.com/mnews/article/011/0004614281?sid=100) |
+| 24 Apr 2026 | 한국경제 | [中 조선업 '슈퍼 사이클'인데…인력 대란 '어쩌나' [차이나 워치]](https://n.news.naver.com/mnews/article/015/0005279209?sid=101) |
 
 
 ---
