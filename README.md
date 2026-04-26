@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-26 02:04:03` (KST)
+> **업데이트:** `2026-04-26 06:56:33` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#일까지` `#농식품부` `#한우` `#농식품` `#과학기술` `#최고상`
+`#연봉` `#억이라더니` `#천대리까지` `#뛰는` `#남편과` `#이혼`
 
 ---
 
@@ -20,18 +20,15 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 26 Apr 2026 | 헤럴드경제 | [“농식품 과학기술 최고상 찾는다”…내달 15일까지 접수](https://n.news.naver.com/mnews/article/016/0002635351?sid=101) |
-| 26 Apr 2026 | 헤럴드경제 | [“노후 연안선박 바꾼다”…현대화 펀드 지원 대상 선정](https://n.news.naver.com/mnews/article/016/0002635356?sid=101) |
-| 26 Apr 2026 | 한국경제 | [현대차·두산에너빌 담은 초고수…의외의 '1위' 정체는?](https://n.news.naver.com/mnews/article/015/0005279612?sid=101) |
-| 26 Apr 2026 | 아시아경제 | [지자체, 외투기업까지 모였다…'지역 투자유치' 총출동](https://n.news.naver.com/mnews/article/277/0005754766?sid=101) |
-| 26 Apr 2026 | 뉴시스 | [농식품부, 한우 최대 반값 할인 2주간 진행…내달 10일까지](https://n.news.naver.com/mnews/article/003/0013909732?sid=101) |
-| 26 Apr 2026 | 비즈워치 | [중동 전쟁에 기업·소비자 심리 얼마나 더 나빠졌을까](https://n.news.naver.com/mnews/article/648/0000046604?sid=101) |
-| 26 Apr 2026 | 아시아경제 | [[돈의 물길을 바꿔라]③첨단기술은 中에 밀리는데 자금은 부동산으로…...](https://n.news.naver.com/mnews/article/277/0005754761?sid=101) |
-| 26 Apr 2026 | 연합뉴스 | [농식품부 '가정의 달' 한우 할인행사…"등심·국거리 저렴하게"](https://n.news.naver.com/mnews/article/001/0016043025?sid=101) |
-| 26 Apr 2026 | 뉴스1 | [국힘 "정원오, 친북단체 혈세 몰아주기…경문협 관계 의구심 커져"](https://n.news.naver.com/mnews/article/421/0008911730?sid=162) |
-| 26 Apr 2026 | 서울경제 | [경찰, 고유가 지원금 불법행위 특별단속…“카드깡·직거래 사기 막는다...](https://n.news.naver.com/mnews/article/011/0004614698?sid=102) |
-| 26 Apr 2026 | 파이낸셜뉴스 | [김진태 "강원 자존심 지킬 진짜 일꾼...특별자치도 완성하겠다"](https://n.news.naver.com/mnews/article/014/0005513205?sid=004) |
-| 26 Apr 2026 | 이데일리 | ["삼성전자 파업, 소부장까지 타격 수십조 피해에 공급망 회복 불가"](http://www.smedaily.co.kr/news/articleView.html?idxno=356182) |
+| 26 Apr 2026 | 매일경제 | [“연봉 1억이라더니 8천?”…대리까지 뛰는 남편과 이혼 고민한 아내](https://n.news.naver.com/mnews/article/009/0005671423?sid=102) |
+| 26 Apr 2026 | 뉴스1 | [이억원 금융위원장, 인도·베트남 순방 완료…양국 QR결제 연동 연내 추...](https://n.news.naver.com/mnews/article/421/0008912201?sid=101) |
+| 26 Apr 2026 | 이데일리 | [메타, 아마존 ‘그래비톤’에 베팅…수십억 달러 규모 CPU 계약 체결](https://n.news.naver.com/mnews/article/018/0006266978?sid=105) |
+| 26 Apr 2026 | 뉴스1 | ['최대 60만원' 고유가 지원급 접수…이번주(27~1일) 주요 일정](https://n.news.naver.com/mnews/article/421/0008912199?sid=101) |
+| 26 Apr 2026 | 연합뉴스 | [UNIST 설립 '유니스트기술지주', 중기부 벤처투자회사 등록](https://n.news.naver.com/mnews/article/001/0016043512?sid=105) |
+| 26 Apr 2026 | 연합뉴스 | [대만 외교, 中방해로 유럽 경유해 아프리카 유일 수교국 방문](https://n.news.naver.com/mnews/article/001/0016043510?sid=104) |
+| 26 Apr 2026 | 헤럴드경제 | [쿠팡 임원과 식사한 노동부 직원…법원 “김영란법 위반 아니다”](https://n.news.naver.com/mnews/article/016/0002635408?sid=101) |
+| 26 Apr 2026 | 이데일리 | [[인터뷰] “인간 행동을 디지털로 복제해 사회를 예측한다”](https://n.news.naver.com/mnews/article/018/0006266977?sid=105) |
+| 26 Apr 2026 | 헤럴드경제 | [‘사람 살릴 피가 부족합니다’…4월에 닥친 헌혈 한파](https://n.news.naver.com/mnews/article/016/0002635406?sid=102) |
 
 
 ---
