@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-04-30 07:24:51` (KST)
+> **업데이트:** `2026-04-30 10:00:19` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#나주시외국인` `#계절근로자로` `#농촌` `#노동` `#인력` `#대체`
+`#운영` `#노사` `#이전` `#기후재난` `#일상화됐는데방재직` `#명이`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,482.70원 |
+| **USD/KRW 환율** | 1,476.18원 |
 | **코스피 지수** | 6,598.87 |
 
 ---
@@ -20,17 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 30 Apr 2026 | 헤럴드경제 | [나주시,외국인 계절근로자로 농촌 노동 인력 대체](https://n.news.naver.com/mnews/article/016/0002638036?sid=102) |
-| 30 Apr 2026 | 헤럴드경제 | [경찰 수사관 92% “가상자산 범죄 대응 위해 거래소와 협력 필요”](https://n.news.naver.com/mnews/article/016/0002638035?sid=101) |
-| 30 Apr 2026 | 서울경제 | [HMM 본사 이전 ‘가닥’…부산, 동북아 해양수도 되나](https://n.news.naver.com/mnews/article/011/0004616459?sid=102) |
-| 30 Apr 2026 | 연합뉴스 | [원주시, '2026 LCK Road to MSI' 개최 업무협약](https://n.news.naver.com/mnews/article/001/0016053502?sid=105) |
-| 30 Apr 2026 | 아시아경제 | [최휘영 "게임 제작비 세액공제 협의 중…경품 규제 완화도 검토"](https://n.news.naver.com/mnews/article/277/0005757422?sid=105) |
-| 30 Apr 2026 | 뉴시스 | [산업장관, '아름다운가게' 찾아…유통업계 '나눔문화 조성' 동참](https://n.news.naver.com/mnews/article/003/0013920503?sid=101) |
-| 30 Apr 2026 | 머니투데이 | [김영훈 제62대 부산지방조달청장 취임](https://n.news.naver.com/mnews/article/008/0005351905?sid=102) |
-| 30 Apr 2026 | 연합뉴스 | [[철원소식] 상반기 동물등록 자진신고 기간 운영](https://n.news.naver.com/mnews/article/001/0016053494?sid=102) |
-| 30 Apr 2026 | 이데일리 | [노재헌 대사, 상하이 방문…K이니셔티브 확산 등 논의](https://n.news.naver.com/mnews/article/018/0006270205?sid=104) |
-| 30 Apr 2026 | 뉴시스 | ["구리 유채꽃 축제 어때요"…내달 8일 구리한강시민공원](https://n.news.naver.com/mnews/article/003/0013920497?sid=102) |
-| 30 Apr 2026 | 이데일리 | [IT 업계 기대 쏠린 ‘하정우의 국회행 도전’ [김현아의 IT 세상읽기]](https://n.news.naver.com/mnews/article/018/0006270207?sid=105) |
+| 30 Apr 2026 | 서울경제 | [기후재난 일상화됐는데…방재직 1명이 5.6만명 담당](https://n.news.naver.com/mnews/article/011/0004616561?sid=102) |
+| 30 Apr 2026 | 뉴시스 | [우리금융, 민간 벤처모펀드 1000억 조성 나선다](https://n.news.naver.com/mnews/article/003/0013920821?sid=101) |
+| 30 Apr 2026 | 한국경제 | [시행 3주 공공부문 차량 2부제, 잘 지켜지고 있는지 가보니 [발굴단]](https://n.news.naver.com/mnews/article/015/0005282000?sid=102) |
+| 30 Apr 2026 | 한국경제 | [5월 LPG 프로판 11% 인상…"전쟁 여파에도 상승폭 최소화"](https://n.news.naver.com/mnews/article/015/0005281998?sid=101) |
+| 30 Apr 2026 | 뉴시스 | [최휘영 "지역 서점, 각 지역의 문화 구심점 역할…안정적 운영 지원 담...](https://n.news.naver.com/mnews/article/003/0013920820?sid=103) |
+| 30 Apr 2026 | 헤럴드경제 | [‘운송료 올리고, 휴가 주고’ 노동절 전날 극적 봉합…민노총 집회 강...](https://n.news.naver.com/mnews/article/016/0002638083?sid=102) |
+| 30 Apr 2026 | 파이낸셜뉴스 | [[포럼] 한국 주도의 신지역협력을](https://n.news.naver.com/mnews/article/014/0005516095?sid=110) |
+| 30 Apr 2026 | 파이낸셜뉴스 | [HMM 부산 온다… "대승적 차원" 노사 이전 합의](https://n.news.naver.com/mnews/article/014/0005516096?sid=101) |
+| 30 Apr 2026 | 머니투데이 | ['길이 120m' 청라호수공원 음악분수, 내달1일 운영](https://n.news.naver.com/mnews/article/008/0005352032?sid=102) |
+| 30 Apr 2026 | 연합뉴스 | [부산시, HMM 본사 이전 노사 합의에 "진심으로 환영"](https://n.news.naver.com/mnews/article/001/0016053784?sid=102) |
+| 30 Apr 2026 | 헤럴드경제 | [빗썸, ‘재산상 이익 제공 내역’ 5년치 재공시…“업계 공시 기준 통일...](https://n.news.naver.com/mnews/article/016/0002638079?sid=101) |
+| 30 Apr 2026 | 연합뉴스 | [金총리 "기업 애로 열심히 듣고 풀겠다"…규제합리화추진단 출범](https://n.news.naver.com/mnews/article/001/0016053782?sid=100) |
 
 
 ---
