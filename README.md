@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-03 07:14:03` (KST)
+> **업데이트:** `2026-05-03 09:16:28` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#큰돈` `#번다` `#후배` `#말에` `#행검사` `#사칭`
+`#칼텍스` `#매경오픈` `#로터리` `#간편결제` `#넘어` `#포용적`
 
 ---
 
@@ -20,18 +20,16 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 03 May 2026 | 파이낸셜뉴스 | ["큰돈 번다" 후배 말에 中행…검사 사칭 보이스피싱으로 3억 뜯은 40대[사...](https://n.news.naver.com/mnews/article/014/0005516547?sid=102) |
-| 03 May 2026 | 파이낸셜뉴스 | [국민의힘 현역 vs 민주당 신인..구도마저 기울었다](https://n.news.naver.com/mnews/article/014/0005516545?sid=162) |
-| 03 May 2026 | 머니투데이 | [김경수 "6·3 지선 승패, 경남에 달렸다…김경수 승리가 이재명 승리"](https://n.news.naver.com/mnews/article/008/0005352480?sid=162) |
-| 03 May 2026 | 매일경제 | [범정부 대응반, 6천억 원 규모 불법 외환거래 적발](https://n.news.naver.com/mnews/article/057/0001947386?sid=101) |
-| 03 May 2026 | 매일경제 | [가격 33분의 1인데 성능 엇비슷 … 중국산 AI, 美빅테크 흔든다](https://n.news.naver.com/mnews/article/009/0005674671?sid=105) |
-| 03 May 2026 | 헤럴드경제 | [AI가 상품 탐색부터 결제까지…금융결제원, ‘에이전트 결제 기술검증’...](https://n.news.naver.com/mnews/article/016/0002638526?sid=101) |
-| 03 May 2026 | 헤럴드경제 | [국민연금 매달 200만원 이상 수급자 11만명 돌파](https://n.news.naver.com/mnews/article/016/0002638525?sid=102) |
-| 03 May 2026 | 머니투데이 | [이란 사태 2달, 기업이 '대란' 막았다…"지속가능한 제도 개선을"](https://n.news.naver.com/mnews/article/008/0005352475?sid=101) |
-| 03 May 2026 | 한국경제 | ['삼성 저격수' 박용진 "노사, 협력사·비정규직 외면한 '집안싸움' 씁쓸...](https://n.news.naver.com/mnews/article/015/0005282469?sid=102) |
-| 03 May 2026 | 뉴시스 | [[6·3대구]김대권 "수성구, 반려동물 산업 수도로 만들겠다"](https://n.news.naver.com/mnews/article/003/0013923490?sid=102) |
-| 03 May 2026 | 아시아경제 | [이기재 양천구청장 후보 “양천 발전 최대 걸림돌 지하철 부족, 최우선...](https://n.news.naver.com/mnews/article/277/0005757897?sid=102) |
-| 03 May 2026 | 연합뉴스 | [여야 광역단체 대진표 완성…"尹키즈 퇴출"·"공소취소 심판" 격돌(종합...](https://n.news.naver.com/mnews/article/001/0016056247?sid=162) |
+| 03 May 2026 | 서울경제 | [[로터리] 간편결제 넘어 포용적 혁신으로](https://n.news.naver.com/mnews/article/011/0004617049?sid=101) |
+| 03 May 2026 | 서울경제 | [[여명] 가장 부유한 노인들이 오고 있다](https://n.news.naver.com/mnews/article/011/0004617048?sid=100) |
+| 03 May 2026 | 한국경제 | [서울·영남 보수층 결집하나…김부겸 "지도부 신중해야"](https://n.news.naver.com/mnews/article/015/0005282530?sid=100) |
+| 03 May 2026 | 연합뉴스 | [장동혁, 대구서 "공천 상처드려 죄송…힘 모으자" 호소(종합)](https://n.news.naver.com/mnews/article/001/0016056448?sid=100) |
+| 03 May 2026 | 한국경제 | [경기선행·동행지표, 16년만에 최대 격차](https://n.news.naver.com/mnews/article/015/0005282528?sid=101) |
+| 03 May 2026 | 헤럴드경제 | [韓 민간위성 ‘차세대중형위성 2호’…해외 지상국과 첫 교신 성공](https://n.news.naver.com/mnews/article/016/0002638553?sid=105) |
+| 03 May 2026 | 헤럴드경제 | [송민혁, GS칼텍스 매경오픈 생애 첫 승](https://m.sports.naver.com/golf/article/016/0002638552) |
+| 03 May 2026 | 뉴시스 | [동물보호소에 10억 넘게 쓴 아내…한 지붕 아래 동물 200마리 '경악'](https://m.entertain.naver.com/article/003/0013923650) |
+| 03 May 2026 | 매일경제 | [구름 갤러리·선수 함께 만든 GS칼텍스 매경오픈](https://m.sports.naver.com/golf/article/009/0005674793) |
+| 03 May 2026 | 매일경제 | [매경미디어그룹 亞투어 손잡았다 [GS칼텍스 매경오픈]](https://m.sports.naver.com/golf/article/009/0005674791) |
 
 
 ---
