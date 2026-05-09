@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-09 02:12:08` (KST)
+> **업데이트:** `2026-05-09 07:03:05` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#반도체` `#파업` `#국힘` `#엑소더스` `#노노` `#갈등에`
+`#정원오` `#용산` `#개발` `#부동산` `#책임론` `#부각오세훈식으로`
 
 ---
 
@@ -20,18 +20,17 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 09 May 2026 | 뉴시스 | ["非반도체 엑소더스" 노노 갈등에 흔들리는 '단일 대오' [삼성전자 파업...](https://n.news.naver.com/mnews/article/003/0013934745?sid=101) |
-| 09 May 2026 | 헤럴드경제 | [김미경 은평구청장 후보, 어린이·어르신 맞춤형 ‘미소 공약’ 눈길](https://n.news.naver.com/mnews/article/016/0002641020?sid=102) |
-| 09 May 2026 | 헤럴드경제 | [K-바이오 볼모 잡은 ‘법 위의 투쟁’…삼성바이오 노조, ‘2차 파업’ ...](https://n.news.naver.com/mnews/article/016/0002641019?sid=101) |
-| 09 May 2026 | 뉴스1 | [김정은, 러 푸틴에 전승절 축전…日 대규모 방위비 편성 비판 [데일리 북...](https://n.news.naver.com/mnews/article/421/0008934713?sid=100) |
-| 09 May 2026 | 뉴스1 | [서귀포 로컬크리에이터 네트워킹 행사 '중앙선' 15일 개최](https://n.news.naver.com/mnews/article/421/0008934712?sid=102) |
-| 09 May 2026 | 연합뉴스 | [日교도 "다카이치, 19일 안동서 한일 정상회담 조율 중"](https://n.news.naver.com/mnews/article/001/0016066993?sid=100) |
-| 09 May 2026 | 연합뉴스 | ['BTS 노믹스' 온다…英 로이터 "투어 수익 18억달러 전망"](https://n.news.naver.com/mnews/article/001/0016066989?sid=103) |
-| 09 May 2026 | 이데일리 | [與 "국힘, 윤어게인 회귀에 국민 내란 상처까지 짓밟아"](https://n.news.naver.com/mnews/article/018/0006276579?sid=100) |
-| 09 May 2026 | 매일경제 | [코스피 7000에 서점으로 몰리는 개미들…주식책 판매 305% 폭증](https://n.news.naver.com/mnews/article/009/0005677497?sid=101) |
-| 09 May 2026 | 이데일리 | [‘내년부터 가상자산 과세’ 재경부 입장 반박한다](https://n.news.naver.com/mnews/article/018/0006276575?sid=101) |
-| 09 May 2026 | 서울경제 | [김용범 “거시정책이 반도체 성장 속도 못따라가… 유연한 재정 필요”](https://n.news.naver.com/mnews/article/011/0004618985?sid=101) |
-| 09 May 2026 | 뉴시스 | [국힘 나동연, 외식업 지원…스포츠 도시도 강조[6·3양산]](https://n.news.naver.com/mnews/article/003/0013934732?sid=102) |
+| 09 May 2026 | 매일경제 | [정원오, 부동산 책임론 부각…"오세훈식으로 가면 또다시 좌초한다"](https://n.news.naver.com/mnews/article/057/0001948318?sid=100) |
+| 09 May 2026 | 헤럴드경제 | [“오세훈식으로는 안 돼…나는 다를 것” 정원오, ‘용산 개발 지연 책...](https://n.news.naver.com/mnews/article/016/0002641059?sid=100) |
+| 09 May 2026 | 조세일보 | [CNBC “AI 주도주 교체”…월가 자금, 메모리·CPU·광통신주로 이동](https://n.news.naver.com/mnews/article/123/0002382715?sid=101) |
+| 09 May 2026 | 뉴스1 | [다주택자 양도세 중과 유예 종료…野 "징벌적 과세" 與 "악의적 선동"](https://n.news.naver.com/mnews/article/421/0008934828?sid=100) |
+| 09 May 2026 | 연합뉴스 | [타이거맘 지고 베타맘 뜬다…WSJ "AI 시대 자녀 통제보다 자율"](https://n.news.naver.com/mnews/article/001/0016067149?sid=104) |
+| 09 May 2026 | 연합뉴스 | [中수출 4월 서프라이즈 증가…'호르무즈 봉쇄' 에너지 수입 급감(종합)](https://n.news.naver.com/mnews/article/001/0016067143?sid=104) |
+| 09 May 2026 | 이데일리 | [정원오·오세훈, 용산 개발 놓고 재충돌…“AI 허브” vs “닭장 주거단...](https://n.news.naver.com/mnews/article/018/0006276712?sid=162) |
+| 09 May 2026 | 한국경제 | [오일머니 캐시 트랩에 걸린 이란…Do Or Die! 그 선택은[한상춘의 국제경...](https://n.news.naver.com/mnews/article/050/0000105934?sid=101) |
+| 09 May 2026 | 매일경제 | [‘투자구루’ 김승호가 막내아들에게 신문 읽고 밑줄치게 한 까닭 [2026 ...](https://n.news.naver.com/mnews/article/009/0005677522?sid=101) |
+| 09 May 2026 | 헤럴드경제 | [압구정·목동 등 77조 재건축 시장 열린다…‘빅5’ 건설사 주택 수주 비...](https://n.news.naver.com/mnews/article/016/0002641053?sid=101) |
+| 09 May 2026 | 이데일리 | [韓日정상, 李대통령 고향 '안동'서 만날까](https://n.news.naver.com/mnews/article/018/0006276629?sid=100) |
 
 
 ---
