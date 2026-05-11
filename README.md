@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-11 02:31:59` (KST)
+> **업데이트:** `2026-05-11 08:21:09` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#후보` `#과세` `#정원오` `#간담회` `#포토정원오` `#고유가`
+`#김진일` `#신간` `#배당주로` `#텐배거를` `#날려라` `#배당주`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,471.28원 |
-| **코스피 지수** | 7,840.64 |
+| **USD/KRW 환율** | 1,471.58원 |
+| **코스피 지수** | 7,822.24 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 11 May 2026 | 아시아경제 | [코인 과세 유예, 7월 세법개정서 빠진다...내년부터 예정대로 과세](https://n.news.naver.com/mnews/article/277/0005760874?sid=101) |
-| 11 May 2026 | 헤럴드경제 | [이란, 핵포기 대신 “우라늄 희석·3국 이전”…협상 또 벼랑끝](https://n.news.naver.com/mnews/article/016/0002641579?sid=104) |
-| 11 May 2026 | 헤럴드경제 | [추미애 “수도권 30분 출근 대전환”…GTX 적기 개통·수도권 원패스 추...](https://n.news.naver.com/mnews/article/016/0002641580?sid=100) |
-| 11 May 2026 | 뉴스1 | [AI첨단운전자 모니터링 시스템 체험하는 정원오 후보](https://n.news.naver.com/mnews/article/421/0008936990?sid=162) |
-| 11 May 2026 | 뉴스1 | [임우형 AI연구원장과 간담회 갖는 정원오 후보](https://n.news.naver.com/mnews/article/421/0008936984?sid=162) |
-| 11 May 2026 | 매일경제 | [“‘압축성장·초연결’ 없인 어렵다”…통합특별시 전략 제언](https://n.news.naver.com/mnews/article/009/0005678057?sid=100) |
-| 11 May 2026 | 이데일리 | [[포토]정원오 후보, ' LG사이언스파크 방문 및 간담회'](https://n.news.naver.com/mnews/article/018/0006278318?sid=100) |
-| 11 May 2026 | 뉴시스 | [함양군, 상반기 재정 신속집행 보고회…"문제점 개선"](https://n.news.naver.com/mnews/article/003/0013936897?sid=102) |
-| 11 May 2026 | 뉴시스 | [제주 고유가 피해지원금 1차 지급 완료…지급률 92.9%](https://n.news.naver.com/mnews/article/003/0013936893?sid=102) |
-| 11 May 2026 | 이데일리 | [[포토]정원오 후보, 'AI G2 서울' 공약 발표](https://n.news.naver.com/mnews/article/018/0006278317?sid=100) |
-| 11 May 2026 | 연합뉴스 | [중국서 보이스피싱 가담 후 12년 도피…40대 조직원 구속송치](https://n.news.naver.com/mnews/article/001/0016069302?sid=102) |
-| 11 May 2026 | 파이낸셜뉴스 | [고유가 지원금 누가 받나…외벌이 4인 가족 건보료 32만원[Q&amp;A]](https://n.news.naver.com/mnews/article/014/0005519648?sid=100) |
+| 11 May 2026 | 머니투데이 | [[신간] "배당주로 텐배거를 날려라" 배당주 통념 뒤집는 투자서 출간](https://n.news.naver.com/mnews/article/008/0005355920?sid=101) |
+| 11 May 2026 | 이데일리 | [정원오 "서울, 세계인이 동경하는 문화특별시로"](https://n.news.naver.com/mnews/article/018/0006278579?sid=162) |
+| 11 May 2026 | 연합뉴스 | [ODA로 개도국 결핵·말라리아 종식 노력…사업실명제 도입(종합)](https://n.news.naver.com/mnews/article/001/0016070431?sid=100) |
+| 11 May 2026 | 뉴스1 | [이재준 수원시장, 지선 예비후보 등록…부시장 권한대행 체제 전환](https://n.news.naver.com/mnews/article/421/0008938024?sid=162) |
+| 11 May 2026 | 연합뉴스 | [한국은행, 금통위원에 김진일 고려대 교수 추천](https://n.news.naver.com/mnews/article/001/0016070432?sid=101) |
+| 11 May 2026 | 이데일리 | [홀트에너지, 폐플라스틱 자원화 정부 규제특례[마켓인]](https://n.news.naver.com/mnews/article/018/0006278578?sid=101) |
+| 11 May 2026 | 뉴스1 | [장동혁 "그냥 주는 지원금 아니쥬…선거 끝나면 10배로 걷어가쥬"](https://n.news.naver.com/mnews/article/421/0008938023?sid=162) |
+| 11 May 2026 | 헤럴드경제 | [‘송호성 리더십’ 공고화…8년 만에 단독 대표 복귀](https://n.news.naver.com/mnews/article/016/0002641824?sid=101) |
+| 11 May 2026 | 파이낸셜뉴스 | [구윤철 "한국 코스피 아직 저평가..과열 단정할 상황 아냐"](https://n.news.naver.com/mnews/article/014/0005519882?sid=101) |
+| 11 May 2026 | 파이낸셜뉴스 | [신성환 금통위원 후임에 Fed 출신 김진일](https://n.news.naver.com/mnews/article/014/0005519881?sid=101) |
+| 11 May 2026 | 서울경제 | [애플·HP 떠날 채비...“삼성 진짜 파업하나” 걱정 쇄도](https://n.news.naver.com/mnews/article/011/0004619583?sid=101) |
+| 11 May 2026 | 서울경제 | [“AI·양자 결합해 질병 원인 규명…초정밀 신약 시대 기대” [서울포럼...](https://n.news.naver.com/mnews/article/011/0004619581?sid=101) |
 
 
 ---
