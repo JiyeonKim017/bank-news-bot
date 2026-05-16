@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-16 02:14:33` (KST)
+> **업데이트:** `2026-05-16 07:10:19` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#조국` `#트럼프` `#오픈` `#대출` `#약손명가` `#지점`
+`#푸틴` `#중국` `#시진핑` `#초청으로` `#방문` `#트럼프`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 16 May 2026 | 매일경제 | [약손명가 76개 지점 가맹점주들 "허위 폭로·편파 방송에 브랜드 추락…...](https://n.news.naver.com/mnews/article/057/0001949383?sid=103) |
-| 16 May 2026 | 뉴시스 | [與박균택 "조국, 檢개혁 말할 자격있나"…조국혁신당 "조국 사태 전후 ...](https://n.news.naver.com/mnews/article/003/0013948633?sid=100) |
-| 16 May 2026 | 머니투데이 | [왕이 中외교부장 "시진핑, 트럼프 요청 수락 올 가을 美 국빈방문"](https://n.news.naver.com/mnews/article/008/0005358638?sid=104) |
-| 16 May 2026 | 헤럴드경제 | [고진영, LPGA 크루거 퀸시티 챔프십 2R 공동 1위](https://m.sports.naver.com/golf/article/016/0002644256) |
-| 16 May 2026 | 이데일리 | [오세훈, 청년에 AI 이용권 푼다…"50만명 챗GPT·제미나이 지원"](https://n.news.naver.com/mnews/article/018/0006282849?sid=162) |
-| 16 May 2026 | 헤럴드경제 | [[르포]‘수도권 최대 격전지’ 평택을 가보니…“후보들 정책 경쟁해야...](https://n.news.naver.com/mnews/article/016/0002644255?sid=100) |
-| 16 May 2026 | 한국경제 | [샘 올트먼 오픈AI CEO “오히려 머스크가 오픈AI 통제권과 지분 90% 요구...](https://n.news.naver.com/mnews/article/050/0000106214?sid=101) |
-| 16 May 2026 | 연합뉴스 | [이원택 전북지사 후보 "피지컬AI 경제부지사 기용 유력 검토"](https://n.news.naver.com/mnews/article/001/0016080723?sid=162) |
-| 16 May 2026 | 매일경제 | ['1천800억 부당 대출' 새마을금고, 수사 중 200억 추가 대출 정황](https://n.news.naver.com/mnews/article/057/0001949378?sid=102) |
-| 16 May 2026 | 한국경제 | [부동산 처분 후 손에 쥔 11억원…주식에 몰빵하는 게 좋을까? [돈 버는 ...](https://n.news.naver.com/mnews/article/015/0005287707?sid=101) |
-| 16 May 2026 | 파이낸셜뉴스 | [트럼프 "이란 원유 구매 中 기업 제재 해제"...정상회담 영향?](https://n.news.naver.com/mnews/article/014/0005522306?sid=104) |
-| 16 May 2026 | 파이낸셜뉴스 | [삼성 "쟁의행위 참여 여부 직원 자유 의사에 따라야"](https://n.news.naver.com/mnews/article/014/0005522305?sid=101) |
+| 16 May 2026 | 뉴시스 | [[6·3수원]이재준, 선거사무소 개소…재선 레이스 돌입](https://n.news.naver.com/mnews/article/003/0013948818?sid=102) |
+| 16 May 2026 | 아시아경제 | [러시아 "푸틴, 시진핑 초청으로 19일 중국 방문"](https://n.news.naver.com/mnews/article/277/0005763778?sid=104) |
+| 16 May 2026 | 머니투데이 | ["포모 투자는 필패...반드시 돈 벌 수 있는 방법은?"](https://n.news.naver.com/mnews/article/008/0005358669?sid=101) |
+| 16 May 2026 | 헤럴드경제 | [이창용 전 한은 총재, 퇴임 후 첫 행보…‘구조개혁 프로젝트’ 띄운다](https://n.news.naver.com/mnews/article/016/0002644290?sid=101) |
+| 16 May 2026 | 헤럴드경제 | [푸틴, 트럼프 방중 직후 중국 간다…시진핑과 정상회담](https://n.news.naver.com/mnews/article/016/0002644289?sid=104) |
+| 16 May 2026 | 연합뉴스 | [러 "푸틴, 시진핑 초청으로 19∼20일 중국 공식 방문"](https://n.news.naver.com/mnews/article/001/0016080909?sid=104) |
+| 16 May 2026 | 뉴스1 | [임문영 與 광주 광산을 후보 캠프 가동…송영길·조정식 축전](https://n.news.naver.com/mnews/article/421/0008948446?sid=102) |
+| 16 May 2026 | 머니투데이 | ['1800억 불법대출' 새마을금고, 200억 추가 대출 비리 포착…경찰 수사](https://n.news.naver.com/mnews/article/008/0005358666?sid=102) |
+| 16 May 2026 | 뉴스1 | [中당국, 씨티·골드만 수장과 회동…트럼프 방중 뒤 금융협력 논의](https://n.news.naver.com/mnews/article/421/0008948437?sid=104) |
+| 16 May 2026 | 매일경제 | [“화장실은 언제 가나”...이란전쟁에 몸값 오른 중동학과 교수들](https://n.news.naver.com/mnews/article/009/0005680942?sid=102) |
+| 16 May 2026 | 이데일리 | [국힘, "블룸버그 항의는 외교 촌극…외신까지 입틀막 하나"](https://n.news.naver.com/mnews/article/018/0006283092?sid=100) |
+| 16 May 2026 | 서울경제 | [트럼프, 올 1분기 주요 기업 증권 거래만 수천건…엔비디아·애플·보잉](https://n.news.naver.com/mnews/article/011/0004621472?sid=105) |
 
 
 ---
