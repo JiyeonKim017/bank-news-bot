@@ -1,36 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-18 02:40:22` (KST)
+> **업데이트:** `2026-05-18 08:41:10` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#지정` `#국채금리` `#기아` `#모닝` `#출시` `#맵램프`
+`#사설` `#노동권만큼` `#경영권도` `#존중돼야` `#이익` `#배분은`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,504.95원 |
-| **코스피 지수** | 7,570.90 |
+| **USD/KRW 환율** | 1,493.89원 |
+| **코스피 지수** | 7,516.04 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 18 May 2026 | 파이낸셜뉴스 | [기아, 'The 2027 모닝' 출시…LED 맵램프 전 트림 기본화](https://n.news.naver.com/mnews/article/014/0005522871?sid=101) |
-| 18 May 2026 | 조세일보 | [삼전 총파업 '마지막 담판' 전...DX부문 노조원들 '교섭중지' 가처분](https://n.news.naver.com/mnews/article/123/0002383205?sid=100) |
-| 18 May 2026 | 헤럴드경제 | [“방위산업 적용 ‘노조활동제한법’ 반도체 산업에 확대 적용하라”](https://n.news.naver.com/mnews/article/016/0002644854?sid=100) |
-| 18 May 2026 | 헤럴드경제 | [쿠팡 김범석 총수 지정 7월까지 미룬다](https://n.news.naver.com/mnews/article/016/0002644852?sid=102) |
-| 18 May 2026 | 뉴시스 | [인천 용유 도시개발구역 지정 고시…"관광휴양 명소화"](https://n.news.naver.com/mnews/article/003/0013951197?sid=102) |
-| 18 May 2026 | 서울경제 | [AI·SMR·우주항공·조선…박완수, 경남 5개 권역에 ‘맞춤형 성장엔진’...](https://n.news.naver.com/mnews/article/011/0004621917?sid=102) |
-| 18 May 2026 | 아시아경제 | [이란 전쟁 불확실성에 美 국채금리 급등…AI 기술주 랠리 '경고등'](https://n.news.naver.com/mnews/article/277/0005764324?sid=101) |
-| 18 May 2026 | 뉴시스 | ["美국채금리 발작에"…외국인 투자자 이탈 우려 고조](https://n.news.naver.com/mnews/article/003/0013951188?sid=101) |
-| 18 May 2026 | 한국경제 | [부산에 모이는 VC 리더 150명…혁신기업 성장 지원 머리 맞댄다](https://n.news.naver.com/mnews/article/015/0005288133?sid=101) |
-| 18 May 2026 | 연합뉴스 | [개보위, 유출사건 과징금체계 대폭 손질…쿠팡·KT엔 소급 안 돼](https://n.news.naver.com/mnews/article/001/0016083203?sid=102) |
-| 18 May 2026 | 이데일리 | [천화동인 7호 실소유주 첫 재판…대장동 121억 수익 은닉 부인](https://n.news.naver.com/mnews/article/018/0006284297?sid=102) |
+| 18 May 2026 | 매일경제 | [李 "노동권만큼 경영권도 존중돼야", 이익 배분은 경영권 핵심 [사설]](https://n.news.naver.com/mnews/article/009/0005681719?sid=110) |
+| 18 May 2026 | 서울경제 | [“가장 인간적인 감정 건드린 K서사…세계인 마음 흔들었죠” [서울포럼...](https://n.news.naver.com/mnews/article/011/0004622054?sid=103) |
+| 18 May 2026 | 매일경제 | [트럼프 "대만에 6대 보장? 어쩌라고"…韓 핵우산은 믿을 수 있나 [사설]](https://n.news.naver.com/mnews/article/009/0005681718?sid=110) |
+| 18 May 2026 | 뉴시스 | [美 대졸 신입, 최악 취업난…AI·예산삭감 등 겹쳐](https://n.news.naver.com/mnews/article/003/0013952372?sid=104) |
+| 18 May 2026 | 뉴스1 | [이철우·박용선, 공동비전 발표…“환동해 미래경제수도 포항 완성”](https://n.news.naver.com/mnews/article/421/0008952019?sid=162) |
+| 18 May 2026 | 이데일리 | [양향자, 삼전 노사 타협 촉구 단식 돌입 "반도체 멈추면 대한민국 멈춰...](https://n.news.naver.com/mnews/article/018/0006284626?sid=102) |
+| 18 May 2026 | 한국경제 | ["與, 이런 공천 어디있나" 들끓는 호남](https://n.news.naver.com/mnews/article/015/0005288320?sid=162) |
+| 18 May 2026 | 한국경제 | [역대급 경상흑자에도…환율 왜 안 꺾이나](https://n.news.naver.com/mnews/article/015/0005288318?sid=101) |
+| 18 May 2026 | 머니투데이 | [삼전파업에 울고웃은 코스피…"FOMC 의사록·엔비디아 실적 주목"](https://n.news.naver.com/mnews/article/008/0005359464?sid=101) |
+| 18 May 2026 | 헤럴드경제 | [박형준, “전재수 측 흑색선전은 정치테러” 법적대응 경고](https://n.news.naver.com/mnews/article/016/0002645030?sid=100) |
+| 18 May 2026 | 뉴시스 | [내달 12~14일 원주서 이스포츠 'LCK MSI 선발전'](https://n.news.naver.com/mnews/article/003/0013952367?sid=102) |
+| 18 May 2026 | 아시아경제 | [한국가스공사 광주전남, 취약계층 어르신 건강 복지 지원금 기탁](https://n.news.naver.com/mnews/article/277/0005764528?sid=102) |
 
 
 ---
