@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-21 02:40:40` (KST)
+> **업데이트:** `2026-05-21 08:28:38` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#노사` `#삼성` `#합의` `#케미칼` `#플라스틱` `#소재`
+`#테슬라` `#중국서` `#사용` `#가능트럼프` `#방중` `#효과`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,502.68원 |
-| **코스피 지수** | 7,699.02 |
+| **USD/KRW 환율** | 1,504.54원 |
+| **코스피 지수** | 7,815.59 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 21 May 2026 | 헤럴드경제 | [SK케미칼, 플라스틱 소재 유럽 재활용 적합성 인증](https://n.news.naver.com/mnews/article/016/0002646569?sid=101) |
-| 21 May 2026 | 헤럴드경제 | [HD현대, 테라파워에 SMR 나트륨 원자로 공급](https://n.news.naver.com/mnews/article/016/0002646567?sid=101) |
-| 21 May 2026 | 연합뉴스 | [[신간] 조선후기 궁중건축화의 탄생…'그림 속으로 들어온 궁궐과 도시...](https://n.news.naver.com/mnews/article/001/0016091213?sid=103) |
-| 21 May 2026 | 머니투데이 | [대한상의 "삼성 노사 합의 다행…정부의 중재 더해진 결과"](https://n.news.naver.com/mnews/article/008/0005361118?sid=101) |
-| 21 May 2026 | 머니투데이 | [삼전 노조·트럼프 입에 코스피 7700까지 급반등](https://n.news.naver.com/mnews/article/008/0005361117?sid=101) |
-| 21 May 2026 | 연합뉴스 | [경제단체들 "삼성전자 노사 합의 다행…국민경제에 큰 의미"(종합)](https://n.news.naver.com/mnews/article/001/0016091197?sid=101) |
-| 21 May 2026 | 아시아경제 | [[초동시각]소득세 40% 납부해도 핀란드가 행복한 이유](https://n.news.naver.com/mnews/article/277/0005766225?sid=101) |
-| 21 May 2026 | 뉴시스 | [中국방부, 라이칭더에 "무력 의존 대만 독립은 죽음의 길"](https://n.news.naver.com/mnews/article/003/0013959367?sid=104) |
-| 21 May 2026 | 뉴시스 | [쿠바 "美와 협상 원하지만 대화 의지 안 보여"…트럼프 압박 비판](https://n.news.naver.com/mnews/article/003/0013959366?sid=104) |
-| 21 May 2026 | 아시아경제 | [韓美 외교차관, 안보협상 앞두고 대미투자 점검…비자문제도 지원](https://n.news.naver.com/mnews/article/277/0005766222?sid=100) |
-| 21 May 2026 | 이데일리 | [셀트리온, 올해 자사주 소각 규모 약 2조원 전망…주주가치 제고 총력](https://n.news.naver.com/mnews/article/018/0006286835?sid=101) |
-| 21 May 2026 | 서울경제 | [한경협 “삼성 노사 잠정 합의안 다행, 더 큰 도약 계기되길”](https://n.news.naver.com/mnews/article/011/0004623199?sid=101) |
+| 21 May 2026 | 이데일리 | [테슬라 “중국서 FSD 사용 가능”…트럼프 방중 효과?](https://n.news.naver.com/mnews/article/018/0006287415?sid=101) |
+| 21 May 2026 | 연합뉴스 | [화천산천어축제 경제효과 1천억원 돌파…관광객 소비 확대](https://n.news.naver.com/mnews/article/001/0016092746?sid=103) |
+| 21 May 2026 | 한국경제 | [신대륙이 완성한 밸런스와 산미…'제２ 파리의 심판' 꿈꾼다](https://n.news.naver.com/mnews/article/015/0005289849?sid=103) |
+| 21 May 2026 | 연합뉴스 | [한전 HVDC건설본부, 영월 상동고에 발전기금 1천만원 전달](https://n.news.naver.com/mnews/article/001/0016092748?sid=102) |
+| 21 May 2026 | 한국경제 | ['반도체 머니' 싸들고 K쇼핑...韓 관광 '큰손'된 대만인](https://n.news.naver.com/mnews/article/015/0005289848?sid=101) |
+| 21 May 2026 | 서울경제 | [[단독]공공기관 줄줄이 스벅 ‘손절’…전방위 ‘탈벅’ 본격화](https://n.news.naver.com/mnews/article/011/0004623349?sid=101) |
+| 21 May 2026 | 이데일리 | [[포토] 농업인 조합원과 국민께 드리는 글](https://n.news.naver.com/mnews/article/018/0006287413?sid=100) |
+| 21 May 2026 | 뉴스1 | [전춘성 진안군수 후보 출정식 "압도적 지지로 반드시 승리"](https://n.news.naver.com/mnews/article/421/0008959828?sid=102) |
+| 21 May 2026 | 뉴스1 | [엎치락뒤치락 초접전…"대구 살리겠다" 김부겸·추경호 출정식(종합)](https://n.news.naver.com/mnews/article/421/0008959824?sid=162) |
+| 21 May 2026 | 뉴시스 | [트럼프 이민단속 금융권 확대…"은행, 고객 시민권 정보 수집해야"](https://n.news.naver.com/mnews/article/003/0013960913?sid=104) |
+| 21 May 2026 | 매일경제 | [[기자24시] 삼전 성과급, 新노사관계 첫걸음](https://n.news.naver.com/mnews/article/009/0005683434?sid=110) |
+| 21 May 2026 | 매일경제 | [[기고] 국민의 세금은 어디로 가는가](https://n.news.naver.com/mnews/article/009/0005683437?sid=110) |
 
 
 ---
