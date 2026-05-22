@@ -1,37 +1,35 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-22 02:42:00` (KST)
+> **업데이트:** `2026-05-22 08:18:23` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#잡아들여` `#폭로했던` `#홍장원` `#종합특검` `#피의자` `#조사세상`
+`#더운데` `#파워` `#냉방` `#좀서울` `#지하철` `#최대`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,509.56원 |
-| **코스피 지수** | 7,840.25 |
+| **USD/KRW 환율** | 1,515.58원 |
+| **코스피 지수** | 7,847.71 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 22 May 2026 | 헤럴드경제 | [“싹 다 잡아들여” 폭로했던 홍장원 종합특검 피의자 조사[세상&amp;]](https://n.news.naver.com/mnews/article/016/0002647137?sid=102) |
-| 22 May 2026 | 헤럴드경제 | [반도체 호조…소비자심리지수 3개월만에 ‘반등’](https://n.news.naver.com/mnews/article/016/0002647134?sid=101) |
-| 22 May 2026 | 아시아경제 | [외국인 근로자에 '햇살'…여수 계절근로자 프로그램 '호응'](https://n.news.naver.com/mnews/article/277/0005766800?sid=102) |
-| 22 May 2026 | 이데일리 | [D램 물량 확보 강화·교체 수요… 글로벌 TV 출하량 7년래 최고](http://www.smedaily.co.kr/news/articleView.html?idxno=357525) |
-| 22 May 2026 | 이데일리 | [KB국민은행, 중동전쟁 피해기업 지원 위해 기보에 50억 출연](http://www.smedaily.co.kr/news/articleView.html?idxno=357521) |
-| 22 May 2026 | 한국경제 | [구대륙과 신대륙의 밸런스…'레꼴 No.41'을 아시나요 [WAVE 인터뷰]](https://n.news.naver.com/mnews/article/015/0005290159?sid=103) |
-| 22 May 2026 | 뉴시스 | ["美-이란 핵심 쟁점, 고농축우라늄·호르무즈…조정 가능할까](https://n.news.naver.com/mnews/article/003/0013962181?sid=104) |
-| 22 May 2026 | 한국경제 | [판교TV, 매출 226조 '혁신 엔진'…스타트업 세계 진출 가속](https://n.news.naver.com/mnews/article/015/0005290160?sid=102) |
-| 22 May 2026 | 뉴스1 | [검찰, '계열사 자금 수백억 횡령' 한국토지신탁 회장 압수수색](https://n.news.naver.com/mnews/article/421/0008960976?sid=102) |
-| 22 May 2026 | 아시아경제 | [[초동시각]티빙-웨이브 봐야 할 이유 만들어야](https://n.news.naver.com/mnews/article/277/0005766798?sid=110) |
-| 22 May 2026 | 뉴시스 | ["소규모 기업 AI 도입, 채용 증가"…AI 노사상생 위원회(종합)](https://n.news.naver.com/mnews/article/003/0013962168?sid=102) |
-| 22 May 2026 | 매일경제 | [스타벅스 ‘세이렌’의 역설…‘탈벅’에 메가·투썸 반사이익 얻나](https://n.news.naver.com/mnews/article/009/0005683749?sid=103) |
+| 22 May 2026 | 헤럴드경제 | [“더운데 파워 냉방 좀”…서울 지하철 최대 민원 ‘냉난방 요청’](https://n.news.naver.com/mnews/article/016/0002647257?sid=102) |
+| 22 May 2026 | 이데일리 | [지역난방공사, 중동전쟁 비상경영으로 159억 예산절감](https://n.news.naver.com/mnews/article/018/0006288131?sid=101) |
+| 22 May 2026 | 서울경제 | [관광객 술집 난동·불법취업에 “더 이상 못 참아”…태국, ‘60일 무비...](https://n.news.naver.com/mnews/article/011/0004623728?sid=104) |
+| 22 May 2026 | 이데일리 | ["올해 연준 금리 동결" 노무라도 태세 전환…인플레 경계](https://n.news.naver.com/mnews/article/018/0006288126?sid=101) |
+| 22 May 2026 | 뉴스1 | [제주도지사 후보 3인방 '오일장 대전'…"민생경제 꼭 살리겠다"](https://n.news.naver.com/mnews/article/421/0008961874?sid=162) |
+| 22 May 2026 | 뉴시스 | [그린란드 시민, 美 영사관 확장 이전에 항의 시위…"우리 땅, 매물 아냐...](https://n.news.naver.com/mnews/article/003/0013963212?sid=104) |
+| 22 May 2026 | 뉴시스 | [폴리텍Ⅱ대학, 공공기관 고객만족도 조사서 '종합 1위'](https://n.news.naver.com/mnews/article/003/0013963209?sid=102) |
+| 22 May 2026 | 매일경제 | ["사람 빼고 다 매각 … 재무건전성 최우선"](https://n.news.naver.com/mnews/article/009/0005683927?sid=101) |
+| 22 May 2026 | 뉴스1 | [환율 1520원 위협에 외환당국 구두개입…"필요시 단호 조치"](https://n.news.naver.com/mnews/article/421/0008961859?sid=101) |
+| 22 May 2026 | 머니투데이 | [장동혁, 경기 남부 돌며 양향자 지원사격…"추미애 그림자도 안보여"](https://n.news.naver.com/mnews/article/008/0005361855?sid=162) |
 
 
 ---
