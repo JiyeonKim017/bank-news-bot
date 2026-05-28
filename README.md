@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-28 02:32:13` (KST)
+> **업데이트:** `2026-05-28 08:38:47` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#인천시장` `#후보들` `#인천` `#역차별` `#한목소리비방은` `#여전`
+`#대만` `#점령보다` `#통치가` `#훨씬` `#어렵다` `#로위`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,505.98원 |
-| **코스피 지수** | 8,166.32 |
+| **USD/KRW 환율** | 1,502.40원 |
+| **코스피 지수** | 8,185.29 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 28 May 2026 | 뉴시스 | [[6·3인천]시장 후보들 "인천 역차별" 한목소리…비방은 여전](https://n.news.naver.com/mnews/article/003/0013972463?sid=102) |
-| 28 May 2026 | 뉴시스 | [[김포소식]친선결연도시 방문객 숙박 할인 지원 등](https://n.news.naver.com/mnews/article/003/0013972458?sid=102) |
-| 28 May 2026 | 헤럴드경제 | [LG엔솔, 美 DTE에너지에 ‘2.4조원’ ESS 공급](https://n.news.naver.com/mnews/article/016/0002649214?sid=101) |
-| 28 May 2026 | 연합뉴스 | [시민단체, 서울시장 후보 공약 검증…"예산측면 실행력 부족 등"](https://n.news.naver.com/mnews/article/001/0016104178?sid=102) |
-| 28 May 2026 | 매일경제 | [손석희, 13년만 MBC 라디오 복귀? “내부 검토 중” [공식입장]](https://m.entertain.naver.com/article/009/0005686145) |
-| 28 May 2026 | 뉴스1 | [고무보트 타고 입국 시도 중국 반체제 인사 둥광핑 28일 구속심사](https://n.news.naver.com/mnews/article/421/0008970709?sid=102) |
-| 28 May 2026 | 조세일보 | [삼성 노조 파업 의식했나…TSMC “성과급 30% 인상”](https://n.news.naver.com/mnews/article/123/0002383768?sid=101) |
-| 28 May 2026 | 뉴스1 | [박진 전 장관, 카자흐스탄 유라시아국립대 명예교수 임명](https://n.news.naver.com/mnews/article/421/0008970708?sid=103) |
-| 28 May 2026 | 헤럴드경제 | [“올랐단 선입견, 늦었단 편견 버려라”](https://n.news.naver.com/mnews/article/016/0002649212?sid=101) |
-| 28 May 2026 | 아시아경제 | ['한국형 고준위폐기물 처분장' 성능평가 기술 공개…"해외 의존 낮춘다...](https://n.news.naver.com/mnews/article/277/0005768912?sid=105) |
-| 28 May 2026 | 연합뉴스 | [국힘 양정무 "이원택·김관영, 진흙탕 싸움 즉각 중단하라"](https://n.news.naver.com/mnews/article/001/0016104173?sid=100) |
-| 28 May 2026 | 파이낸셜뉴스 | [[속보] 신현송 총재 "중동사태 조기 해결 시 성장률 2.6%보다 상향"](https://n.news.naver.com/mnews/article/014/0005527529?sid=101) |
+| 28 May 2026 | 뉴시스 | [“대만 점령보다 통치가 훨씬 어렵다”…濠 로위硏, 中 문헌 등 분석](https://n.news.naver.com/mnews/article/003/0013974120?sid=104) |
+| 28 May 2026 | 서울경제 | [LG엔솔, 오픈AI·오라클 동맹 가세…2.4조 배터리 공급](https://n.news.naver.com/mnews/article/011/0004625492?sid=101) |
+| 28 May 2026 | 뉴시스 | [中왕이, 美 인사와 회동…"미중정상 합의 조속 이행해야"](https://n.news.naver.com/mnews/article/003/0013974121?sid=104) |
+| 28 May 2026 | 매일경제 | [롯데계열사 1분기 영업익 181% 증가 …"구조개편 지속"](https://n.news.naver.com/mnews/article/009/0005686434?sid=103) |
+| 28 May 2026 | 연합뉴스 | [중견기업연합회, ESG 대응 간담회…"맞춤형 지원 절실"](https://n.news.naver.com/mnews/article/001/0016105714?sid=101) |
+| 28 May 2026 | 헤럴드경제 | [박완수, “서북부 경남을 새로운 성장축으로”](https://n.news.naver.com/mnews/article/016/0002649455?sid=102) |
+| 28 May 2026 | 연합뉴스 | [신경호·강삼영 강원교육감 후보, 교육비 경감 정책 잇따라 발표](https://n.news.naver.com/mnews/article/001/0016105716?sid=162) |
+| 28 May 2026 | 매일경제 | ["암세포 되기 전으로 되돌려줘"… '타임머신 스위치' 한국이 찾았다](https://n.news.naver.com/mnews/article/009/0005686430?sid=105) |
+| 28 May 2026 | 서울경제 | [“삼성 성과급도 물가 변수”…한은 ‘인플레 수요 압력’ 공식화](https://n.news.naver.com/mnews/article/011/0004625491?sid=101) |
+| 28 May 2026 | 머니투데이 | ["적대적 M&amp;A에 대한 이사회 역할·책임, 정확한 개념 바탕으로 논의돼야...](https://n.news.naver.com/mnews/article/008/0005364331?sid=101) |
+| 28 May 2026 | 뉴스1 | ["러, 아프간 탈레반 정권과 군사기술 협력 협정 체결"](https://n.news.naver.com/mnews/article/421/0008971986?sid=104) |
+| 28 May 2026 | 뉴스1 | [밀입국 시도 중국 반체제 인사 둥광핑 구속 기각…캐나다 망명 의사(종...](https://n.news.naver.com/mnews/article/421/0008971984?sid=102) |
 
 
 ---
