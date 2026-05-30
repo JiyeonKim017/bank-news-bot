@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-30 02:30:26` (KST)
+> **업데이트:** `2026-05-30 07:36:03` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#김천시` `#전국` `#명궁들` `#모인다` `#사전투표` `#박형룡`
+`#박형준` `#전재수` `#왜곡된` `#부산` `#놓고` `#부산행`
 
 ---
 
@@ -20,18 +20,17 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 30 May 2026 | 아시아경제 | [김천시, 전국 명궁들 모인다](https://n.news.naver.com/mnews/article/277/0005769775?sid=102) |
-| 30 May 2026 | 연합뉴스 | [[사전투표] 박형룡, 대구 달성군서 한 표…"더 도약시킬 것"](https://n.news.naver.com/mnews/article/001/0016108854?sid=162) |
-| 30 May 2026 | 서울경제 | [전·현직 대통령 부산 총출동…표심 흔들까, 역풍 부를까](https://n.news.naver.com/mnews/article/011/0004626036?sid=102) |
-| 30 May 2026 | 뉴스1 | [한병도, 서산공항·철도 추진 약속…"기존 지역 정치인 뭐했나"](https://n.news.naver.com/mnews/article/421/0008974893?sid=102) |
-| 30 May 2026 | 뉴스1 | ["투표했으니 이젠 맛집으로"…관광객 발길 이어지는 제주 사전투표소](https://n.news.naver.com/mnews/article/421/0008974892?sid=162) |
-| 30 May 2026 | 헤럴드경제 | [BTS, 4월 한달간 1148억원 매출…티켓은 42만장 판매](https://n.news.naver.com/mnews/article/016/0002650057?sid=103) |
-| 30 May 2026 | 헤럴드경제 | [주수빈, 샵라이트 LPGA 1R 공동 6위](https://m.sports.naver.com/golf/article/016/0002650056) |
-| 30 May 2026 | 이데일리 | ["폭염 작업중단도 보장"…소상공인·배달기사 위한 '지수형보험' 필요성...](https://n.news.naver.com/mnews/article/018/0006293813?sid=101) |
-| 30 May 2026 | 뉴시스 | ["주총 결의 없는 임금협약 무효"…주주 반발 여전 [삼성 성과급 타결, 그...](https://n.news.naver.com/mnews/article/003/0013977044?sid=101) |
-| 30 May 2026 | 아시아경제 | ["사필귀정"…美미네소타서 이민자에 총격한 ICE 요원 체포](https://n.news.naver.com/mnews/article/277/0005769771?sid=104) |
-| 30 May 2026 | 이데일리 | ["550만원 중고차를 2500원에"…김선태, 아픈 딸 둔 24세 아빠에 선물](https://n.news.naver.com/mnews/article/018/0006293812?sid=102) |
-| 30 May 2026 | 매일경제 | [미국, 브라질 범죄조직 테러단체로 지정…룰라 "내정간섭"](https://n.news.naver.com/mnews/article/057/0001951514?sid=104) |
+| 30 May 2026 | 한국경제 | [수육 비싸서 만두 시킨건데…"다음부턴 냉면만 주문해야겠다" [장바구니...](https://n.news.naver.com/mnews/article/015/0005293140?sid=101) |
+| 30 May 2026 | 머니투데이 | ["UAE, 이란 수십 차례 공습…美·이스라엘과 공조 정황"](https://n.news.naver.com/mnews/article/008/0005365024?sid=104) |
+| 30 May 2026 | 헤럴드경제 | [역대 지방선거 최고치 넘었다…오후 4시 20.94%](https://n.news.naver.com/mnews/article/016/0002650108?sid=100) |
+| 30 May 2026 | 헤럴드경제 | [박형준 캠프, 전재수에 “왜곡된 과거로 부산 팔지 마라”](https://n.news.naver.com/mnews/article/016/0002650107?sid=100) |
+| 30 May 2026 | 머니투데이 | [전재수 "부산 망가뜨려" 박형준 "왜곡된 과거"…MB 방문 놓고 공방](https://n.news.naver.com/mnews/article/008/0005365020?sid=100) |
+| 30 May 2026 | 뉴스1 | [이민표 "문화 흐르고 사람 빛나는 명품증평 만들 것"](https://n.news.naver.com/mnews/article/421/0008975192?sid=162) |
+| 30 May 2026 | 이데일리 | [박형준, 전재수 'MB 부산행' 비판에 "기승전 해수부만 반복" 반박](https://n.news.naver.com/mnews/article/018/0006293872?sid=162) |
+| 30 May 2026 | 이데일리 | [MB 부산행 놓고 ‘전재수 vs 박형준’ 정면충돌](https://n.news.naver.com/mnews/article/018/0006293871?sid=100) |
+| 30 May 2026 | 한국경제 | [베이징에 뜬 재계 2·3세…한·중 '오작교' 된 노재헌 [차이나 워치]](https://n.news.naver.com/mnews/article/015/0005293138?sid=101) |
+| 30 May 2026 | 연합뉴스 | [[사전투표] 30도 더위에 땀방울 훔치며…울산 투표열기 '후끈'(종합)](https://n.news.naver.com/mnews/article/001/0016109015?sid=162) |
+| 30 May 2026 | 뉴스1 | [마지막 주말 신용한 '무박 2일 유세'…김영환 '남부 발전 공약'](https://n.news.naver.com/mnews/article/421/0008975171?sid=162) |
 
 
 ---
