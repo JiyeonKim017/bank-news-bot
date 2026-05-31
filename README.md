@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-05-31 02:46:49` (KST)
+> **업데이트:** `2026-05-31 08:09:52` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#정책` `#프로젝트` `#청년` `#성남시장` `#선거` `#진흙탕`
+`#박근혜` `#찾은` `#추경호` `#대구` `#살릴` `#적임자`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 31 May 2026 | 뉴스1 | [성남시장 선거, '진흙탕 고발전' 속 '정책 비전' 진검승부](https://n.news.naver.com/mnews/article/421/0008975834?sid=162) |
-| 31 May 2026 | 뉴스1 | ['5.8조 루마니아 IFV' 獨 라인메탈 확정…한화 "시장 공략 지속"(종합)](https://n.news.naver.com/mnews/article/421/0008975832?sid=101) |
-| 31 May 2026 | 헤럴드경제 | [‘신의 영역’ 넘보는 푸틴…39조원 ‘영생 프로젝트’ 정체](https://n.news.naver.com/mnews/article/016/0002650225?sid=104) |
-| 31 May 2026 | 뉴시스 | ["'만남'도 기본권"…광명시, 내달 정책 플랫폼 가동](https://n.news.naver.com/mnews/article/003/0013977827?sid=102) |
-| 31 May 2026 | 연합뉴스 | [양구군, 지역사회와 함께 필리핀 계절근로자 수술비 지원](https://n.news.naver.com/mnews/article/001/0016109728?sid=102) |
-| 31 May 2026 | 뉴시스 | [장하준·장하석 교수 父 장재식 전 산자부 장관 별세…향년 91세](https://n.news.naver.com/mnews/article/003/0013977826?sid=102) |
-| 31 May 2026 | 한국경제 | ["삼전닉스 성과급 보고 여기 오겠나"…청년 없는 '산단' 현실 [소멸 리포...](https://n.news.naver.com/mnews/article/015/0005293197?sid=101) |
-| 31 May 2026 | 연합뉴스 | [괴산 사전투표율 39.03%에 이차영·송인헌 각자 유리한 해석](https://n.news.naver.com/mnews/article/001/0016109710?sid=100) |
-| 31 May 2026 | 매일경제 | [우상호 “청년 떠나는 강원 바꾸겠다… 기업·일자리로 성장동력 확보”](https://n.news.naver.com/mnews/article/009/0005687289?sid=100) |
-| 31 May 2026 | 매일경제 | [김진태 “씨 뿌린 120개 미래산업 프로젝트 흔들림 없이 완수”](https://n.news.naver.com/mnews/article/009/0005687288?sid=100) |
-| 31 May 2026 | 머니투데이 | [해가 지지 않던 제국, 이젠 청년 100만명이 '그냥 쉬었음'…어쩌다](https://n.news.naver.com/mnews/article/008/0005365132?sid=104) |
-| 31 May 2026 | 조세일보 | [공사비 상승에 사업성 ‘악화’…올해 수도권 매입임대 3200가구 그쳐](https://n.news.naver.com/mnews/article/123/0002383914?sid=101) |
+| 31 May 2026 | 매일경제 | [1440조 가치 앤스로픽, 창업자 7명도 '돈방석'](https://n.news.naver.com/mnews/article/009/0005687380?sid=105) |
+| 31 May 2026 | 헤럴드경제 | [서문시장 찾은 박근혜 “추경호, 대구 경제 살릴 적임자”](https://n.news.naver.com/mnews/article/016/0002650287?sid=162) |
+| 31 May 2026 | 뉴시스 | [오세훈 국민의힘 서울시장 후보 마지막 주말 유세 [뉴시스Pic]](https://n.news.naver.com/mnews/article/003/0013978254?sid=100) |
+| 31 May 2026 | 뉴시스 | [정원오 민주당 서울시장 후보 마지막 주말 유세 [뉴시스Pic]](https://n.news.naver.com/mnews/article/003/0013978253?sid=100) |
+| 31 May 2026 | 연합뉴스 | [英외무장관 내달 1∼3일 방중…中왕이 만나고 선전서 산업시찰](https://n.news.naver.com/mnews/article/001/0016110382?sid=104) |
+| 31 May 2026 | 연합뉴스 | [박근혜, 서문시장서 추경호 지원 유세…"대구 경제 살릴 적임자"](https://n.news.naver.com/mnews/article/001/0016110381?sid=162) |
+| 31 May 2026 | 이데일리 | [전·현직 대통령 총출동한 부산…사실상 ‘대통령 대리전’에 신경전도...](https://n.news.naver.com/mnews/article/018/0006294647?sid=162) |
+| 31 May 2026 | 서울경제 | [“코스피 1만은 종착점 아닌 기착지”](https://n.news.naver.com/mnews/article/011/0004626216?sid=101) |
+| 31 May 2026 | 서울경제 | [부산 뜬 MB, 대구 또 찾은 朴…‘보수 집결’ 총력전](https://n.news.naver.com/mnews/article/011/0004626214?sid=100) |
+| 31 May 2026 | 헤럴드경제 | [북중미 월드컵 개막 코앞인데…홍명보호에 닥친 ‘부상 주의보’](https://m.sports.naver.com/kfootball/article/016/0002650285) |
+| 31 May 2026 | 머니투데이 | [MB·박근혜 등판 "국힘, 지지해 달라"…민주 "감옥 갔다 온 분들이"](https://n.news.naver.com/mnews/article/008/0005365217?sid=162) |
+| 31 May 2026 | 매일경제 | [정기선 HD현대 회장 "참전용사 예우 함께할 것"](https://n.news.naver.com/mnews/article/009/0005687365?sid=102) |
 
 
 ---
