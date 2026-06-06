@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-06-06 07:42:42` (KST)
+> **업데이트:** `2026-06-06 09:57:02` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#환율` `#행복의` `#가정에` `#현금` `#김용범` `#코스피`
+`#대학` `#최대` `#수혜자는` `#미국` `#넷플릭스` `#창업자`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 06 Jun 2026 | 헤럴드경제 | [‘행복의 나라’ 부탄마저 저출생 고민…3자녀 이상 가정에 매월 현금 ...](https://n.news.naver.com/mnews/article/016/0002652847?sid=104) |
-| 06 Jun 2026 | 뉴스1 | [김동연 경기지사 "보훈은 오늘 지키고 내일 준비하는 힘"](https://n.news.naver.com/mnews/article/421/0008988899?sid=102) |
-| 06 Jun 2026 | 조세일보 | [김용범 “코스피 8000·환율 1550원…가보지 않은 낯선 경제 국면”](https://n.news.naver.com/mnews/article/123/0002384226?sid=100) |
-| 06 Jun 2026 | 헤럴드경제 | [美 AI반도체주 줄줄이 급락…시총 하루새 2000조 증발 이유는?](https://n.news.naver.com/mnews/article/016/0002652845?sid=104) |
-| 06 Jun 2026 | 뉴스1 | [김용범 "취임 1년, 코스피 8000·환율 1550원…낯선 과제들"](https://n.news.naver.com/mnews/article/421/0008988893?sid=100) |
-| 06 Jun 2026 | 연합뉴스 | ['행복의 나라'였는데…부탄, 출생아 감소로 다자녀 가정에 현금](https://n.news.naver.com/mnews/article/001/0016123151?sid=104) |
-| 06 Jun 2026 | 서울경제 | [반도체주 급브레이크…뉴욕서 시총 하루만에 2000조 날아가](https://n.news.naver.com/mnews/article/011/0004628285?sid=104) |
-| 06 Jun 2026 | 아시아경제 | ["비트코인, 6개월내 70% 폭락 가능"…장기적 전망은?](https://n.news.naver.com/mnews/article/277/0005772664?sid=104) |
-| 06 Jun 2026 | 연합뉴스 | ["좋은 이웃·친구·동지"…中, 시진핑 방북 분위기 띄우기(종합)](https://n.news.naver.com/mnews/article/001/0016123145?sid=104) |
-| 06 Jun 2026 | 매일경제 | [안철수 "환율 1,560원 정말 큰일…돈 퍼부어 코스피만 올리면 되나"](https://n.news.naver.com/mnews/article/057/0001952582?sid=100) |
-| 06 Jun 2026 | 한국경제 | [청와대, 美보수인사 WSJ 기고문 반박…"현실 왜곡·동맹 훼손 우려"](https://n.news.naver.com/mnews/article/015/0005295660?sid=100) |
-| 06 Jun 2026 | 아시아경제 | [靑, '이재명 정부 급진좌파' 美칼럼 공개 반박…"왜곡된 시각·신뢰 저해...](https://n.news.naver.com/mnews/article/277/0005772660?sid=100) |
+| 06 Jun 2026 | 헤럴드경제 | [넷플릭스 창업자 헤이스팅스, 회장직도 떠난다](https://n.news.naver.com/mnews/article/016/0002652871?sid=104) |
+| 06 Jun 2026 | 뉴시스 | [中부주석, 푸틴 만나 "상호 신뢰 다지고 협력 강화"](https://n.news.naver.com/mnews/article/003/0013990745?sid=104) |
+| 06 Jun 2026 | 헤럴드경제 | [“대학 때부터 실무 경험” 서울시 ‘영커리언스’에 대학 재학생 몰렸...](https://n.news.naver.com/mnews/article/016/0002652870?sid=102) |
+| 06 Jun 2026 | 뉴스1 | [러 로스네프트 CEO "호르무즈 봉쇄 최대 수혜자는 미국"](https://n.news.naver.com/mnews/article/421/0008988945?sid=104) |
+| 06 Jun 2026 | 한국경제 | [노동시장 이중구조 해소, 임금 격차를 넘어 미래 성장동력으로 [김홍유...](https://n.news.naver.com/mnews/article/050/0000107013?sid=101) |
+| 06 Jun 2026 | 아시아경제 | [[전문] 김동연 경기도지사 제71회 현충일 추도사](https://n.news.naver.com/mnews/article/277/0005772681?sid=102) |
+| 06 Jun 2026 | 연합뉴스 | ["北도움 없이는 못 버텨"…푸틴 긁은 젤렌스키, 내부분열 노렸나](https://n.news.naver.com/mnews/article/001/0016123217?sid=104) |
+| 06 Jun 2026 | 뉴스1 | [국힘, 고환율에 李대통령 '맹폭'…"野 땐 재난이고 與 땐 도약 신호냐"](https://n.news.naver.com/mnews/article/421/0008988927?sid=100) |
+| 06 Jun 2026 | 한국경제 | ['비트코인' 공격 투자 즐기던 40대 의사…'이렇게 바꿨다'](https://n.news.naver.com/mnews/article/015/0005295671?sid=101) |
+| 06 Jun 2026 | 뉴시스 | [전쟁 끝나도 고통은 계속…이란 덮친 초인플레 공포](https://n.news.naver.com/mnews/article/003/0013990723?sid=104) |
+| 06 Jun 2026 | 연합뉴스 | [러 국영 석유회사 CEO "이란전쟁 최대 수혜자는 美기업"](https://n.news.naver.com/mnews/article/001/0016123209?sid=104) |
+| 06 Jun 2026 | 아시아경제 | [[주末머니]현재 미국 경제를 지탱하는 원동력은](https://n.news.naver.com/mnews/article/277/0005772675?sid=101) |
 
 
 ---
