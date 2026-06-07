@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-06-06 09:57:02` (KST)
+> **업데이트:** `2026-06-07 02:51:04` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대학` `#최대` `#수혜자는` `#미국` `#넷플릭스` `#창업자`
+`#인수위` `#대통령` `#위성곤` `#김일환이재승` `#투톱` `#안정`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 06 Jun 2026 | 헤럴드경제 | [넷플릭스 창업자 헤이스팅스, 회장직도 떠난다](https://n.news.naver.com/mnews/article/016/0002652871?sid=104) |
-| 06 Jun 2026 | 뉴시스 | [中부주석, 푸틴 만나 "상호 신뢰 다지고 협력 강화"](https://n.news.naver.com/mnews/article/003/0013990745?sid=104) |
-| 06 Jun 2026 | 헤럴드경제 | [“대학 때부터 실무 경험” 서울시 ‘영커리언스’에 대학 재학생 몰렸...](https://n.news.naver.com/mnews/article/016/0002652870?sid=102) |
-| 06 Jun 2026 | 뉴스1 | [러 로스네프트 CEO "호르무즈 봉쇄 최대 수혜자는 미국"](https://n.news.naver.com/mnews/article/421/0008988945?sid=104) |
-| 06 Jun 2026 | 한국경제 | [노동시장 이중구조 해소, 임금 격차를 넘어 미래 성장동력으로 [김홍유...](https://n.news.naver.com/mnews/article/050/0000107013?sid=101) |
-| 06 Jun 2026 | 아시아경제 | [[전문] 김동연 경기도지사 제71회 현충일 추도사](https://n.news.naver.com/mnews/article/277/0005772681?sid=102) |
-| 06 Jun 2026 | 연합뉴스 | ["北도움 없이는 못 버텨"…푸틴 긁은 젤렌스키, 내부분열 노렸나](https://n.news.naver.com/mnews/article/001/0016123217?sid=104) |
-| 06 Jun 2026 | 뉴스1 | [국힘, 고환율에 李대통령 '맹폭'…"野 땐 재난이고 與 땐 도약 신호냐"](https://n.news.naver.com/mnews/article/421/0008988927?sid=100) |
-| 06 Jun 2026 | 한국경제 | ['비트코인' 공격 투자 즐기던 40대 의사…'이렇게 바꿨다'](https://n.news.naver.com/mnews/article/015/0005295671?sid=101) |
-| 06 Jun 2026 | 뉴시스 | [전쟁 끝나도 고통은 계속…이란 덮친 초인플레 공포](https://n.news.naver.com/mnews/article/003/0013990723?sid=104) |
-| 06 Jun 2026 | 연합뉴스 | [러 국영 석유회사 CEO "이란전쟁 최대 수혜자는 美기업"](https://n.news.naver.com/mnews/article/001/0016123209?sid=104) |
-| 06 Jun 2026 | 아시아경제 | [[주末머니]현재 미국 경제를 지탱하는 원동력은](https://n.news.naver.com/mnews/article/277/0005772675?sid=101) |
+| 07 Jun 2026 | 파이낸셜뉴스 | [위성곤 인수위, 김일환·이재승 투톱… 안정 속 변화 시동](https://n.news.naver.com/mnews/article/014/0005531373?sid=162) |
+| 07 Jun 2026 | 뉴스1 | [與 "장동혁 정치쇼 관두라…선관위 개혁기구도 검토"(종합)](https://n.news.naver.com/mnews/article/421/0008989462?sid=100) |
+| 07 Jun 2026 | 매일경제 | [이 대통령, 내일 취임 1주년 기자회견…슬로건은 '대체불가 대한민국'](https://n.news.naver.com/mnews/article/057/0001952633?sid=100) |
+| 07 Jun 2026 | 뉴시스 | [이 대통령, 오늘 차기 국무총리 지명할 듯](https://n.news.naver.com/mnews/article/003/0013991316?sid=100) |
+| 07 Jun 2026 | 이데일리 | [6~8월 '엘니뇨’ 가시화…한국 경제에도 적신호[이영민의 알쓸기잡]](https://n.news.naver.com/mnews/article/018/0006299714?sid=102) |
+| 07 Jun 2026 | 아시아경제 | [[퇴직연금 투자전략]⑤ "단기 게임 아니다…과열된 기대수익률 우려"](https://n.news.naver.com/mnews/article/277/0005772755?sid=101) |
+| 07 Jun 2026 | 뉴시스 | [제주지사 인수위 가동…위원장은 김일환 전 제주대 총장](https://n.news.naver.com/mnews/article/003/0013991307?sid=102) |
+| 07 Jun 2026 | 아시아경제 | ["숨긴 재산 내놔" 이혼 소송 하다가…부정부패 걸린 공무원 부부](https://n.news.naver.com/mnews/article/277/0005772753?sid=104) |
+| 07 Jun 2026 | 조세일보 | [여야 원구성 협상 돌입…'법사위 쟁탈전' 속 18개 상임위 배분 격돌](https://n.news.naver.com/mnews/article/123/0002384236?sid=100) |
+| 07 Jun 2026 | 뉴스1 | [경기선행지수 4년10개월만에 최고…실물경기와 격차 '닷컴버블' 수준](https://n.news.naver.com/mnews/article/421/0008989436?sid=101) |
+| 07 Jun 2026 | 헤럴드경제 | [美, 이란 자산으로 걸프국 전쟁 피해 보상 추진…종전협상 새 변수로](https://n.news.naver.com/mnews/article/016/0002652950?sid=104) |
+| 07 Jun 2026 | 서울경제 | [김형태 대표 “AI광고마케팅 시대…소외된 브랜드에 기회 왔다”](https://n.news.naver.com/mnews/article/011/0004628366?sid=101) |
 
 
 ---
