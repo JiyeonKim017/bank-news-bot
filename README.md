@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-06-09 08:26:57` (KST)
+> **업데이트:** `2026-06-10 02:44:42` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#한일` `#메이커` `#돼야` `#지금` `#항미원조` `#부활핵보유`
+`#인수위` `#벨기에` `#정상회담유럽시장` `#진출` `#교두보` `#확대`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,520.77원 |
-| **코스피 지수** | 8,096.93 |
+| **USD/KRW 환율** | 1,523.26원 |
+| **코스피 지수** | 7,793.85 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 09 Jun 2026 | 파이낸셜뉴스 | ['항미원조' 부활·핵보유 묵인에 '당혹'..외교통일 라인 비상](https://n.news.naver.com/mnews/article/014/0005532665?sid=100) |
-| 09 Jun 2026 | 이데일리 | [‘혼인·혈연·입양’ 가족 정의 바꾼다…정부, 건강가정기본법 손질 (...](https://n.news.naver.com/mnews/article/018/0006301656?sid=102) |
-| 09 Jun 2026 | 이데일리 | [회복세 탄 면세점 덮친 초(超)고환율…"남은 카드가 없다"](https://n.news.naver.com/mnews/article/018/0006301657?sid=101) |
-| 09 Jun 2026 | 아시아경제 | [최태원 "한일 빅텐트 플랫폼 구축해 AI 시대 '룰 메이커' 돼야"](https://n.news.naver.com/mnews/article/277/0005774029?sid=101) |
-| 09 Jun 2026 | 파이낸셜뉴스 | [한일, '룰 테이커(Rule Taker)'아닌 '룰 메이커(Rule Maker)' 돼야](https://n.news.naver.com/mnews/article/014/0005532664?sid=104) |
-| 09 Jun 2026 | 헤럴드경제 | [[인터뷰] 김규남 서울시의원](https://n.news.naver.com/mnews/article/016/0002654202?sid=100) |
-| 09 Jun 2026 | 한국경제 | [최유정 "팝업 흥행의 핵심은 속도…실패 책임 묻지 않아"](https://n.news.naver.com/mnews/article/015/0005296775?sid=101) |
-| 09 Jun 2026 | 머니투데이 | [눌렸던 유통·보험도 뛰었다…롤러코스터 장에도 "지금 줍줍 기회"](https://n.news.naver.com/mnews/article/008/0005369443?sid=101) |
-| 09 Jun 2026 | 한국경제 | ["美 항공업계 대형합병, 성사 될 가능성 낮다"](https://n.news.naver.com/mnews/article/015/0005296770?sid=101) |
-| 09 Jun 2026 | 매일경제 | [[2026 이효석문학상] 장애·학폭·가부장제 … 지금 한국소설이 묻는 것...](https://n.news.naver.com/mnews/article/009/0005691471?sid=103) |
-| 09 Jun 2026 | 뉴시스 | [美 월드컵 흥행 경고등…호텔 예약률 캐나다·멕시코에 밀려](https://n.news.naver.com/mnews/article/003/0013996680?sid=104) |
-| 09 Jun 2026 | 매일경제 | [[매일경제TV] '스페이스X 상장' 美 증시 영향은](https://n.news.naver.com/mnews/article/009/0005691472?sid=103) |
+| 10 Jun 2026 | 헤럴드경제 | [李, 벨기에·EU 정상회담…유럽시장 진출 교두보 확대](https://n.news.naver.com/mnews/article/016/0002654639?sid=100) |
+| 10 Jun 2026 | 헤럴드경제 | [젠슨황 효과도 무색…치킨집 10곳 중 6곳, 3년도 못 버텼다 [푸드360]](https://n.news.naver.com/mnews/article/016/0002654634?sid=101) |
+| 10 Jun 2026 | 매일경제 | [“강북 개발 정책 연속성 확보”…광운대역세권 복합개발 수혜 기대감](https://n.news.naver.com/mnews/article/009/0005691819?sid=101) |
+| 10 Jun 2026 | 머니투데이 | [과천시 K패스·기후동행카드 지원…이용자 월 3만원 환급](https://n.news.naver.com/mnews/article/008/0005369817?sid=102) |
+| 10 Jun 2026 | 뉴시스 | [하동군수직 인수위 "군정 비전, 19일까지 군민 공모"](https://n.news.naver.com/mnews/article/003/0013998069?sid=102) |
+| 10 Jun 2026 | 머니투데이 | [野 원내사령탑 출사표…김도읍 "인적 쇄신" 정점식 "신뢰 회복" 성일종...](https://n.news.naver.com/mnews/article/008/0005369816?sid=100) |
+| 10 Jun 2026 | 뉴스1 | [이장섭 청주시장직 인수위 출범…"시정 면밀히 진단"](https://n.news.naver.com/mnews/article/421/0008995627?sid=102) |
+| 10 Jun 2026 | 뉴시스 | [경비원 사망에…서산시, 공동주택 휴게시설 90여곳 조사](https://n.news.naver.com/mnews/article/003/0013998044?sid=102) |
+| 10 Jun 2026 | 연합뉴스 | [북중 정상 경제·무역 협력 의지 속…"北상품 중국서 유통 중"](https://n.news.naver.com/mnews/article/001/0016130303?sid=104) |
+| 10 Jun 2026 | 매일경제 | [“미래 신산업 육성”…부산 기업인, 전재수 당선인에 바란다](https://n.news.naver.com/mnews/article/009/0005691815?sid=101) |
+| 10 Jun 2026 | 한국경제 | [美 전문가 70% "연준 연말까지 금리 동결"…인하 예상자 0명](https://magazine.hankyung.com/money/article/202606108031c) |
+| 10 Jun 2026 | 뉴스1 | [예측시장 칼시, 내부거래 감시 강화…"고위험 베팅시 직업 확인"](https://n.news.naver.com/mnews/article/421/0008995612?sid=104) |
 
 
 ---
