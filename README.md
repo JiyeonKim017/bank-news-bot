@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-06-12 08:54:07` (KST)
+> **업데이트:** `2026-06-13 02:43:56` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#종전` `#호르무즈` `#재개` `#가능성` `#첨단테크단지` `#새만금현대차`
+`#체결` `#임박` `#홈플러스` `#대출` `#검토하는` `#메리츠`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,515.98원 |
+| **USD/KRW 환율** | 1,517.89원 |
 | **코스피 지수** | 8,123.62 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 12 Jun 2026 | 한국경제 | [첨단테크단지 된 새만금…현대차·LS 이어 삼성도 합류하나](https://n.news.naver.com/mnews/article/015/0005298212?sid=101) |
-| 12 Jun 2026 | 한국경제 | [콘진원장에 김윤지 수출입銀 수석연구원](https://n.news.naver.com/mnews/article/015/0005298211?sid=103) |
-| 12 Jun 2026 | 서울경제 | [정점식 “법사위원장 야당 몫으로…한성숙 슈퍼 다주택자”](https://n.news.naver.com/mnews/article/011/0004630629?sid=100) |
-| 12 Jun 2026 | 연합뉴스 | [KAIST "농지 아닌 농업인력 부족이 미래 식량 부족 원인일 수도"](https://n.news.naver.com/mnews/article/001/0016136465?sid=102) |
-| 12 Jun 2026 | 연합뉴스 | ["美·이란 '종전 MOU'에…제재 해제, 호르무즈 재개 포함"(종합)](https://n.news.naver.com/mnews/article/001/0016136463?sid=104) |
-| 12 Jun 2026 | 이데일리 | [中 정부, 제재한 필리핀 국방장관에 “무모한 행동이 재앙 초래”](https://n.news.naver.com/mnews/article/018/0006304637?sid=104) |
-| 12 Jun 2026 | 아시아경제 | [ECB, 추가 긴축 가능성 시사…"필요 시 7월도 금리 인상"](https://n.news.naver.com/mnews/article/277/0005775766?sid=101) |
-| 12 Jun 2026 | 헤럴드경제 | [“너 이제 대학 못가” 학폭 신고 당하자 ‘맞학폭’ 걸었다…입시 공포...](https://n.news.naver.com/mnews/article/016/0002655935?sid=102) |
-| 12 Jun 2026 | 매일경제 | [“미·이란 ‘종전 양해각서’ 공개…미군 철수 호르무즈 재개 등 포함...](https://n.news.naver.com/mnews/article/009/0005693156?sid=104) |
-| 12 Jun 2026 | 뉴스1 | ['가상 무속인' 내세워 80억 뜯은 일당…검찰, 징역 25년 구형](https://n.news.naver.com/mnews/article/421/0009001217?sid=102) |
-| 12 Jun 2026 | 뉴시스 | ['The 경기패스' 가입 200만명 돌파, 1인당 월 5만3000원 환급](https://n.news.naver.com/mnews/article/003/0014003976?sid=102) |
-| 12 Jun 2026 | 서울경제 | [안도랠리에 코스피 1만피 재시동…노무라 “MSCI 편입 가능성 60%”](https://n.news.naver.com/mnews/article/011/0004630612?sid=101) |
+| 13 Jun 2026 | 헤럴드경제 | [홈플러스 대출 검토하는 메리츠, 회생 불씨 살릴까](https://n.news.naver.com/mnews/article/016/0002656065?sid=101) |
+| 13 Jun 2026 | 헤럴드경제 | [“대~한민국” 광화문 들썩이자 편의점 매출도 ‘대박’](https://n.news.naver.com/mnews/article/016/0002656066?sid=101) |
+| 13 Jun 2026 | 뉴시스 | [美-이란 MOU 체결 임박…“UAE, 자금 이미 지원”, UAE는 부인](https://n.news.naver.com/mnews/article/003/0014004500?sid=104) |
+| 13 Jun 2026 | 아시아경제 | [알알이 로고새긴 얼음에 최고급 샴페인…스페이스X 상장 초호화 파티](https://n.news.naver.com/mnews/article/277/0005775844?sid=104) |
+| 13 Jun 2026 | 아시아경제 | [[기획] 할인 혜택 넓히고 쏠림 막고…나주사랑상품권 운영 전면 개편](https://n.news.naver.com/mnews/article/277/0005775845?sid=102) |
+| 13 Jun 2026 | 서울경제 | [SK하이닉스로(路)와 도요타시(市) [임병식의 일본, 일본인 이야기]](https://n.news.naver.com/mnews/article/011/0004630755?sid=110) |
+| 13 Jun 2026 | 서울경제 | [TSMC가 “감당 한계” 토로한 날…구글이 삼성에 전화한 이유](https://n.news.naver.com/mnews/article/011/0004630754?sid=101) |
+| 13 Jun 2026 | 머니투데이 | ["호르무즈 즉시 재개방, 핵 포기"…美-이란 MOU 체결 임박](https://n.news.naver.com/mnews/article/008/0005371344?sid=104) |
+| 13 Jun 2026 | 이데일리 | [스탠다드차타드 "비트코인 사실상 바닥 통과…크립토 윈터 끝났다"](https://n.news.naver.com/mnews/article/018/0006305054?sid=101) |
+| 13 Jun 2026 | 이데일리 | [혼인 전 보유한 아파트, 이혼하면 재산분할 대상일까[똑똑한부동산]](https://n.news.naver.com/mnews/article/018/0006305053?sid=101) |
+| 13 Jun 2026 | 뉴시스 | [방탄소년단 '더 시티', 부산 하늘·바다 뒤덮었다](https://m.entertain.naver.com/article/003/0014004486) |
+| 13 Jun 2026 | 조세일보 | [로마서 세계청년대회 준비단 만난 김혜경 여사 “현장 의견 잘 전달"](https://n.news.naver.com/mnews/article/123/0002384674?sid=100) |
 
 
 ---
