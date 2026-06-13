@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-06-13 02:43:56` (KST)
+> **업데이트:** `2026-06-13 08:17:26` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#체결` `#임박` `#홈플러스` `#대출` `#검토하는` `#메리츠`
+`#대통령` `#주가조작` `#그만` `#이제` `#자수하길` `#기자`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 13 Jun 2026 | 헤럴드경제 | [홈플러스 대출 검토하는 메리츠, 회생 불씨 살릴까](https://n.news.naver.com/mnews/article/016/0002656065?sid=101) |
-| 13 Jun 2026 | 헤럴드경제 | [“대~한민국” 광화문 들썩이자 편의점 매출도 ‘대박’](https://n.news.naver.com/mnews/article/016/0002656066?sid=101) |
-| 13 Jun 2026 | 뉴시스 | [美-이란 MOU 체결 임박…“UAE, 자금 이미 지원”, UAE는 부인](https://n.news.naver.com/mnews/article/003/0014004500?sid=104) |
-| 13 Jun 2026 | 아시아경제 | [알알이 로고새긴 얼음에 최고급 샴페인…스페이스X 상장 초호화 파티](https://n.news.naver.com/mnews/article/277/0005775844?sid=104) |
-| 13 Jun 2026 | 아시아경제 | [[기획] 할인 혜택 넓히고 쏠림 막고…나주사랑상품권 운영 전면 개편](https://n.news.naver.com/mnews/article/277/0005775845?sid=102) |
-| 13 Jun 2026 | 서울경제 | [SK하이닉스로(路)와 도요타시(市) [임병식의 일본, 일본인 이야기]](https://n.news.naver.com/mnews/article/011/0004630755?sid=110) |
-| 13 Jun 2026 | 서울경제 | [TSMC가 “감당 한계” 토로한 날…구글이 삼성에 전화한 이유](https://n.news.naver.com/mnews/article/011/0004630754?sid=101) |
-| 13 Jun 2026 | 머니투데이 | ["호르무즈 즉시 재개방, 핵 포기"…美-이란 MOU 체결 임박](https://n.news.naver.com/mnews/article/008/0005371344?sid=104) |
-| 13 Jun 2026 | 이데일리 | [스탠다드차타드 "비트코인 사실상 바닥 통과…크립토 윈터 끝났다"](https://n.news.naver.com/mnews/article/018/0006305054?sid=101) |
-| 13 Jun 2026 | 이데일리 | [혼인 전 보유한 아파트, 이혼하면 재산분할 대상일까[똑똑한부동산]](https://n.news.naver.com/mnews/article/018/0006305053?sid=101) |
-| 13 Jun 2026 | 뉴시스 | [방탄소년단 '더 시티', 부산 하늘·바다 뒤덮었다](https://m.entertain.naver.com/article/003/0014004486) |
-| 13 Jun 2026 | 조세일보 | [로마서 세계청년대회 준비단 만난 김혜경 여사 “현장 의견 잘 전달"](https://n.news.naver.com/mnews/article/123/0002384674?sid=100) |
+| 13 Jun 2026 | 연합뉴스 | [李대통령, '기자 선행매매' 겨냥 "패가망신하는 주가조작 그만"](https://n.news.naver.com/mnews/article/001/0016137076?sid=100) |
+| 13 Jun 2026 | 파이낸셜뉴스 | [李대통령 "주가조작 이제 그만, 이미 저지른 일이라면 자수하길"](https://n.news.naver.com/mnews/article/014/0005534397?sid=100) |
+| 13 Jun 2026 | 연합뉴스 | [한미일 도쿄서 北관련 협의…"비핵화 목표·UN결의 이행 재확인"](https://n.news.naver.com/mnews/article/001/0016137073?sid=100) |
+| 13 Jun 2026 | 매일경제 | [‘중소기업 AI 격차 해소’ 특별법 나왔다 [국회 방청석]](https://n.news.naver.com/mnews/article/024/0000106212?sid=102) |
+| 13 Jun 2026 | 뉴시스 | [스위스, 이민 유입 통제 등 위해 ‘총인구 1000만 명 제한’ 국민투표](https://n.news.naver.com/mnews/article/003/0014004681?sid=104) |
+| 13 Jun 2026 | 한국경제 | [[단독] "수사 마비될 판"…업무 폭탄에 경찰 1700명 '줄퇴사'](https://n.news.naver.com/mnews/article/015/0005298382?sid=102) |
+| 13 Jun 2026 | 뉴스1 | [1500여명 달렸다…'2026 무주 그란폰도·메디오폰도' 마무리](https://n.news.naver.com/mnews/article/421/0009001865?sid=102) |
+| 13 Jun 2026 | 이데일리 | [李대통령 "주가조작 그만하고 정상 언론인으로 돌아가시길"](https://n.news.naver.com/mnews/article/018/0006305246?sid=100) |
+| 13 Jun 2026 | 헤럴드경제 | [돈 쓸어담는 변호사…수천만원 ‘학폭 비즈니스’의 민낯[생존게임이 된...](https://n.news.naver.com/mnews/article/016/0002656106?sid=102) |
+| 13 Jun 2026 | 아시아경제 | ["공격 안 하면 가스 생산 자발적 중단"…카타르, 이란과 뒷거래 했나](https://n.news.naver.com/mnews/article/277/0005775887?sid=104) |
+| 13 Jun 2026 | 뉴시스 | [이 대통령 "패가망신 주가조작, 이제 그만…이미 저질렀다면 자수하길"](https://n.news.naver.com/mnews/article/003/0014004679?sid=100) |
+| 13 Jun 2026 | 헤럴드경제 | [영화 ‘군체’, 개봉 24일만에 500만명 돌파…‘왕사남’ 이어 올해 두 ...](https://n.news.naver.com/mnews/article/016/0002656102?sid=103) |
 
 
 ---
