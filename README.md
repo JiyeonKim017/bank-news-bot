@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-06-20 02:42:28` (KST)
+> **업데이트:** `2026-06-20 08:18:28` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#피지컬` `#년도` `#일본의` `#반격` `#한국` `#세계`
+`#볼리비아` `#국가비상사태` `#봉쇄시위` `#도로` `#선포` `#일벼랑`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 20 Jun 2026 | 헤럴드경제 | [“일본의 피지컬 AI 반격” 한국 세계 1위 목표 맞서 다카이치의 ‘100조...](https://n.news.naver.com/mnews/article/016/0002659163?sid=104) |
-| 20 Jun 2026 | 서울경제 | [김용범 “반도체發 유동성, 부동산 흡수 우려…보유세·양도세 조정 필...](https://n.news.naver.com/mnews/article/011/0004633175?sid=101) |
-| 20 Jun 2026 | 뉴스1 | ["재선 내정에 초선이 반발"…전북도의회 교육위원장 남관우 출마](https://n.news.naver.com/mnews/article/421/0009014165?sid=102) |
-| 20 Jun 2026 | 연합뉴스 | [美, 쿠바 친시장 개혁안 내놔도 "피상적 연막"…강경론 고수](https://n.news.naver.com/mnews/article/001/0016149385?sid=100) |
-| 20 Jun 2026 | 뉴스1 | [옥천군, 산모·신생아 건강관리 지원…"출산 친화 환경 조성"](https://n.news.naver.com/mnews/article/421/0009014161?sid=102) |
-| 20 Jun 2026 | 파이낸셜뉴스 | [日, 다카이치 성장전략에 3500조 쏜다 '피지컬AI 핵심'](https://n.news.naver.com/mnews/article/014/0005537422?sid=101) |
-| 20 Jun 2026 | 이데일리 | [챗GPT는 ‘대중형’, 클로드는 ‘업무형’, 제미나이는 ‘크리에이터형...](https://n.news.naver.com/mnews/article/018/0006310680?sid=105) |
-| 20 Jun 2026 | 조세일보 | [“신뢰 못한다”…스페이스X 연금 연동에 불안 커지는 미국인들](https://n.news.naver.com/mnews/article/123/0002385084?sid=101) |
-| 20 Jun 2026 | 한국경제 | [보험은 가입보다 점검…부모님 보장, 아프기 전에 살펴야](https://n.news.naver.com/mnews/article/015/0005300909?sid=101) |
-| 20 Jun 2026 | 아시아경제 | [[2025년도 경평]희비 갈린 에너지公·자원公…한전 'A'·석유공사 'D'](https://n.news.naver.com/mnews/article/277/0005779031?sid=101) |
-| 20 Jun 2026 | 아시아경제 | [[2025년도 경평]'AI 활용 우수' 한수원…3년 연속 A등급](https://n.news.naver.com/mnews/article/277/0005779033?sid=101) |
-| 20 Jun 2026 | 뉴시스 | ["전기차 저렴하게 이용하세요"…현대캐피탈, 할인 프로모션](https://n.news.naver.com/mnews/article/003/0014017695?sid=101) |
+| 20 Jun 2026 | 매일경제 | [봉쇄시위 50일…벼랑 몰린 대통령이 내린 결단, 볼리비아 ‘초비상’](https://n.news.naver.com/mnews/article/009/0005696465?sid=104) |
+| 20 Jun 2026 | 머니투데이 | [볼리비아, 50일 이어진 도로 봉쇄시위로 '국가비상사태' 선포](https://n.news.naver.com/mnews/article/008/0005374688?sid=104) |
+| 20 Jun 2026 | 뉴시스 | [볼리비아 대통령, 몇주째 이어지는 전국적 도로봉쇄 해결위해 비상사태...](https://n.news.naver.com/mnews/article/003/0014017884?sid=104) |
+| 20 Jun 2026 | 파이낸셜뉴스 | [볼리비아 국가비상사태 선포..."반정부 시위에 군대 동원 가능"](https://n.news.naver.com/mnews/article/014/0005537447?sid=104) |
+| 20 Jun 2026 | 매일경제 | [볼리비아, 국가비상사태 선포…"국민의 삶 제한 위한 것 아냐"](https://n.news.naver.com/mnews/article/057/0001954738?sid=104) |
+| 20 Jun 2026 | 헤럴드경제 | [노르웨이는 왜 초등학생 AI 사용을 금지할까](https://n.news.naver.com/mnews/article/016/0002659196?sid=104) |
+| 20 Jun 2026 | 이데일리 | [볼리비아, 도로 봉쇄시위 장기화에 '국가비상사태' 선포](https://n.news.naver.com/mnews/article/018/0006310929?sid=102) |
+| 20 Jun 2026 | 헤럴드경제 | [기말고사 대목 매출 ‘제로’…마비된 ‘스카’, 학생은 헛걸음, 점주는...](https://n.news.naver.com/mnews/article/016/0002659195?sid=102) |
+| 20 Jun 2026 | 연합뉴스 | [[청주소식] 김현호·김현진 등 시민대상 수상자 5명 선정](https://n.news.naver.com/mnews/article/001/0016149509?sid=102) |
+| 20 Jun 2026 | 연합뉴스 | [볼리비아, 도로 봉쇄시위 50일 되자 '국가비상사태' 선포](https://n.news.naver.com/mnews/article/001/0016149506?sid=104) |
+| 20 Jun 2026 | 이데일리 | [“전기차 막았더니 하이브리드가 밀려왔다”…EU, 中 PHEV에도 관세 검토](https://n.news.naver.com/mnews/article/018/0006310856?sid=103) |
+| 20 Jun 2026 | 한국경제 | [칩 설계 넘어 AI 인프라 제국을 꿈꾸는 엔비디아의 야심 찬 비전[테크트...](https://n.news.naver.com/mnews/article/050/0000107541?sid=101) |
 
 
 ---
