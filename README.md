@@ -1,34 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-06-25 08:18:28` (KST)
+> **업데이트:** `2026-06-26 02:41:29` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#투자` `#전력난에` `#투입국민성장펀드` `#풍력해저케이블` `#키운다` `#서울경남대전울산충북`
+`#의회` `#실무단` `#고려아연` `#온산제련소` `#방문` `#서점도`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,539.89원 |
-| **코스피 지수** | 8,930.30 |
+| **USD/KRW 환율** | 1,548.58원 |
+| **코스피 지수** | 8,445.22 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 25 Jun 2026 | 조세일보 | [AI 전력난에 3700억 투입…국민성장펀드, 풍력·해저케이블 키운다](https://n.news.naver.com/mnews/article/123/0002385399?sid=101) |
-| 25 Jun 2026 | 한국경제 | [서울·경남·대전·울산·충북 창경센터, 세컨더리 투자 플랫폼 ‘S. Lou...](https://magazine.hankyung.com/job-joy/article/202606258460d) |
-| 25 Jun 2026 | 한국경제 | [생산기지 대신 데이터센터…충청권 반도체 투자 기대·우려 엇갈려](https://n.news.naver.com/mnews/article/015/0005302860?sid=101) |
-| 25 Jun 2026 | 뉴시스 | [하남시, 강남GRDP 격차 좁힌다…무기는 "K스타월드·AI"](https://n.news.naver.com/mnews/article/003/0014028950?sid=102) |
-| 25 Jun 2026 | 연합뉴스 | [[인사] 경북 경산시](https://n.news.naver.com/mnews/article/001/0016160025?sid=102) |
-| 25 Jun 2026 | 뉴스1 | ["토큰 이코노미 시대, 마중물로 부족…정부가 '설계자' 돼야"](https://n.news.naver.com/mnews/article/421/0009024415?sid=105) |
-| 25 Jun 2026 | 연합뉴스 | [송미령 장관 "농어촌기본소득, 지역 경제·공동체 활성화 시도"](https://n.news.naver.com/mnews/article/001/0016160022?sid=100) |
-| 25 Jun 2026 | 뉴스1 | [신용한·이장섭 첫 협치 회의…"충북·청주 원팀으로 투자유치"](https://n.news.naver.com/mnews/article/421/0009024410?sid=102) |
-| 25 Jun 2026 | 매일경제 | ["조직문화·평가까지 AI 맞춤으로 바꿔야"](https://n.news.naver.com/mnews/article/009/0005698824?sid=105) |
+| 26 Jun 2026 | 이데일리 | [美 의회 실무단, 고려아연 온산제련소 방문](http://www.smedaily.co.kr/news/articleView.html?idxno=359357) |
+| 26 Jun 2026 | 아시아경제 | ["서점도 복사집도 학생이 없다"…종이 사라진 캠퍼스](https://n.news.naver.com/mnews/article/277/0005781912?sid=102) |
+| 26 Jun 2026 | 헤럴드경제 | [KB국민銀, 취약채무자 상담 3억 추가 출연](https://n.news.naver.com/mnews/article/016/0002662059?sid=101) |
+| 26 Jun 2026 | 뉴스1 | [中관영지 "미·영·프·독, 대만 독립 지원 어림 없다" 경고](https://n.news.naver.com/mnews/article/421/0009025470?sid=104) |
+| 26 Jun 2026 | 헤럴드경제 | [“전세금 빼고 다 줄게, 이혼만 해줘”…맞아 죽은 ‘일타강사’ 남편,...](https://n.news.naver.com/mnews/article/016/0002662058?sid=102) |
+| 26 Jun 2026 | 뉴시스 | [국힘, '호남 반도체 투자'에 "사류 정치가 일류 기업 팔 비틀어"](https://n.news.naver.com/mnews/article/003/0014030147?sid=100) |
+| 26 Jun 2026 | 연합뉴스 | [소수당 뭉쳤다…전주시의회 교섭단체 '혁신진보연대' 출범](https://n.news.naver.com/mnews/article/001/0016161138?sid=100) |
+| 26 Jun 2026 | 이데일리 | [화웨이 "AI 시대 통신사 새 수익원은 토큰"…MWC 상하이서 전략 공개](https://n.news.naver.com/mnews/article/018/0006315547?sid=105) |
+| 26 Jun 2026 | 아시아경제 | [진주시, 동남아 기계무역 사절단 운영… 말레이시아서 시장 개척](https://n.news.naver.com/mnews/article/277/0005781908?sid=102) |
+| 26 Jun 2026 | 뉴스1 | [토스, 첫 웹3 파트너십…사용자 참여형 'AI 데이터 경제' 시동](https://n.news.naver.com/mnews/article/421/0009025467?sid=101) |
+| 26 Jun 2026 | 연합뉴스 | [[테크스냅] '지역채널의 역할과 케이블TV의 미래' 세미나](https://m.entertain.naver.com/article/001/0016161122) |
+| 26 Jun 2026 | 조세일보 | [경상흑자 쌓이는데 환율은 왜…28거래일째 1500원대](https://n.news.naver.com/mnews/article/123/0002385461?sid=101) |
 
 
 ---
