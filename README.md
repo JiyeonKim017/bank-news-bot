@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-06-28 02:46:40` (KST)
+> **업데이트:** `2026-06-28 08:16:49` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#글로벌` `#기획위원회` `#출범` `#서울시` `#문체장관` `#내년내후년`
+`#반도체` `#전략` `#호남` `#먹는` `#사람이` `#사는`
 
 ---
 
@@ -20,18 +20,17 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 28 Jun 2026 | 연합뉴스 | [문체장관 "내년·내후년 '한중 관광의 해'로 공동 지정하자"](https://n.news.naver.com/mnews/article/001/0016163229?sid=104) |
-| 28 Jun 2026 | 연합뉴스 | [베네수 강진후 72시간 골든타임 지나…구조현장엔 희망·절망 교차](https://n.news.naver.com/mnews/article/001/0016163226?sid=104) |
-| 28 Jun 2026 | 헤럴드경제 | [강원랜드, 취약청년 지원 위해 삼척·태백·영월과 협약](https://n.news.naver.com/mnews/article/016/0002662494?sid=102) |
-| 28 Jun 2026 | 아시아경제 | [대구 대기업 매출액,1위 iM뱅크, 2위 에스엘,3위 엘앤에프 …대구상의, ...](https://n.news.naver.com/mnews/article/277/0005782297?sid=102) |
-| 28 Jun 2026 | 이데일리 | [부장·과장도 스톡옵션…日키옥시아 직원 600명 '95억원 잭팟'](https://n.news.naver.com/mnews/article/018/0006316979?sid=101) |
-| 28 Jun 2026 | 이데일리 | ['USDT 금(金)준비금 35조원' 테더, 이번엔 금토큰 담보대출 진출](https://n.news.naver.com/mnews/article/018/0006316973?sid=101) |
-| 28 Jun 2026 | 서울경제 | [與김현정, 국힘 ‘삼전닉스 호남 투자’ 비판에 “나라 망하라 고사 지...](https://n.news.naver.com/mnews/article/011/0004635668?sid=100) |
-| 28 Jun 2026 | 서울경제 | [신공항 줄줄이 앞둔 한국, 스페인에서 ‘정답’을 보다](https://n.news.naver.com/mnews/article/011/0004635667?sid=101) |
-| 28 Jun 2026 | 한국경제 | [월가, 반도체 조정장 이어질 지 주목 [뉴욕·상하이 증시 주간전망]](https://n.news.naver.com/mnews/article/015/0005303531?sid=104) |
-| 28 Jun 2026 | 뉴스1 | ['글로벌 톱3 도시, 서울' 본격 시동…오세훈 "G3 기획위원회 출범"](https://n.news.naver.com/mnews/article/421/0009027575?sid=102) |
-| 28 Jun 2026 | 아시아경제 | [서울시, '글로벌 TOP3' 도전… 'G3 기획위원회' 출범](https://n.news.naver.com/mnews/article/277/0005782291?sid=102) |
-| 28 Jun 2026 | 머니투데이 | [서울시 '고유가 피해지원금' 다음달 3일 오후 6시까지 신청](https://n.news.naver.com/mnews/article/008/0005378086?sid=102) |
+| 28 Jun 2026 | 파이낸셜뉴스 | ["술 먹는 사람이 책 사는 사람보다 신용위험 높다" 인과 관계 드러내야](https://n.news.naver.com/mnews/article/014/0005540600?sid=101) |
+| 28 Jun 2026 | 이데일리 | ['내 지갑 지켜주는 이익에 한 표'…젠지 사회주의 바람분다](https://n.news.naver.com/mnews/article/018/0006317269?sid=104) |
+| 28 Jun 2026 | 이데일리 | ["한명이라도 더"…'연쇄 강진' 베네수, 골든타임 지났지만 구조 총력전](https://n.news.naver.com/mnews/article/018/0006317270?sid=104) |
+| 28 Jun 2026 | 매일경제 | [[기자24시] 中 '게임 굴기'가 두려운 이유](https://n.news.naver.com/mnews/article/009/0005699770?sid=110) |
+| 28 Jun 2026 | 매일경제 | [[매경시평] 韓경제 숨통을 쥔 5가지 급소](https://n.news.naver.com/mnews/article/009/0005699772?sid=110) |
+| 28 Jun 2026 | 뉴시스 | [구윤철 "지방에 미래 반도체 생산거점 늘려야…전폭 지원"](https://n.news.naver.com/mnews/article/003/0014032916?sid=101) |
+| 28 Jun 2026 | 뉴스1 | [박찬대 인수위 "F1 유치 중단 권고, ABC+EF 전략 제안"](https://n.news.naver.com/mnews/article/421/0009028011?sid=102) |
+| 28 Jun 2026 | 아시아경제 | [홍준표, 호남 반도체 클러스터 논란에 '박정희' 언급…"반대 안 해"](https://n.news.naver.com/mnews/article/277/0005782362?sid=100) |
+| 28 Jun 2026 | 파이낸셜뉴스 | ["500만 관광시대로 횡성 100년 먹거리 연다"[로컬포커스]](https://n.news.naver.com/mnews/article/014/0005540596?sid=102) |
+| 28 Jun 2026 | 머니투데이 | ["균형 발전은 생존 전략"…靑, 호남 투자 논란 정면돌파](https://n.news.naver.com/mnews/article/008/0005378181?sid=100) |
+| 28 Jun 2026 | 헤럴드경제 | [전재수, 역대 부산시장 만나 시정운영 조언 구해](https://n.news.naver.com/mnews/article/016/0002662555?sid=100) |
 
 
 ---
