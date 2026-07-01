@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-06-30 08:24:57` (KST)
+> **업데이트:** `2026-07-01 02:47:38` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#스타트업` `#우린` `#벌써` `#타는` `#경과원` `#서밋`
+`#민선` `#지방정부` `#공식` `#출범` `#이억원` `#코스닥`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,553.00원 |
-| **코스피 지수** | 8,476.48 |
+| **USD/KRW 환율** | 1,555.56원 |
+| **코스피 지수** | 8,243.74 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 30 Jun 2026 | 머니투데이 | ["우린 벌써 썸 타는 중…" 경과원 '스타트업 서밋' 사전 투자 매칭 60건](https://n.news.naver.com/mnews/article/008/0005379515?sid=102) |
-| 30 Jun 2026 | 연합뉴스 | [태백시 상공인·당선인 한자리에…지역경제 활성화 다짐](https://n.news.naver.com/mnews/article/001/0016168202?sid=101) |
-| 30 Jun 2026 | 아시아경제 | [여성기업인 축제 '제5회 여성기업주간' 7월1일 개막](https://n.news.naver.com/mnews/article/277/0005783572?sid=101) |
-| 30 Jun 2026 | 매일경제 | [[매일경제TV] AI 거품 논쟁 뜨거운 증시](https://m.entertain.naver.com/article/009/0005700850) |
-| 30 Jun 2026 | 매일경제 | ["이젠 추격자 아닌 선도자다" 비욘세 프로듀서가 본 K팝](https://n.news.naver.com/mnews/article/009/0005700846?sid=103) |
-| 30 Jun 2026 | 이데일리 | [KT&amp;G, ESG 비전 새로 제시…지난해 주주환원 1.2조원](https://n.news.naver.com/mnews/article/018/0006319184?sid=101) |
-| 30 Jun 2026 | 뉴시스 | [공주시, 칼국수·인절미·알밤으로 세계 미식관광 도시 도약](https://n.news.naver.com/mnews/article/003/0014037963?sid=102) |
-| 30 Jun 2026 | 뉴스1 | ['등산 친구' 사는 中동행경제…상하이시 '노인 병원 동행' 제도화](https://n.news.naver.com/mnews/article/421/0009032584?sid=104) |
-| 30 Jun 2026 | 서울경제 | [[단독] ‘워크아웃’ 중앙일보 경영권 매각한다](https://n.news.naver.com/mnews/article/011/0004636575?sid=101) |
-| 30 Jun 2026 | 뉴시스 | [대만 "韓 1500조 메가 프로젝트에 양국 경쟁 격화할 것"](https://n.news.naver.com/mnews/article/003/0014037956?sid=104) |
-| 30 Jun 2026 | 뉴스1 | [외교부, 美 비자 문제 개선 위한 범정부 TF 회의 개최](https://n.news.naver.com/mnews/article/421/0009032580?sid=100) |
-| 30 Jun 2026 | 머니투데이 | ["K-스타트업 배우러 왔어요"…해외 창업 관계자 발길 몰린 '이곳'](https://n.news.naver.com/mnews/article/008/0005379504?sid=101) |
+| 01 Jul 2026 | 헤럴드경제 | [민선 9기 지방정부 공식 출범](https://n.news.naver.com/mnews/article/016/0002664221?sid=100) |
+| 01 Jul 2026 | 머니투데이 | [이억원 "코스닥 체질개선 추진…세그먼트 분리해 우수기업 우대"](https://n.news.naver.com/mnews/article/008/0005379919?sid=101) |
+| 01 Jul 2026 | 연합뉴스 | [日, '모바일 운전면허증' 조기 도입 속도…행정 디지털화 박차](https://n.news.naver.com/mnews/article/001/0016169892?sid=104) |
+| 01 Jul 2026 | 연합뉴스 | [보은군의회, 전반기 의장에 이경노 선출…부의장은 김낙경](https://n.news.naver.com/mnews/article/001/0016169898?sid=100) |
+| 01 Jul 2026 | 아시아경제 | [법무부, 중국 등 6개국 단체비자 수수료 면제 연장](https://n.news.naver.com/mnews/article/277/0005784041?sid=102) |
+| 01 Jul 2026 | 매일경제 | [인천시 ‘2군·9구’ 행정체제 활짝…박찬대 “민생 회복·시민 소통 주...](https://n.news.naver.com/mnews/article/009/0005701159?sid=102) |
+| 01 Jul 2026 | 뉴스1 | ['경제' 화두 꺼낸 추경호…'변화와 성장, 더 나은 내일'(종합)](https://n.news.naver.com/mnews/article/421/0009034266?sid=102) |
+| 01 Jul 2026 | 아시아경제 | [벤처기업協 "한성숙 총리, 현장 경험 바탕으로 우리 경제 재도약 견인할...](https://n.news.naver.com/mnews/article/277/0005784039?sid=101) |
+| 01 Jul 2026 | 서울경제 | [“100만원 안 쓰면 결혼식도 못 가나요?”…청첩장 받고도 ‘불참’하는...](https://n.news.naver.com/mnews/article/011/0004636891?sid=104) |
+| 01 Jul 2026 | 서울경제 | [조정식 국회의장, 대한상의서 첫 정책 간담회…“국회·경제계 상시 소...](https://n.news.naver.com/mnews/article/011/0004636892?sid=101) |
+| 01 Jul 2026 | 헤럴드경제 | [M&amp;A 한파 현실로…전문가 74% “상반기 시장 부진”](https://n.news.naver.com/mnews/article/016/0002664219?sid=101) |
+| 01 Jul 2026 | 매일경제 | [오세훈, 5번째 서울시장 임기 시작…"삶의 질 특별시 완성하겠다"](https://n.news.naver.com/mnews/article/057/0001956385?sid=102) |
 
 
 ---
