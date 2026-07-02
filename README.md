@@ -1,37 +1,36 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-01 08:45:30` (KST)
+> **업데이트:** `2026-07-02 02:37:11` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#군정` `#부지사집무실` `#중계민선` `#파격` `#행보` `#반도체`
+`#시대` `#법사위에` `#막혀한발짝도` `#나간` `#후반기` `#국회`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,554.42원 |
-| **코스피 지수** | 8,303.41 |
+| **USD/KRW 환율** | 1,553.48원 |
+| **코스피 지수** | 8,129.47 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 01 Jul 2026 | 한국경제 | [AI 부지사·집무실 중계…민선 9기 '파격 행보'](https://n.news.naver.com/mnews/article/015/0005305186?sid=102) |
-| 01 Jul 2026 | 서울경제 | [“반도체 올인은 위험…전력·냉각 등 ‘AI 병목’서 기회 찾아야” [머...](https://n.news.naver.com/mnews/article/011/0004637097?sid=101) |
-| 01 Jul 2026 | 서울경제 | [대만 통일의지 강조한 시진핑 “독립 분열세력 타격”](https://n.news.naver.com/mnews/article/011/0004637096?sid=104) |
-| 01 Jul 2026 | 뉴스1 | [윤일현 금정구청장 취임…"변화와 성장의 길 구민과 함께"](https://n.news.naver.com/mnews/article/421/0009035700?sid=102) |
-| 01 Jul 2026 | 한국경제 | [해외 뷰티기업에 "온라인 매출 공개하라"는 판매 노조](https://n.news.naver.com/mnews/article/015/0005305185?sid=102) |
-| 01 Jul 2026 | 헤럴드경제 | [김덕현 연천군수 “다산의 진정한 목민관 자세를 군정 철학으로 삼겠다...](https://n.news.naver.com/mnews/article/016/0002664439?sid=100) |
-| 01 Jul 2026 | 뉴시스 | [육동한 춘천시장, 추모·다짐·민생으로 임기 시작](https://n.news.naver.com/mnews/article/003/0014041349?sid=102) |
-| 01 Jul 2026 | 헤럴드경제 | [M&amp;A 전문가들이 본 하반기 승부처…“반도체·AI가 판 흔든다”](https://n.news.naver.com/mnews/article/016/0002664438?sid=101) |
-| 01 Jul 2026 | 매일경제 | [K의료기기서도 '글로벌 스타' 배출할 것](https://n.news.naver.com/mnews/article/009/0005701429?sid=105) |
-| 01 Jul 2026 | 머니투데이 | [윤 전 대통령 수사부터 공소유지까지 이끈 장우성 특검보, 변호사 복귀](https://n.news.naver.com/mnews/article/008/0005380251?sid=102) |
-| 01 Jul 2026 | 뉴시스 | [신영재 홍천군수, 취임식 없이 “군정 업무 본격 착수”](https://n.news.naver.com/mnews/article/003/0014041348?sid=102) |
-| 01 Jul 2026 | 뉴스1 | [김길수 영월군수 "기업유치·일자리 창출로 청년 인구 회복"](https://n.news.naver.com/mnews/article/421/0009035696?sid=102) |
+| 02 Jul 2026 | 헤럴드경제 | [법사위에 막혀…한발짝도 못 나간 후반기 국회](https://n.news.naver.com/mnews/article/016/0002664837?sid=100) |
+| 02 Jul 2026 | 헤럴드경제 | [“한국, 美기업 차별적 공격” 美하원 법사위 보고서 공개](https://n.news.naver.com/mnews/article/016/0002664836?sid=104) |
+| 02 Jul 2026 | 머니투데이 | ["과거에 머물면 안돼" 한성숙 신임 총리, 공직자에게 당부한 말](https://n.news.naver.com/mnews/article/008/0005380571?sid=100) |
+| 02 Jul 2026 | 파이낸셜뉴스 | ["AI 시대 성장 해법은 메가특구"… 규제혁신 필요성 한목소리](https://n.news.naver.com/mnews/article/014/0005542845?sid=101) |
+| 02 Jul 2026 | 이데일리 | [건강부터 알트코인까지…교보문고 VORA 강연에서 만난다](https://n.news.naver.com/mnews/article/018/0006320722?sid=103) |
+| 02 Jul 2026 | 머니투데이 | [이재준, 수원시민과 3가지 약속…"가장 빛나는 시대 열 것"](https://n.news.naver.com/mnews/article/008/0005380569?sid=102) |
+| 02 Jul 2026 | 뉴시스 | [고려아연, 상반기 ESG 종합평가서 'A등급'…"안전·환경 3000억 투자 결실...](https://n.news.naver.com/mnews/article/003/0014042703?sid=101) |
+| 02 Jul 2026 | 매일경제 | [현대위아, 경남형 장애인 동행 일자리 사업 참여](https://n.news.naver.com/mnews/article/009/0005701769?sid=101) |
+| 02 Jul 2026 | 아시아경제 | ["구직 멈춘 청년들, 다시 힘내요"…광산구 맞춤 프로그램 운영](https://n.news.naver.com/mnews/article/277/0005784701?sid=102) |
+| 02 Jul 2026 | 매일경제 | [유튜버부터 댓글러까지...7일 바뀌는 정보통신망법 총정리](https://n.news.naver.com/mnews/article/057/0001956588?sid=100) |
+| 02 Jul 2026 | 뉴시스 | ["트럼프 USMCA 폐기 원하지만 쉽지 않아…의회 동의도 필요"](https://n.news.naver.com/mnews/article/003/0014042684?sid=104) |
 
 
 ---
