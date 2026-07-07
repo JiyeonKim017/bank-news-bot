@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-07 02:26:29` (KST)
+> **업데이트:** `2026-07-07 08:17:30` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#구윤철` `#무협` `#강제노동` `#관세` `#유예` `#또는`
+`#휴넷` `#개월` `#지원` `#논의` `#중소기업` `#대상`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,526.12원 |
-| **코스피 지수** | 7,640.17 |
+| **USD/KRW 환율** | 1,522.27원 |
+| **코스피 지수** | 7,656.31 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 07 Jul 2026 | 헤럴드경제 | [무협, 美강제노동 관세 “유예 또는 낮춰달라”](https://n.news.naver.com/mnews/article/016/0002666801?sid=104) |
-| 07 Jul 2026 | 뉴스1 | [신한證, 홍콩 광파증권과 외국인 통합계좌 서비스 MOU](https://n.news.naver.com/mnews/article/421/0009044785?sid=101) |
-| 07 Jul 2026 | 헤럴드경제 | [증시 뛰었는데 수익은 ‘최저’…일반예금보다 못한 ELD](https://n.news.naver.com/mnews/article/016/0002666793?sid=101) |
-| 07 Jul 2026 | 매일경제 | [코이카 IBS 사업 통해 캄보디아 프놈펜 AI 생태계 조성 “AI ODA, 이제 자...](https://n.news.naver.com/mnews/article/009/0005703790?sid=004) |
-| 07 Jul 2026 | 뉴스1 | [WSJ "레버리지 삼전닉스 변동성에…韓증시 '오징어게임' 될수도"](https://n.news.naver.com/mnews/article/421/0009044740?sid=101) |
-| 07 Jul 2026 | 뉴시스 | [광주 군공항 '반도체 산단'확정… 배후부지 금호타이어 공장 매각 주목](https://n.news.naver.com/mnews/article/003/0014050525?sid=102) |
-| 07 Jul 2026 | 비즈워치 | [구윤철 "이달말 세제개편안…보유·거래세 균형 초점"](https://n.news.naver.com/mnews/article/648/0000048688?sid=101) |
-| 07 Jul 2026 | 뉴시스 | [안건 보고하는 구윤철 부총리](https://n.news.naver.com/mnews/article/003/0014050531?sid=100) |
-| 07 Jul 2026 | 파이낸셜뉴스 | [한종협 "CPTPP 가입 추진 중단 촉구한다"](https://n.news.naver.com/mnews/article/014/0005544713?sid=101) |
-| 07 Jul 2026 | 파이낸셜뉴스 | [加잠수함 아쉬움 털고…李대통령, 나토서 방산외교 재시동(종합)](https://n.news.naver.com/mnews/article/014/0005544712?sid=100) |
-| 07 Jul 2026 | 연합뉴스 | [충북도, SK하이닉스·셀트리온제약 투자 지원 TF 가동](https://n.news.naver.com/mnews/article/001/0016179790?sid=102) |
-| 07 Jul 2026 | 한국경제 | [박상혁, 국회 정무위 민주당 간사 선임](https://n.news.naver.com/mnews/article/015/0005307062?sid=102) |
+| 07 Jul 2026 | 머니투데이 | [휴넷, 중소기업 대상 '휴넷FLEX' 3개월 무료 체험 진행](https://n.news.naver.com/mnews/article/008/0005382726?sid=101) |
+| 07 Jul 2026 | 한국경제 | ["다주택자, 전세 공급자이자 신규 주택 수요자"](https://n.news.naver.com/mnews/article/015/0005307234?sid=101) |
+| 07 Jul 2026 | 헤럴드경제 | [서초구, 550억원 규모 서초AICT 스타트업 2호 펀드](https://n.news.naver.com/mnews/article/016/0002667045?sid=102) |
+| 07 Jul 2026 | 헤럴드경제 | [정부, ‘부동산 국민 대토론회’ 잠정 연기](https://n.news.naver.com/mnews/article/016/0002667042?sid=101) |
+| 07 Jul 2026 | 이데일리 | ['엔화 약세' 투기 베팅 2007년 이후 최대…日당국은 아직 관망](https://n.news.naver.com/mnews/article/018/0006324781?sid=101) |
+| 07 Jul 2026 | 뉴스1 | [허태정 대전시장, 취임 후 첫 국회 방문…교도소 이전 등 지원 건의](https://n.news.naver.com/mnews/article/421/0009045964?sid=102) |
+| 07 Jul 2026 | 머니투데이 | ["왜 눈을 부릅떠?" 눈 튀어나와 오해받는 '이 병'…"2000명 실명 위기"](https://n.news.naver.com/mnews/article/008/0005382723?sid=103) |
+| 07 Jul 2026 | 이데일리 | [명륜당, 정책자금 받아 고리 대부업 계열사 지원](http://www.smedaily.co.kr/news/articleView.html?idxno=359913) |
+| 07 Jul 2026 | 아시아경제 | [한미일 외교수장, 9개월 만에 만난다…3국 안보협력 등 논의](https://n.news.naver.com/mnews/article/277/0005786768?sid=100) |
+| 07 Jul 2026 | 아시아경제 | [군산시, 공공주도 해상풍력 사업 최종평가 '성공'](https://n.news.naver.com/mnews/article/277/0005786769?sid=102) |
+| 07 Jul 2026 | 매일경제 | [구윤철 “집은 거주 위한 곳”…7월말 보유·거래세 함께 손본다](https://n.news.naver.com/mnews/article/024/0000106720?sid=101) |
+| 07 Jul 2026 | 뉴스1 | [재정 정상화 나선 충북도, 기획예산처 찾아 해법 논의](https://n.news.naver.com/mnews/article/421/0009045958?sid=102) |
 
 
 ---
