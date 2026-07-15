@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-15 07:08:50` (KST)
+> **업데이트:** `2026-07-15 09:54:15` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#금융` `#단독` `#유해란` `#마지막` `#메이저서` `#육각형`
+`#최태원` `#일하는` `#방식` `#시장` `#이긴다` `#그건`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,488.90원 |
+| **USD/KRW 환율** | 1,492.10원 |
 | **코스피 지수** | 7,284.41 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 15 Jul 2026 | 서울경제 | [[단독] 유해란 “마지막 메이저서 ‘육각형’ 코르다와 좋은 승부…단 ...](https://m.sports.naver.com/golf/article/011/0004641918) |
-| 15 Jul 2026 | 매일경제 | [“AI로 기업 소셜 데이터 자산화...전략 의사결정까지 지원하죠”](https://n.news.naver.com/mnews/article/009/0005707896?sid=105) |
-| 15 Jul 2026 | 뉴시스 | [충남도, 202조 원 첨단산업 투자 속도 높인다](https://n.news.naver.com/mnews/article/003/0014069148?sid=102) |
-| 15 Jul 2026 | 연합뉴스 | [신안군, 추경 편성 2천840억원 증액](https://n.news.naver.com/mnews/article/001/0016196861?sid=100) |
-| 15 Jul 2026 | 한국경제 | [신안 우이 해상풍력·용인 반도체…전략산업에 93조 투입](https://n.news.naver.com/mnews/article/015/0005310332?sid=101) |
-| 15 Jul 2026 | 매일경제 | [남편 '목검 폭행'에 양 손가락 부러진 동남아 여성](https://n.news.naver.com/mnews/article/057/0001958721?sid=102) |
-| 15 Jul 2026 | 한국경제 | [신한금융그룹, 연체 채무자 '빚 굴레' 끊고…2금융 → 은행 대출 갈아타...](https://n.news.naver.com/mnews/article/015/0005310331?sid=101) |
-| 15 Jul 2026 | 이데일리 | ["삼전·하닉 ETF 손봐라"…이 대통령, '사람 살리는 금융' 힘 실어](https://n.news.naver.com/mnews/article/018/0006330941?sid=101) |
-| 15 Jul 2026 | 파이낸셜뉴스 | [민주노총 총파업 돌입…원청교섭·특고 노동자성 인정 촉구](https://n.news.naver.com/mnews/article/014/0005548618?sid=102) |
-| 15 Jul 2026 | 뉴시스 | [부동산 금융정책 국민 의견 경청 토론회 열려](https://n.news.naver.com/mnews/article/003/0014069126?sid=101) |
-| 15 Jul 2026 | 파이낸셜뉴스 | [BNK금융, 하반기 조직개편 실시...부울경 특화 전략 전면 가동](https://n.news.naver.com/mnews/article/014/0005548617?sid=101) |
-| 15 Jul 2026 | 뉴스1 | [완도군 '기능 중심' 조직 개편…미래전략과·수산식품산업과 신설](https://n.news.naver.com/mnews/article/421/0009061656?sid=102) |
+| 15 Jul 2026 | 매일경제 | [“2배 ETF로 시장 이긴다? 그건 오판”…월가 현자의 필승법은 [MK BIZ RE...](https://n.news.naver.com/mnews/article/009/0005708089?sid=101) |
+| 15 Jul 2026 | 이데일리 | [금융위 “디지털자산법 연내 마련”…9월 당정 통합안 주목(종합)](https://n.news.naver.com/mnews/article/018/0006331114?sid=101) |
+| 15 Jul 2026 | 뉴스1 | ['테러 자작극' 정이한父 운영 병원 압수수색…직원 선거운동 동원 의혹...](https://n.news.naver.com/mnews/article/421/0009061953?sid=102) |
+| 15 Jul 2026 | 뉴스1 | [조정식 의장 "경제대도약위원회 꾸려 국회·경제계 협력"(종합)](https://n.news.naver.com/mnews/article/421/0009061954?sid=101) |
+| 15 Jul 2026 | 이데일리 | [국민연금 부동산실장 대기 발령…'센터필드 후폭풍' 인사로 번졌다[마켓...](https://n.news.naver.com/mnews/article/018/0006331113?sid=101) |
+| 15 Jul 2026 | 파이낸셜뉴스 | ["지역금융 역할 강화" BNK금융 조직 개편](https://n.news.naver.com/mnews/article/014/0005548775?sid=101) |
+| 15 Jul 2026 | 파이낸셜뉴스 | [[특파원칼럼] 미국에서 만난 90대 참전용사들](https://n.news.naver.com/mnews/article/014/0005548772?sid=110) |
+| 15 Jul 2026 | 서울경제 | [“우리도 은마처럼”…재건축 ‘뉴노멀’ 된 쾌속심사](https://n.news.naver.com/mnews/article/011/0004642020?sid=101) |
+| 15 Jul 2026 | 헤럴드경제 | [최태원 “전기 때처럼 일하는 방식 자체를 AI로 재설계해야” [대한상의...](https://n.news.naver.com/mnews/article/016/0002670862?sid=101) |
+| 15 Jul 2026 | 연합뉴스 | [[인천해양포럼] "지구온난화, 위험이지만 북극항로 기회이기도"](https://n.news.naver.com/mnews/article/001/0016197211?sid=103) |
+| 15 Jul 2026 | 머니투데이 | [최태원 "AI 도입, 일하는 방식 새로 짜야"…조정식 "경제대도약위 설치...](https://n.news.naver.com/mnews/article/008/0005386676?sid=101) |
+| 15 Jul 2026 | 뉴시스 | ['SLBM 반발' 속 中, 솔로몬제도와 '경제협력 협정‘ 체결](https://n.news.naver.com/mnews/article/003/0014069550?sid=104) |
 
 
 ---
