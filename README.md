@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-16 01:56:42` (KST)
+> **업데이트:** `2026-07-16 07:18:59` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#금리` `#한은` `#기준금리` `#이찬진` `#금감원장` `#인상기`
+`#대통령` `#종부세` `#장기거주공제` `#전환` `#주택` `#양도세`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,488.08원 |
-| **코스피 지수** | 6,831.58 |
+| **USD/KRW 환율** | 1,477.55원 |
+| **코스피 지수** | 6,820.60 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 16 Jul 2026 | 이데일리 | [이찬진 금감원장 "금리 인상기 금융시장 비상관리"](https://n.news.naver.com/mnews/article/018/0006331615?sid=101) |
-| 16 Jul 2026 | 연합뉴스 | [허태정 "대전, 과학도시 넘어 국방도시로 한단계 발돋움"](https://n.news.naver.com/mnews/article/001/0016198122?sid=102) |
-| 16 Jul 2026 | 뉴시스 | [발언하는 구윤철 부총리](https://n.news.naver.com/mnews/article/003/0014070536?sid=100) |
-| 16 Jul 2026 | 뉴스1 | ['집사 게이트' 김예성, 횡령 무죄·공소기각 확정(종합)](https://n.news.naver.com/mnews/article/421/0009062990?sid=102) |
-| 16 Jul 2026 | 뉴시스 | [부동산 세제 국민 의견 경청 토론회](https://n.news.naver.com/mnews/article/003/0014070540?sid=100) |
-| 16 Jul 2026 | 연합뉴스 | [한은, 기준금리 0.25%p 올려…"향후 금리인상 기조"(종합2보)](https://n.news.naver.com/mnews/article/001/0016198120?sid=101) |
-| 16 Jul 2026 | 헤럴드경제 | [한은 “향후 통화정책, 금리 인상 기조 이어나갈 필요 있어”](https://n.news.naver.com/mnews/article/016/0002671119?sid=101) |
-| 16 Jul 2026 | 아시아경제 | ["애 방학숙제 좀 봐줘요"…中 맞벌이 부부가 고용한 이들의 정체](https://n.news.naver.com/mnews/article/277/0005790874?sid=104) |
-| 16 Jul 2026 | 한국경제 | ["올해 성장률 2.6% 크게 상회"…금리인상 만장일치 결정](https://n.news.naver.com/mnews/article/015/0005310695?sid=101) |
-| 16 Jul 2026 | 머니투데이 | [기준금리 0.25%p 올렸다…3년6개월 만에 다시 '긴축의 시대'](https://n.news.naver.com/mnews/article/008/0005386922?sid=101) |
-| 16 Jul 2026 | 뉴스1 | [[전문] 한국은행 금융통화위원회 7월 통화정책방향 결정문](https://n.news.naver.com/mnews/article/421/0009062977?sid=101) |
-| 16 Jul 2026 | 서울경제 | [대전시, 국군사관학교 자운대 창설 적극 환영](https://n.news.naver.com/mnews/article/011/0004642224?sid=102) |
+| 16 Jul 2026 | 서울경제 | [“종부세 ‘장기거주공제’ 전환… 1주택 양도세 한시 완화”](https://n.news.naver.com/mnews/article/011/0004642335?sid=101) |
+| 16 Jul 2026 | 머니투데이 | ['화재 위험 없는' 韓 차세대 배터리, 日 교토서 ESS 첫 해외 실증](https://n.news.naver.com/mnews/article/008/0005387126?sid=101) |
+| 16 Jul 2026 | 헤럴드경제 | [“포스코 덕에 생산성 ‘쑥’”…포스코그룹, 협력사 상생으로 지속가...](https://n.news.naver.com/mnews/article/016/0002671378?sid=101) |
+| 16 Jul 2026 | 이데일리 | [삼성화재·강북삼성병원 '라이프케어 이노베이션 센터' 설립](http://www.smedaily.co.kr/news/articleView.html?idxno=360451) |
+| 16 Jul 2026 | 뉴스1 | [李대통령 "농어촌상생협력기금, 부족한 7000억 정부가 책임지자"](https://n.news.naver.com/mnews/article/421/0009064163?sid=100) |
+| 16 Jul 2026 | 파이낸셜뉴스 | [李대통령 "현대차 새만금 투자 엄청난 대규모"…소외론 비판](https://n.news.naver.com/mnews/article/014/0005549224?sid=100) |
+| 16 Jul 2026 | 매일경제 | [김정 인천공항본부세관장 취임](https://n.news.naver.com/mnews/article/009/0005708457?sid=100) |
+| 16 Jul 2026 | 아시아경제 | ['개인차량에 기름 넣기' 등…지방보조금 부정수급 605건·147억원 적발](https://n.news.naver.com/mnews/article/277/0005791102?sid=102) |
+| 16 Jul 2026 | 매일경제 | [경기도의회, 상임위원장 13명 선출…민주 12·국힘 1](https://n.news.naver.com/mnews/article/009/0005708455?sid=102) |
+| 16 Jul 2026 | 뉴시스 | [그라비티, 신작 '라그나로크M: 클래식' 국내 출시](https://n.news.naver.com/mnews/article/003/0014071843?sid=105) |
+| 16 Jul 2026 | 뉴시스 | [전북은행 노조 "JB·BNK 합병 제안 철회해야…지역금융 정체성 훼손"](https://n.news.naver.com/mnews/article/003/0014071842?sid=102) |
+| 16 Jul 2026 | 아시아경제 | [李대통령 "농업 개방 피해 확실히 보전해야…상생기금 부족분 7000억 정...](https://n.news.naver.com/mnews/article/277/0005791101?sid=100) |
 
 
 ---
