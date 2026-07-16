@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-16 07:18:59` (KST)
+> **업데이트:** `2026-07-16 10:01:05` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대통령` `#종부세` `#장기거주공제` `#전환` `#주택` `#양도세`
+`#상폐` `#단일종목` `#레버리지` `#기본예탁금` `#만원제약으로` `#느낄`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,477.55원 |
+| **USD/KRW 환율** | 1,478.51원 |
 | **코스피 지수** | 6,820.60 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 16 Jul 2026 | 서울경제 | [“종부세 ‘장기거주공제’ 전환… 1주택 양도세 한시 완화”](https://n.news.naver.com/mnews/article/011/0004642335?sid=101) |
-| 16 Jul 2026 | 머니투데이 | ['화재 위험 없는' 韓 차세대 배터리, 日 교토서 ESS 첫 해외 실증](https://n.news.naver.com/mnews/article/008/0005387126?sid=101) |
-| 16 Jul 2026 | 헤럴드경제 | [“포스코 덕에 생산성 ‘쑥’”…포스코그룹, 협력사 상생으로 지속가...](https://n.news.naver.com/mnews/article/016/0002671378?sid=101) |
-| 16 Jul 2026 | 이데일리 | [삼성화재·강북삼성병원 '라이프케어 이노베이션 센터' 설립](http://www.smedaily.co.kr/news/articleView.html?idxno=360451) |
-| 16 Jul 2026 | 뉴스1 | [李대통령 "농어촌상생협력기금, 부족한 7000억 정부가 책임지자"](https://n.news.naver.com/mnews/article/421/0009064163?sid=100) |
-| 16 Jul 2026 | 파이낸셜뉴스 | [李대통령 "현대차 새만금 투자 엄청난 대규모"…소외론 비판](https://n.news.naver.com/mnews/article/014/0005549224?sid=100) |
-| 16 Jul 2026 | 매일경제 | [김정 인천공항본부세관장 취임](https://n.news.naver.com/mnews/article/009/0005708457?sid=100) |
-| 16 Jul 2026 | 아시아경제 | ['개인차량에 기름 넣기' 등…지방보조금 부정수급 605건·147억원 적발](https://n.news.naver.com/mnews/article/277/0005791102?sid=102) |
-| 16 Jul 2026 | 매일경제 | [경기도의회, 상임위원장 13명 선출…민주 12·국힘 1](https://n.news.naver.com/mnews/article/009/0005708455?sid=102) |
-| 16 Jul 2026 | 뉴시스 | [그라비티, 신작 '라그나로크M: 클래식' 국내 출시](https://n.news.naver.com/mnews/article/003/0014071843?sid=105) |
-| 16 Jul 2026 | 뉴시스 | [전북은행 노조 "JB·BNK 합병 제안 철회해야…지역금융 정체성 훼손"](https://n.news.naver.com/mnews/article/003/0014071842?sid=102) |
-| 16 Jul 2026 | 아시아경제 | [李대통령 "농업 개방 피해 확실히 보전해야…상생기금 부족분 7000억 정...](https://n.news.naver.com/mnews/article/277/0005791101?sid=100) |
+| 16 Jul 2026 | 이데일리 | [단일종목 레버리지 기본예탁금 3000만원…"제약으로 느낄 것"(종합)](https://n.news.naver.com/mnews/article/018/0006332007?sid=101) |
+| 16 Jul 2026 | 뉴스1 | [美, 사우디에 3조 규모 무기 판매 승인…정밀타격무기 포함](https://n.news.naver.com/mnews/article/421/0009064472?sid=104) |
+| 16 Jul 2026 | 헤럴드경제 | [[르포] 폭염에 뜨거운 빵 굽기, 에어컨 꿈도 못꾼다…비냉방 지하철 상...](https://n.news.naver.com/mnews/article/016/0002671435?sid=102) |
+| 16 Jul 2026 | 연합뉴스 | [중국차 공습에…"유럽 자동차 일자리 2040년 반토막 날수도"](https://n.news.naver.com/mnews/article/001/0016199896?sid=104) |
+| 16 Jul 2026 | 매일경제 | [“연금으로 단타 치다간 노후 끝장납니다”…변동성 시대 생존 투자법 ...](https://n.news.naver.com/mnews/article/009/0005708631?sid=101) |
+| 16 Jul 2026 | 아시아경제 | [고령군, 민원처리 우수공무원 6명 선정](https://n.news.naver.com/mnews/article/277/0005791170?sid=102) |
+| 16 Jul 2026 | 파이낸셜뉴스 | [AI로 해상 공급망 위험 미리 예고](https://n.news.naver.com/mnews/article/014/0005549381?sid=102) |
+| 16 Jul 2026 | 이데일리 | [[일문일답]"레버리지 상폐? 시장 과열이 문제 …상폐 요건 아냐"](https://n.news.naver.com/mnews/article/018/0006331999?sid=101) |
+| 16 Jul 2026 | 한국경제 | [TSMC, 또 최대 실적…'AI 고점론' 불식하나](https://n.news.naver.com/mnews/article/015/0005310934?sid=101) |
+| 16 Jul 2026 | 아시아경제 | [김천시, 지역상생 ESG 시동](https://n.news.naver.com/mnews/article/277/0005791168?sid=102) |
+| 16 Jul 2026 | 파이낸셜뉴스 | [‘건강도 자산’ 인식 확산… 직장인 63% "돈 내서라도 관리" [Weekend 헬...](https://n.news.naver.com/mnews/article/014/0005549378?sid=103) |
+| 16 Jul 2026 | 뉴시스 | [[인사]부여군](https://n.news.naver.com/mnews/article/003/0014072181?sid=102) |
 
 
 ---
