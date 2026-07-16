@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-15 09:54:15` (KST)
+> **업데이트:** `2026-07-16 01:56:42` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#최태원` `#일하는` `#방식` `#시장` `#이긴다` `#그건`
+`#금리` `#한은` `#기준금리` `#이찬진` `#금감원장` `#인상기`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,492.10원 |
-| **코스피 지수** | 7,284.41 |
+| **USD/KRW 환율** | 1,488.08원 |
+| **코스피 지수** | 6,831.58 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 15 Jul 2026 | 매일경제 | [“2배 ETF로 시장 이긴다? 그건 오판”…월가 현자의 필승법은 [MK BIZ RE...](https://n.news.naver.com/mnews/article/009/0005708089?sid=101) |
-| 15 Jul 2026 | 이데일리 | [금융위 “디지털자산법 연내 마련”…9월 당정 통합안 주목(종합)](https://n.news.naver.com/mnews/article/018/0006331114?sid=101) |
-| 15 Jul 2026 | 뉴스1 | ['테러 자작극' 정이한父 운영 병원 압수수색…직원 선거운동 동원 의혹...](https://n.news.naver.com/mnews/article/421/0009061953?sid=102) |
-| 15 Jul 2026 | 뉴스1 | [조정식 의장 "경제대도약위원회 꾸려 국회·경제계 협력"(종합)](https://n.news.naver.com/mnews/article/421/0009061954?sid=101) |
-| 15 Jul 2026 | 이데일리 | [국민연금 부동산실장 대기 발령…'센터필드 후폭풍' 인사로 번졌다[마켓...](https://n.news.naver.com/mnews/article/018/0006331113?sid=101) |
-| 15 Jul 2026 | 파이낸셜뉴스 | ["지역금융 역할 강화" BNK금융 조직 개편](https://n.news.naver.com/mnews/article/014/0005548775?sid=101) |
-| 15 Jul 2026 | 파이낸셜뉴스 | [[특파원칼럼] 미국에서 만난 90대 참전용사들](https://n.news.naver.com/mnews/article/014/0005548772?sid=110) |
-| 15 Jul 2026 | 서울경제 | [“우리도 은마처럼”…재건축 ‘뉴노멀’ 된 쾌속심사](https://n.news.naver.com/mnews/article/011/0004642020?sid=101) |
-| 15 Jul 2026 | 헤럴드경제 | [최태원 “전기 때처럼 일하는 방식 자체를 AI로 재설계해야” [대한상의...](https://n.news.naver.com/mnews/article/016/0002670862?sid=101) |
-| 15 Jul 2026 | 연합뉴스 | [[인천해양포럼] "지구온난화, 위험이지만 북극항로 기회이기도"](https://n.news.naver.com/mnews/article/001/0016197211?sid=103) |
-| 15 Jul 2026 | 머니투데이 | [최태원 "AI 도입, 일하는 방식 새로 짜야"…조정식 "경제대도약위 설치...](https://n.news.naver.com/mnews/article/008/0005386676?sid=101) |
-| 15 Jul 2026 | 뉴시스 | ['SLBM 반발' 속 中, 솔로몬제도와 '경제협력 협정‘ 체결](https://n.news.naver.com/mnews/article/003/0014069550?sid=104) |
+| 16 Jul 2026 | 이데일리 | [이찬진 금감원장 "금리 인상기 금융시장 비상관리"](https://n.news.naver.com/mnews/article/018/0006331615?sid=101) |
+| 16 Jul 2026 | 연합뉴스 | [허태정 "대전, 과학도시 넘어 국방도시로 한단계 발돋움"](https://n.news.naver.com/mnews/article/001/0016198122?sid=102) |
+| 16 Jul 2026 | 뉴시스 | [발언하는 구윤철 부총리](https://n.news.naver.com/mnews/article/003/0014070536?sid=100) |
+| 16 Jul 2026 | 뉴스1 | ['집사 게이트' 김예성, 횡령 무죄·공소기각 확정(종합)](https://n.news.naver.com/mnews/article/421/0009062990?sid=102) |
+| 16 Jul 2026 | 뉴시스 | [부동산 세제 국민 의견 경청 토론회](https://n.news.naver.com/mnews/article/003/0014070540?sid=100) |
+| 16 Jul 2026 | 연합뉴스 | [한은, 기준금리 0.25%p 올려…"향후 금리인상 기조"(종합2보)](https://n.news.naver.com/mnews/article/001/0016198120?sid=101) |
+| 16 Jul 2026 | 헤럴드경제 | [한은 “향후 통화정책, 금리 인상 기조 이어나갈 필요 있어”](https://n.news.naver.com/mnews/article/016/0002671119?sid=101) |
+| 16 Jul 2026 | 아시아경제 | ["애 방학숙제 좀 봐줘요"…中 맞벌이 부부가 고용한 이들의 정체](https://n.news.naver.com/mnews/article/277/0005790874?sid=104) |
+| 16 Jul 2026 | 한국경제 | ["올해 성장률 2.6% 크게 상회"…금리인상 만장일치 결정](https://n.news.naver.com/mnews/article/015/0005310695?sid=101) |
+| 16 Jul 2026 | 머니투데이 | [기준금리 0.25%p 올렸다…3년6개월 만에 다시 '긴축의 시대'](https://n.news.naver.com/mnews/article/008/0005386922?sid=101) |
+| 16 Jul 2026 | 뉴스1 | [[전문] 한국은행 금융통화위원회 7월 통화정책방향 결정문](https://n.news.naver.com/mnews/article/421/0009062977?sid=101) |
+| 16 Jul 2026 | 서울경제 | [대전시, 국군사관학교 자운대 창설 적극 환영](https://n.news.naver.com/mnews/article/011/0004642224?sid=102) |
 
 
 ---
