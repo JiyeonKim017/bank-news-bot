@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-17 02:00:47` (KST)
+> **업데이트:** `2026-07-17 07:12:06` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대통령` `#지지율` `#연속` `#하락` `#신진서` `#소폭`
+`#신진서` `#세계` `#카타고에` `#불계패` `#수에` `#바둑`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,477.74원 |
+| **USD/KRW 환율** | 1,480.23원 |
 | **코스피 지수** | 6,820.60 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 17 Jul 2026 | 뉴시스 | [AI 카타고와 맞붙은 신진서 9단](https://n.news.naver.com/mnews/article/003/0014072637?sid=105) |
-| 17 Jul 2026 | 이데일리 | [이재명 대통령 지지율 52%…2주 연속 하락](https://n.news.naver.com/mnews/article/018/0006332127?sid=100) |
-| 17 Jul 2026 | 뉴시스 | [수 놓는 신진서 9단](https://n.news.naver.com/mnews/article/003/0014072640?sid=105) |
-| 17 Jul 2026 | 연합뉴스 | [李대통령 지지율 52%, 2주연속 소폭↓…민주 40%·국힘 26%[한국갤럽](종...](https://n.news.naver.com/mnews/article/001/0016200319?sid=100) |
-| 17 Jul 2026 | 아시아경제 | [李대통령 지지율, 2주 연속 소폭 하락 52%](https://n.news.naver.com/mnews/article/277/0005791240?sid=100) |
-| 17 Jul 2026 | 뉴스1 | [박민준 뤼튼 대표 "AI 시대 승부처는 데이터…올해 '철도' 깔아야"](https://n.news.naver.com/mnews/article/421/0009064995?sid=101) |
-| 17 Jul 2026 | 매일경제 | [이 대통령 지지율 52%…2주 연속 소폭 하락 [한국갤럽]](https://n.news.naver.com/mnews/article/057/0001959028?sid=100) |
-| 17 Jul 2026 | 이데일리 | [시진핑, 조만간 트럼프 만나나…“中 외교부 차관급 내주 방미”](https://n.news.naver.com/mnews/article/018/0006332123?sid=104) |
-| 17 Jul 2026 | 뉴스1 | [신진서, 카타고와 2점 접바둑 돌입](https://m.sports.naver.com/general/article/421/0009064984) |
-| 17 Jul 2026 | 연합뉴스 | [트럼프 SNS 게시글, 남들보다 빨리 보려면 내달부터 돈내야](https://n.news.naver.com/mnews/article/001/0016200315?sid=104) |
-| 17 Jul 2026 | 머니투데이 | ["중국 외교차관, 다음 주 美 워싱턴 방문…시진핑 방미 사전 조율"](https://n.news.naver.com/mnews/article/008/0005387341?sid=104) |
-| 17 Jul 2026 | 헤럴드경제 | [李대통령 지지율, 긍정 평가 52%…2주 연속 소폭 하락](https://n.news.naver.com/mnews/article/016/0002671538?sid=100) |
+| 17 Jul 2026 | 뉴시스 | [바둑 세계 1위 신진서, AI 카타고에 1국 역전패…245수 만에 불계패](https://m.sports.naver.com/general/article/003/0014072986) |
+| 17 Jul 2026 | 파이낸셜뉴스 | [과학 유튜버 궤도 "AI 시대, 판단과 검증은 결국 인간의 몫"](https://n.news.naver.com/mnews/article/014/0005549492?sid=101) |
+| 17 Jul 2026 | 서울경제 | [인권위 상임위도 파행…‘윤석열 방어권 권고’ 1년 넘게 후폭풍](https://n.news.naver.com/mnews/article/011/0004642567?sid=102) |
+| 17 Jul 2026 | 뉴스1 | [AI에 패한 신진서 9단 "한 달 준비가 상대 첫 수에 날라가"(종합)](https://m.sports.naver.com/general/article/421/0009065443) |
+| 17 Jul 2026 | 서울경제 | [애플이 원하는 중국산 메모리…美 의회는 “구매 금지해야”](https://n.news.naver.com/mnews/article/011/0004642563?sid=104) |
+| 17 Jul 2026 | 아시아경제 | [美의회 "中메모리칩 사지 말라"…韓·日·EU 공동대응 촉구](https://n.news.naver.com/mnews/article/277/0005791284?sid=104) |
+| 17 Jul 2026 | 한국경제 | ["한미 조선협력, '분산형'이 해답…20년 장기계획 세워야" [이상은의 워...](https://n.news.naver.com/mnews/article/015/0005311051?sid=104) |
+| 17 Jul 2026 | 파이낸셜뉴스 | ["이럴수가"... 세계 최강 신진서, 2점 깔고도 AI 카타고에 1국 불계패](https://n.news.naver.com/mnews/article/014/0005549488?sid=104) |
+| 17 Jul 2026 | 한국경제 | ["아!" 90수 실착에 일제히 터진 탄식…신진서, AI 벽에 막히다](https://m.sports.naver.com/general/article/015/0005311050) |
+| 17 Jul 2026 | 아시아경제 | [북중 우호조약 65주년 맞아 '혈맹' 과시…中서열 1~5위 총출동](https://n.news.naver.com/mnews/article/277/0005791281?sid=104) |
+| 17 Jul 2026 | 매일경제 | [日, 소뱅 등 44곳 참여 소버린 AI 개시…올해 기반 모델 공개](https://n.news.naver.com/mnews/article/009/0005708756?sid=101) |
+| 17 Jul 2026 | 연합뉴스 | [신진서 "한 달 준비한 게 한 수에 날아갔다"…초반 변칙에 충격](https://m.sports.naver.com/general/article/001/0016200714) |
 
 
 ---
