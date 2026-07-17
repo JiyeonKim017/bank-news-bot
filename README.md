@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-16 10:01:05` (KST)
+> **업데이트:** `2026-07-17 02:00:47` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#상폐` `#단일종목` `#레버리지` `#기본예탁금` `#만원제약으로` `#느낄`
+`#대통령` `#지지율` `#연속` `#하락` `#신진서` `#소폭`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,478.51원 |
+| **USD/KRW 환율** | 1,477.74원 |
 | **코스피 지수** | 6,820.60 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 16 Jul 2026 | 이데일리 | [단일종목 레버리지 기본예탁금 3000만원…"제약으로 느낄 것"(종합)](https://n.news.naver.com/mnews/article/018/0006332007?sid=101) |
-| 16 Jul 2026 | 뉴스1 | [美, 사우디에 3조 규모 무기 판매 승인…정밀타격무기 포함](https://n.news.naver.com/mnews/article/421/0009064472?sid=104) |
-| 16 Jul 2026 | 헤럴드경제 | [[르포] 폭염에 뜨거운 빵 굽기, 에어컨 꿈도 못꾼다…비냉방 지하철 상...](https://n.news.naver.com/mnews/article/016/0002671435?sid=102) |
-| 16 Jul 2026 | 연합뉴스 | [중국차 공습에…"유럽 자동차 일자리 2040년 반토막 날수도"](https://n.news.naver.com/mnews/article/001/0016199896?sid=104) |
-| 16 Jul 2026 | 매일경제 | [“연금으로 단타 치다간 노후 끝장납니다”…변동성 시대 생존 투자법 ...](https://n.news.naver.com/mnews/article/009/0005708631?sid=101) |
-| 16 Jul 2026 | 아시아경제 | [고령군, 민원처리 우수공무원 6명 선정](https://n.news.naver.com/mnews/article/277/0005791170?sid=102) |
-| 16 Jul 2026 | 파이낸셜뉴스 | [AI로 해상 공급망 위험 미리 예고](https://n.news.naver.com/mnews/article/014/0005549381?sid=102) |
-| 16 Jul 2026 | 이데일리 | [[일문일답]"레버리지 상폐? 시장 과열이 문제 …상폐 요건 아냐"](https://n.news.naver.com/mnews/article/018/0006331999?sid=101) |
-| 16 Jul 2026 | 한국경제 | [TSMC, 또 최대 실적…'AI 고점론' 불식하나](https://n.news.naver.com/mnews/article/015/0005310934?sid=101) |
-| 16 Jul 2026 | 아시아경제 | [김천시, 지역상생 ESG 시동](https://n.news.naver.com/mnews/article/277/0005791168?sid=102) |
-| 16 Jul 2026 | 파이낸셜뉴스 | [‘건강도 자산’ 인식 확산… 직장인 63% "돈 내서라도 관리" [Weekend 헬...](https://n.news.naver.com/mnews/article/014/0005549378?sid=103) |
-| 16 Jul 2026 | 뉴시스 | [[인사]부여군](https://n.news.naver.com/mnews/article/003/0014072181?sid=102) |
+| 17 Jul 2026 | 뉴시스 | [AI 카타고와 맞붙은 신진서 9단](https://n.news.naver.com/mnews/article/003/0014072637?sid=105) |
+| 17 Jul 2026 | 이데일리 | [이재명 대통령 지지율 52%…2주 연속 하락](https://n.news.naver.com/mnews/article/018/0006332127?sid=100) |
+| 17 Jul 2026 | 뉴시스 | [수 놓는 신진서 9단](https://n.news.naver.com/mnews/article/003/0014072640?sid=105) |
+| 17 Jul 2026 | 연합뉴스 | [李대통령 지지율 52%, 2주연속 소폭↓…민주 40%·국힘 26%[한국갤럽](종...](https://n.news.naver.com/mnews/article/001/0016200319?sid=100) |
+| 17 Jul 2026 | 아시아경제 | [李대통령 지지율, 2주 연속 소폭 하락 52%](https://n.news.naver.com/mnews/article/277/0005791240?sid=100) |
+| 17 Jul 2026 | 뉴스1 | [박민준 뤼튼 대표 "AI 시대 승부처는 데이터…올해 '철도' 깔아야"](https://n.news.naver.com/mnews/article/421/0009064995?sid=101) |
+| 17 Jul 2026 | 매일경제 | [이 대통령 지지율 52%…2주 연속 소폭 하락 [한국갤럽]](https://n.news.naver.com/mnews/article/057/0001959028?sid=100) |
+| 17 Jul 2026 | 이데일리 | [시진핑, 조만간 트럼프 만나나…“中 외교부 차관급 내주 방미”](https://n.news.naver.com/mnews/article/018/0006332123?sid=104) |
+| 17 Jul 2026 | 뉴스1 | [신진서, 카타고와 2점 접바둑 돌입](https://m.sports.naver.com/general/article/421/0009064984) |
+| 17 Jul 2026 | 연합뉴스 | [트럼프 SNS 게시글, 남들보다 빨리 보려면 내달부터 돈내야](https://n.news.naver.com/mnews/article/001/0016200315?sid=104) |
+| 17 Jul 2026 | 머니투데이 | ["중국 외교차관, 다음 주 美 워싱턴 방문…시진핑 방미 사전 조율"](https://n.news.naver.com/mnews/article/008/0005387341?sid=104) |
+| 17 Jul 2026 | 헤럴드경제 | [李대통령 지지율, 긍정 평가 52%…2주 연속 소폭 하락](https://n.news.naver.com/mnews/article/016/0002671538?sid=100) |
 
 
 ---
