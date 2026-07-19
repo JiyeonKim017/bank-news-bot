@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-18 09:17:06` (KST)
+> **업데이트:** `2026-07-19 02:00:03` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#이어` `#호르무즈` `#경기침체` `#경기도` `#사회연대경제` `#시범사업`
+`#경찰` `#토착비리` `#인당` `#만달러` `#눈앞평균` `#환율`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 18 Jul 2026 | 아시아경제 | [경기도, 사회연대경제 시범사업 참여 청년 200명 모집…세전 234만원](https://n.news.naver.com/mnews/article/277/0005791402?sid=102) |
-| 18 Jul 2026 | 매일경제 | [“코스피 20% 빠져도 우린 올랐습니다”…기준금리 인상에 은행주 ‘들...](https://n.news.naver.com/mnews/article/009/0005708970?sid=101) |
-| 18 Jul 2026 | 헤럴드경제 | [춘천 국제태권도대회 개막 71개국 4000명 역대 최대](https://n.news.naver.com/mnews/article/016/0002671742?sid=101) |
-| 18 Jul 2026 | 이데일리 | [호르무즈 이어 홍해까지…중동 원유 수송로 ‘이중 위기’](https://n.news.naver.com/mnews/article/018/0006332397?sid=104) |
-| 18 Jul 2026 | 뉴시스 | [농협중앙회장 조합원 직선제 도입하면…축산경제대표도?](https://n.news.naver.com/mnews/article/003/0014073658?sid=102) |
-| 18 Jul 2026 | 헤럴드경제 | [[단독] “수사 신속히 끝내달라” 김병기도 전 보좌진도 경찰에 의견서...](https://n.news.naver.com/mnews/article/016/0002671739?sid=102) |
-| 18 Jul 2026 | 아시아경제 | [호르무즈 이어 홍해도 봉쇄 위기…“장기화 땐 세계 경기침체”](https://n.news.naver.com/mnews/article/277/0005791399?sid=104) |
-| 18 Jul 2026 | 매일경제 | [호르무즈 이어 홍해까지 막히나…"글로벌 경기침체 우려"](https://n.news.naver.com/mnews/article/057/0001959159?sid=104) |
-| 18 Jul 2026 | 머니투데이 | [김용범 실장 "AI 생산성, 기업만의 노력으로 만들어지지 않아"](https://n.news.naver.com/mnews/article/008/0005387510?sid=100) |
-| 18 Jul 2026 | 이데일리 | [이 대통령, 쿠팡 물류창고 화재에 "피해 확산 막는 데 총력"(상보)](https://n.news.naver.com/mnews/article/018/0006332395?sid=100) |
-| 18 Jul 2026 | 한국경제 | [국민배당금 이어 인재 양성 투자로…김용범 "AI시대, 기업 성과 일부 다...](https://n.news.naver.com/mnews/article/050/0000108683?sid=101) |
-| 18 Jul 2026 | 서울경제 | [경찰관·지역 유지 ‘잘못된 만남’‥매달 2.5건 경찰 비위 기소 [서초동...](https://n.news.naver.com/mnews/article/011/0004642708?sid=102) |
+| 19 Jul 2026 | 이데일리 | [1인당 GDP 4만달러 눈앞…평균 환율 1456원이 가른다](https://n.news.naver.com/mnews/article/018/0006332515?sid=101) |
+| 19 Jul 2026 | 아시아경제 | [경찰, '토착비리 단속' 535명 송치…전담 TF 확대](https://n.news.naver.com/mnews/article/277/0005791470?sid=102) |
+| 19 Jul 2026 | 뉴시스 | [[경남소식]BNK경남은행, 김해서 하반기 경영전략회의 등](https://n.news.naver.com/mnews/article/003/0014073990?sid=102) |
+| 19 Jul 2026 | 이데일리 | [경찰, 토착비리 사범 무더기 송치…"지방정부·토호 유착 발본색원"](https://n.news.naver.com/mnews/article/018/0006332512?sid=102) |
+| 19 Jul 2026 | 한국경제 | [일론 머스크 테슬라·스페이스X CEO "스페이스X, 지구 모든 것보다 가치...](https://n.news.naver.com/mnews/article/050/0000108700?sid=101) |
+| 19 Jul 2026 | 매일경제 | [“팔 들어” 말하자 0.001초 만에 척…엔비디아도 주목한 한국 ‘로봇의...](https://n.news.naver.com/mnews/article/009/0005709042?sid=101) |
+| 19 Jul 2026 | 뉴시스 | [정성호 법무부 장관 취임 1년…"국민 일상 안전과 경제 활력에 집중"](https://n.news.naver.com/mnews/article/003/0014073986?sid=102) |
+| 19 Jul 2026 | 연합뉴스 | [신진서 vs 카타고 2국, 초반 대형 정석 출현…"변수도 줄었다"](https://m.sports.naver.com/general/article/001/0016201704) |
+| 19 Jul 2026 | 한국경제 | [여의도의 무당들, 그리고 출렁이는 코스피 [EDITOR's LETTER]](https://n.news.naver.com/mnews/article/050/0000108699?sid=101) |
+| 19 Jul 2026 | 연합뉴스 | [[연합뉴스 이 시각 헤드라인] - 10:30](https://n.news.naver.com/mnews/article/001/0016201648?sid=102) |
+| 19 Jul 2026 | 매일경제 | [팍팍해진 현실에…1인가구, 월세 살며 N잡 뛴다](https://n.news.naver.com/mnews/article/009/0005709036?sid=101) |
+| 19 Jul 2026 | 아시아경제 | ['해상 봉쇄' 풀리자…이란, '9조 원유' 어디 팔아치웠나](https://n.news.naver.com/mnews/article/277/0005791466?sid=104) |
 
 
 ---
