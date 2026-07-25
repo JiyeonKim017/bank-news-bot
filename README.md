@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-25 02:00:14` (KST)
+> **업데이트:** `2026-07-25 07:10:42` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#대통령` `#쿠팡` `#설득전` `#없는` `#연예인` `#이선정`
+`#대통령` `#장동혁` `#내부` `#선언` `#소리` `#조국`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,459.42원 |
+| **USD/KRW 환율** | 1,462.10원 |
 | **코스피 지수** | 6,690.62 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 25 Jul 2026 | 매일경제 | [‘일 없는 연예인’ 이선정, 母 식당서 국수 삶던 2년…“이제는 내가 ...](https://m.entertain.naver.com/article/410/0001133908) |
-| 25 Jul 2026 | 헤럴드경제 | [美 관세 압박에 쿠팡 논란까지…워싱턴서 ‘전방위 설득전’](https://n.news.naver.com/mnews/article/016/0002674903?sid=101) |
-| 25 Jul 2026 | 뉴스1 | [통상본부장, 美 행정부·의회에 "쿠팡 차별 아냐" 설득](https://n.news.naver.com/mnews/article/421/0009078313?sid=101) |
-| 25 Jul 2026 | 서울경제 | [“N% 성과급 요구·기업 투자 결정 관철 파업 정당성 없어”](https://n.news.naver.com/mnews/article/011/0004645086?sid=101) |
-| 25 Jul 2026 | 서울경제 | [삼성 18개사 공채 개막…채용 규모 1.2만명 넘길듯](https://n.news.naver.com/mnews/article/011/0004645085?sid=101) |
-| 25 Jul 2026 | 연합뉴스 | [쿠팡 사태 진화 나선 정부…미국 정부·의회·업계 현지 설득전](https://n.news.naver.com/mnews/article/001/0016214241?sid=101) |
-| 25 Jul 2026 | 뉴스1 | [민주 "李대통령 '샌프란 AI 선언', AI 강국 역사적 출발점"](https://n.news.naver.com/mnews/article/421/0009078307?sid=100) |
-| 25 Jul 2026 | 헤럴드경제 | [지금 코스피, 싸진 걸까 위험해진 걸까…한은의 진단은? [Deep Spot]](https://n.news.naver.com/mnews/article/016/0002674901?sid=101) |
-| 25 Jul 2026 | 이데일리 | [올트먼 "韓 없었으면 AI혁명 불가능"](https://n.news.naver.com/mnews/article/018/0006336729?sid=100) |
-| 25 Jul 2026 | 머니투데이 | [이재명 대통령 "대한민국이 여는 AI 황금시대, 결코 실망 않을 것"](https://n.news.naver.com/mnews/article/008/0005390821?sid=100) |
-| 25 Jul 2026 | 한국경제 | [李대통령 "식민지 해방 100년 안된 나라···AI 핵심 국가로 도약"(종합...](https://n.news.naver.com/mnews/article/050/0000108944?sid=101) |
-| 25 Jul 2026 | 뉴시스 | [이 대통령 "3대 메가투자 동참해달라"…젠슨 황 "SK와 5000억달러 파트너...](https://n.news.naver.com/mnews/article/003/0014087503?sid=100) |
+| 25 Jul 2026 | 뉴시스 | [조국 "검찰개혁 둘러싸고 與내부 혼란…대한민국 개혁 원칙 흔들려"](https://n.news.naver.com/mnews/article/003/0014087840?sid=100) |
+| 25 Jul 2026 | 뉴스1 | [전북도의회, 강태창 의원 등 입법 평가위원회 내부 위원 위촉](https://n.news.naver.com/mnews/article/421/0009078621?sid=102) |
+| 25 Jul 2026 | 헤럴드경제 | [‘멀티 하버’ 속초 대포항 국가거점어항 청신호..해양수산부 예비 대상...](https://n.news.naver.com/mnews/article/016/0002674959?sid=101) |
+| 25 Jul 2026 | 뉴시스 | [[전문]이 대통령, '샌프란시스코 AI 선언'](https://n.news.naver.com/mnews/article/003/0014087832?sid=100) |
+| 25 Jul 2026 | 매일경제 | [장동혁 "검찰 해체는 필연코 정권 해체로 이어질 것"](https://n.news.naver.com/mnews/article/057/0001960341?sid=100) |
+| 25 Jul 2026 | 파이낸셜뉴스 | [민주당 "매점매석 압수물품 매각법, 8월 처리"](https://n.news.naver.com/mnews/article/014/0005552763?sid=100) |
+| 25 Jul 2026 | 서울경제 | [장동혁, 李 대통령 AI 서밋 선언 비판…“뻔한 소리 하러 미국 갔나”](https://n.news.naver.com/mnews/article/011/0004645128?sid=100) |
+| 25 Jul 2026 | 이데일리 | [샘 올트먼 "韓 AI인프라, 세계 AI도약 핵심"…李대통령 만나 협력 강화](https://n.news.naver.com/mnews/article/018/0006336798?sid=105) |
+| 25 Jul 2026 | 머니투데이 | [EU, 러시아산 LNG 韓 수입 제재 면제…李대통령 "앞으로도 빈틈없는 대응...](https://n.news.naver.com/mnews/article/008/0005390858?sid=100) |
+| 25 Jul 2026 | 이데일리 | [장동혁, 李대통령 'AI 선언'에 "뻔한 소리 샌프란까지 가서 해"](https://n.news.naver.com/mnews/article/018/0006336796?sid=100) |
+| 25 Jul 2026 | 뉴스1 | [李대통령, EU의 '러 LNG 韓수출 면제'에 "국민경제 큰 도움 반가운 소식...](https://n.news.naver.com/mnews/article/421/0009078583?sid=100) |
+| 25 Jul 2026 | 한국경제 | [정의선 현대차그룹 회장 "국내 로봇·AI 기술 고도화 위한 생태계 조성...](https://n.news.naver.com/mnews/article/015/0005313771?sid=103) |
 
 
 ---
