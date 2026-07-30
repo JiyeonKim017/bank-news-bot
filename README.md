@@ -1,37 +1,34 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-30 01:47:52` (KST)
+> **업데이트:** `2026-07-30 07:30:13` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#인상` `#동결` `#한은` `#금리` `#받는다` `#연준`
+`#국민성장펀드` `#개최` `#조원` `#초격차` `#받은` `#디스플레이에`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,446.38원 |
-| **코스피 지수** | 5,777.93 |
+| **USD/KRW 환율** | 1,437.34원 |
+| **코스피 지수** | 5,593.56 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 30 Jul 2026 | 이데일리 | [한은 '8월 금리 인상' 힘 받는다 연준 매파 동결·GDP 성장 견고](http://www.smedaily.co.kr/news/articleView.html?idxno=361047) |
-| 30 Jul 2026 | 뉴시스 | [[올댓차이나] 홍콩, 기준금리 4.00% 유지…“美 동결 연동”](https://n.news.naver.com/mnews/article/003/0014097690?sid=104) |
-| 30 Jul 2026 | 머니투데이 | [삼성 스마트폰 첫 분기 적자…플래그십 확대·운영 효율화 승부수](https://n.news.naver.com/mnews/article/008/0005393251?sid=105) |
-| 30 Jul 2026 | 파이낸셜뉴스 | [카카오뱅크, 서울 내 소상공인 금융지원..."170억원 대출 공급"](https://n.news.naver.com/mnews/article/014/0005555037?sid=101) |
-| 30 Jul 2026 | 뉴스1 | [취약계층 반려동물 진료비 낮춘다…공공동물병원 입법 추진](https://n.news.naver.com/mnews/article/421/0009087643?sid=102) |
-| 30 Jul 2026 | 뉴시스 | [제주도, '우도 일부 차량 운행 제한' 3년 재연장](https://n.news.naver.com/mnews/article/003/0014097684?sid=102) |
-| 30 Jul 2026 | 연합뉴스 | [속초시, 고향 사랑 기부 혜택 강화…신규 답례품 9종 추가](https://n.news.naver.com/mnews/article/001/0016223608?sid=102) |
-| 30 Jul 2026 | 머니투데이 | [고점 매도 유예의 역설…국민연금 저가매수 여력 줄었다](https://n.news.naver.com/mnews/article/008/0005393249?sid=101) |
-| 30 Jul 2026 | 헤럴드경제 | [[단독] “보완수사 기록 검찰에 송부 의무” 경찰 반대 의견 냈다 [세상...](https://n.news.naver.com/mnews/article/016/0002677264?sid=102) |
-| 30 Jul 2026 | 뉴스1 | [에쓰오일, 자립 준비 청년 위해 1억 3000만 원 후원](https://n.news.naver.com/mnews/article/421/0009087639?sid=101) |
-| 30 Jul 2026 | 이데일리 | [미부중공업, 베트남서 선박 블록 생산기지 착공식 개최](https://n.news.naver.com/mnews/article/018/0006339836?sid=101) |
-| 30 Jul 2026 | 헤럴드경제 | [당정, 세제개편안 막판 조율…보유세 차등 인상 가능성 촉각](https://n.news.naver.com/mnews/article/016/0002677262?sid=100) |
+| 30 Jul 2026 | 서울경제 | [국민성장펀드 1.5조 받은 LG디스플레이…OLED에 총 3조 투자](https://n.news.naver.com/mnews/article/011/0004646958?sid=101) |
+| 30 Jul 2026 | 뉴시스 | ["호르무즈는 다음은 파나마?"…공급망 노린 해상 전쟁](https://n.news.naver.com/mnews/article/003/0014099114?sid=104) |
+| 30 Jul 2026 | 아시아경제 | [엔화 40년래 최저 수준이지만…BOJ 금리 동결할 듯](https://n.news.naver.com/mnews/article/277/0005796955?sid=101) |
+| 30 Jul 2026 | 뉴시스 | [방사청, 제9회 국방과학기술 대제전 서울서 개최](https://n.news.naver.com/mnews/article/003/0014099105?sid=100) |
+| 30 Jul 2026 | 연합뉴스 | ['기(棋)적의 약속' 발대식 및 한·중 청소년 바둑 교류전 개최](https://m.sports.naver.com/general/article/001/0016225158) |
+| 30 Jul 2026 | 뉴스1 | ['임상시험' 악용해 42억원 리베이트…의료기기 업체·의사 무더기 재판...](https://n.news.naver.com/mnews/article/421/0009088958?sid=102) |
+| 30 Jul 2026 | 뉴스1 | [박맹우 전 울산시장 "트램 1호선 사업 전면 백지화하라"](https://n.news.naver.com/mnews/article/421/0009088956?sid=102) |
+| 30 Jul 2026 | 연합뉴스 | [LGD, 국민성장펀드 포함 3조원 투자…"기술 초격차 굳힌다"](https://n.news.naver.com/mnews/article/001/0016225128?sid=101) |
+| 30 Jul 2026 | 헤럴드경제 | [국민성장펀드, LGD에 1.5조원 저리 대출…OLED 초격차 가속](https://n.news.naver.com/mnews/article/016/0002677546?sid=101) |
 
 
 ---
