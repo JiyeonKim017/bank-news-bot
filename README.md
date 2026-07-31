@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-07-31 07:45:41` (KST)
+> **업데이트:** `2026-07-31 10:30:26` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#과제` `#기아` `#알바니아에` `#장애아동` `#치료센터` `#고삐`
+`#첫차` `#타도` `#사요새벽` `#시부터` `#오픈런` `#만원`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,431.40원 |
+| **USD/KRW 환율** | 1,436.60원 |
 | **코스피 지수** | 6,595.45 |
 
 ---
@@ -20,17 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 31 Jul 2026 | 매일경제 | [기아, 알바니아에 장애아동 치료센터](https://n.news.naver.com/mnews/article/009/0005715023?sid=103) |
-| 31 Jul 2026 | 한국경제 | [고삐 풀린 핵 확산…AI와 결합한다면?( [홍영식의 이슈 워치]](https://n.news.naver.com/mnews/article/050/0000109189?sid=101) |
-| 31 Jul 2026 | 매일경제 | [[인사] 국회 / 외교부 / 법무부 등](https://n.news.naver.com/mnews/article/009/0005715025?sid=102) |
-| 31 Jul 2026 | 아시아경제 | [35년 전북에 뿌리내린 아데카코리아, 613억 증설 투자](https://n.news.naver.com/mnews/article/277/0005797436?sid=102) |
-| 31 Jul 2026 | 이데일리 | [SOOP 2분기 영업익 126억…전년比 57.9%↓](https://n.news.naver.com/mnews/article/018/0006341275?sid=105) |
-| 31 Jul 2026 | 연합뉴스 | [광양만경자청 조합의회 신임의장에 김정희 통합시의원 선출](https://n.news.naver.com/mnews/article/001/0016227329?sid=102) |
-| 31 Jul 2026 | 뉴스1 | [신한·KB 등 금융지주·은행, D-SIB 지정…내년 추가자본 적립](https://n.news.naver.com/mnews/article/421/0009090909?sid=101) |
-| 31 Jul 2026 | 뉴스1 | ['나솔' 28기 돌싱 커플 영자·영철, 결혼 6개월 만에 이혼…"혼인신고는...](https://m.entertain.naver.com/article/421/0009090905) |
-| 31 Jul 2026 | 뉴시스 | [결국 현실이 된 검수완박…'불안한 보완 장치' 과제 여전](https://n.news.naver.com/mnews/article/003/0014101425?sid=102) |
-| 31 Jul 2026 | 이데일리 | [[인사]행정안전부](https://n.news.naver.com/mnews/article/018/0006341265?sid=102) |
-| 31 Jul 2026 | 연합뉴스 | [[형소법개정] ① 형사사법체계 대변혁…중수청·공소청 출범 과제 산적](https://n.news.naver.com/mnews/article/001/0016227315?sid=102) |
+| 31 Jul 2026 | 한국경제 | ["첫차 타도 못 사요"…새벽 1시부터 오픈런 '20만원' 순삭 [덕질경제학]](https://n.news.naver.com/mnews/article/015/0005316193?sid=105) |
+| 31 Jul 2026 | 연합뉴스 | [일본은행, 기준금리 1% 유지…경제 성장률 전망 0.6%로 상향(종합2보)](https://n.news.naver.com/mnews/article/001/0016227685?sid=101) |
+| 31 Jul 2026 | 이데일리 | ['나는 솔로' 28기 영자·영철, 재혼 6개월 만에 파경](https://m.entertain.naver.com/article/018/0006341569) |
+| 31 Jul 2026 | 뉴스1 | ["멈춰 선 북항환승센터, '교통 플랫폼' 본래 목적대로 설계 변경해야"](https://n.news.naver.com/mnews/article/421/0009091152?sid=102) |
+| 31 Jul 2026 | 아시아경제 | [상주시, 경북과 '경제원팀' 가동…국가식품클러스터 등 5대 핵심사업 지...](https://n.news.naver.com/mnews/article/277/0005797487?sid=102) |
+| 31 Jul 2026 | 한국경제 | [원화로 바꿀 '400억달러' 정체는…환율 끌어내린 이유 있었다](https://n.news.naver.com/mnews/article/015/0005316191?sid=101) |
+| 31 Jul 2026 | 뉴스1 | [러 전시경제 둔화에 절약 기조 확산…"의류·신발 구매 10% 감소"](https://n.news.naver.com/mnews/article/421/0009091149?sid=104) |
+| 31 Jul 2026 | 이데일리 | [[인사] 경북도](https://n.news.naver.com/mnews/article/018/0006341567?sid=100) |
+| 31 Jul 2026 | 헤럴드경제 | [오세훈, 야간경제 1호 ‘한강 밤핑’ 점검…“서울 새 성장동력으로”](https://n.news.naver.com/mnews/article/016/0002678061?sid=102) |
+| 31 Jul 2026 | 연합뉴스 | [프랑스, 친러 선전가 추방명령 이어 자산도 동결](https://n.news.naver.com/mnews/article/001/0016227639?sid=104) |
+| 31 Jul 2026 | 뉴시스 | [5대 금융지주·은행, '금융체계상 중요 금융기관' 선정](https://n.news.naver.com/mnews/article/003/0014101739?sid=101) |
+| 31 Jul 2026 | 서울경제 | [출산도 특권이 되는 사회를 꼬집다[북스&amp;]](https://n.news.naver.com/mnews/article/011/0004647442?sid=103) |
 
 
 ---
