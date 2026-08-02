@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-01 09:52:00` (KST)
+> **업데이트:** `2026-08-02 02:03:47` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#시민배심원단` `#전국` `#최초` `#시민이` `#뽑는` `#부시장전남광주`
+`#승인` `#청년` `#코레일` `#요금` `#통합` `#운임`
 
 ---
 
@@ -20,15 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 01 Aug 2026 | 뉴시스 | [전국 최초 시민이 뽑는 부시장…전남광주 시민배심원단 심사](https://n.news.naver.com/mnews/article/003/0014102560?sid=102) |
-| 01 Aug 2026 | 헤럴드경제 | [50대 조교수 40대 여교수 주먹으로 턱 가격…해임되자 소송까지 냈다 [세...](https://n.news.naver.com/mnews/article/016/0002678228?sid=102) |
-| 01 Aug 2026 | 헤럴드경제 | [‘친부 누군지 몰라’ 아버지에 들킬까봐 집 옥상에 아기 방치한 30대 여...](https://n.news.naver.com/mnews/article/016/0002678226?sid=102) |
-| 01 Aug 2026 | 매일경제 | [중국, 미국의 '신장 강제노동 제재'에 반발…"일방적 강압 행위"](https://n.news.naver.com/mnews/article/057/0001961543?sid=104) |
-| 01 Aug 2026 | 매일경제 | [“중동전쟁도 한국인은 못 막았다”…장거리 여행 대신 가까운 나라로](https://n.news.naver.com/mnews/article/009/0005715326?sid=103) |
-| 01 Aug 2026 | 연합뉴스 | [전남광주특별시 정무부시장 후보 시민배심원단 현장심사](https://n.news.naver.com/mnews/article/001/0016228407?sid=102) |
-| 01 Aug 2026 | 서울경제 | [“오징어가 여기서 잡힐 줄은 몰랐다” 상상 못했던 일…서해에 무슨 일...](https://n.news.naver.com/mnews/article/011/0004647602?sid=101) |
-| 01 Aug 2026 | 서울경제 | [피해자·학계 “보완수사 필요” 외침에도 강행…법조계 “곳곳이 독소...](https://n.news.naver.com/mnews/article/011/0004647598?sid=102) |
-| 01 Aug 2026 | 이데일리 | [미중 기술전쟁 속 中 출국 통제 강화…핵심 인재 유출 막는다](https://n.news.naver.com/mnews/article/018/0006342191?sid=104) |
+| 02 Aug 2026 | 이데일리 | [현대硏 “유가 다음은 먹거리·집세…하반기 물가 압력 이동”](https://n.news.naver.com/mnews/article/018/0006342315?sid=101) |
+| 02 Aug 2026 | 이데일리 | [코트라, 청년 인재와 수출투자 서비스 혁신…AI 인재 양성도 확대](https://n.news.naver.com/mnews/article/018/0006342314?sid=101) |
+| 02 Aug 2026 | 파이낸셜뉴스 | [KTX 요금 10% 내린다…공정위, 코레일-SR 통합 승인](https://n.news.naver.com/mnews/article/014/0005555940?sid=101) |
+| 02 Aug 2026 | 한국경제 | ["햇반·참치캔 샀을 뿐인데 7000원"…고물가에 한숨 [박상경의 영수증 리...](https://n.news.naver.com/mnews/article/015/0005316345?sid=101) |
+| 02 Aug 2026 | 헤럴드경제 | [KTX 운임 10% 내리고 공급좌석 1만7000석 늘려…코레일-SR 통합 승인](https://n.news.naver.com/mnews/article/016/0002678330?sid=101) |
+| 02 Aug 2026 | 한국경제 | ["국민연금, 이것부터 확인하세요"…노후 성패 갈리는 5가지](https://n.news.naver.com/mnews/article/015/0005316344?sid=101) |
+| 02 Aug 2026 | 아시아경제 | [KTX 요금 10% 내리고 주말 1.7만석 늘린다…공정위, 코레일·SR 결합 승인](https://n.news.naver.com/mnews/article/277/0005797649?sid=101) |
+| 02 Aug 2026 | 뉴스1 | [농업·농촌 2045년 청사진 아이디어 찾습니다…농식품부, 국민 공모전 개...](https://n.news.naver.com/mnews/article/421/0009092268?sid=102) |
+| 02 Aug 2026 | 비즈워치 | [[챗ICT]게임CD 열었더니 달랑 종이 한 장](https://n.news.naver.com/mnews/article/648/0000049435?sid=105) |
+| 02 Aug 2026 | 서울경제 | [최태원 지분 뺀 SK실트론 빅딜…공정위 논란 의식했나](https://n.news.naver.com/mnews/article/011/0004647667?sid=101) |
+| 02 Aug 2026 | 파이낸셜뉴스 | [코레일-SR 기업결합 승인…KTX 운임 10% 낮춘다](https://n.news.naver.com/mnews/article/014/0005555938?sid=101) |
+| 02 Aug 2026 | 아시아경제 | ["청년 시선으로 혁신"…코트라, 청년 연계 경영·수출지원 강화](https://n.news.naver.com/mnews/article/277/0005797651?sid=101) |
 
 
 ---
