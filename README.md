@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-02 02:03:47` (KST)
+> **업데이트:** `2026-08-02 07:27:54` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#승인` `#청년` `#코레일` `#요금` `#통합` `#운임`
+`#자연계` `#내신` `#등급대는` `#돼야` `#인서울` `#수시`
 
 ---
 
@@ -20,18 +20,13 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 02 Aug 2026 | 이데일리 | [현대硏 “유가 다음은 먹거리·집세…하반기 물가 압력 이동”](https://n.news.naver.com/mnews/article/018/0006342315?sid=101) |
-| 02 Aug 2026 | 이데일리 | [코트라, 청년 인재와 수출투자 서비스 혁신…AI 인재 양성도 확대](https://n.news.naver.com/mnews/article/018/0006342314?sid=101) |
-| 02 Aug 2026 | 파이낸셜뉴스 | [KTX 요금 10% 내린다…공정위, 코레일-SR 통합 승인](https://n.news.naver.com/mnews/article/014/0005555940?sid=101) |
-| 02 Aug 2026 | 한국경제 | ["햇반·참치캔 샀을 뿐인데 7000원"…고물가에 한숨 [박상경의 영수증 리...](https://n.news.naver.com/mnews/article/015/0005316345?sid=101) |
-| 02 Aug 2026 | 헤럴드경제 | [KTX 운임 10% 내리고 공급좌석 1만7000석 늘려…코레일-SR 통합 승인](https://n.news.naver.com/mnews/article/016/0002678330?sid=101) |
-| 02 Aug 2026 | 한국경제 | ["국민연금, 이것부터 확인하세요"…노후 성패 갈리는 5가지](https://n.news.naver.com/mnews/article/015/0005316344?sid=101) |
-| 02 Aug 2026 | 아시아경제 | [KTX 요금 10% 내리고 주말 1.7만석 늘린다…공정위, 코레일·SR 결합 승인](https://n.news.naver.com/mnews/article/277/0005797649?sid=101) |
-| 02 Aug 2026 | 뉴스1 | [농업·농촌 2045년 청사진 아이디어 찾습니다…농식품부, 국민 공모전 개...](https://n.news.naver.com/mnews/article/421/0009092268?sid=102) |
-| 02 Aug 2026 | 비즈워치 | [[챗ICT]게임CD 열었더니 달랑 종이 한 장](https://n.news.naver.com/mnews/article/648/0000049435?sid=105) |
-| 02 Aug 2026 | 서울경제 | [최태원 지분 뺀 SK실트론 빅딜…공정위 논란 의식했나](https://n.news.naver.com/mnews/article/011/0004647667?sid=101) |
-| 02 Aug 2026 | 파이낸셜뉴스 | [코레일-SR 기업결합 승인…KTX 운임 10% 낮춘다](https://n.news.naver.com/mnews/article/014/0005555938?sid=101) |
-| 02 Aug 2026 | 아시아경제 | ["청년 시선으로 혁신"…코트라, 청년 연계 경영·수출지원 강화](https://n.news.naver.com/mnews/article/277/0005797651?sid=101) |
+| 02 Aug 2026 | 한국경제 | [자연계 내신 1등급대는 돼야 '인서울' 수시 합격](https://n.news.naver.com/mnews/article/015/0005316393?sid=102) |
+| 02 Aug 2026 | 매일경제 | [기준금리 올렸는데 왜 지갑이 얇아질까?…대출금리가 예금보다 먼저 뛰...](https://n.news.naver.com/mnews/article/009/0005715471?sid=101) |
+| 02 Aug 2026 | 서울경제 | [김민석 씨티셀즈 대표 “혈액만으로 암 정밀분석…글로벌 액체생검 기업...](https://n.news.naver.com/mnews/article/011/0004647718?sid=101) |
+| 02 Aug 2026 | 매일경제 | [“차라리 자퇴할래요”…이제 고1인데 자퇴 1만명 넘어선 이유](https://n.news.naver.com/mnews/article/009/0005715470?sid=102) |
+| 02 Aug 2026 | 파이낸셜뉴스 | [민주당, 이달부터 입법 드라이브 건다](https://n.news.naver.com/mnews/article/014/0005556043?sid=100) |
+| 02 Aug 2026 | 뉴스1 | [李대통령, 산업부 등 2차 업무보고…이번주(3~8일) 주요 일정](https://n.news.naver.com/mnews/article/421/0009092724?sid=100) |
+| 02 Aug 2026 | 머니투데이 | [베일 벗는 하반기 경제 지표…수출 '호조', 물가 '불안', 환율 '글쎄'](https://n.news.naver.com/mnews/article/008/0005394457?sid=101) |
 
 
 ---
