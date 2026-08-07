@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-07 06:05:54` (KST)
+> **업데이트:** `2026-08-07 08:49:06` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#억원` `#연속` `#제주대병원에` `#기부한` `#덕산장학회` `#강영백이순`
+`#확정` `#대만` `#수출` `#동반` `#추월` `#휴머노이드`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,420.23원 |
-| **코스피 지수** | 6,242.55 |
+| **USD/KRW 환율** | 1,416.73원 |
+| **코스피 지수** | 6,258.77 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 07 Aug 2026 | 파이낸셜뉴스 | [2년 연속 1억원… 제주대병원에 2억원 기부한 덕산장학회 강영백·이순...](https://n.news.naver.com/mnews/article/014/0005558660?sid=102) |
-| 07 Aug 2026 | 연합뉴스 | [中, '무역 안보조사' 카드 가동…'국산화율 낮은 분야' 조준](https://n.news.naver.com/mnews/article/001/0016239365?sid=104) |
-| 07 Aug 2026 | 매일경제 | [규제합리화위 부위원장 김태유·국립외교원장 김흥규 임명](https://n.news.naver.com/mnews/article/009/0005718015?sid=100) |
-| 07 Aug 2026 | 뉴스1 | [[인사] 국회](https://n.news.naver.com/mnews/article/421/0009102719?sid=102) |
-| 07 Aug 2026 | 뉴시스 | [[프로필]김흥규 신임 국립외교원장…동아시아 외교안보 전문가](https://n.news.naver.com/mnews/article/003/0014114634?sid=100) |
-| 07 Aug 2026 | 헤럴드경제 | [배터리 소재 3사, LFP·NCM 전략 재정비 잰걸음…하반기 승부수 [비즈360...](https://n.news.naver.com/mnews/article/016/0002680985?sid=101) |
-| 07 Aug 2026 | 매일경제 | ['5·18 성역' 이병태 후임에 서울대 김태유 공대 교수](https://n.news.naver.com/mnews/article/057/0001962545?sid=100) |
-| 07 Aug 2026 | 연합뉴스 | ["미·이란 호르무즈 합의해도 이란 강경파가 깰 가능성"](https://n.news.naver.com/mnews/article/001/0016239357?sid=104) |
-| 07 Aug 2026 | 서울경제 | [올 10월 개정 형소법 시행…“수사 초기부터 검경 협조해야”](https://n.news.naver.com/mnews/article/011/0004649578?sid=102) |
-| 07 Aug 2026 | 헤럴드경제 | [BNK경남은행, 폭염 속 이동노동자 위해 생수 1만5000개 기탁](https://n.news.naver.com/mnews/article/016/0002680984?sid=102) |
-| 07 Aug 2026 | 뉴스1 | [괴산군립도서관, 여름방학 독서문화 프로그램 풍성](https://n.news.naver.com/mnews/article/421/0009102694?sid=102) |
-| 07 Aug 2026 | 한국경제 | ["부모님께 미안"…얹혀사는 취준생들, 독립 미루는 이유](https://n.news.naver.com/mnews/article/015/0005318474?sid=105) |
+| 07 Aug 2026 | 한국경제 | [韓·대만 수출, 日 동반 추월](https://n.news.naver.com/mnews/article/015/0005318557?sid=104) |
+| 07 Aug 2026 | 매일경제 | [中 휴머노이드 1위 유니트리 공모가 주당 150.8위안 확정](https://n.news.naver.com/mnews/article/009/0005718135?sid=101) |
+| 07 Aug 2026 | 서울경제 | [수억원 돈세탁해도…“자금출처 몰랐다” 잡아떼면 집유](https://n.news.naver.com/mnews/article/011/0004649651?sid=102) |
+| 07 Aug 2026 | 조세일보 | [연준 대신 채권시장이 긴축…내년 인하 가능성도 제기 [마켓프리즘]](https://n.news.naver.com/mnews/article/123/0002388028?sid=104) |
+| 07 Aug 2026 | 헤럴드경제 | [‘화성연쇄살인’ 20년 억울한 옥살이 피해자의 일침…檢 보완수사 폐지...](https://n.news.naver.com/mnews/article/016/0002681042?sid=102) |
+| 07 Aug 2026 | 이데일리 | [[마켓인]CJ대한통운, 동남아 법인 줄청산…해외사업 다이어트 속도](https://n.news.naver.com/mnews/article/018/0006347055?sid=101) |
+| 07 Aug 2026 | 매일경제 | [구윤철, ‘세금 폭탄’ 반박…“실거주 30억 이하 주택자, 양도·보유세...](https://n.news.naver.com/mnews/article/024/0000107406?sid=102) |
+| 07 Aug 2026 | 뉴스1 | [[인사] 대구시](https://n.news.naver.com/mnews/article/421/0009103106?sid=102) |
+| 07 Aug 2026 | 한국경제 | [SK하이닉스, 용인·청주에 54조 투자 확정](https://n.news.naver.com/mnews/article/015/0005318545?sid=101) |
+| 07 Aug 2026 | 연합뉴스 | [울산시, 기술보증기금 지점 추가 요청…기술금융 지원 확대 논의](https://n.news.naver.com/mnews/article/001/0016239732?sid=102) |
+| 07 Aug 2026 | 뉴시스 | [인천시설공단, 지방공기업 경영평가서 '우수' 등급](https://n.news.naver.com/mnews/article/003/0014115040?sid=102) |
+| 07 Aug 2026 | 서울경제 | [빈집 60%서 12%로…충주 구도심 살린 ‘키맨’](https://n.news.naver.com/mnews/article/011/0004649643?sid=101) |
 
 
 ---
