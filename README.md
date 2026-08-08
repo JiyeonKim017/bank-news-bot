@@ -1,18 +1,18 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-07 08:49:06` (KST)
+> **업데이트:** `2026-08-08 01:04:04` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#확정` `#대만` `#수출` `#동반` `#추월` `#휴머노이드`
+`#주요` `#신문` `#조간` `#질타한` `#한국` `#독도`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,416.73원 |
+| **USD/KRW 환율** | 1,407.45원 |
 | **코스피 지수** | 6,258.77 |
 
 ---
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 07 Aug 2026 | 한국경제 | [韓·대만 수출, 日 동반 추월](https://n.news.naver.com/mnews/article/015/0005318557?sid=104) |
-| 07 Aug 2026 | 매일경제 | [中 휴머노이드 1위 유니트리 공모가 주당 150.8위안 확정](https://n.news.naver.com/mnews/article/009/0005718135?sid=101) |
-| 07 Aug 2026 | 서울경제 | [수억원 돈세탁해도…“자금출처 몰랐다” 잡아떼면 집유](https://n.news.naver.com/mnews/article/011/0004649651?sid=102) |
-| 07 Aug 2026 | 조세일보 | [연준 대신 채권시장이 긴축…내년 인하 가능성도 제기 [마켓프리즘]](https://n.news.naver.com/mnews/article/123/0002388028?sid=104) |
-| 07 Aug 2026 | 헤럴드경제 | [‘화성연쇄살인’ 20년 억울한 옥살이 피해자의 일침…檢 보완수사 폐지...](https://n.news.naver.com/mnews/article/016/0002681042?sid=102) |
-| 07 Aug 2026 | 이데일리 | [[마켓인]CJ대한통운, 동남아 법인 줄청산…해외사업 다이어트 속도](https://n.news.naver.com/mnews/article/018/0006347055?sid=101) |
-| 07 Aug 2026 | 매일경제 | [구윤철, ‘세금 폭탄’ 반박…“실거주 30억 이하 주택자, 양도·보유세...](https://n.news.naver.com/mnews/article/024/0000107406?sid=102) |
-| 07 Aug 2026 | 뉴스1 | [[인사] 대구시](https://n.news.naver.com/mnews/article/421/0009103106?sid=102) |
-| 07 Aug 2026 | 한국경제 | [SK하이닉스, 용인·청주에 54조 투자 확정](https://n.news.naver.com/mnews/article/015/0005318545?sid=101) |
-| 07 Aug 2026 | 연합뉴스 | [울산시, 기술보증기금 지점 추가 요청…기술금융 지원 확대 논의](https://n.news.naver.com/mnews/article/001/0016239732?sid=102) |
-| 07 Aug 2026 | 뉴시스 | [인천시설공단, 지방공기업 경영평가서 '우수' 등급](https://n.news.naver.com/mnews/article/003/0014115040?sid=102) |
-| 07 Aug 2026 | 서울경제 | [빈집 60%서 12%로…충주 구도심 살린 ‘키맨’](https://n.news.naver.com/mnews/article/011/0004649643?sid=101) |
+| 08 Aug 2026 | 연합뉴스 | [[전국 주요 신문 톱뉴스](8일 조간)](https://n.news.naver.com/mnews/article/001/0016239973?sid=102) |
+| 08 Aug 2026 | 연합뉴스 | [[주요 신문 사설](8일 조간)](https://n.news.naver.com/mnews/article/001/0016239974?sid=110) |
+| 08 Aug 2026 | 머니투데이 | ["GPU 빨리 바뀌는데"…눈가린 네이버, 감가상각 '5년→6년'](https://n.news.naver.com/mnews/article/008/0005397253?sid=105) |
+| 08 Aug 2026 | 머니투데이 | [대통령도 질타한 'ISA·주가누르기 방지' 稅개편안 어떻길래](https://n.news.naver.com/mnews/article/008/0005397251?sid=101) |
+| 08 Aug 2026 | 아시아경제 | [ISA엔 5년 족쇄, 주가누르기법엔 회피 구멍…정부안 질타한 李 "전면 재...](https://n.news.naver.com/mnews/article/277/0005800446?sid=100) |
+| 08 Aug 2026 | 뉴시스 | [미 온건한 쿠바 차기 지도자 물색중-NYT](https://n.news.naver.com/mnews/article/003/0014115326?sid=104) |
+| 08 Aug 2026 | 서울경제 | [구윤철 “非거주 1주택 예외규정 더 풀 수도”…세제개편 발표 4일만에...](https://n.news.naver.com/mnews/article/011/0004649787?sid=101) |
+| 08 Aug 2026 | 아시아경제 | [日 "한국 선박이 독도 주변 조사선 투입…강력 항의"](https://n.news.naver.com/mnews/article/277/0005800445?sid=104) |
+| 08 Aug 2026 | 한국경제 | [한국 '독도 해양조사' 딴지거는 日…"협의 없어 강한 유감"](https://n.news.naver.com/mnews/article/015/0005318689?sid=104) |
+| 08 Aug 2026 | 파이낸셜뉴스 | ["중국 의존 그만"...美, 핵심광물에 30억달러 투자](https://n.news.naver.com/mnews/article/014/0005558809?sid=104) |
+| 08 Aug 2026 | 뉴시스 | [진천군, 14일까지 '청년누리디딤사업' 참여자 모집](https://n.news.naver.com/mnews/article/003/0014115317?sid=102) |
+| 08 Aug 2026 | 한국경제 | ["한국이 이 정도라니"...충격 빠진 '일본'](https://n.news.naver.com/mnews/article/050/0000109448?sid=101) |
 
 
 ---
