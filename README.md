@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-08 05:37:03` (KST)
+> **업데이트:** `2026-08-08 08:31:20` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#재검토` `#홍준표` `#보완수사권` `#폐지` `#후회할` `#것부동산`
+`#이란` `#원유` `#수출` `#선적` `#모든` `#홍석천`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 08 Aug 2026 | 이데일리 | [홍준표, 李에 "보완수사권 폐지 큰 후회할 것…부동산 서민들만 고통"](https://n.news.naver.com/mnews/article/018/0006347552?sid=100) |
-| 08 Aug 2026 | 매일경제 | [“왜 그렇게 했나”…李대통령 질타 ‘ISA·주가누르기 방지법’ 재검토...](https://n.news.naver.com/mnews/article/009/0005718287?sid=100) |
-| 08 Aug 2026 | 뉴스1 | [이상일 시장, 다낭서 '반도체·AI 도시 용인' 알리고 한·베 우정 넓혔다](https://n.news.naver.com/mnews/article/421/0009103566?sid=102) |
-| 08 Aug 2026 | 뉴시스 | [사우디·튀르키예·파키스탄 뭉쳤다…중동 새 안보축 부상하나](https://n.news.naver.com/mnews/article/003/0014115535?sid=104) |
-| 08 Aug 2026 | 서울경제 | [서클은 왜 블록체인까지 만들었을까 [도예리의 디지털자산 노트]](https://n.news.naver.com/mnews/article/011/0004649817?sid=101) |
-| 08 Aug 2026 | 뉴스1 | [李 'ISA·주가누르기방지' 재검토 지시에 與 "적극 환영" 野 "무능력 민...](https://n.news.naver.com/mnews/article/421/0009103562?sid=100) |
-| 08 Aug 2026 | 한국경제 | [죄다 논밭이었는데…어떻게 강남권 대표 주거지 됐나](https://n.news.naver.com/mnews/article/015/0005318706?sid=101) |
-| 08 Aug 2026 | 이데일리 | [리센느 "포기하려던 순간도"… '전참시'서 진심 고백](https://m.entertain.naver.com/article/018/0006347547) |
-| 08 Aug 2026 | 한국경제 | [블랙핑크 10년, 멤버 합산 순자산 1975억…"K팝 걸그룹 최고"](https://n.news.naver.com/mnews/article/015/0005318705?sid=102) |
-| 08 Aug 2026 | 뉴시스 | ["1400억 투입해 촘촘한 복지망" 부안군, 맞춤형 정책](https://n.news.naver.com/mnews/article/003/0014115505?sid=102) |
-| 08 Aug 2026 | 아시아경제 | [월성원자력본부, 2027년도 '한수원 지원사업' 공모 실시…‘원전정비원...](https://n.news.naver.com/mnews/article/277/0005800469?sid=102) |
-| 08 Aug 2026 | 파이낸셜뉴스 | [구윤철 '비거주 1주택 예외 유연화'…세제개편안 보완 시사](https://n.news.naver.com/mnews/article/014/0005558830?sid=101) |
+| 08 Aug 2026 | 헤럴드경제 | [홍석천 “6개월마다 검사 받아”…질병청이 설명한 HIV 오해](https://n.news.naver.com/mnews/article/016/0002681180?sid=103) |
+| 08 Aug 2026 | 뉴시스 | [차가원 "○○○ 까면 주변 다 죽어"…전세금 미반환 속 녹취 폭로 파장](https://m.entertain.naver.com/article/003/0014115637) |
+| 08 Aug 2026 | 뉴시스 | [美 해상봉쇄에 이란 원유 수출 차질…하르그섬 선적 중단](https://n.news.naver.com/mnews/article/003/0014115636?sid=104) |
+| 08 Aug 2026 | 연합뉴스 | [[청주소식] 매월 10명 구직 청년 증명사진 지원](https://n.news.naver.com/mnews/article/001/0016240204?sid=102) |
+| 08 Aug 2026 | 헤럴드경제 | [“10년이면 된다더니 30년” 바뀐 세법에 당황한 사장님…보험사에서 계...](https://n.news.naver.com/mnews/article/016/0002681177?sid=101) |
+| 08 Aug 2026 | 이데일리 | [전임 시장 때 중단시킨 김포지속협, 민선 9기서 복원 시동](https://n.news.naver.com/mnews/article/018/0006347570?sid=100) |
+| 08 Aug 2026 | 뉴스1 | [美전술핵 배치 검토설에 野 "모든 선택지 검토" 與 "안보 선동"](https://n.news.naver.com/mnews/article/421/0009103620?sid=100) |
+| 08 Aug 2026 | 매일경제 | [홍준표 "이 대통령 큰 후회할 것, 모든 피해는 국민이"](https://n.news.naver.com/mnews/article/057/0001962662?sid=100) |
+| 08 Aug 2026 | 한국경제 | [통념 깼더니 돈방석 앉았다…1000원짜리 팔아 4000억 번 비결 [권용훈의...](https://n.news.naver.com/mnews/article/015/0005318719?sid=101) |
+| 08 Aug 2026 | 서울경제 | [독도는 우리땅인데…日 “조사, 사전 동의 받아라” 항의](https://n.news.naver.com/mnews/article/011/0004649833?sid=104) |
+| 08 Aug 2026 | 아시아경제 | ["내 분신이 '19금 대사' 읽더라"…日유명 성우들, 생성형 AI 무단 복제에...](https://n.news.naver.com/mnews/article/277/0005800487?sid=104) |
+| 08 Aug 2026 | 뉴스1 | ["美 해상 봉쇄에 이란 원유 수출 사실상 중단…하르그섬 선적 멈춰"](https://n.news.naver.com/mnews/article/421/0009103599?sid=104) |
 
 
 ---
