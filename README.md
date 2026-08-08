@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-08 01:04:04` (KST)
+> **업데이트:** `2026-08-08 05:37:03` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#주요` `#신문` `#조간` `#질타한` `#한국` `#독도`
+`#재검토` `#홍준표` `#보완수사권` `#폐지` `#후회할` `#것부동산`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 08 Aug 2026 | 연합뉴스 | [[전국 주요 신문 톱뉴스](8일 조간)](https://n.news.naver.com/mnews/article/001/0016239973?sid=102) |
-| 08 Aug 2026 | 연합뉴스 | [[주요 신문 사설](8일 조간)](https://n.news.naver.com/mnews/article/001/0016239974?sid=110) |
-| 08 Aug 2026 | 머니투데이 | ["GPU 빨리 바뀌는데"…눈가린 네이버, 감가상각 '5년→6년'](https://n.news.naver.com/mnews/article/008/0005397253?sid=105) |
-| 08 Aug 2026 | 머니투데이 | [대통령도 질타한 'ISA·주가누르기 방지' 稅개편안 어떻길래](https://n.news.naver.com/mnews/article/008/0005397251?sid=101) |
-| 08 Aug 2026 | 아시아경제 | [ISA엔 5년 족쇄, 주가누르기법엔 회피 구멍…정부안 질타한 李 "전면 재...](https://n.news.naver.com/mnews/article/277/0005800446?sid=100) |
-| 08 Aug 2026 | 뉴시스 | [미 온건한 쿠바 차기 지도자 물색중-NYT](https://n.news.naver.com/mnews/article/003/0014115326?sid=104) |
-| 08 Aug 2026 | 서울경제 | [구윤철 “非거주 1주택 예외규정 더 풀 수도”…세제개편 발표 4일만에...](https://n.news.naver.com/mnews/article/011/0004649787?sid=101) |
-| 08 Aug 2026 | 아시아경제 | [日 "한국 선박이 독도 주변 조사선 투입…강력 항의"](https://n.news.naver.com/mnews/article/277/0005800445?sid=104) |
-| 08 Aug 2026 | 한국경제 | [한국 '독도 해양조사' 딴지거는 日…"협의 없어 강한 유감"](https://n.news.naver.com/mnews/article/015/0005318689?sid=104) |
-| 08 Aug 2026 | 파이낸셜뉴스 | ["중국 의존 그만"...美, 핵심광물에 30억달러 투자](https://n.news.naver.com/mnews/article/014/0005558809?sid=104) |
-| 08 Aug 2026 | 뉴시스 | [진천군, 14일까지 '청년누리디딤사업' 참여자 모집](https://n.news.naver.com/mnews/article/003/0014115317?sid=102) |
-| 08 Aug 2026 | 한국경제 | ["한국이 이 정도라니"...충격 빠진 '일본'](https://n.news.naver.com/mnews/article/050/0000109448?sid=101) |
+| 08 Aug 2026 | 이데일리 | [홍준표, 李에 "보완수사권 폐지 큰 후회할 것…부동산 서민들만 고통"](https://n.news.naver.com/mnews/article/018/0006347552?sid=100) |
+| 08 Aug 2026 | 매일경제 | [“왜 그렇게 했나”…李대통령 질타 ‘ISA·주가누르기 방지법’ 재검토...](https://n.news.naver.com/mnews/article/009/0005718287?sid=100) |
+| 08 Aug 2026 | 뉴스1 | [이상일 시장, 다낭서 '반도체·AI 도시 용인' 알리고 한·베 우정 넓혔다](https://n.news.naver.com/mnews/article/421/0009103566?sid=102) |
+| 08 Aug 2026 | 뉴시스 | [사우디·튀르키예·파키스탄 뭉쳤다…중동 새 안보축 부상하나](https://n.news.naver.com/mnews/article/003/0014115535?sid=104) |
+| 08 Aug 2026 | 서울경제 | [서클은 왜 블록체인까지 만들었을까 [도예리의 디지털자산 노트]](https://n.news.naver.com/mnews/article/011/0004649817?sid=101) |
+| 08 Aug 2026 | 뉴스1 | [李 'ISA·주가누르기방지' 재검토 지시에 與 "적극 환영" 野 "무능력 민...](https://n.news.naver.com/mnews/article/421/0009103562?sid=100) |
+| 08 Aug 2026 | 한국경제 | [죄다 논밭이었는데…어떻게 강남권 대표 주거지 됐나](https://n.news.naver.com/mnews/article/015/0005318706?sid=101) |
+| 08 Aug 2026 | 이데일리 | [리센느 "포기하려던 순간도"… '전참시'서 진심 고백](https://m.entertain.naver.com/article/018/0006347547) |
+| 08 Aug 2026 | 한국경제 | [블랙핑크 10년, 멤버 합산 순자산 1975억…"K팝 걸그룹 최고"](https://n.news.naver.com/mnews/article/015/0005318705?sid=102) |
+| 08 Aug 2026 | 뉴시스 | ["1400억 투입해 촘촘한 복지망" 부안군, 맞춤형 정책](https://n.news.naver.com/mnews/article/003/0014115505?sid=102) |
+| 08 Aug 2026 | 아시아경제 | [월성원자력본부, 2027년도 '한수원 지원사업' 공모 실시…‘원전정비원...](https://n.news.naver.com/mnews/article/277/0005800469?sid=102) |
+| 08 Aug 2026 | 파이낸셜뉴스 | [구윤철 '비거주 1주택 예외 유연화'…세제개편안 보완 시사](https://n.news.naver.com/mnews/article/014/0005558830?sid=101) |
 
 
 ---
