@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-09 05:41:59` (KST)
+> **업데이트:** `2026-08-09 08:33:10` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#손질` `#세제` `#개편안` `#부동산` `#세제주가누르기` `#방지법`
+`#시장` `#대답만` `#하던` `#끝났다일잘러` `#에이전트에` `#맡겨야`
 
 ---
 
@@ -20,18 +20,17 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 09 Aug 2026 | 파이낸셜뉴스 | [與, 부동산 세제·주가누르기 방지법·ISA 정부안 대폭 손질](https://n.news.naver.com/mnews/article/014/0005558958?sid=100) |
-| 09 Aug 2026 | 연합뉴스 | [中희토류 상반기 대일수출 반토막…日, ODA로 공급망 다변화 대응](https://n.news.naver.com/mnews/article/001/0016240901?sid=104) |
-| 09 Aug 2026 | 서울경제 | [건보료 인상안 손질 늦어지는데…1분기 적자 4조원 육박](https://n.news.naver.com/mnews/article/011/0004649913?sid=103) |
-| 09 Aug 2026 | 뉴시스 | [변동성 커진 증시에…코스피 거래대금 올해 최저로 '뚝'](https://n.news.naver.com/mnews/article/003/0014116312?sid=101) |
-| 09 Aug 2026 | 매일경제 | [인도네시아 첫 슈퍼컴퓨터…그 속에 ‘K-AI’ 혈맥 흐른다](https://n.news.naver.com/mnews/article/009/0005718440?sid=101) |
-| 09 Aug 2026 | 이데일리 | [한정애 “세제 개편안, 8월 말 정리... 다양한 목소리 들을 것”](https://n.news.naver.com/mnews/article/018/0006348113?sid=100) |
-| 09 Aug 2026 | 뉴스1 | [北 "명사십리에 '인파십리'" 원산갈마 '관광 중심'으로 대대적 선전](https://n.news.naver.com/mnews/article/421/0009104236?sid=100) |
-| 09 Aug 2026 | 매일경제 | [“손주 돌보려고 집 비운건데, 세금 폭탄 맞나요?”…세제개편안에 쏟아...](https://n.news.naver.com/mnews/article/009/0005718433?sid=101) |
-| 09 Aug 2026 | 아시아경제 | [여당 "세제 개편안 8월말 정리…주택 공급, 서울시 협조 중요"](https://n.news.naver.com/mnews/article/277/0005800595?sid=100) |
-| 09 Aug 2026 | 파이낸셜뉴스 | [마통 연체율 가파른 상승…20대·60대 연체 '급증'](https://n.news.naver.com/mnews/article/014/0005558954?sid=101) |
-| 09 Aug 2026 | 뉴스1 | ["전쟁보다 무서운 폭염"…전세계 식료품값 '히트플레이션' 비상](https://n.news.naver.com/mnews/article/421/0009104228?sid=104) |
-| 09 Aug 2026 | 이데일리 | [[인터뷰] “애플, 엑스코드 문 열었다”…타사 AI 품은 개발 생태계](https://n.news.naver.com/mnews/article/018/0006348079?sid=103) |
+| 09 Aug 2026 | 매일경제 | [“대답만 하던 AI는 끝났다”…‘일잘러’ AI 에이전트에 맡겨야 할 업...](https://n.news.naver.com/mnews/article/009/0005718584?sid=105) |
+| 09 Aug 2026 | 매일경제 | ["2조 시장 잡아라"… 쑥쑥 크는 키즈 패션](https://n.news.naver.com/mnews/article/009/0005718579?sid=103) |
+| 09 Aug 2026 | 서울경제 | [계약서·도면 분석으로 허점 찾아…‘5년 분쟁’ SFA 승리 이끈 광장 [L...](https://n.news.naver.com/mnews/article/011/0004649946?sid=102) |
+| 09 Aug 2026 | 한국경제 | [[속보] 삼프로TV도 털렸다···계좌정보 등 앱 회원 46만여건 유출](https://n.news.naver.com/mnews/article/050/0000109483?sid=101) |
+| 09 Aug 2026 | 이데일리 | [[단독]외국인 대출 5.5조 '역대 최대'…커지는 연체 리스크](https://n.news.naver.com/mnews/article/018/0006348335?sid=101) |
+| 09 Aug 2026 | 한국경제 | ["빅3 신평사가 외면한 시장 도전…韓 비롯한 아시아 사업 확대"](https://n.news.naver.com/mnews/article/015/0005318831?sid=101) |
+| 09 Aug 2026 | 서울경제 | [“산단 입주규제 풀고 로봇·미래차 육성…행정통합도 서두를 것”](https://n.news.naver.com/mnews/article/011/0004649940?sid=102) |
+| 09 Aug 2026 | 아시아경제 | [구윤철 "전월세 안정 위해 주택공급 확대…금융 합리화도 추진"](https://n.news.naver.com/mnews/article/277/0005800632?sid=101) |
+| 09 Aug 2026 | 연합뉴스 | [전북도, '도민 먹거리 숙의기구' 발대식…정책 제안·토론](https://n.news.naver.com/mnews/article/001/0016241121?sid=102) |
+| 09 Aug 2026 | 뉴스1 | ["일·건강식이 장수 비결"…119세 코스타리카 할아버지, 세계 최고령 도...](https://n.news.naver.com/mnews/article/421/0009104464?sid=104) |
+| 09 Aug 2026 | 아시아경제 | [전한길, '출국금지 취소 소송' 패소…법원 "수사 차질 우려"](https://n.news.naver.com/mnews/article/277/0005800630?sid=102) |
 
 
 ---
