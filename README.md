@@ -1,36 +1,35 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-14 01:17:23` (KST)
+> **업데이트:** `2026-08-14 06:07:46` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#분이면` `#게임` `#하나` `#뚝딱` `#개발자` `#독점`
+`#가능할까` `#정기선` `#현대` `#회장` `#만에` `#환수`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,416.28원 |
-| **코스피 지수** | 6,895.98 |
+| **USD/KRW 환율** | 1,413.58원 |
+| **코스피 지수** | 6,954.13 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 14 Aug 2026 | 서울경제 | [“1분이면 게임 하나 뚝딱”…AI, 개발자 독점 깼다](https://n.news.naver.com/mnews/article/011/0004651758?sid=101) |
-| 14 Aug 2026 | 이데일리 | [용산공원 주택 꺼낸 靑…서울시 "1㎝도 안돼"](http://www.smedaily.co.kr/news/articleView.html?idxno=361768) |
-| 14 Aug 2026 | 이데일리 | [베선트 美재무 "이란에 전대미문 조치 취할 것" 경고](https://n.news.naver.com/mnews/article/018/0006351684?sid=104) |
-| 14 Aug 2026 | 헤럴드경제 | [“겁쟁이의 탈출”…트럼프 전용기 환승에 이란서 조롱밈 확산 [1일1트]](https://n.news.naver.com/mnews/article/016/0002683887?sid=104) |
-| 14 Aug 2026 | 연합뉴스 | [광주은행, 다문화가정 초등학생 지원 프로그램 운영](https://n.news.naver.com/mnews/article/001/0016251328?sid=101) |
-| 14 Aug 2026 | 뉴시스 | ["김장김치에 최고"…고창 해풍고추, 21~23일 직거래장터](https://n.news.naver.com/mnews/article/003/0014127490?sid=102) |
-| 14 Aug 2026 | 서울경제 | [동북아 첫 ‘트럼프 골프클럽’ 하남 조성 추진에…이현재 “사업 성공...](https://n.news.naver.com/mnews/article/011/0004651756?sid=102) |
-| 14 Aug 2026 | 뉴시스 | [전재수 첫 추경 '민생 회복'…6374억원 재정 투입](https://n.news.naver.com/mnews/article/003/0014127486?sid=102) |
-| 14 Aug 2026 | 조세일보 | [UAE "이란, 호르무즈서 국영석유사 선박 2척 공격"…인명피해 없어](https://n.news.naver.com/mnews/article/123/0002388405?sid=104) |
-| 14 Aug 2026 | 뉴스1 | [이제와 '핵 저지'는 2순위라는 美…밴스 "최우선목표 유가 안정"](https://n.news.naver.com/mnews/article/421/0009113841?sid=104) |
-| 14 Aug 2026 | 뉴스1 | [인구감소지역 영동군 "다양한 취득세 감면 혜택 시행"](https://n.news.naver.com/mnews/article/421/0009113838?sid=102) |
+| 14 Aug 2026 | 이데일리 | [스포츠산업은 도약이 가능할까](http://www.smedaily.co.kr/news/articleView.html?idxno=361816) |
+| 14 Aug 2026 | 뉴스1 | [산청 상능마을 주민 새 보금자리 윤곽…16세대 이주단지 조성](https://n.news.naver.com/mnews/article/421/0009114672?sid=102) |
+| 14 Aug 2026 | 서울경제 | [유엔사, 경비여단 창설 추진…안규백 “안 하기로 합의”](https://n.news.naver.com/mnews/article/011/0004651840?sid=100) |
+| 14 Aug 2026 | 뉴시스 | [伊시칠리아 화산 분화 일주일, 항공편 700편 결항](https://n.news.naver.com/mnews/article/003/0014128431?sid=104) |
+| 14 Aug 2026 | 뉴시스 | [[단독] 빌 게이츠 만난 정기선 HD현대 회장 "오랫동안 좋은 파트너십"](https://n.news.naver.com/mnews/article/003/0014128434?sid=101) |
+| 14 Aug 2026 | 아시아경제 | [강이슬 "3점슛은 한일 공통 무기…활동량에서 밀리지 않겠다"](https://m.sports.naver.com/basketball/article/277/0005803300) |
+| 14 Aug 2026 | 이데일리 | ['덕질'이 산업을 구한다…영토 넓히는 팬덤 비즈니스](https://n.news.naver.com/mnews/article/018/0006351896?sid=101) |
+| 14 Aug 2026 | 뉴스1 | [정기선 HD현대 회장, 빌 게이츠와 7개월 만에 재회…SMR 협력 논의](https://n.news.naver.com/mnews/article/421/0009114656?sid=101) |
+| 14 Aug 2026 | 연합뉴스 | [추미애 "경기도 빚 3배속으로 늘어…'회색 코뿔소' 코앞"](https://n.news.naver.com/mnews/article/001/0016252064?sid=102) |
+| 14 Aug 2026 | 아시아경제 | [친일재산 환수 16년 만에 재개…하영과 안상호 재산도 환수 가능할까](https://n.news.naver.com/mnews/article/277/0005803299?sid=102) |
 
 
 ---
