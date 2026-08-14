@@ -1,37 +1,36 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-13 09:04:44` (KST)
+> **업데이트:** `2026-08-14 01:17:23` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#지지율` `#유심히` `#대책` `#성과로` `#제약바이오` `#허가까지`
+`#분이면` `#게임` `#하나` `#뚝딱` `#개발자` `#독점`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,422.50원 |
-| **코스피 지수** | 6,813.34 |
+| **USD/KRW 환율** | 1,416.28원 |
+| **코스피 지수** | 6,895.98 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 13 Aug 2026 | 매일경제 | [K제약바이오 FDA 허가까지 가보자...‘신약 마라톤’ 완주할 체력 길러...](https://n.news.naver.com/mnews/article/009/0005720880?sid=105) |
-| 13 Aug 2026 | 한국경제 | [농협은행 '마을기업'에 1500억 저금리 대출 지원](https://n.news.naver.com/mnews/article/015/0005320692?sid=101) |
-| 13 Aug 2026 | 뉴스1 | [靑 "李대통령, 지지율 유심히 보는 중…부동산 대책 성과로 답 드리겠다...](https://n.news.naver.com/mnews/article/421/0009113119?sid=100) |
-| 13 Aug 2026 | 서울경제 | [반도체 ETF도 양극화…‘TOP2’로 자금 몰렸다](https://n.news.naver.com/mnews/article/011/0004651555?sid=101) |
-| 13 Aug 2026 | 한국경제 | [아세안 국가의 교육격차, 한국에게 '남의 나라 일'이 아닌 이유 [더 라이...](https://n.news.naver.com/mnews/article/015/0005320683?sid=110) |
-| 13 Aug 2026 | 매일경제 | [최대 관심사는 7.3만가구 입지 … 알짜 그린벨트 풀어야 '숨통'](https://n.news.naver.com/mnews/article/009/0005720878?sid=101) |
-| 13 Aug 2026 | 뉴시스 | [전쟁 속 인플레 80% 넘은 이란…기업들, 손해 감수하고 '외상 홍보'](https://n.news.naver.com/mnews/article/003/0014126749?sid=104) |
-| 13 Aug 2026 | 뉴시스 | [태백시 '스마트 축산단지' 공모사업 추진…찬반양론](https://n.news.naver.com/mnews/article/003/0014126745?sid=102) |
-| 13 Aug 2026 | 이데일리 | [디에이치방배 입주자는 한숨 돌렸지만.... 일반 주담대 오픈런도 사라질...](https://n.news.naver.com/mnews/article/018/0006351355?sid=101) |
-| 13 Aug 2026 | 머니투데이 | [靑 "지지율 유심히 보고 있어…부동산 대책 성과로 답 드릴 것"](https://n.news.naver.com/mnews/article/008/0005399937?sid=100) |
-| 13 Aug 2026 | 연합뉴스 | ['AI 시대 외로움 해법은'…KAIST서 18일 글로벌 콘퍼런스](https://n.news.naver.com/mnews/article/001/0016250688?sid=105) |
-| 13 Aug 2026 | 아시아경제 | [대검, 4주간 공소청 체제 시범 운영키로](https://n.news.naver.com/mnews/article/277/0005802904?sid=102) |
+| 14 Aug 2026 | 서울경제 | [“1분이면 게임 하나 뚝딱”…AI, 개발자 독점 깼다](https://n.news.naver.com/mnews/article/011/0004651758?sid=101) |
+| 14 Aug 2026 | 이데일리 | [용산공원 주택 꺼낸 靑…서울시 "1㎝도 안돼"](http://www.smedaily.co.kr/news/articleView.html?idxno=361768) |
+| 14 Aug 2026 | 이데일리 | [베선트 美재무 "이란에 전대미문 조치 취할 것" 경고](https://n.news.naver.com/mnews/article/018/0006351684?sid=104) |
+| 14 Aug 2026 | 헤럴드경제 | [“겁쟁이의 탈출”…트럼프 전용기 환승에 이란서 조롱밈 확산 [1일1트]](https://n.news.naver.com/mnews/article/016/0002683887?sid=104) |
+| 14 Aug 2026 | 연합뉴스 | [광주은행, 다문화가정 초등학생 지원 프로그램 운영](https://n.news.naver.com/mnews/article/001/0016251328?sid=101) |
+| 14 Aug 2026 | 뉴시스 | ["김장김치에 최고"…고창 해풍고추, 21~23일 직거래장터](https://n.news.naver.com/mnews/article/003/0014127490?sid=102) |
+| 14 Aug 2026 | 서울경제 | [동북아 첫 ‘트럼프 골프클럽’ 하남 조성 추진에…이현재 “사업 성공...](https://n.news.naver.com/mnews/article/011/0004651756?sid=102) |
+| 14 Aug 2026 | 뉴시스 | [전재수 첫 추경 '민생 회복'…6374억원 재정 투입](https://n.news.naver.com/mnews/article/003/0014127486?sid=102) |
+| 14 Aug 2026 | 조세일보 | [UAE "이란, 호르무즈서 국영석유사 선박 2척 공격"…인명피해 없어](https://n.news.naver.com/mnews/article/123/0002388405?sid=104) |
+| 14 Aug 2026 | 뉴스1 | [이제와 '핵 저지'는 2순위라는 美…밴스 "최우선목표 유가 안정"](https://n.news.naver.com/mnews/article/421/0009113841?sid=104) |
+| 14 Aug 2026 | 뉴스1 | [인구감소지역 영동군 "다양한 취득세 감면 혜택 시행"](https://n.news.naver.com/mnews/article/421/0009113838?sid=102) |
 
 
 ---
