@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-23 00:53:40` (KST)
+> **업데이트:** `2026-08-23 05:21:53` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#도널드` `#트럼프` `#대통령` `#한미` `#연합훈련` `#대폭`
+`#사망보험금도` `#맞춤형` `#상속청구권` `#신탁` `#관심` `#커진다`
 
 ---
 
@@ -20,18 +20,15 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 23 Aug 2026 | 한국경제 | [도널드 트럼프 美 대통령 "한·미 연합훈련 대폭 축소…김정은과 매우 ...](https://n.news.naver.com/mnews/article/050/0000109979?sid=101) |
-| 23 Aug 2026 | 한국경제 | [용산공원 아파트 논쟁…그들이 말하지 않는 것[안재광의 천만의 동네]](https://n.news.naver.com/mnews/article/050/0000109978?sid=101) |
-| 23 Aug 2026 | 파이낸셜뉴스 | [에어부산 사명 사라진다…통합 LCC 내년 3월 17일 출범](https://n.news.naver.com/mnews/article/014/0005564974?sid=101) |
-| 23 Aug 2026 | 매일경제 | [남다른 비주얼…‘우지원 딸’ 우서윤, 미스코리아 ‘진’ 당선](https://m.entertain.naver.com/article/009/0005724413) |
-| 23 Aug 2026 | 뉴스1 | [KT·서울시, 'AI 미래 캠프' 개최](https://n.news.naver.com/mnews/article/421/0009127328?sid=105) |
-| 23 Aug 2026 | 이데일리 | [윤상현 "국힘에 필요한 건 뺄셈 아닌 덧셈정치"](https://n.news.naver.com/mnews/article/018/0006356312?sid=100) |
-| 23 Aug 2026 | 헤럴드경제 | [美 50% 관세 폭탄에 캐나다도 맞불…“우린 전쟁 중”](https://n.news.naver.com/mnews/article/016/0002687117?sid=104) |
-| 23 Aug 2026 | 매일경제 | [“몸값 2760조, 역대급 IPO 온다”…앤트로픽, 스페이스X 뛰어넘을까](https://n.news.naver.com/mnews/article/009/0005724411?sid=101) |
-| 23 Aug 2026 | 머니투데이 | [韓, APEC 보건협력 5년 계획 수립 주도…건강한 고령화 행동계획 승인](https://n.news.naver.com/mnews/article/008/0005403347?sid=101) |
-| 23 Aug 2026 | 연합뉴스 | [경북 안동서 '코리아 그랜드 페스티벌' 막 오른다](https://n.news.naver.com/mnews/article/001/0016265221?sid=102) |
-| 23 Aug 2026 | 아시아경제 | [글로벌영농조합법인 정경훈 대표이사, 국세청장 공로상 받아](https://n.news.naver.com/mnews/article/277/0005806042?sid=102) |
-| 23 Aug 2026 | 이데일리 | ["챗GPT 써도 됩니다”…금감원 직원들도 업무 중 생성형 AI 활용](https://n.news.naver.com/mnews/article/018/0006356302?sid=101) |
+| 23 Aug 2026 | 머니투데이 | [사망보험금도 '맞춤형 상속'…청구권 신탁 관심 커진다](https://n.news.naver.com/mnews/article/008/0005403426?sid=101) |
+| 23 Aug 2026 | 아시아경제 | ['우지원 딸' 우서윤, 미스코리아 진(眞) 선발됐다](https://n.news.naver.com/mnews/article/277/0005806117?sid=102) |
+| 23 Aug 2026 | 한국경제 | [한불수교 140주년, 거대담론 넘어 '공생'으로…서로의 행복에 무엇을 더...](https://n.news.naver.com/mnews/article/015/0005323604?sid=110) |
+| 23 Aug 2026 | 뉴스1 | ["어디로 가야하죠"…거제 임시 대피소 마지막 날 막막한 이재민들](https://n.news.naver.com/mnews/article/421/0009127661?sid=102) |
+| 23 Aug 2026 | 파이낸셜뉴스 | [4자회담 뒤 유엔사 해체·DMZ 관할권 대두..통일부 "쟁점 아냐" 회피](https://n.news.naver.com/mnews/article/014/0005565042?sid=100) |
+| 23 Aug 2026 | 아시아경제 | ["2차 공공기관 이전 대구 차별받을 지 모른다" 우려…대구경제계, 공정...](https://n.news.naver.com/mnews/article/277/0005806115?sid=102) |
+| 23 Aug 2026 | 이데일리 | ["한국 경제 체질 바꿀 'K실리콘밸리' 조성, 유니콘 기업 100개 만들 것"](https://n.news.naver.com/mnews/article/018/0006356415?sid=101) |
+| 23 Aug 2026 | 뉴스1 | [美·캐나다 무역협상 막판 결렬…'관세폭탄'에 전면전 치닫는 무역갈등](https://n.news.naver.com/mnews/article/421/0009127649?sid=104) |
+| 23 Aug 2026 | 한국경제 | [아세안의 새로운 실험, 동티모르…한국도 '동반자'가 된다면 [더 라이프...](https://n.news.naver.com/mnews/article/015/0005323598?sid=110) |
 
 
 ---
