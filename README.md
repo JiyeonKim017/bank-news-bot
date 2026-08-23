@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-08-22 08:19:47` (KST)
+> **업데이트:** `2026-08-23 00:53:40` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#캐나다` `#사상` `#정부` `#조엔` `#이현이` `#전교`
+`#도널드` `#트럼프` `#대통령` `#한미` `#연합훈련` `#대폭`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 22 Aug 2026 | 뉴시스 | [이현이, 전교 1등 모범생이었는데…"집에선 패악질, 굿까지 할 뻔"](https://m.entertain.naver.com/article/003/0014141790) |
-| 22 Aug 2026 | 연합뉴스 | [러 폭격에 이틀째 우크라 사상자 속출…민간인 사망 70%↑](https://n.news.naver.com/mnews/article/001/0016264886?sid=104) |
-| 22 Aug 2026 | 한국경제 | [美·캐나다 '무역전쟁' 터졌다…50% 관세 폭탄에 맞대응 예고](https://n.news.naver.com/mnews/article/015/0005323516?sid=101) |
-| 22 Aug 2026 | 매일경제 | [20주년 앞두고…폭우에 사상 첫 취소 결정한 거제섬꽃축제 [제철축제]](https://n.news.naver.com/mnews/article/009/0005724343?sid=103) |
-| 22 Aug 2026 | 매일경제 | [AI 데이터 쌓일수록 웃는 HDD 강자 [미장보석주]](https://n.news.naver.com/mnews/article/024/0000107725?sid=101) |
-| 22 Aug 2026 | 헤럴드경제 | [日정부 ‘돈 풀기’ 나선다…예산요구 사상 첫 130조엔 돌파 전망](https://n.news.naver.com/mnews/article/016/0002687020?sid=104) |
-| 22 Aug 2026 | 머니투데이 | ['버닝썬' 승리 근황...살 오른 모습에 옅은 미소](https://n.news.naver.com/mnews/article/008/0005403271?sid=102) |
-| 22 Aug 2026 | 서울경제 | [“이거 북한 맞아?” 샤넬 가방에 오메가 시계까지…확 달라진 요즘 평...](https://n.news.naver.com/mnews/article/011/0004654132?sid=104) |
-| 22 Aug 2026 | 뉴시스 | [AI 의존 괜찮나…"Z세대 이용자 70%, 고민·속마음 털어놔"](https://n.news.naver.com/mnews/article/003/0014141765?sid=102) |
-| 22 Aug 2026 | 서울경제 | [日 예산 요구액 첫 130조엔 돌파…4년 연속 최대 경신](https://n.news.naver.com/mnews/article/011/0004654131?sid=104) |
-| 22 Aug 2026 | 헤럴드경제 | [“혈세 마음대로 쓰겠다는 선언”…국힘, 정부 미래대응기금에 반발[이...](https://n.news.naver.com/mnews/article/016/0002687016?sid=100) |
-| 22 Aug 2026 | 연합뉴스 | [미·캐나다 무역협상 결렬…일부 캐나다 수입품 50% 관세(종합)](https://n.news.naver.com/mnews/article/001/0016264875?sid=104) |
+| 23 Aug 2026 | 한국경제 | [도널드 트럼프 美 대통령 "한·미 연합훈련 대폭 축소…김정은과 매우 ...](https://n.news.naver.com/mnews/article/050/0000109979?sid=101) |
+| 23 Aug 2026 | 한국경제 | [용산공원 아파트 논쟁…그들이 말하지 않는 것[안재광의 천만의 동네]](https://n.news.naver.com/mnews/article/050/0000109978?sid=101) |
+| 23 Aug 2026 | 파이낸셜뉴스 | [에어부산 사명 사라진다…통합 LCC 내년 3월 17일 출범](https://n.news.naver.com/mnews/article/014/0005564974?sid=101) |
+| 23 Aug 2026 | 매일경제 | [남다른 비주얼…‘우지원 딸’ 우서윤, 미스코리아 ‘진’ 당선](https://m.entertain.naver.com/article/009/0005724413) |
+| 23 Aug 2026 | 뉴스1 | [KT·서울시, 'AI 미래 캠프' 개최](https://n.news.naver.com/mnews/article/421/0009127328?sid=105) |
+| 23 Aug 2026 | 이데일리 | [윤상현 "국힘에 필요한 건 뺄셈 아닌 덧셈정치"](https://n.news.naver.com/mnews/article/018/0006356312?sid=100) |
+| 23 Aug 2026 | 헤럴드경제 | [美 50% 관세 폭탄에 캐나다도 맞불…“우린 전쟁 중”](https://n.news.naver.com/mnews/article/016/0002687117?sid=104) |
+| 23 Aug 2026 | 매일경제 | [“몸값 2760조, 역대급 IPO 온다”…앤트로픽, 스페이스X 뛰어넘을까](https://n.news.naver.com/mnews/article/009/0005724411?sid=101) |
+| 23 Aug 2026 | 머니투데이 | [韓, APEC 보건협력 5년 계획 수립 주도…건강한 고령화 행동계획 승인](https://n.news.naver.com/mnews/article/008/0005403347?sid=101) |
+| 23 Aug 2026 | 연합뉴스 | [경북 안동서 '코리아 그랜드 페스티벌' 막 오른다](https://n.news.naver.com/mnews/article/001/0016265221?sid=102) |
+| 23 Aug 2026 | 아시아경제 | [글로벌영농조합법인 정경훈 대표이사, 국세청장 공로상 받아](https://n.news.naver.com/mnews/article/277/0005806042?sid=102) |
+| 23 Aug 2026 | 이데일리 | ["챗GPT 써도 됩니다”…금감원 직원들도 업무 중 생성형 AI 활용](https://n.news.naver.com/mnews/article/018/0006356302?sid=101) |
 
 
 ---
