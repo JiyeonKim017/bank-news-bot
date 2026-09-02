@@ -1,37 +1,35 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-09-02 02:17:22` (KST)
+> **업데이트:** `2026-09-02 09:13:25` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#한은` `#금리인상` `#공급망` `#신현송` `#총재` `#호황을`
+`#초기` `#비효율` `#견뎌야` `#커브` `#올라타` `#토큰`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,370.57원 |
-| **코스피 지수** | 6,625.95 |
+| **USD/KRW 환율** | 1,364.88원 |
+| **코스피 지수** | 6,562.72 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 02 Sep 2026 | 헤럴드경제 | [신현송 한은 총재 “AI 호황을 인구대응 기회로”](https://n.news.naver.com/mnews/article/016/0002691717?sid=101) |
-| 02 Sep 2026 | 헤럴드경제 | [우리아이펀드도 하루 차로 2280만원 vs 0원](https://n.news.naver.com/mnews/article/016/0002691711?sid=101) |
-| 02 Sep 2026 | 연합뉴스 | [인제군, 고향사랑기부금 1호 사업 '시티투어' 4일 첫선](https://n.news.naver.com/mnews/article/001/0016284851?sid=103) |
-| 02 Sep 2026 | 연합뉴스 | [9월 日금리인상 확률 94%…일은총재 "금리인상 제대로 논의"](https://n.news.naver.com/mnews/article/001/0016284840?sid=104) |
-| 02 Sep 2026 | 조세일보 | [한은·CEPR·OECD 공동 컨퍼런스…저출생·고령화 통념 흔든 연구 쏟아져](https://n.news.naver.com/mnews/article/123/0002389464?sid=101) |
-| 02 Sep 2026 | 뉴스1 | ['트럼프와 투샷' 1.2억원…중간선거 초조한 공화당의 모금 총력전](https://n.news.naver.com/mnews/article/421/0009146024?sid=104) |
-| 02 Sep 2026 | 매일경제 | [민주 "내년 예산은 담대한 투자…국힘, 국민 불안만 부추겨"](https://n.news.naver.com/mnews/article/057/0001966837?sid=100) |
-| 02 Sep 2026 | 뉴시스 | [제주 로컬 브랜드 14개사, 서울 성수동서 소비자 만난다](https://n.news.naver.com/mnews/article/003/0014163688?sid=102) |
-| 02 Sep 2026 | 파이낸셜뉴스 | [한·호주 경제계, 전략적 동반자 관계 강화… 핵심광물·AI·방산협력 확...](https://n.news.naver.com/mnews/article/014/0005569864?sid=101) |
-| 02 Sep 2026 | 이데일리 | [장경덕의 정글노믹스(227) 앤트로픽 IPO, 제2차 AI 세계대전의 포성](http://www.smedaily.co.kr/news/articleView.html?idxno=362541) |
-| 02 Sep 2026 | 매일경제 | [세종 찾은 김민석 “행정수도 법적 기반 완성…특별법 연내 처리 검토”](https://n.news.naver.com/mnews/article/009/0005729159?sid=100) |
-| 02 Sep 2026 | 이데일리 | [한·일 공급망 파트너십 본격 가동…"핵심광물·에너지 공급망 공조"](https://n.news.naver.com/mnews/article/018/0006362280?sid=101) |
+| 02 Sep 2026 | 파이낸셜뉴스 | ["AX, 초기 비효율 견뎌야 'J커브' 올라타"](https://n.news.naver.com/mnews/article/014/0005570175?sid=105) |
+| 02 Sep 2026 | 파이낸셜뉴스 | ['토큰 팩토리' 띄우는 KT… AI 사용량으로 수익 낸다](https://n.news.naver.com/mnews/article/014/0005570176?sid=105) |
+| 02 Sep 2026 | 매일경제 | [오진욱 리벨리온 공동창업자 “젠슨 황 만나 ‘엔비디아에 반란’…황...](https://n.news.naver.com/mnews/article/009/0005729586?sid=105) |
+| 02 Sep 2026 | 이데일리 | [한국앤컴퍼니, 저소득 가정에 EV5 등 친환경차 지원](https://n.news.naver.com/mnews/article/018/0006362588?sid=101) |
+| 02 Sep 2026 | 매일경제 | [野, 김승원 로비문자 꺼내 낙마 총력전 … 용혜인엔 특혜 논란 공세](https://n.news.naver.com/mnews/article/009/0005729574?sid=100) |
+| 02 Sep 2026 | 서울경제 | [레버리지 ETF 후폭풍…與 “금융위 조직개편 재논의”](https://n.news.naver.com/mnews/article/011/0004657966?sid=100) |
+| 02 Sep 2026 | 뉴시스 | [은지향·임희윤 "누군가는 먼저 음악을 들어야 한다"…알고리즘 시대, ...](https://m.entertain.naver.com/article/003/0014165273) |
+| 02 Sep 2026 | 뉴스1 | [김동원 국민의힘 충북도당위원장 취임 "일방독주 도정 저지"](https://n.news.naver.com/mnews/article/421/0009147456?sid=102) |
+| 02 Sep 2026 | 서울경제 | [“식약처 로비” “용혜인 부부당”…野 청문회 검증공세 불붙다](https://n.news.naver.com/mnews/article/011/0004657965?sid=100) |
+| 02 Sep 2026 | 뉴스1 | [獨산업계, 주 35시간→40시간 추진…"높은 인건비로 경쟁력 약화"](https://n.news.naver.com/mnews/article/421/0009147452?sid=104) |
 
 
 ---
