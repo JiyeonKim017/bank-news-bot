@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-09-11 02:23:01` (KST)
+> **업데이트:** `2026-09-11 09:17:32` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#만든다` `#식품업계` `#꿈의` `#무대` `#코스트코` `#뚫어이젠`
+`#도박` `#신안` `#군민` `#인당` `#만원` `#민생안정지원금일부터`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,346.48원 |
-| **코스피 지수** | 6,853.79 |
+| **USD/KRW 환율** | 1,343.09원 |
+| **코스피 지수** | 6,909.91 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 11 Sep 2026 | 헤럴드경제 | [“식품업계 ‘꿈의 무대’ 美코스트코 뚫어…이젠 해외서 승부 건다”](https://n.news.naver.com/mnews/article/016/0002695958?sid=101) |
-| 11 Sep 2026 | 매일경제 | [[단독] 두나무·서울대 경영대, 청년 창업가에 ‘강남 사무실’ 제공한...](https://n.news.naver.com/mnews/article/009/0005733807?sid=102) |
-| 11 Sep 2026 | 뉴시스 | [서울·방콕 청소년 60명, '감사의 정원' 방문…문화 교류 활동](https://n.news.naver.com/mnews/article/003/0014184281?sid=102) |
-| 11 Sep 2026 | 뉴시스 | [美 "보충할 능력 없다"더니…이란, 지하서 미사일 다시 만든다](https://n.news.naver.com/mnews/article/003/0014184284?sid=104) |
-| 11 Sep 2026 | 헤럴드경제 | [“LG 테크페어 ‘LG판 CES’로 만든다”](https://n.news.naver.com/mnews/article/016/0002695956?sid=101) |
-| 11 Sep 2026 | 뉴스1 | [신세경은 '400억 삼성동' 변우석은 '130억 한남동'…연예계 부동산 큰손...](https://n.news.naver.com/mnews/article/421/0009164749?sid=101) |
-| 11 Sep 2026 | 서울경제 | [SNT, 자동차부품·방산 3대 사업군 R&amp;D 고도화](https://n.news.naver.com/mnews/article/011/0004660857?sid=102) |
-| 11 Sep 2026 | 매일경제 | [폭행·가슴 상처 호소에도 ‘학폭 아님’…경찰은 잇단 송치](https://n.news.naver.com/mnews/article/009/0005733804?sid=102) |
-| 11 Sep 2026 | 연합뉴스 | [[인사] 아시아경제](https://n.news.naver.com/mnews/article/001/0016304375?sid=102) |
-| 11 Sep 2026 | 머니투데이 | ['리더급 국가과학기술자' 20人 첫 공모 착수… 선정 기준은?](https://n.news.naver.com/mnews/article/008/0005412444?sid=105) |
-| 11 Sep 2026 | 아시아경제 | [애니브릿지·퓨리오사AI, NPU 기반 기업용 AI 에이전트 플랫폼 공동 개발](https://n.news.naver.com/mnews/article/277/0005815094?sid=101) |
-| 11 Sep 2026 | 뉴스1 | ["물가·안전·의료 꼼꼼히"…원주시, 추석 연휴 종합대책 추진](https://n.news.naver.com/mnews/article/421/0009164736?sid=102) |
+| 11 Sep 2026 | 아시아경제 | [신안 군민 1인당 10만원 민생안정지원금…14일부터 신청](https://n.news.naver.com/mnews/article/277/0005815277?sid=102) |
+| 11 Sep 2026 | 연합뉴스 | [HSBC "도시농민공 저축률 54%…9%p 낮추면 연127조원 소비 늘어"](https://n.news.naver.com/mnews/article/001/0016305473?sid=104) |
+| 11 Sep 2026 | 한국경제 | ['20%대 지지율 걱정' 김어준 "용혜인 얘기 들어봐야" 엄호](https://n.news.naver.com/mnews/article/015/0005331455?sid=102) |
+| 11 Sep 2026 | 매일경제 | ["양도소득 많은 사람 세금 더 많이 내줘야"](https://n.news.naver.com/mnews/article/009/0005734089?sid=100) |
+| 11 Sep 2026 | 뉴스1 | [두 살 아들 학대·방치 숨지게 한 20대 부부 무기징역·징역 18년 구형](https://n.news.naver.com/mnews/article/421/0009165755?sid=102) |
+| 11 Sep 2026 | 서울경제 | [“주니어 120명 육성 공로”…아쿠쉬네트 코리아 ‘종합대상’[대한민국...](https://m.sports.naver.com/golf/article/011/0004661004) |
+| 11 Sep 2026 | 매일경제 | [美 파병 압박 속 … 李 "지금은 우리가 힘 키울때"](https://n.news.naver.com/mnews/article/009/0005734090?sid=100) |
+| 11 Sep 2026 | 헤럴드경제 | [“MC몽, ‘9억 도박’ 이진호에 5억 빌려줘”…‘이진호 도박’ 제보자...](https://m.entertain.naver.com/article/016/0002696158) |
+| 11 Sep 2026 | 헤럴드경제 | [“AI 보다 금리”…美 10년물 5% 위협에 ‘증시잣대’ 급속전환](https://n.news.naver.com/mnews/article/016/0002696157?sid=104) |
+| 11 Sep 2026 | 서울경제 | [“고액자산가, 롱쇼트펀드·ELS 늘려…‘약달러·절세’ 브라질채권 관...](https://n.news.naver.com/mnews/article/011/0004661001?sid=101) |
+| 11 Sep 2026 | 한국경제 | [화우, '기업 법무실무 노하우 공유' 사내변호사 강좌 열어 [로앤비즈 브...](https://n.news.naver.com/mnews/article/015/0005331452?sid=102) |
+| 11 Sep 2026 | 뉴스1 | [韓총리 이끄는 UN해양총회 준비위 출범…2028 개최지 부산 확정](https://n.news.naver.com/mnews/article/421/0009165753?sid=100) |
 
 
 ---
