@@ -1,37 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-09-10 09:18:53` (KST)
+> **업데이트:** `2026-09-11 02:23:01` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#장관` `#가입` `#의견` `#설레는` `#하트` `#세리머니`
+`#만든다` `#식품업계` `#꿈의` `#무대` `#코스트코` `#뚫어이젠`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,341.06원 |
-| **코스피 지수** | 7,033.92 |
+| **USD/KRW 환율** | 1,346.48원 |
+| **코스피 지수** | 6,853.79 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 10 Sep 2026 | 서울경제 | [“설레는 첫 AG서 ‘하트 세리머니’ 할래요”](https://n.news.naver.com/mnews/article/011/0004660681?sid=104) |
-| 10 Sep 2026 | 파이낸셜뉴스 | [[fn이사람] "향부터 소리까지… 기억에 남는 브랜드 공간 디자인하죠"](https://n.news.naver.com/mnews/article/014/0005574145?sid=101) |
-| 10 Sep 2026 | 뉴스1 | [러 모스크바 군관구, 드론 요격부대 창설…우크라 공격 강화 대응](https://n.news.naver.com/mnews/article/421/0009163827?sid=104) |
-| 10 Sep 2026 | 머니투데이 | [예산부터 농협개혁까지…송미령이 밝힌 하반기 농정 해법](https://n.news.naver.com/mnews/article/008/0005412222?sid=101) |
-| 10 Sep 2026 | 한국경제 | [첨단기술 유출 막는다…경찰·산학계 머리 맞대](https://n.news.naver.com/mnews/article/015/0005331051?sid=102) |
-| 10 Sep 2026 | 파이낸셜뉴스 | [노인 어지럼증, 재활훈련으로 개선…집에서 '주시 안정 운동' 하세요](https://n.news.naver.com/mnews/article/014/0005574137?sid=103) |
-| 10 Sep 2026 | 서울경제 | [[기자의 눈] 명목 GDP가 던진 질문](https://n.news.naver.com/mnews/article/011/0004660677?sid=101) |
-| 10 Sep 2026 | 뉴스1 | [송미령 장관 "CPTPP 가입 전제 논의아냐…농업계 의견 충분히 들을 것"](https://n.news.naver.com/mnews/article/421/0009163823?sid=102) |
-| 10 Sep 2026 | 뉴시스 | [황종우 해수부 장관, 내수면 양식업계 만나 CPTPP 가입 의견 청취](https://n.news.naver.com/mnews/article/003/0014183315?sid=101) |
-| 10 Sep 2026 | 뉴시스 | ['호르무즈 상황 파악' 현지조사단 오늘 귀국…NSC 결과 보고 전망(종합...](https://n.news.naver.com/mnews/article/003/0014183313?sid=100) |
-| 10 Sep 2026 | 한국경제 | [稅혜택 앞세운 카자흐, '테크 허브'로 급부상](https://n.news.naver.com/mnews/article/015/0005331044?sid=104) |
-| 10 Sep 2026 | 조세일보 | [박홍근 "내년도 예산에 1.3兆 지역의료 특별회계 신설"](https://n.news.naver.com/mnews/article/123/0002389975?sid=101) |
+| 11 Sep 2026 | 헤럴드경제 | [“식품업계 ‘꿈의 무대’ 美코스트코 뚫어…이젠 해외서 승부 건다”](https://n.news.naver.com/mnews/article/016/0002695958?sid=101) |
+| 11 Sep 2026 | 매일경제 | [[단독] 두나무·서울대 경영대, 청년 창업가에 ‘강남 사무실’ 제공한...](https://n.news.naver.com/mnews/article/009/0005733807?sid=102) |
+| 11 Sep 2026 | 뉴시스 | [서울·방콕 청소년 60명, '감사의 정원' 방문…문화 교류 활동](https://n.news.naver.com/mnews/article/003/0014184281?sid=102) |
+| 11 Sep 2026 | 뉴시스 | [美 "보충할 능력 없다"더니…이란, 지하서 미사일 다시 만든다](https://n.news.naver.com/mnews/article/003/0014184284?sid=104) |
+| 11 Sep 2026 | 헤럴드경제 | [“LG 테크페어 ‘LG판 CES’로 만든다”](https://n.news.naver.com/mnews/article/016/0002695956?sid=101) |
+| 11 Sep 2026 | 뉴스1 | [신세경은 '400억 삼성동' 변우석은 '130억 한남동'…연예계 부동산 큰손...](https://n.news.naver.com/mnews/article/421/0009164749?sid=101) |
+| 11 Sep 2026 | 서울경제 | [SNT, 자동차부품·방산 3대 사업군 R&amp;D 고도화](https://n.news.naver.com/mnews/article/011/0004660857?sid=102) |
+| 11 Sep 2026 | 매일경제 | [폭행·가슴 상처 호소에도 ‘학폭 아님’…경찰은 잇단 송치](https://n.news.naver.com/mnews/article/009/0005733804?sid=102) |
+| 11 Sep 2026 | 연합뉴스 | [[인사] 아시아경제](https://n.news.naver.com/mnews/article/001/0016304375?sid=102) |
+| 11 Sep 2026 | 머니투데이 | ['리더급 국가과학기술자' 20人 첫 공모 착수… 선정 기준은?](https://n.news.naver.com/mnews/article/008/0005412444?sid=105) |
+| 11 Sep 2026 | 아시아경제 | [애니브릿지·퓨리오사AI, NPU 기반 기업용 AI 에이전트 플랫폼 공동 개발](https://n.news.naver.com/mnews/article/277/0005815094?sid=101) |
+| 11 Sep 2026 | 뉴스1 | ["물가·안전·의료 꼼꼼히"…원주시, 추석 연휴 종합대책 추진](https://n.news.naver.com/mnews/article/421/0009164736?sid=102) |
 
 
 ---
