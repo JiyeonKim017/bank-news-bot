@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-09-20 02:45:20` (KST)
+> **업데이트:** `2026-09-20 09:32:40` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#지역격차청년인구감소` `#해법` `#찾는다` `#사회적가치` `#페스타` `#나갈`
+`#커피` `#북극권` `#활용` `#협력한미일` `#이달` `#한잔`
 
 ---
 
@@ -20,18 +20,14 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 20 Sep 2026 | 이데일리 | ["지역격차·청년·인구감소 해법 찾는다"…SOVAC, 사회적가치 페스타 참...](https://n.news.naver.com/mnews/article/018/0006372862?sid=101) |
-| 20 Sep 2026 | 뉴스1 | ["나갈 돈이 없네"…고물가에 지친 미국인들, 결국 '집콕·방콕'](https://n.news.naver.com/mnews/article/421/0009181070?sid=104) |
-| 20 Sep 2026 | 뉴스1 | [쿠팡, 인천 물류센터 화재지역에 45억 지원 "지역사회 회복 총력"](https://n.news.naver.com/mnews/article/421/0009181065?sid=101) |
-| 20 Sep 2026 | 이데일리 | [한미 대주주 갈등 파국…형사고발까지 번져](http://www.smedaily.co.kr/news/articleView.html?idxno=363510) |
-| 20 Sep 2026 | 한국경제 | [사람 없는 무대에 관객 몰렸다…AI 아이돌 첫 오프라인 공연 [차이나 워...](https://n.news.naver.com/mnews/article/015/0005334238?sid=101) |
-| 20 Sep 2026 | 파이낸셜뉴스 | ['5명째 낙마' 청와대 인사검증 논란 지속…정책실장 공석 장기화](https://n.news.naver.com/mnews/article/014/0005578342?sid=100) |
-| 20 Sep 2026 | 머니투데이 | [카카오모빌리티 자율주행, 태국·체코 교통차관도 탔다](https://n.news.naver.com/mnews/article/008/0005416273?sid=105) |
-| 20 Sep 2026 | 파이낸셜뉴스 | [제주도·도의회 첫 상설협의회… 예산·4·3·공공기관·G20 공동전선](https://n.news.naver.com/mnews/article/014/0005578340?sid=102) |
-| 20 Sep 2026 | 뉴시스 | ["美 기술주 흔들릴 수 있다"…골드만이 경고한 '실적 거품'](https://n.news.naver.com/mnews/article/003/0014202268?sid=104) |
-| 20 Sep 2026 | 아시아경제 | [[인터뷰]"美 공공 인프라사업, 예상 밖 비용 상승이 최대 변수…JV 협업...](https://n.news.naver.com/mnews/article/277/0005818857?sid=101) |
-| 20 Sep 2026 | 매일경제 | [“신규 회원 늘리려 개인정보 19만건 넘겼다”…진화하는 카드 모집 불...](https://n.news.naver.com/mnews/article/009/0005737768?sid=101) |
-| 20 Sep 2026 | 뉴시스 | [서울시 시립 문화시설, 주 5일 오후 9시까지 야간 개방](https://n.news.naver.com/mnews/article/003/0014202261?sid=102) |
+| 20 Sep 2026 | 한국경제 | ["북극권 활용 협력…한미일 이달 MOU"](https://n.news.naver.com/mnews/article/015/0005334376?sid=101) |
+| 20 Sep 2026 | 한국경제 | [커피 한잔 할래요? 가을날 50만명이 나눈 '감성 한 모금'](https://n.news.naver.com/mnews/article/015/0005334373?sid=103) |
+| 20 Sep 2026 | 머니투데이 | ['글로벌 큰손' 드러켄밀러 회장 방한, 두산 등과 회동 추진](https://n.news.naver.com/mnews/article/008/0005416358?sid=101) |
+| 20 Sep 2026 | 파이낸셜뉴스 | [美 채권금리 오르자 개미들 몰려 7~9월 순매수액, 상반기의 15배](https://n.news.naver.com/mnews/article/014/0005578504?sid=101) |
+| 20 Sep 2026 | 서울경제 | [고꾸라지고 커피 쏟아도…속으로 웃는 中 로봇산업](https://n.news.naver.com/mnews/article/011/0004663794?sid=104) |
+| 20 Sep 2026 | 이데일리 | [중기중앙회, 국회에 '협동조합 협의요청권' 건의](http://www.smedaily.co.kr/news/articleView.html?idxno=363522) |
+| 20 Sep 2026 | 서울경제 | [“적정환율 1300원대 초반…당분간 원화 강세가 유리”](https://n.news.naver.com/mnews/article/011/0004663792?sid=101) |
+| 20 Sep 2026 | 이데일리 | [중기부, 규제자유특구 후보과제 11개 공모](http://www.smedaily.co.kr/news/articleView.html?idxno=363521) |
 
 
 ---
