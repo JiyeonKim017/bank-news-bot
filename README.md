@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-09-19 09:06:55` (KST)
+> **업데이트:** `2026-09-20 02:45:20` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#김민석` `#지방` `#주도` `#성장엔` `#문화도독립영화가` `#기초`
+`#지역격차청년인구감소` `#해법` `#찾는다` `#사회적가치` `#페스타` `#나갈`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 19 Sep 2026 | 헤럴드경제 | [김민석 “지방 주도 성장엔 ‘지방 주도 문화’도…독립영화가 기초”...](https://n.news.naver.com/mnews/article/016/0002699699?sid=100) |
-| 19 Sep 2026 | 매일경제 | ['100억원대 사기 혐의' 제넨셀 창립자, 22일 경찰 소환](https://n.news.naver.com/mnews/article/057/0001969846?sid=102) |
-| 19 Sep 2026 | 뉴스1 | ["넌 피해자, 난 가해자"…보험금 노리고 허위사고 꾸민 동료들](https://n.news.naver.com/mnews/article/421/0009180439?sid=102) |
-| 19 Sep 2026 | 연합뉴스 | [김민석, 경기도 'DMZ다큐영화제' 축소에 "계약 파기…문제 있다"](https://n.news.naver.com/mnews/article/001/0016322456?sid=100) |
-| 19 Sep 2026 | 아시아경제 | [美 중간선거 앞두고 공화당 '트럼프 손절'…"도움안돼"](https://n.news.naver.com/mnews/article/277/0005818757?sid=104) |
-| 19 Sep 2026 | 이데일리 | [“월 700만원 받는데”…이창용 한은 고문, 자문 실적 '깜깜'](https://n.news.naver.com/mnews/article/018/0006372566?sid=101) |
-| 19 Sep 2026 | 뉴시스 | ["이번엔 제주 차례"…공공기관 6곳 범국민 유치전 나선다(종합)](https://n.news.naver.com/mnews/article/003/0014201542?sid=102) |
-| 19 Sep 2026 | 매일경제 | [“개인정보 유출 증거 없애면 최대 ‘매출 3%’ 과징금” [국회 방청석...](https://n.news.naver.com/mnews/article/024/0000108336?sid=102) |
-| 19 Sep 2026 | 연합뉴스 | [울산시의회, 日 니가타시의회와 친선결연…우호도시 20주년 결실](https://n.news.naver.com/mnews/article/001/0016322355?sid=100) |
-| 19 Sep 2026 | 뉴스1 | [사우디 수도, 첫 공습경보 발령…후티 공세 확대 후 처음](https://n.news.naver.com/mnews/article/421/0009180366?sid=104) |
-| 19 Sep 2026 | 한국경제 | [“인스타 팔로우만 해도 경품이 쏟아진다”…500명 몰린 잠실 이곳은 어...](https://n.news.naver.com/mnews/article/015/0005334151?sid=101) |
-| 19 Sep 2026 | 뉴시스 | ["공공기관은 제주로"…제주도, 2차 공공기관 이전 유치 총력전](https://n.news.naver.com/mnews/article/003/0014201424?sid=102) |
+| 20 Sep 2026 | 이데일리 | ["지역격차·청년·인구감소 해법 찾는다"…SOVAC, 사회적가치 페스타 참...](https://n.news.naver.com/mnews/article/018/0006372862?sid=101) |
+| 20 Sep 2026 | 뉴스1 | ["나갈 돈이 없네"…고물가에 지친 미국인들, 결국 '집콕·방콕'](https://n.news.naver.com/mnews/article/421/0009181070?sid=104) |
+| 20 Sep 2026 | 뉴스1 | [쿠팡, 인천 물류센터 화재지역에 45억 지원 "지역사회 회복 총력"](https://n.news.naver.com/mnews/article/421/0009181065?sid=101) |
+| 20 Sep 2026 | 이데일리 | [한미 대주주 갈등 파국…형사고발까지 번져](http://www.smedaily.co.kr/news/articleView.html?idxno=363510) |
+| 20 Sep 2026 | 한국경제 | [사람 없는 무대에 관객 몰렸다…AI 아이돌 첫 오프라인 공연 [차이나 워...](https://n.news.naver.com/mnews/article/015/0005334238?sid=101) |
+| 20 Sep 2026 | 파이낸셜뉴스 | ['5명째 낙마' 청와대 인사검증 논란 지속…정책실장 공석 장기화](https://n.news.naver.com/mnews/article/014/0005578342?sid=100) |
+| 20 Sep 2026 | 머니투데이 | [카카오모빌리티 자율주행, 태국·체코 교통차관도 탔다](https://n.news.naver.com/mnews/article/008/0005416273?sid=105) |
+| 20 Sep 2026 | 파이낸셜뉴스 | [제주도·도의회 첫 상설협의회… 예산·4·3·공공기관·G20 공동전선](https://n.news.naver.com/mnews/article/014/0005578340?sid=102) |
+| 20 Sep 2026 | 뉴시스 | ["美 기술주 흔들릴 수 있다"…골드만이 경고한 '실적 거품'](https://n.news.naver.com/mnews/article/003/0014202268?sid=104) |
+| 20 Sep 2026 | 아시아경제 | [[인터뷰]"美 공공 인프라사업, 예상 밖 비용 상승이 최대 변수…JV 협업...](https://n.news.naver.com/mnews/article/277/0005818857?sid=101) |
+| 20 Sep 2026 | 매일경제 | [“신규 회원 늘리려 개인정보 19만건 넘겼다”…진화하는 카드 모집 불...](https://n.news.naver.com/mnews/article/009/0005737768?sid=101) |
+| 20 Sep 2026 | 뉴시스 | [서울시 시립 문화시설, 주 5일 오후 9시까지 야간 개방](https://n.news.naver.com/mnews/article/003/0014202261?sid=102) |
 
 
 ---
