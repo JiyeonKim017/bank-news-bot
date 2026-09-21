@@ -1,33 +1,37 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-09-20 09:32:40` (KST)
+> **업데이트:** `2026-09-21 02:42:21` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#커피` `#북극권` `#활용` `#협력한미일` `#이달` `#한잔`
+`#건축` `#다루는` `#일왜` `#짓는가는` `#인간` `#헤럴드`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,385.00원 |
-| **코스피 지수** | 6,894.23 |
+| **USD/KRW 환율** | 1,384.48원 |
+| **코스피 지수** | 6,998.52 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 20 Sep 2026 | 한국경제 | ["북극권 활용 협력…한미일 이달 MOU"](https://n.news.naver.com/mnews/article/015/0005334376?sid=101) |
-| 20 Sep 2026 | 한국경제 | [커피 한잔 할래요? 가을날 50만명이 나눈 '감성 한 모금'](https://n.news.naver.com/mnews/article/015/0005334373?sid=103) |
-| 20 Sep 2026 | 머니투데이 | ['글로벌 큰손' 드러켄밀러 회장 방한, 두산 등과 회동 추진](https://n.news.naver.com/mnews/article/008/0005416358?sid=101) |
-| 20 Sep 2026 | 파이낸셜뉴스 | [美 채권금리 오르자 개미들 몰려 7~9월 순매수액, 상반기의 15배](https://n.news.naver.com/mnews/article/014/0005578504?sid=101) |
-| 20 Sep 2026 | 서울경제 | [고꾸라지고 커피 쏟아도…속으로 웃는 中 로봇산업](https://n.news.naver.com/mnews/article/011/0004663794?sid=104) |
-| 20 Sep 2026 | 이데일리 | [중기중앙회, 국회에 '협동조합 협의요청권' 건의](http://www.smedaily.co.kr/news/articleView.html?idxno=363522) |
-| 20 Sep 2026 | 서울경제 | [“적정환율 1300원대 초반…당분간 원화 강세가 유리”](https://n.news.naver.com/mnews/article/011/0004663792?sid=101) |
-| 20 Sep 2026 | 이데일리 | [중기부, 규제자유특구 후보과제 11개 공모](http://www.smedaily.co.kr/news/articleView.html?idxno=363521) |
+| 21 Sep 2026 | 헤럴드경제 | [“건축, 삶 다루는 일…‘왜 짓는가’는 ‘인간 몫’” [헤럴드 디자인...](https://n.news.naver.com/mnews/article/016/0002700278?sid=103) |
+| 21 Sep 2026 | 연합뉴스 | [메르츠, 식물총리 전락하나…극우정당 돌풍에 리더십 중태](https://n.news.naver.com/mnews/article/001/0016325923?sid=104) |
+| 21 Sep 2026 | 뉴스1 | [韓총리 "글로벌 AI허브, 선언 넘어 실행의 시간…최적 입지 선정"](https://n.news.naver.com/mnews/article/421/0009182977?sid=100) |
+| 21 Sep 2026 | 매일경제 | [아일릿, 일본 신곡 ‘Swingin’ Magic’ 발매…한국어 버전 동시 공개](https://m.entertain.naver.com/article/009/0005738229) |
+| 21 Sep 2026 | 헤럴드경제 | [“AI 시대, 경험의 가치 더 커져…디자인은 콘텐츠 만드는 작업” [헤럴...](https://n.news.naver.com/mnews/article/016/0002700276?sid=103) |
+| 21 Sep 2026 | 뉴시스 | [평택시, 베트남 다낭시와 '계절근로자 협약'](https://n.news.naver.com/mnews/article/003/0014204186?sid=102) |
+| 21 Sep 2026 | 연합뉴스 | [국힘, 김승원 낙마에도 "靑 책임" 대여 맹공…장기전 포석](https://n.news.naver.com/mnews/article/001/0016325919?sid=100) |
+| 21 Sep 2026 | 아시아경제 | [1기땐 3년 연속 UN총회서 韓대통령 만난 트럼프…이번엔?](https://n.news.naver.com/mnews/article/277/0005819251?sid=100) |
+| 21 Sep 2026 | 머니투데이 | ["'한국형 발사체' 누리호 국민 체감 가치는 연간 2조3000억원"](https://n.news.naver.com/mnews/article/008/0005416658?sid=105) |
+| 21 Sep 2026 | 매일경제 | [‘도깨비의세계’ 라이브 시연회 마무리…22일 캐릭터 선점 진행](https://n.news.naver.com/mnews/article/009/0005738224?sid=105) |
+| 21 Sep 2026 | 뉴시스 | [전북 부안, 1500억대 도시개발사업 탄력](https://n.news.naver.com/mnews/article/003/0014204161?sid=102) |
+| 21 Sep 2026 | 한국경제 | [경북 영천시, 하이테크파크지구 산업시설용지 분양](https://n.news.naver.com/mnews/article/015/0005334582?sid=101) |
 
 
 ---
