@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-09-26 09:39:03` (KST)
+> **업데이트:** `2026-09-27 02:56:35` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#장관` `#주식` `#건설적` `#전략안정관계` `#합의` `#포토장관급`
+`#작아서` `#좋긴` `#처음반값` `#입소문에` `#품절` `#대란`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 26 Sep 2026 | 이데일리 | [[포토]장관급 대화, '발언하는 윤호중 장관'](https://n.news.naver.com/mnews/article/018/0006375737?sid=100) |
-| 26 Sep 2026 | 이데일리 | [[포토]윤호중 장관, '유엔(UN) 사회연대경제 고위급 회의 참석'](https://n.news.naver.com/mnews/article/018/0006375736?sid=100) |
-| 26 Sep 2026 | 매일경제 | [미키광수 “여친 믿고 주식 투자 맡겼는데…3천만원→3백만원”](https://n.news.naver.com/mnews/article/009/0005740131?sid=102) |
-| 26 Sep 2026 | 아시아경제 | [中 "美와 '건설적 전략안정관계' 합의"](https://n.news.naver.com/mnews/article/277/0005821021?sid=104) |
-| 26 Sep 2026 | 매일경제 | [공급 절벽 놓고 대통령과 충돌한 오세훈, 서울시 간부들에게 권한 ‘필...](https://n.news.naver.com/mnews/article/009/0005740130?sid=101) |
-| 26 Sep 2026 | 연합뉴스 | [日언론 "中, 이란에 '美경제제재 동참 안해' 입장 전달"](https://n.news.naver.com/mnews/article/001/0016337260?sid=104) |
-| 26 Sep 2026 | 뉴스1 | ["시진핑, 美 국빈 방문 마치고 귀국…트럼프와 AI·무역 논의"](https://n.news.naver.com/mnews/article/421/0009192513?sid=104) |
-| 26 Sep 2026 | 헤럴드경제 | [“명절에 전화도 안 한 딸, 재산 못 줘”…아들만 15억 준 부모, 법원 “...](https://n.news.naver.com/mnews/article/016/0002702036?sid=102) |
-| 26 Sep 2026 | 연합뉴스 | [中 "미중, '존중·공정·대등' 기반 건설적 전략안정관계 합의"](https://n.news.naver.com/mnews/article/001/0016337257?sid=104) |
-| 26 Sep 2026 | 머니투데이 | [반도체 핵심 영업비밀 들고 이직한 50대…법원, 실형 선고](https://n.news.naver.com/mnews/article/008/0005418513?sid=102) |
-| 26 Sep 2026 | 머니투데이 | [권영찬 교수, '주식과 결혼의 공통점, 리마인드 주식 재테크' 강연 진행](https://n.news.naver.com/mnews/article/008/0005418512?sid=101) |
-| 26 Sep 2026 | 한국경제 | [이건희는 버텼고 키몬다는 망했다…성과급 논란에 던진 경고 [분석+]](https://n.news.naver.com/mnews/article/015/0005336165?sid=101) |
+| 27 Sep 2026 | 한국경제 | ["키 작아서 좋긴 처음"…반값 입소문에 '품절 대란' 벌어진 곳 [김기자의...](https://n.news.naver.com/mnews/article/015/0005336233?sid=103) |
+| 27 Sep 2026 | 뉴시스 | [연 178% 이자 받은 미등록 대부업자 2명 실형](https://n.news.naver.com/mnews/article/003/0014215343?sid=102) |
+| 27 Sep 2026 | 매일경제 | [지인 집 음식 훔치던 60대, 들키자 강도 돌변…징역 4년 선고](https://n.news.naver.com/mnews/article/057/0001970862?sid=102) |
+| 27 Sep 2026 | 연합뉴스 | [늦어지는 대미투자 발표…산업부 "미국 내부 절차 남아"](https://n.news.naver.com/mnews/article/001/0016338152?sid=101) |
+| 27 Sep 2026 | 뉴스1 | [추석 연휴 어디로 몰렸을까…작년 검색 1위는 '에버랜드'](https://n.news.naver.com/mnews/article/421/0009193199?sid=103) |
+| 27 Sep 2026 | 뉴시스 | [이천시, 18만㎡ 반도체 소부장 협력단지 조성한다](https://n.news.naver.com/mnews/article/003/0014215296?sid=102) |
+| 27 Sep 2026 | 머니투데이 | [최태원 상의 회장 "한-멕시코 강점 모아야"..비즈니스 포럼 개최](https://n.news.naver.com/mnews/article/008/0005418652?sid=101) |
+| 27 Sep 2026 | 이데일리 | [[부고]이은주(한국경제TV 아나운서)씨 부친상](https://n.news.naver.com/mnews/article/018/0006375864?sid=101) |
+| 27 Sep 2026 | 연합뉴스 | [전남광주 민심 "민생 팍팍"…통합갈등엔 "민 시장 제역할 해야"](https://n.news.naver.com/mnews/article/001/0016338144?sid=102) |
+| 27 Sep 2026 | 이데일리 | [꽁꽁 언 부동산 시장...내년에 더 힘들 경기도의 돌파구는](https://n.news.naver.com/mnews/article/018/0006375861?sid=100) |
+| 27 Sep 2026 | 뉴스1 | [우크라戰이 흔든 스위스 '중립국 지위'…27일 중립 강화 국민투표](https://n.news.naver.com/mnews/article/421/0009193174?sid=104) |
+| 27 Sep 2026 | 매일경제 | [구멍 뚫린 '산업기술 유출' 범죄…5년간 107건 적발](https://n.news.naver.com/mnews/article/057/0001970860?sid=100) |
 
 
 ---
