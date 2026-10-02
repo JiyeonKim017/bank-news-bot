@@ -1,37 +1,36 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-10-02 03:28:28` (KST)
+> **업데이트:** `2026-10-02 10:49:32` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#노인` `#피해` `#대통령` `#청년` `#어려움` `#이해하고`
+`#김민석` `#울산부산` `#시정` `#성공` `#지원` `#부산`
 
 ---
 
 ### 📈 주요 지표
 | 지표명 | 현재가 |
 | :--- | :---: |
-| **USD/KRW 환율** | 1,357.12원 |
-| **코스피 지수** | 6,996.14 |
+| **USD/KRW 환율** | 1,348.92원 |
+| **코스피 지수** | 7,003.74 |
 
 ---
 
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 02 Oct 2026 | 뉴시스 | [이 대통령 "청년 어려움 이해하고 노인 존중하는 성숙한 사회에 최선"(종...](https://n.news.naver.com/mnews/article/003/0014229926?sid=100) |
-| 02 Oct 2026 | 서울경제 | [LH 사장 “대출 더 줄여야”…내 집 마련 꿈 더 멀어지는 2030](https://n.news.naver.com/mnews/article/011/0004667688?sid=101) |
-| 02 Oct 2026 | 서울경제 | [대기업 됐어도 5년은 중견기업 대우…정부, 성장 기피 막는다](https://n.news.naver.com/mnews/article/011/0004667689?sid=101) |
-| 02 Oct 2026 | 뉴시스 | [국힘, CPTPP 대응전략 토론회…"정부, 농업에 입힐 피해 분명히 밝혀야...](https://n.news.naver.com/mnews/article/003/0014229922?sid=100) |
-| 02 Oct 2026 | 이데일리 | ["절제가 최우선" 중수청 본격 출범…'1호 사건' 노린 긴 줄도 이목](https://n.news.naver.com/mnews/article/018/0006379553?sid=102) |
-| 02 Oct 2026 | 조세일보 | ["30년 전 과세기준 재정비해야"…물가연동제 도입 촉구 결의안](https://n.news.naver.com/mnews/article/123/0002391234?sid=100) |
-| 02 Oct 2026 | 헤럴드경제 | [KB국민은행도 고객정보 유출…외부 침입에 100여건 피해](https://n.news.naver.com/mnews/article/016/0002704888?sid=101) |
-| 02 Oct 2026 | 연합뉴스 | [인권위원장 "노인 고정관념이 AI에 반영돼 차별 되풀이 우려"](https://n.news.naver.com/mnews/article/001/0016353327?sid=102) |
-| 02 Oct 2026 | 파이낸셜뉴스 | [조현 "외교성과 수사에 그치지 않아"..TF 설치해 관리중](https://n.news.naver.com/mnews/article/014/0005584266?sid=100) |
-| 02 Oct 2026 | 한국경제 | [이민법인 대양, 'Doing Business in the U.S.' 성료… 비자 전략 강조](https://n.news.naver.com/mnews/article/050/0000111553?sid=101) |
-| 02 Oct 2026 | 뉴스1 | [중수청·공소청 개청 첫날…"정치중립 굳건히" "인권옹호 기관으로"(종...](https://n.news.naver.com/mnews/article/421/0009206199?sid=102) |
-| 02 Oct 2026 | 연합뉴스 | [부산중수청 출범 첫날](https://n.news.naver.com/mnews/article/001/0016353305?sid=102) |
+| 02 Oct 2026 | 파이낸셜뉴스 | [김민석 "울산·부산 시정 성공 뒷받침"…민주당, PK 예산 지원 약속](https://n.news.naver.com/mnews/article/014/0005584465?sid=100) |
+| 02 Oct 2026 | 파이낸셜뉴스 | [美 엔저 압박에 日 "경제정책 한목소리 내겠다"](https://n.news.naver.com/mnews/article/014/0005584464?sid=104) |
+| 02 Oct 2026 | 매일경제 | [전통시장, 가을엔 夜해집니다…10월부터 서울 23곳서 축제 [슬기로운 소...](https://n.news.naver.com/mnews/article/009/0005743440?sid=101) |
+| 02 Oct 2026 | 뉴시스 | [김민석, 울산·부산 찾아 지원 약속…"민주당이 시정 성공 뒷받침"(종합...](https://n.news.naver.com/mnews/article/003/0014231088?sid=100) |
+| 02 Oct 2026 | 연합뉴스 | [러, 유럽에 '핵무기 카드' 꺼내며 발끈하는 칼리닌그라드는](https://n.news.naver.com/mnews/article/001/0016354762?sid=104) |
+| 02 Oct 2026 | 연합뉴스 | [보수정책모임 '더좋은대한민국포럼' 출범…김문수·오세훈 참석(종합)](https://n.news.naver.com/mnews/article/001/0016354759?sid=100) |
+| 02 Oct 2026 | 뉴시스 | [전재수 "해양수도 도약 지원해달라"…민주당 지도부 부산 총출동](https://n.news.naver.com/mnews/article/003/0014231080?sid=102) |
+| 02 Oct 2026 | 이데일리 | [[단독] 오스트리아서 들여온 150억 레일밀링차…2년 넘게 방치](https://www.redaily.co.kr/news/articleView.html?idxno=17706) |
+| 02 Oct 2026 | 헤럴드경제 | [[인터뷰]“로봇도 가족처럼…정서적 유대감 주는 ‘AI홈’ 만들 것”[중...](https://n.news.naver.com/mnews/article/016/0002705049?sid=101) |
+| 02 Oct 2026 | 아시아경제 | [의정부시, 민선 9기 첫 조직개편 인사 단행…‘시민 중심·민생·재정혁...](https://n.news.naver.com/mnews/article/277/0005824296?sid=102) |
+| 02 Oct 2026 | 뉴스1 | [김민석, 부산 예정협서 "노무현·문재인 배출한 정통성 성지"(종합)](https://n.news.naver.com/mnews/article/421/0009207451?sid=100) |
 
 
 ---
