@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-10-25 02:37:48` (KST)
+> **업데이트:** `2026-10-25 09:31:04` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#월급` `#받아도` `#빠듯하다대가` `#가장` `#힘든` `#이유`
+`#대통령` `#씨엔티테크` `#해양수산` `#액셀러레이팅` `#프로그램` `#유니콘베이`
 
 ---
 
@@ -20,18 +20,18 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 25 Oct 2026 | 한국경제 | [“월급 받아도 빠듯하다”…40대가 가장 힘든 이유](https://n.news.naver.com/mnews/article/015/0005346156?sid=101) |
-| 25 Oct 2026 | 연합뉴스 | [오바마 "유례없는 무능"·트럼프 "유세장 텅 비어"…맞불 유세(종합)](https://n.news.naver.com/mnews/article/001/0016398775?sid=104) |
-| 25 Oct 2026 | 서울경제 | [정용진 복귀에 이마트 시프트 빨라진다…스타벅스 매각하나[시그널]](https://n.news.naver.com/mnews/article/011/0004674833?sid=101) |
-| 25 Oct 2026 | 아시아경제 | [사천시, 2028년 경남도민체전 준비 본격화… 전담 TF팀 구성](https://n.news.naver.com/mnews/article/277/0005833053?sid=102) |
-| 25 Oct 2026 | 뉴시스 | [광명시장, 시민 대상 '공감 콘서트'…시정 구상 의견 나눠](https://n.news.naver.com/mnews/article/003/0014276341?sid=102) |
-| 25 Oct 2026 | 뉴스1 | ['서해의 독도' 격렬비열도서 첫 콘서트…김장훈 특별 공연](https://n.news.naver.com/mnews/article/421/0009248187?sid=102) |
-| 25 Oct 2026 | 파이낸셜뉴스 | ["84초 만에 2천만원 날려" 해커에 당한 日기업, 정부에 SOS](https://n.news.naver.com/mnews/article/014/0005593914?sid=104) |
-| 25 Oct 2026 | 매일경제 | [“이제 한국도 산유국되나요?”…대나무 끓였더니 석유가 나왔다는데](https://n.news.naver.com/mnews/article/009/0005753516?sid=105) |
-| 25 Oct 2026 | 이데일리 | [외국인 입장료 인상 '역풍'…美 국립공원 여행업계 울상](https://n.news.naver.com/mnews/article/018/0006395696?sid=103) |
-| 25 Oct 2026 | 뉴스1 | [경제학자 94% “美 연준, 10월 동결 후 12월 금리 인상”-로이터 설문](https://n.news.naver.com/mnews/article/421/0009248180?sid=104) |
-| 25 Oct 2026 | 연합뉴스 | ["보상은커녕 역차별"…'인구감소지역' 제외에 뿔난 인제군민들](https://n.news.naver.com/mnews/article/001/0016398750?sid=102) |
-| 25 Oct 2026 | 이데일리 | [상조·여행 납입금 빼돌림 막는다…서울시, 위반업체 8곳 적발](https://n.news.naver.com/mnews/article/018/0006395695?sid=100) |
+| 25 Oct 2026 | 한국경제 | [[씨엔티테크 2026 해양수산 액셀러레이팅 프로그램 유니콘베이] 대한민...](https://magazine.hankyung.com/job-joy/article/202610253654d) |
+| 25 Oct 2026 | 매일경제 | [이 대통령 “밀물 들어오면 모든 배 뜬다…성장 과실, 국민 삶 바꿔야”](https://n.news.naver.com/mnews/article/009/0005753717?sid=101) |
+| 25 Oct 2026 | 파이낸셜뉴스 | [보폭 넓히는 '무죄' 오세훈… 주택공급·G3 서울플랜 등 속도](https://n.news.naver.com/mnews/article/014/0005594065?sid=102) |
+| 25 Oct 2026 | 한국경제 | [[씨엔티테크 2026 해양수산 액셀러레이팅 프로그램 유니콘베이] 조미김...](https://magazine.hankyung.com/job-joy/article/202610253649d) |
+| 25 Oct 2026 | 서울경제 | [경남도, 투자유치자문위 3기 출범…전문가 29명 참여](https://n.news.naver.com/mnews/article/011/0004674943?sid=102) |
+| 25 Oct 2026 | 서울경제 | [AI가 바꾸는 금융의 미래…‘서울 핀테크 위크’ 26일 개막](https://n.news.naver.com/mnews/article/011/0004674942?sid=102) |
+| 25 Oct 2026 | 헤럴드경제 | [[인터뷰] 정승문 보건복지부공무원노동조합 위원장](https://n.news.naver.com/mnews/article/016/0002714024?sid=102) |
+| 25 Oct 2026 | 파이낸셜뉴스 | [靑,'가상자산 소득 과세' 이번에도 미루나](https://n.news.naver.com/mnews/article/014/0005594046?sid=101) |
+| 25 Oct 2026 | 연합뉴스 | [李대통령, 대규모 경상수지 흑자에 "韓 이제 세계경제 선도국가"](https://n.news.naver.com/mnews/article/001/0016399304?sid=100) |
+| 25 Oct 2026 | 헤럴드경제 | [‘수수료 없으면 +5%, 있으면 -60%’…초파리 코인 매매 한 달 성적표 [...](https://n.news.naver.com/mnews/article/016/0002714023?sid=101) |
+| 25 Oct 2026 | 이데일리 | [취임 첫날 약속부터 SNS 메시지까지…'이재명 대통령 연설문집' 발간](https://n.news.naver.com/mnews/article/018/0006395930?sid=103) |
+| 25 Oct 2026 | 이데일리 | [美중간선거 판 흔드는 ‘부패’…물가 누르고 유권자 최대 관심사](https://n.news.naver.com/mnews/article/018/0006395929?sid=104) |
 
 
 ---
