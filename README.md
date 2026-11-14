@@ -1,11 +1,11 @@
 # 🏦 실시간 경제 종합 브리핑 (14개 매체 균형)
 
-> **업데이트:** `2026-11-14 04:25:17` (KST)
+> **업데이트:** `2026-11-14 11:53:01` (KST)
 
 ---
 
 ### 🔥 오늘의 키워드
-`#조현` `#외교부` `#장관` `#왕이` `#한반도` `#트럼프`
+`#만에` `#정상회담` `#앞두고` `#무역위원회` `#회의관세` `#인하농산물`
 
 ---
 
@@ -20,18 +20,13 @@
 ### 📰 실시간 주요 뉴스 (매체별 균형 선별)
 | 날짜 | 언론사 | 뉴스 헤드라인 |
 | :--- | :--- | :--- |
-| 14 Nov 2026 | 뉴시스 | ["어디 갈지 정하면 독단적, 물어보면 우유부단?"…남성들 혼란 키우는 ...](https://n.news.naver.com/mnews/article/003/0014322023?sid=102) |
-| 14 Nov 2026 | 매일경제 | [조현 외교부 장관 “왕이 ‘한반도 평화 中국익 부합’에 동의”](https://n.news.naver.com/mnews/article/009/0005763637?sid=104) |
-| 14 Nov 2026 | 서울경제 | [미인계로 황 속이더니 韓엔 첨단 칩 팔라는 中 [트럼프 스톡커]](https://n.news.naver.com/mnews/article/011/0004682171?sid=104) |
-| 14 Nov 2026 | 연합뉴스 | [日, AI로 복제한 유명인 목소리·사진 무단 상업이용 규제 추진](https://n.news.naver.com/mnews/article/001/0016441771?sid=104) |
-| 14 Nov 2026 | 파이낸셜뉴스 | ["트럼프, 11월 아시아 순방서 김정은 만남 일정 없어"](https://n.news.naver.com/mnews/article/014/0005604214?sid=104) |
-| 14 Nov 2026 | 매일경제 | [‘AI 안경 의혹’ 세무사 수석 “고득점이 의심받을 일인가…찍는 것도...](https://n.news.naver.com/mnews/article/009/0005763634?sid=102) |
-| 14 Nov 2026 | 서울경제 | [좋은 AI 답변의 출발은 콘텐츠…“창작자 보상 강화해야”](https://n.news.naver.com/mnews/article/011/0004682169?sid=105) |
-| 14 Nov 2026 | 뉴시스 | [암모니아선 건조부터 -253℃ 운송까지…K조선, '수소 바닷길' 연다 [K수...](https://n.news.naver.com/mnews/article/003/0014322013?sid=101) |
-| 14 Nov 2026 | 연합뉴스 | [외교당국자 "中왕이, 한국 측에 김정은·김성남 방중 설명"](https://n.news.naver.com/mnews/article/001/0016441766?sid=104) |
-| 14 Nov 2026 | 한국경제 | [외교부 고위당국자 "왕이로부터 北 김정은·김성남 방중 설명 들어"](https://n.news.naver.com/mnews/article/015/0005353815?sid=104) |
-| 14 Nov 2026 | 뉴스1 | [이철우 "오늘날 대한민국은 박정희 공로…탄신일 국가기념일로 지정해...](https://n.news.naver.com/mnews/article/421/0009288913?sid=102) |
-| 14 Nov 2026 | 이데일리 | [조현 장관 “북·미 대화 가능성, 중측과 한반도 문제 의견 나눠”](https://n.news.naver.com/mnews/article/018/0006409824?sid=104) |
+| 14 Nov 2026 | 뉴스1 | [美中, 정상회담 앞두고 첫 무역위원회 회의…관세 인하·농산물 교역 논...](https://n.news.naver.com/mnews/article/421/0009289219?sid=104) |
+| 14 Nov 2026 | 서울경제 | [‘전 세계 행정·금융·항공 차질’…MS 서비스, 36시간 만에 정상화](https://n.news.naver.com/mnews/article/011/0004682203?sid=104) |
+| 14 Nov 2026 | 이데일리 | [알래스카 28년 만에 민주 주지사, 韓 LNG 변수](http://www.smedaily.co.kr/news/articleView.html?idxno=366152) |
+| 14 Nov 2026 | 뉴스1 | ["러, 종전협상서 동유럽 나토 전력 철수 다시 요구"…강경론 회귀](https://n.news.naver.com/mnews/article/421/0009289215?sid=104) |
+| 14 Nov 2026 | 한국경제 | ["안 당해보면 모른다"…105억 못 받은 이승기 '분노 폭발'](https://n.news.naver.com/mnews/article/015/0005353854?sid=101) |
+| 14 Nov 2026 | 연합뉴스 | [[부고] 임동진(한국경제TV 기자)씨 외조모상](https://n.news.naver.com/mnews/article/001/0016441947?sid=102) |
+| 14 Nov 2026 | 연합뉴스 | [MS 장애에 유럽 화들짝…"미 기술로부터 디톡스 필요"](https://n.news.naver.com/mnews/article/001/0016441946?sid=104) |
 
 
 ---
